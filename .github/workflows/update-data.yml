@@ -1,0 +1,64 @@
+name: Daily Data Update
+
+on:
+  schedule:
+    - cron: '0 14 * * *'   # 22:00 CST（UTC+8 = UTC 14:00）
+  workflow_dispatch:         # 支持手动触发
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      # 清除每日需要刷新的缓存
+      # 保留 user_profiles.json（采集耗时，变化慢）
+      # 保留 issues/（issue 变化慢，避免大量请求）
+      - name: Clear stale caches
+        run: |
+          rm -f data/repos.json
+          rm -f data/org_timeline.json
+          rm -f data/weekly_activity.json
+          rm -rf data/stars/
+          rm -rf data/mrs/
+
+      - name: Collect repos
+        run: python collector.py repos
+
+      - name: Collect stars
+        run: python collector.py stars
+
+      - name: Collect new user profiles
+        run: python collector.py users
+
+      - name: Collect MR details
+        run: python collector.py mrs
+
+      - name: Collect activity authors
+        run: python collector.py activities
+
+      - name: Reclassify users
+        run: python collector.py reclassify
+
+      - name: Generate overview timeline
+        run: python collector.py overview
+
+      - name: Generate weekly activity
+        run: python collector.py weekly
+
+      - name: Commit and push updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --staged --quiet && echo "No changes" || (
+            git commit -m "chore: 自动更新数据 $(date -u '+%Y-%m-%d')"
+            git push
+          )
