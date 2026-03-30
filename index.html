@@ -5,7 +5,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>CANN GitCode 数据分析</title>
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⭐</text></svg>">
-  <script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
   <style>
     /* ── CSS 变量（dark 为默认） ───────────────────────────── */
     :root {
@@ -316,6 +315,7 @@
   </div>
 </div>
 
+<script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
 <script>
 const COLORS = {
   contributor:    '#5b8def',
@@ -384,24 +384,25 @@ document.querySelectorAll('.tab').forEach(tab => {
 let repoTypeChart, repoTypeTimelineChart;
 
 async function main() {
-  const [repos, allUsers, profiles, orgTimeline, weeklyData, mrSummary] = await Promise.all([
+  const [repos, usersSlim, orgTimeline, weeklyData, mrSummary] = await Promise.all([
     loadJSON('data/repos.json'),
-    loadJSON('data/all_star_users.json'),
-    loadJSON('data/user_profiles.json'),
+    loadJSON('data/users_slim.json'),
     loadJSON('data/org_timeline.json'),
     loadJSON('data/weekly_activity.json').catch(() => null),
     loadJSON('data/mr_summary.json').catch(() => null),
   ]);
 
+  // users_slim 同时承担 allUsers 和 profiles 两个角色
+  const allUsers = usersSlim;
+  const profiles = usersSlim.filter(u => u.user_type);
+
   // 建立 user_name → profile 映射
   const profileMap = {};
-  profiles.forEach(p => profileMap[p.user_name] = p);
+  usersSlim.forEach(u => { if (u.user_type) profileMap[u.user_name] = u; });
 
-  // 建立 repo path → star 用户列表（含 star 时间）映射
-  // all_star_users 只有 starred_repos，时间在 data/stars/{repo}.json 里
-  // 这里我们直接用 all_star_users 结构，时间暂缺（需单独加载）
+  // 建立 repo path → star 用户列表映射
   const repoUserMap = {};
-  allUsers.forEach(u => {
+  usersSlim.forEach(u => {
     u.starred_repos.forEach(rpath => {
       if (!repoUserMap[rpath]) repoUserMap[rpath] = [];
       repoUserMap[rpath].push(u);
@@ -998,8 +999,10 @@ async function main() {
       ],
     });
 
+    // Issue + MR 并行加载
+    const [issues, mrs] = await Promise.all([loadRepoIssues(repoPath), loadRepoMrs(repoPath)]);
+
     // Issue 分析
-    const issues = await loadRepoIssues(repoPath);
     {
       const closed   = issues.filter(i => i.state === 'closed' && i.closed_at);
       const opened   = issues.length;
@@ -1080,7 +1083,6 @@ async function main() {
     }
 
     // MR 分析
-    const mrs = await loadRepoMrs(repoPath);
     {
       const merged  = mrs.filter(m => m.state === 'merged' && m.merged_at);
       const opened  = mrs.filter(m => m.state === 'opened').length;

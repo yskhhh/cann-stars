@@ -68,6 +68,9 @@ jobs:
       - name: Generate overview timeline
         run: python collector.py overview
 
+      - name: Generate slim user data
+        run: python collector.py users-slim
+
       - name: Generate MR summary
         run: python collector.py mr-summary
 

@@ -768,6 +768,41 @@ def generate_overview_data():
     return result
 
 
+# ─── 步骤 4b：生成前端精简用户文件 ───────────────────────────────────────────
+
+def generate_users_slim():
+    """
+    合并 user_profiles.json 和 all_star_users.json，只保留前端实际使用的字段，
+    输出 data/users_slim.json，减少前端传输体积。
+    """
+    print("\n=== 生成前端精简用户数据 ===")
+
+    profiles  = load_json(DATA_DIR / "user_profiles.json") or []
+    all_users = load_json(DATA_DIR / "all_star_users.json") or []
+
+    profile_map = {p["user_name"]: p for p in profiles}
+
+    result = []
+    for u in all_users:
+        name = u["user_name"]
+        p    = profile_map.get(name, {})
+        result.append({
+            "user_name":           name,
+            "nick_name":           u.get("nick_name", ""),
+            "starred_repos":       u.get("starred_repos", []),
+            "user_type":           p.get("user_type", ""),
+            "fans_count":          p.get("fans_count"),
+            "original_repo_count": p.get("original_repo_count"),
+            "total_contributions": p.get("total_contributions"),
+        })
+
+    save_json(DATA_DIR / "users_slim.json", result)
+    orig  = (DATA_DIR / "user_profiles.json").stat().st_size + (DATA_DIR / "all_star_users.json").stat().st_size
+    slim  = (DATA_DIR / "users_slim.json").stat().st_size
+    print(f"  ✓ {len(result)} 位用户，{slim//1024}KB（原两文件合计 {orig//1024}KB），已保存到 data/users_slim.json")
+    return result
+
+
 # ─── 步骤 4：生成报告 ─────────────────────────────────────────────────────────
 
 def generate_report():
@@ -900,6 +935,8 @@ def main():
         collect_issues()
     elif cmd == "mrs":
         collect_mrs()
+    elif cmd == "users-slim":
+        generate_users_slim()
     elif cmd == "mr-summary":
         generate_mr_summary()
     elif cmd == "weekly":
@@ -917,6 +954,7 @@ def main():
         collect_mrs()
         reclassify_users()
         generate_overview_data()
+        generate_users_slim()
         generate_mr_summary()
         generate_weekly_activity()
         generate_report()
