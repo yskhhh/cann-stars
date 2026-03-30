@@ -610,6 +610,53 @@ def collect_mrs():
 
 # ─── 步骤 6：生成周粒度活跃度数据 ─────────────────────────────────────────────
 
+def generate_issue_summary():
+    """
+    基于 data/issues/ 中的数据，按仓库统计平均 Issue 解决天数。
+    结果保存到 data/issue_summary.json，供前端图表使用。
+    """
+    print("\n=== 生成 Issue 解决时间汇总 ===")
+
+    issues_dir = DATA_DIR / "issues"
+    if not issues_dir.exists():
+        print("  缺少 data/issues/ 目录，请先运行 python collector.py issues")
+        return
+
+    repos_data = []
+    for f in sorted(issues_dir.glob("*.json")):
+        repo_path = f.stem.replace("__", "/", 1)
+        issues = load_json(f) or []
+        closed = [i for i in issues if i.get("state") == "closed"
+                  and i.get("closed_at") and i.get("created_at")]
+        opened = sum(1 for i in issues if i.get("state") == "opened")
+        if len(closed) < 5:
+            continue
+        days_list = []
+        for i in closed:
+            try:
+                d = (datetime.fromisoformat(i["closed_at"]) -
+                     datetime.fromisoformat(i["created_at"])).days
+                if d >= 0:
+                    days_list.append(d)
+            except (ValueError, TypeError):
+                continue
+        if not days_list:
+            continue
+        repos_data.append({
+            "name":     repo_path.split("/")[1],
+            "path":     repo_path,
+            "avg_days": round(sum(days_list) / len(days_list), 1),
+            "closed":   len(closed),
+            "opened":   opened,
+        })
+
+    repos_data.sort(key=lambda x: x["avg_days"])
+    result = {"repos": repos_data, "generated_at": datetime.now().strftime("%Y-%m-%d")}
+    save_json(DATA_DIR / "issue_summary.json", result)
+    print(f"  ✓ 共 {len(repos_data)} 个仓库，已保存到 data/issue_summary.json")
+    return result
+
+
 def generate_mr_summary():
     """
     基于 data/mrs/ 中的数据，按仓库统计 merged / open MR 数量（忽略 closed）。
@@ -935,6 +982,8 @@ def main():
         collect_issues()
     elif cmd == "mrs":
         collect_mrs()
+    elif cmd == "issue-summary":
+        generate_issue_summary()
     elif cmd == "users-slim":
         generate_users_slim()
     elif cmd == "mr-summary":
@@ -955,6 +1004,7 @@ def main():
         reclassify_users()
         generate_overview_data()
         generate_users_slim()
+        generate_issue_summary()
         generate_mr_summary()
         generate_weekly_activity()
         generate_report()

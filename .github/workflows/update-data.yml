@@ -71,6 +71,9 @@ jobs:
       - name: Generate slim user data
         run: python collector.py users-slim
 
+      - name: Generate issue summary
+        run: python collector.py issue-summary
+
       - name: Generate MR summary
         run: python collector.py mr-summary
 

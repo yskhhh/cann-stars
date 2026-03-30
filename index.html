@@ -228,6 +228,10 @@
       <h2>各仓库 MR 总数 Top 20 <span style="font-size:11px;font-weight:400;color:#555;margin-left:6px">按 MR 总数排序</span></h2>
       <div class="chart" id="chart-mr-total" style="height:440px"></div>
     </div>
+    <div class="chart-box chart-wide">
+      <h2>各仓库 Issue 平均解决时长 <span style="font-size:11px;font-weight:400;color:#555;margin-left:6px">仅含已关闭 Issue ≥ 5 的仓库，按解决时长升序</span></h2>
+      <div class="chart" id="chart-issue-resolve" style="height:500px"></div>
+    </div>
   </div>
   <p class="note" id="note"></p>
 </div>
@@ -384,12 +388,13 @@ document.querySelectorAll('.tab').forEach(tab => {
 let repoTypeChart, repoTypeTimelineChart;
 
 async function main() {
-  const [repos, usersSlim, orgTimeline, weeklyData, mrSummary] = await Promise.all([
+  const [repos, usersSlim, orgTimeline, weeklyData, mrSummary, issueSummary] = await Promise.all([
     loadJSON('data/repos.json'),
     loadJSON('data/users_slim.json'),
     loadJSON('data/org_timeline.json'),
     loadJSON('data/weekly_activity.json').catch(() => null),
     loadJSON('data/mr_summary.json').catch(() => null),
+    loadJSON('data/issue_summary.json').catch(() => null),
   ]);
 
   // users_slim 同时承担 allUsers 和 profiles 两个角色
@@ -588,6 +593,42 @@ async function main() {
             data: top20mr.map(r => r.open),
           },
         ],
+      });
+      window.addEventListener('resize', () => chart.resize());
+    }
+  }
+
+  // 图5：各仓库 Issue 平均解决时长
+  {
+    if (issueSummary && issueSummary.repos && issueSummary.repos.length > 0) {
+      const reposSorted = [...issueSummary.repos].reverse(); // 升序已排好，reverse 后底部最快
+      const chart = makeChart('chart-issue-resolve');
+      chart.setOption({
+        tooltip: {
+          trigger: 'axis', axisPointer: { type: 'shadow' },
+          formatter: params => {
+            const p   = params[0];
+            const row = issueSummary.repos.find(r => r.name === p.axisValue);
+            return `<b>${p.axisValue}</b><br/>`
+              + `${p.marker}平均解决：${p.value} 天<br/>`
+              + `已关闭：${row?.closed ?? '-'}　开放中：${row?.opened ?? '-'}`;
+          },
+        },
+        grid: { left: 10, right: 60, top: 10, bottom: 10, containLabel: true },
+        xAxis: { type: 'value', axisLabel: { color: t('#aaa','#666'), formatter: '{value} 天' } },
+        yAxis: { type: 'category', data: reposSorted.map(r => r.name), axisLabel: { color: t('#aaa','#666'), fontSize: 11, interval: 0 } },
+        series: [{
+          type: 'bar',
+          itemStyle: { color: params => {
+            const ratio = params.dataIndex / (reposSorted.length - 1); // 0=底部(慢)→红, 1=顶部(快)→绿
+            const r = Math.round(245 - (245 - 82)  * ratio);
+            const g = Math.round(34  + (196 - 34)  * ratio);
+            const b = Math.round(45  + (26  - 45)  * ratio);
+            return `rgb(${r},${g},${b})`;
+          } },
+          label: { show: true, position: 'right', color: t('#aaa','#555'), formatter: p => `${p.value} 天` },
+          data: reposSorted.map(r => r.avg_days),
+        }],
       });
       window.addEventListener('resize', () => chart.resize());
     }
