@@ -1,9 +1,25 @@
 [
   {
-    "iid": 408,
+    "iid": 412,
     "state": "opened",
-    "created_at": "2026-04-01",
+    "created_at": "2026-04-02",
     "merged_at": "",
+    "closed_at": "",
+    "author": "cui_jiahao"
+  },
+  {
+    "iid": 411,
+    "state": "merged",
+    "created_at": "2026-04-02",
+    "merged_at": "2026-04-02",
+    "closed_at": "",
+    "author": "yanyefeng"
+  },
+  {
+    "iid": 408,
+    "state": "merged",
+    "created_at": "2026-04-01",
+    "merged_at": "2026-04-02",
     "closed_at": "",
     "author": "jiang-lirui"
   },
@@ -41,9 +57,9 @@
   },
   {
     "iid": 403,
-    "state": "opened",
+    "state": "merged",
     "created_at": "2026-03-31",
-    "merged_at": "",
+    "merged_at": "2026-04-02",
     "closed_at": "",
     "author": "jon_jin"
   },
