@@ -4,15 +4,15 @@
       "name": "ops-transformer",
       "path": "cann/ops-transformer",
       "merged": 2477,
-      "open": 223,
-      "total": 2700
+      "open": 224,
+      "total": 2701
     },
     {
       "name": "ops-nn",
       "path": "cann/ops-nn",
       "merged": 2288,
-      "open": 294,
-      "total": 2582
+      "open": 295,
+      "total": 2583
     },
     {
       "name": "pypto",
@@ -39,8 +39,8 @@
       "name": "ge",
       "path": "cann/ge",
       "merged": 1007,
-      "open": 160,
-      "total": 1167
+      "open": 162,
+      "total": 1169
     },
     {
       "name": "hcomm",
@@ -60,8 +60,8 @@
       "name": "asc-devkit",
       "path": "cann/asc-devkit",
       "merged": 952,
-      "open": 111,
-      "total": 1063
+      "open": 112,
+      "total": 1064
     },
     {
       "name": "pto-isa",
@@ -95,8 +95,8 @@
       "name": "community",
       "path": "cann/community",
       "merged": 319,
-      "open": 23,
-      "total": 342
+      "open": 24,
+      "total": 343
     },
     {
       "name": "hixl",
@@ -211,18 +211,18 @@
       "total": 45
     },
     {
+      "name": "cann-recipes-embodied-intelligence",
+      "path": "cann/cann-recipes-embodied-intelligence",
+      "merged": 38,
+      "open": 3,
+      "total": 41
+    },
+    {
       "name": "sip",
       "path": "cann/sip",
       "merged": 36,
       "open": 5,
       "total": 41
-    },
-    {
-      "name": "cann-recipes-embodied-intelligence",
-      "path": "cann/cann-recipes-embodied-intelligence",
-      "merged": 38,
-      "open": 2,
-      "total": 40
     },
     {
       "name": "driver",
@@ -331,5 +331,5 @@
     }
   ],
   "unique_authors": 2028,
-  "generated_at": "2026-04-03"
+  "generated_at": "2026-04-04"
 }
