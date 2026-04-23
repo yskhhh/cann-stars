@@ -1,9 +1,33 @@
 [
   {
-    "iid": 63,
+    "iid": 66,
     "state": "opened",
-    "created_at": "2026-04-22",
+    "created_at": "2026-04-23",
     "merged_at": "",
+    "closed_at": "",
+    "author": "demoauguste"
+  },
+  {
+    "iid": 65,
+    "state": "opened",
+    "created_at": "2026-04-23",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "demoauguste"
+  },
+  {
+    "iid": 64,
+    "state": "closed",
+    "created_at": "2026-04-23",
+    "merged_at": "",
+    "closed_at": "2026-04-23",
+    "author": "demoauguste"
+  },
+  {
+    "iid": 63,
+    "state": "merged",
+    "created_at": "2026-04-22",
+    "merged_at": "2026-04-23",
     "closed_at": "",
     "author": "demoauguste"
   },
@@ -65,9 +89,9 @@
   },
   {
     "iid": 55,
-    "state": "opened",
+    "state": "merged",
     "created_at": "2026-04-14",
-    "merged_at": "",
+    "merged_at": "2026-04-23",
     "closed_at": "",
     "author": "fengying555682"
   },
