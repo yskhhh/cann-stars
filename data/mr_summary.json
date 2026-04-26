@@ -4,29 +4,29 @@
       "name": "ops-transformer",
       "path": "cann/ops-transformer",
       "merged": 3012,
-      "open": 280,
-      "total": 3292
+      "open": 286,
+      "total": 3298
     },
     {
       "name": "ops-nn",
       "path": "cann/ops-nn",
       "merged": 2705,
-      "open": 298,
-      "total": 3003
+      "open": 301,
+      "total": 3006
     },
     {
       "name": "pypto",
       "path": "cann/pypto",
-      "merged": 1701,
-      "open": 397,
-      "total": 2098
+      "merged": 1702,
+      "open": 398,
+      "total": 2100
     },
     {
       "name": "ops-math",
       "path": "cann/ops-math",
       "merged": 1500,
-      "open": 246,
-      "total": 1746
+      "open": 249,
+      "total": 1749
     },
     {
       "name": "ascend-transformer-boost",
@@ -39,22 +39,22 @@
       "name": "ge",
       "path": "cann/ge",
       "merged": 1237,
-      "open": 218,
-      "total": 1455
+      "open": 219,
+      "total": 1456
     },
     {
       "name": "hcomm",
       "path": "cann/hcomm",
       "merged": 1212,
-      "open": 208,
-      "total": 1420
+      "open": 213,
+      "total": 1425
     },
     {
       "name": "runtime",
       "path": "cann/runtime",
       "merged": 1208,
-      "open": 158,
-      "total": 1366
+      "open": 160,
+      "total": 1368
     },
     {
       "name": "asc-devkit",
@@ -80,16 +80,16 @@
     {
       "name": "hccl",
       "path": "cann/hccl",
-      "merged": 372,
-      "open": 121,
-      "total": 493
+      "merged": 374,
+      "open": 122,
+      "total": 496
     },
     {
       "name": "community",
       "path": "cann/community",
       "merged": 378,
-      "open": 11,
-      "total": 389
+      "open": 12,
+      "total": 390
     },
     {
       "name": "catlass",
@@ -108,23 +108,23 @@
     {
       "name": "cann-recipes-infer",
       "path": "cann/cann-recipes-infer",
-      "merged": 222,
-      "open": 30,
+      "merged": 223,
+      "open": 29,
       "total": 252
     },
     {
       "name": "opbase",
       "path": "cann/opbase",
       "merged": 232,
-      "open": 19,
-      "total": 251
+      "open": 20,
+      "total": 252
     },
     {
       "name": "graph-autofusion",
       "path": "cann/graph-autofusion",
       "merged": 227,
-      "open": 21,
-      "total": 248
+      "open": 22,
+      "total": 249
     },
     {
       "name": "shmem",
@@ -408,5 +408,5 @@
     }
   ],
   "unique_authors": 2169,
-  "generated_at": "2026-04-25"
+  "generated_at": "2026-04-26"
 }
