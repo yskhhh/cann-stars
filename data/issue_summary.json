@@ -26,7 +26,7 @@
       "path": "cann/ops-cv",
       "avg_days": 3.6,
       "closed": 334,
-      "opened": 15
+      "opened": 16
     },
     {
       "name": "cannbot-skills",
@@ -38,44 +38,44 @@
     {
       "name": "asc-tools",
       "path": "cann/asc-tools",
-      "avg_days": 5.1,
-      "closed": 30,
+      "avg_days": 4.9,
+      "closed": 31,
       "opened": 5
     },
     {
       "name": "cann-samples",
       "path": "cann/cann-samples",
-      "avg_days": 5.1,
-      "closed": 121,
-      "opened": 19
+      "avg_days": 5.3,
+      "closed": 123,
+      "opened": 18
     },
     {
       "name": "runtime",
       "path": "cann/runtime",
       "avg_days": 5.4,
       "closed": 400,
-      "opened": 32
+      "opened": 33
     },
     {
       "name": "ops-transformer",
       "path": "cann/ops-transformer",
       "avg_days": 5.5,
       "closed": 2011,
-      "opened": 125
+      "opened": 126
     },
     {
       "name": "ops-nn",
       "path": "cann/ops-nn",
       "avg_days": 5.9,
       "closed": 2243,
-      "opened": 155
+      "opened": 157
     },
     {
       "name": "pto-isa",
       "path": "cann/pto-isa",
       "avg_days": 6.3,
       "closed": 300,
-      "opened": 20
+      "opened": 21
     },
     {
       "name": "catlass",
@@ -110,13 +110,13 @@
       "path": "cann/asc-devkit",
       "avg_days": 7.6,
       "closed": 505,
-      "opened": 71
+      "opened": 72
     },
     {
       "name": "opbase",
       "path": "cann/opbase",
-      "avg_days": 7.9,
-      "closed": 130,
+      "avg_days": 7.8,
+      "closed": 131,
       "opened": 13
     },
     {
@@ -145,7 +145,7 @@
       "path": "cann/ops-math",
       "avg_days": 8.6,
       "closed": 1301,
-      "opened": 91
+      "opened": 94
     },
     {
       "name": "oam-tools",
@@ -166,7 +166,7 @@
       "path": "cann/ge",
       "avg_days": 10.0,
       "closed": 296,
-      "opened": 41
+      "opened": 43
     },
     {
       "name": "shmem",
@@ -194,7 +194,7 @@
       "path": "cann/hcomm",
       "avg_days": 12.8,
       "closed": 172,
-      "opened": 20
+      "opened": 21
     },
     {
       "name": "hixl",
@@ -306,8 +306,8 @@
       "path": "cann/infrastructure",
       "avg_days": 34.4,
       "closed": 71,
-      "opened": 24
+      "opened": 25
     }
   ],
-  "generated_at": "2026-04-30"
+  "generated_at": "2026-05-01"
 }
