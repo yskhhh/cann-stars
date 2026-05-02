@@ -230,7 +230,7 @@
     {
       "name": "ops-nn",
       "path": "cann/ops-nn",
-      "total": 4497,
+      "total": 4498,
       "data": [
         0,
         0,
@@ -340,7 +340,7 @@
         188,
         235,
         280,
-        251
+        252
       ]
     },
     {
@@ -578,7 +578,7 @@
     {
       "name": "ge",
       "path": "cann/ge",
-      "total": 2495,
+      "total": 2509,
       "data": [
         0,
         0,
@@ -688,7 +688,7 @@
         89,
         206,
         277,
-        174
+        188
       ]
     },
     {
@@ -810,7 +810,7 @@
     {
       "name": "hcomm",
       "path": "cann/hcomm",
-      "total": 2024,
+      "total": 2026,
       "data": [
         0,
         0,
@@ -920,7 +920,7 @@
         123,
         105,
         148,
-        86
+        88
       ]
     },
     {
@@ -3014,7 +3014,7 @@
     {
       "name": "cannbot-skills",
       "path": "cann/cannbot-skills",
-      "total": 165,
+      "total": 166,
       "data": [
         0,
         0,
@@ -3124,13 +3124,13 @@
         37,
         49,
         31,
-        24
+        25
       ]
     },
     {
       "name": "asnumpy",
       "path": "cann/asnumpy",
-      "total": 138,
+      "total": 139,
       "data": [
         0,
         0,
@@ -3240,13 +3240,13 @@
         8,
         5,
         7,
-        0
+        1
       ]
     },
     {
       "name": "cann-competitions",
       "path": "cann/cann-competitions",
-      "total": 121,
+      "total": 124,
       "data": [
         0,
         0,
@@ -3356,7 +3356,7 @@
         2,
         1,
         13,
-        105
+        108
       ]
     },
     {
@@ -7304,5 +7304,5 @@
       ]
     }
   ],
-  "generated_at": "2026-05-01"
+  "generated_at": "2026-05-02"
 }

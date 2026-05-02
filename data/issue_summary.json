@@ -26,7 +26,7 @@
       "path": "cann/ops-cv",
       "avg_days": 3.6,
       "closed": 334,
-      "opened": 16
+      "opened": 18
     },
     {
       "name": "cannbot-skills",
@@ -46,36 +46,36 @@
       "name": "cann-samples",
       "path": "cann/cann-samples",
       "avg_days": 5.3,
-      "closed": 123,
-      "opened": 18
+      "closed": 124,
+      "opened": 17
     },
     {
       "name": "runtime",
       "path": "cann/runtime",
-      "avg_days": 5.4,
-      "closed": 400,
-      "opened": 33
+      "avg_days": 5.3,
+      "closed": 401,
+      "opened": 32
     },
     {
       "name": "ops-transformer",
       "path": "cann/ops-transformer",
       "avg_days": 5.5,
       "closed": 2011,
-      "opened": 126
+      "opened": 129
     },
     {
       "name": "ops-nn",
       "path": "cann/ops-nn",
       "avg_days": 5.9,
-      "closed": 2243,
-      "opened": 157
+      "closed": 2244,
+      "opened": 159
     },
     {
       "name": "pto-isa",
       "path": "cann/pto-isa",
       "avg_days": 6.3,
       "closed": 300,
-      "opened": 21
+      "opened": 22
     },
     {
       "name": "catlass",
@@ -145,7 +145,7 @@
       "path": "cann/ops-math",
       "avg_days": 8.6,
       "closed": 1301,
-      "opened": 94
+      "opened": 95
     },
     {
       "name": "oam-tools",
@@ -180,7 +180,7 @@
       "path": "cann/driver",
       "avg_days": 12.7,
       "closed": 55,
-      "opened": 3
+      "opened": 4
     },
     {
       "name": "hccl",
@@ -309,5 +309,5 @@
       "opened": 25
     }
   ],
-  "generated_at": "2026-05-01"
+  "generated_at": "2026-05-02"
 }
