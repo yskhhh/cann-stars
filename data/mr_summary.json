@@ -39,8 +39,8 @@
       "name": "hcomm",
       "path": "cann/hcomm",
       "merged": 1263,
-      "open": 202,
-      "total": 1465
+      "open": 206,
+      "total": 1469
     },
     {
       "name": "ascend-transformer-boost",
@@ -81,8 +81,8 @@
       "name": "hccl",
       "path": "cann/hccl",
       "merged": 397,
-      "open": 131,
-      "total": 528
+      "open": 132,
+      "total": 529
     },
     {
       "name": "community",
@@ -193,8 +193,8 @@
       "name": "pyasc",
       "path": "cann/pyasc",
       "merged": 88,
-      "open": 10,
-      "total": 98
+      "open": 11,
+      "total": 99
     },
     {
       "name": "cann-recipes-train",
@@ -221,8 +221,8 @@
       "name": "cann-competitions",
       "path": "cann/cann-competitions",
       "merged": 32,
-      "open": 40,
-      "total": 72
+      "open": 41,
+      "total": 73
     },
     {
       "name": "sip",
@@ -274,17 +274,17 @@
       "total": 36
     },
     {
+      "name": "ops-blas",
+      "path": "cann/ops-blas",
+      "merged": 28,
+      "open": 8,
+      "total": 36
+    },
+    {
       "name": "cmake",
       "path": "cann/cmake",
       "merged": 31,
       "open": 4,
-      "total": 35
-    },
-    {
-      "name": "ops-blas",
-      "path": "cann/ops-blas",
-      "merged": 28,
-      "open": 7,
       "total": 35
     },
     {
@@ -428,6 +428,6 @@
       "total": 2
     }
   ],
-  "unique_authors": 2259,
-  "generated_at": "2026-05-02"
+  "unique_authors": 2260,
+  "generated_at": "2026-05-03"
 }
