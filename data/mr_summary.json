@@ -10,8 +10,8 @@
     {
       "name": "ops-nn",
       "path": "cann/ops-nn",
-      "merged": 2873,
-      "open": 328,
+      "merged": 2874,
+      "open": 327,
       "total": 3201
     },
     {
@@ -25,22 +25,22 @@
       "name": "ops-math",
       "path": "cann/ops-math",
       "merged": 1573,
-      "open": 192,
-      "total": 1765
+      "open": 191,
+      "total": 1764
     },
     {
       "name": "ge",
       "path": "cann/ge",
       "merged": 1321,
-      "open": 164,
-      "total": 1485
+      "open": 162,
+      "total": 1483
     },
     {
       "name": "hcomm",
       "path": "cann/hcomm",
-      "merged": 1263,
+      "merged": 1264,
       "open": 206,
-      "total": 1469
+      "total": 1470
     },
     {
       "name": "ascend-transformer-boost",
@@ -67,8 +67,8 @@
       "name": "pto-isa",
       "path": "cann/pto-isa",
       "merged": 686,
-      "open": 47,
-      "total": 733
+      "open": 46,
+      "total": 732
     },
     {
       "name": "ops-cv",
@@ -80,9 +80,9 @@
     {
       "name": "hccl",
       "path": "cann/hccl",
-      "merged": 397,
+      "merged": 398,
       "open": 132,
-      "total": 529
+      "total": 530
     },
     {
       "name": "community",
@@ -193,8 +193,8 @@
       "name": "pyasc",
       "path": "cann/pyasc",
       "merged": 88,
-      "open": 11,
-      "total": 99
+      "open": 12,
+      "total": 100
     },
     {
       "name": "cann-recipes-train",
@@ -351,17 +351,17 @@
       "total": 12
     },
     {
+      "name": "ops-sparse",
+      "path": "cann/ops-sparse",
+      "merged": 8,
+      "open": 4,
+      "total": 12
+    },
+    {
       "name": "ops-collections",
       "path": "cann/ops-collections",
       "merged": 9,
       "open": 2,
-      "total": 11
-    },
-    {
-      "name": "ops-sparse",
-      "path": "cann/ops-sparse",
-      "merged": 8,
-      "open": 3,
       "total": 11
     },
     {
@@ -429,5 +429,5 @@
     }
   ],
   "unique_authors": 2260,
-  "generated_at": "2026-05-03"
+  "generated_at": "2026-05-04"
 }

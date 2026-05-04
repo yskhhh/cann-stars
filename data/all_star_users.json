@@ -10166,11 +10166,11 @@
       "cann/torchtitan-npu",
       "cann/cann-learning-hub",
       "cann/ops-blas",
+      "cann/cann-competitions",
       "cann/mat-chem-sim-pred",
       "cann/cann-bench",
       "cann/catccos",
       "cann/ops-tensor",
-      "cann/cann-competitions",
       "cann/xla-npu",
       "cann/cmake",
       "cann/tensorflow",
@@ -13281,8 +13281,8 @@
       "cann/cann-recipes-embodied-intelligence",
       "cann/atvc",
       "cann/cann-learning-hub",
-      "cann/mat-chem-sim-pred",
-      "cann/cann-competitions"
+      "cann/cann-competitions",
+      "cann/mat-chem-sim-pred"
     ]
   },
   {
@@ -16642,6 +16642,16 @@
       "cann/ascend-boost-comm",
       "cann/atvc",
       "cann/infrastructure"
+    ]
+  },
+  {
+    "user_name": "gcw_acPW9hDi",
+    "nick_name": "lindonghk",
+    "user_id": 11101793,
+    "avatar": "",
+    "starred_repos": [
+      "cann/ops-transformer",
+      "cann/hccl"
     ]
   },
   {
@@ -25073,6 +25083,15 @@
     ]
   },
   {
+    "user_name": "gcw_LBFV2Vq5",
+    "nick_name": "gcw_LBFV2Vq5",
+    "user_id": 11099922,
+    "avatar": "",
+    "starred_repos": [
+      "cann/ops-nn"
+    ]
+  },
+  {
     "user_name": "weixin_42705347",
     "nick_name": "ZT2026",
     "user_id": 2170782,
@@ -28674,7 +28693,8 @@
     "user_id": 10057071,
     "avatar": null,
     "starred_repos": [
-      "cann/cannbot-skills"
+      "cann/cannbot-skills",
+      "cann/atvoss"
     ]
   },
   {
@@ -33881,7 +33901,7 @@
   },
   {
     "user_name": "wang_indigo",
-    "nick_name": "wang_indigo",
+    "nick_name": "wangzihao122",
     "user_id": 7130353,
     "avatar": "https://cdn-img.gitcode.com/ee/ba/40e87628ebad19c6f358cade0af839cd4f7d7cbd8a8bc4a610669a33c749d097.png?time=1763522254141",
     "starred_repos": [
@@ -40460,7 +40480,8 @@
     "user_id": 5136578,
     "avatar": "https://cdn-img.gitcode.com/bb/ee/b7443883b2ee26d61c895a2d1b161556471ac86d7cd2a51b6b70ac24702bbf6c.png",
     "starred_repos": [
-      "cann/cann-learning-hub"
+      "cann/cann-learning-hub",
+      "cann/cann-competitions"
     ]
   },
   {
@@ -40524,6 +40545,42 @@
     "avatar": "https://cdn-img.gitcode.com/fc/da/3fc3835d5a287a6b293c8bcc47aeb854302e256d460becc9002bd9e8c9d25075.png?time=1773365724721",
     "starred_repos": [
       "cann/ops-blas"
+    ]
+  },
+  {
+    "user_name": "iuyi",
+    "nick_name": "iuyi",
+    "user_id": 5373328,
+    "avatar": "https://cdn-img.gitcode.com/aa/ad/351a4a643699a613dd7159653d3fffa91de5135d876d59372f09f9cc1999c40e.png?time=1750478010841",
+    "starred_repos": [
+      "cann/cann-competitions"
+    ]
+  },
+  {
+    "user_name": "faenc15",
+    "nick_name": "barbarlkirkcarr-beep",
+    "user_id": 10636490,
+    "avatar": "https://cdn-img.gitcode.com/ff/aa/ff67a3ac6b959861645ea1e69017b60ac343c2ad359bdbdf78a2f1b3689d8fb9.png",
+    "starred_repos": [
+      "cann/cann-competitions"
+    ]
+  },
+  {
+    "user_name": "zyt_2559888264",
+    "nick_name": "过客",
+    "user_id": 10763999,
+    "avatar": "https://cdn-img.gitcode.com/ad/aa/058a1d0aa68b40889b589fb6def4a14792c660883e0a95ac73bcd07f0c9f9287.jpeg?time=1777167385813",
+    "starred_repos": [
+      "cann/cann-competitions"
+    ]
+  },
+  {
+    "user_name": "weixin_55837048",
+    "nick_name": "jing277",
+    "user_id": 1781861,
+    "avatar": "https://cdn-img.gitcode.com/fa/ca/23f7a16240c2ada5056774068837f7a52b91e2f162a4fe9e06d37ebd37d22afd.jpg",
+    "starred_repos": [
+      "cann/cann-competitions"
     ]
   },
   {
@@ -40605,33 +40662,6 @@
     "avatar": "https://cdn-img.gitcode.com/ce/fc/c4e425f7c94d58e30234c42d501157a608351e62897bd9814e8e527ed32e3965.png?time=1776061999686",
     "starred_repos": [
       "cann/catccos"
-    ]
-  },
-  {
-    "user_name": "faenc15",
-    "nick_name": "barbarlkirkcarr-beep",
-    "user_id": 10636490,
-    "avatar": "https://cdn-img.gitcode.com/ff/aa/ff67a3ac6b959861645ea1e69017b60ac343c2ad359bdbdf78a2f1b3689d8fb9.png",
-    "starred_repos": [
-      "cann/cann-competitions"
-    ]
-  },
-  {
-    "user_name": "zyt_2559888264",
-    "nick_name": "过客",
-    "user_id": 10763999,
-    "avatar": "https://cdn-img.gitcode.com/ad/aa/058a1d0aa68b40889b589fb6def4a14792c660883e0a95ac73bcd07f0c9f9287.jpeg?time=1777167385813",
-    "starred_repos": [
-      "cann/cann-competitions"
-    ]
-  },
-  {
-    "user_name": "weixin_55837048",
-    "nick_name": "jing277",
-    "user_id": 1781861,
-    "avatar": "https://cdn-img.gitcode.com/fa/ca/23f7a16240c2ada5056774068837f7a52b91e2f162a4fe9e06d37ebd37d22afd.jpg",
-    "starred_repos": [
-      "cann/cann-competitions"
     ]
   },
   {

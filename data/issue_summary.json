@@ -5,7 +5,7 @@
       "path": "cann/ops-sparse",
       "avg_days": 0.6,
       "closed": 5,
-      "opened": 3
+      "opened": 5
     },
     {
       "name": "ops-collections",
@@ -26,28 +26,28 @@
       "path": "cann/ops-cv",
       "avg_days": 3.6,
       "closed": 334,
-      "opened": 19
+      "opened": 23
     },
     {
       "name": "cannbot-skills",
       "path": "cann/cannbot-skills",
       "avg_days": 3.8,
       "closed": 59,
-      "opened": 22
+      "opened": 23
     },
     {
       "name": "asc-tools",
       "path": "cann/asc-tools",
       "avg_days": 4.9,
       "closed": 31,
-      "opened": 5
+      "opened": 6
     },
     {
       "name": "cann-samples",
       "path": "cann/cann-samples",
       "avg_days": 5.3,
       "closed": 124,
-      "opened": 17
+      "opened": 18
     },
     {
       "name": "runtime",
@@ -60,22 +60,15 @@
       "name": "ops-transformer",
       "path": "cann/ops-transformer",
       "avg_days": 5.5,
-      "closed": 2011,
-      "opened": 134
+      "closed": 2012,
+      "opened": 138
     },
     {
       "name": "ops-nn",
       "path": "cann/ops-nn",
       "avg_days": 5.9,
       "closed": 2244,
-      "opened": 165
-    },
-    {
-      "name": "pto-isa",
-      "path": "cann/pto-isa",
-      "avg_days": 6.3,
-      "closed": 300,
-      "opened": 22
+      "opened": 172
     },
     {
       "name": "catlass",
@@ -83,6 +76,13 @@
       "avg_days": 6.6,
       "closed": 136,
       "opened": 8
+    },
+    {
+      "name": "pto-isa",
+      "path": "cann/pto-isa",
+      "avg_days": 6.7,
+      "closed": 305,
+      "opened": 17
     },
     {
       "name": "sip",
@@ -145,7 +145,7 @@
       "path": "cann/ops-math",
       "avg_days": 8.6,
       "closed": 1301,
-      "opened": 96
+      "opened": 99
     },
     {
       "name": "oam-tools",
@@ -187,7 +187,7 @@
       "path": "cann/hccl",
       "avg_days": 12.7,
       "closed": 85,
-      "opened": 10
+      "opened": 11
     },
     {
       "name": "hcomm",
@@ -201,7 +201,7 @@
       "path": "cann/hixl",
       "avg_days": 12.9,
       "closed": 198,
-      "opened": 28
+      "opened": 30
     },
     {
       "name": "pyasc",
@@ -215,7 +215,7 @@
       "path": "cann/pypto",
       "avg_days": 13.2,
       "closed": 1215,
-      "opened": 326
+      "opened": 328
     },
     {
       "name": "community",
@@ -309,5 +309,5 @@
       "opened": 25
     }
   ],
-  "generated_at": "2026-05-03"
+  "generated_at": "2026-05-04"
 }
