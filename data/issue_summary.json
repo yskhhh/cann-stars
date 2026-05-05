@@ -40,7 +40,7 @@
       "path": "cann/asc-tools",
       "avg_days": 4.9,
       "closed": 31,
-      "opened": 6
+      "opened": 8
     },
     {
       "name": "cann-samples",
@@ -60,15 +60,15 @@
       "name": "ops-transformer",
       "path": "cann/ops-transformer",
       "avg_days": 5.5,
-      "closed": 2012,
-      "opened": 138
+      "closed": 2013,
+      "opened": 139
     },
     {
       "name": "ops-nn",
       "path": "cann/ops-nn",
       "avg_days": 5.9,
       "closed": 2244,
-      "opened": 172
+      "opened": 175
     },
     {
       "name": "catlass",
@@ -103,14 +103,14 @@
       "path": "cann/metadef",
       "avg_days": 7.4,
       "closed": 63,
-      "opened": 0
+      "opened": 1
     },
     {
       "name": "asc-devkit",
       "path": "cann/asc-devkit",
       "avg_days": 7.6,
       "closed": 505,
-      "opened": 72
+      "opened": 73
     },
     {
       "name": "opbase",
@@ -145,7 +145,7 @@
       "path": "cann/ops-math",
       "avg_days": 8.6,
       "closed": 1301,
-      "opened": 99
+      "opened": 102
     },
     {
       "name": "oam-tools",
@@ -164,8 +164,8 @@
     {
       "name": "ge",
       "path": "cann/ge",
-      "avg_days": 10.0,
-      "closed": 296,
+      "avg_days": 10.1,
+      "closed": 297,
       "opened": 44
     },
     {
@@ -173,7 +173,7 @@
       "path": "cann/shmem",
       "avg_days": 10.3,
       "closed": 190,
-      "opened": 35
+      "opened": 36
     },
     {
       "name": "driver",
@@ -187,7 +187,7 @@
       "path": "cann/hccl",
       "avg_days": 12.7,
       "closed": 85,
-      "opened": 11
+      "opened": 12
     },
     {
       "name": "hcomm",
@@ -213,16 +213,16 @@
     {
       "name": "pypto",
       "path": "cann/pypto",
-      "avg_days": 13.2,
-      "closed": 1215,
-      "opened": 328
+      "avg_days": 13.3,
+      "closed": 1224,
+      "opened": 320
     },
     {
       "name": "community",
       "path": "cann/community",
       "avg_days": 14.3,
       "closed": 96,
-      "opened": 17
+      "opened": 19
     },
     {
       "name": "atvoss",
@@ -309,5 +309,5 @@
       "opened": 25
     }
   ],
-  "generated_at": "2026-05-04"
+  "generated_at": "2026-05-05"
 }
