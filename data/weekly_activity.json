@@ -115,7 +115,7 @@
     {
       "name": "ops-transformer",
       "path": "cann/ops-transformer",
-      "total": 4956,
+      "total": 5005,
       "data": [
         0,
         0,
@@ -226,13 +226,13 @@
         301,
         335,
         224,
-        44
+        93
       ]
     },
     {
       "name": "ops-nn",
       "path": "cann/ops-nn",
-      "total": 4547,
+      "total": 4596,
       "data": [
         0,
         0,
@@ -343,13 +343,13 @@
         235,
         280,
         252,
-        49
+        98
       ]
     },
     {
       "name": "pypto",
       "path": "cann/pypto",
-      "total": 3048,
+      "total": 3084,
       "data": [
         0,
         0,
@@ -460,13 +460,13 @@
         163,
         230,
         176,
-        38
+        74
       ]
     },
     {
       "name": "ops-math",
       "path": "cann/ops-math",
-      "total": 2614,
+      "total": 2633,
       "data": [
         0,
         0,
@@ -577,13 +577,13 @@
         124,
         182,
         96,
-        24
+        43
       ]
     },
     {
       "name": "ge",
       "path": "cann/ge",
-      "total": 2586,
+      "total": 2632,
       "data": [
         0,
         0,
@@ -694,13 +694,13 @@
         206,
         277,
         199,
-        66
+        112
       ]
     },
     {
       "name": "ascend-transformer-boost",
       "path": "cann/ascend-transformer-boost",
-      "total": 2073,
+      "total": 2074,
       "data": [
         14,
         35,
@@ -811,13 +811,13 @@
         10,
         9,
         7,
-        0
+        1
       ]
     },
     {
       "name": "hcomm",
       "path": "cann/hcomm",
-      "total": 2049,
+      "total": 2061,
       "data": [
         0,
         0,
@@ -928,13 +928,13 @@
         105,
         148,
         93,
-        18
+        30
       ]
     },
     {
       "name": "asc-devkit",
       "path": "cann/asc-devkit",
-      "total": 1962,
+      "total": 1994,
       "data": [
         0,
         0,
@@ -1045,13 +1045,13 @@
         134,
         123,
         122,
-        27
+        59
       ]
     },
     {
       "name": "runtime",
       "path": "cann/runtime",
-      "total": 1948,
+      "total": 1974,
       "data": [
         0,
         0,
@@ -1162,13 +1162,13 @@
         142,
         169,
         99,
-        13
+        39
       ]
     },
     {
       "name": "pto-isa",
       "path": "cann/pto-isa",
-      "total": 893,
+      "total": 897,
       "data": [
         0,
         0,
@@ -1279,13 +1279,13 @@
         49,
         74,
         28,
-        7
+        11
       ]
     },
     {
       "name": "ops-cv",
       "path": "cann/ops-cv",
-      "total": 817,
+      "total": 822,
       "data": [
         0,
         0,
@@ -1396,13 +1396,13 @@
         33,
         49,
         21,
-        7
+        12
       ]
     },
     {
       "name": "hccl",
       "path": "cann/hccl",
-      "total": 757,
+      "total": 770,
       "data": [
         0,
         0,
@@ -1513,13 +1513,13 @@
         63,
         72,
         55,
-        18
+        31
       ]
     },
     {
       "name": "catlass",
       "path": "cann/catlass",
-      "total": 581,
+      "total": 584,
       "data": [
         0,
         0,
@@ -1630,13 +1630,13 @@
         13,
         10,
         8,
-        0
+        3
       ]
     },
     {
       "name": "community",
       "path": "cann/community",
-      "total": 495,
+      "total": 499,
       "data": [
         0,
         0,
@@ -1747,13 +1747,13 @@
         18,
         28,
         17,
-        4
+        8
       ]
     },
     {
       "name": "hixl",
       "path": "cann/hixl",
-      "total": 436,
+      "total": 440,
       "data": [
         0,
         0,
@@ -1864,13 +1864,13 @@
         22,
         22,
         18,
-        3
+        7
       ]
     },
     {
       "name": "cann-recipes-infer",
       "path": "cann/cann-recipes-infer",
-      "total": 410,
+      "total": 412,
       "data": [
         0,
         0,
@@ -1981,13 +1981,13 @@
         5,
         31,
         20,
-        3
+        5
       ]
     },
     {
       "name": "opbase",
       "path": "cann/opbase",
-      "total": 370,
+      "total": 375,
       "data": [
         0,
         0,
@@ -2098,13 +2098,13 @@
         19,
         25,
         16,
-        8
+        13
       ]
     },
     {
       "name": "graph-autofusion",
       "path": "cann/graph-autofusion",
-      "total": 339,
+      "total": 344,
       "data": [
         0,
         0,
@@ -2215,13 +2215,13 @@
         25,
         23,
         31,
-        8
+        13
       ]
     },
     {
       "name": "shmem",
       "path": "cann/shmem",
-      "total": 303,
+      "total": 305,
       "data": [
         0,
         0,
@@ -2332,7 +2332,124 @@
         10,
         16,
         18,
-        0
+        2
+      ]
+    },
+    {
+      "name": "asc-tools",
+      "path": "cann/asc-tools",
+      "total": 281,
+      "data": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        10,
+        4,
+        0,
+        11,
+        14,
+        8,
+        7,
+        10,
+        5,
+        12,
+        32,
+        21,
+        0,
+        13,
+        16,
+        11,
+        15,
+        24,
+        18,
+        14,
+        15,
+        14,
+        2,
+        5
       ]
     },
     {
@@ -2453,126 +2570,9 @@
       ]
     },
     {
-      "name": "asc-tools",
-      "path": "cann/asc-tools",
-      "total": 279,
-      "data": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        10,
-        4,
-        0,
-        11,
-        14,
-        8,
-        7,
-        10,
-        5,
-        12,
-        32,
-        21,
-        0,
-        13,
-        16,
-        11,
-        15,
-        24,
-        18,
-        14,
-        15,
-        14,
-        2,
-        3
-      ]
-    },
-    {
       "name": "metadef",
       "path": "cann/metadef",
-      "total": 274,
+      "total": 275,
       "data": [
         0,
         0,
@@ -2683,13 +2683,13 @@
         18,
         20,
         9,
-        4
+        5
       ]
     },
     {
       "name": "cann-samples",
       "path": "cann/cann-samples",
-      "total": 227,
+      "total": 231,
       "data": [
         0,
         0,
@@ -2800,13 +2800,13 @@
         20,
         26,
         22,
-        2
+        6
       ]
     },
     {
       "name": "oam-tools",
       "path": "cann/oam-tools",
-      "total": 195,
+      "total": 199,
       "data": [
         0,
         0,
@@ -2917,13 +2917,13 @@
         13,
         4,
         8,
-        5
+        9
       ]
     },
     {
       "name": "cannbot-skills",
       "path": "cann/cannbot-skills",
-      "total": 170,
+      "total": 176,
       "data": [
         0,
         0,
@@ -3034,13 +3034,13 @@
         49,
         31,
         25,
-        4
+        10
       ]
     },
     {
       "name": "torchtitan-npu",
       "path": "cann/torchtitan-npu",
-      "total": 168,
+      "total": 172,
       "data": [
         0,
         0,
@@ -3151,7 +3151,7 @@
         14,
         14,
         14,
-        1
+        5
       ]
     },
     {
@@ -3274,7 +3274,7 @@
     {
       "name": "cann-competitions",
       "path": "cann/cann-competitions",
-      "total": 129,
+      "total": 133,
       "data": [
         0,
         0,
@@ -3385,7 +3385,7 @@
         1,
         13,
         109,
-        4
+        8
       ]
     },
     {
@@ -3508,7 +3508,7 @@
     {
       "name": "pyasc",
       "path": "cann/pyasc",
-      "total": 118,
+      "total": 119,
       "data": [
         0,
         0,
@@ -3619,13 +3619,13 @@
         6,
         6,
         3,
-        1
+        2
       ]
     },
     {
       "name": "release-management",
       "path": "cann/release-management",
-      "total": 110,
+      "total": 112,
       "data": [
         0,
         0,
@@ -3736,13 +3736,13 @@
         10,
         5,
         5,
-        2
+        4
       ]
     },
     {
       "name": "amct",
       "path": "cann/amct",
-      "total": 99,
+      "total": 100,
       "data": [
         0,
         0,
@@ -3853,7 +3853,7 @@
         7,
         12,
         9,
-        1
+        2
       ]
     },
     {
@@ -4327,7 +4327,7 @@
     {
       "name": "cann-learning-hub",
       "path": "cann/cann-learning-hub",
-      "total": 63,
+      "total": 64,
       "data": [
         0,
         0,
@@ -4438,7 +4438,7 @@
         15,
         4,
         6,
-        2
+        3
       ]
     },
     {
@@ -4912,7 +4912,7 @@
     {
       "name": "cmake",
       "path": "cann/cmake",
-      "total": 40,
+      "total": 42,
       "data": [
         0,
         0,
@@ -5023,7 +5023,7 @@
         9,
         12,
         12,
-        3
+        5
       ]
     },
     {
@@ -5263,7 +5263,7 @@
     {
       "name": "ops-tensor",
       "path": "cann/ops-tensor",
-      "total": 34,
+      "total": 35,
       "data": [
         0,
         0,
@@ -5374,13 +5374,13 @@
         3,
         4,
         1,
-        0
+        1
       ]
     },
     {
       "name": "catccos",
       "path": "cann/catccos",
-      "total": 33,
+      "total": 34,
       "data": [
         0,
         0,
@@ -5491,7 +5491,7 @@
         7,
         8,
         3,
-        1
+        2
       ]
     },
     {
@@ -7367,5 +7367,5 @@
       ]
     }
   ],
-  "generated_at": "2026-05-06"
+  "generated_at": "2026-05-07"
 }
