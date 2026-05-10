@@ -3,37 +3,37 @@
     {
       "name": "ops-transformer",
       "path": "cann/ops-transformer",
-      "merged": 3259,
-      "open": 261,
-      "total": 3520
+      "merged": 3260,
+      "open": 264,
+      "total": 3524
     },
     {
       "name": "ops-nn",
       "path": "cann/ops-nn",
       "merged": 2978,
-      "open": 349,
-      "total": 3327
+      "open": 351,
+      "total": 3329
     },
     {
       "name": "pypto",
       "path": "cann/pypto",
       "merged": 1871,
-      "open": 284,
-      "total": 2155
+      "open": 285,
+      "total": 2156
     },
     {
       "name": "ops-math",
       "path": "cann/ops-math",
       "merged": 1613,
-      "open": 204,
-      "total": 1817
+      "open": 206,
+      "total": 1819
     },
     {
       "name": "ge",
       "path": "cann/ge",
       "merged": 1377,
-      "open": 174,
-      "total": 1551
+      "open": 178,
+      "total": 1555
     },
     {
       "name": "asc-devkit",
@@ -52,9 +52,9 @@
     {
       "name": "runtime",
       "path": "cann/runtime",
-      "merged": 1340,
+      "merged": 1341,
       "open": 145,
-      "total": 1485
+      "total": 1486
     },
     {
       "name": "ascend-transformer-boost",
@@ -80,15 +80,15 @@
     {
       "name": "hccl",
       "path": "cann/hccl",
-      "merged": 420,
-      "open": 100,
-      "total": 520
+      "merged": 421,
+      "open": 101,
+      "total": 522
     },
     {
       "name": "community",
       "path": "cann/community",
-      "merged": 412,
-      "open": 14,
+      "merged": 413,
+      "open": 13,
       "total": 426
     },
     {
@@ -193,8 +193,8 @@
       "name": "pyasc",
       "path": "cann/pyasc",
       "merged": 94,
-      "open": 6,
-      "total": 100
+      "open": 7,
+      "total": 101
     },
     {
       "name": "cann-recipes-train",
@@ -214,14 +214,14 @@
       "name": "amct",
       "path": "cann/amct",
       "merged": 74,
-      "open": 13,
-      "total": 87
+      "open": 14,
+      "total": 88
     },
     {
       "name": "cann-competitions",
       "path": "cann/cann-competitions",
-      "merged": 56,
-      "open": 29,
+      "merged": 57,
+      "open": 28,
       "total": 85
     },
     {
@@ -428,6 +428,6 @@
       "total": 2
     }
   ],
-  "unique_authors": 2299,
-  "generated_at": "2026-05-09"
+  "unique_authors": 2301,
+  "generated_at": "2026-05-10"
 }

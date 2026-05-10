@@ -46,8 +46,8 @@
       "name": "runtime",
       "path": "cann/runtime",
       "avg_days": 5.7,
-      "closed": 422,
-      "opened": 28
+      "closed": 423,
+      "opened": 27
     },
     {
       "name": "ops-transformer",
@@ -61,7 +61,7 @@
       "path": "cann/ops-nn",
       "avg_days": 6.0,
       "closed": 2335,
-      "opened": 199
+      "opened": 200
     },
     {
       "name": "cann-learning-hub",
@@ -89,7 +89,7 @@
       "path": "cann/catlass",
       "avg_days": 6.9,
       "closed": 144,
-      "opened": 6
+      "opened": 7
     },
     {
       "name": "sip",
@@ -117,14 +117,14 @@
       "path": "cann/asc-devkit",
       "avg_days": 7.8,
       "closed": 534,
-      "opened": 68
+      "opened": 69
     },
     {
       "name": "amct",
       "path": "cann/amct",
       "avg_days": 8.1,
       "closed": 76,
-      "opened": 9
+      "opened": 10
     },
     {
       "name": "triton-inference-server-ge-backend",
@@ -138,7 +138,7 @@
       "path": "cann/ops-math",
       "avg_days": 8.6,
       "closed": 1342,
-      "opened": 101
+      "opened": 102
     },
     {
       "name": "oam-tools",
@@ -159,7 +159,7 @@
       "path": "cann/ascend-transformer-boost",
       "avg_days": 10.0,
       "closed": 261,
-      "opened": 11
+      "opened": 12
     },
     {
       "name": "ge",
@@ -250,7 +250,7 @@
       "path": "cann/cann-recipes-embodied-intelligence",
       "avg_days": 19.1,
       "closed": 36,
-      "opened": 3
+      "opened": 4
     },
     {
       "name": "torchtitan-npu",
@@ -271,14 +271,14 @@
       "path": "cann/asnumpy",
       "avg_days": 25.0,
       "closed": 10,
-      "opened": 11
+      "opened": 12
     },
     {
       "name": "cann-recipes-infer",
       "path": "cann/cann-recipes-infer",
       "avg_days": 25.4,
       "closed": 155,
-      "opened": 32
+      "opened": 33
     },
     {
       "name": "cann-recipes-train",
@@ -309,5 +309,5 @@
       "opened": 29
     }
   ],
-  "generated_at": "2026-05-09"
+  "generated_at": "2026-05-10"
 }
