@@ -1,5 +1,34 @@
 [
   {
+    "user_name": "leonaltair",
+    "nick_name": "leonaltair",
+    "user_id": 9425453,
+    "avatar": "https://cdn-img.gitcode.com/ef/bf/e2f63665943bff4b58f7d4001e98a3518816e5947e4de5e2421011370ba278bc.png?time=1778050425649",
+    "starred_repos": [
+      "cann/ops-math",
+      "cann/ops-nn"
+    ]
+  },
+  {
+    "user_name": "ccbin1",
+    "nick_name": "ccbin",
+    "user_id": 7277905,
+    "avatar": "https://cdn-img.gitcode.com/fb/ba/f86505bbaa38bde7bf82fd811200ec21f4a86358f8a68eb73add7a5d317665aa.jpg",
+    "starred_repos": [
+      "cann/ops-math"
+    ]
+  },
+  {
+    "user_name": "ChipCamp",
+    "nick_name": "ChipCamp",
+    "user_id": 5972130,
+    "avatar": "https://cdn-img.gitcode.com/bc/dc/b0c74280778d4cfae90d279d8d770561e60e3fcecf6a9e048d66447807ab8527.png?time=1750769939438",
+    "starred_repos": [
+      "cann/ops-math",
+      "cann/ops-transformer"
+    ]
+  },
+  {
     "user_name": "donaldsebleung",
     "nick_name": "donaldsebleung",
     "user_id": 10073316,
@@ -61,22 +90,14 @@
     ]
   },
   {
-    "user_name": "ChipCamp",
-    "nick_name": "ChipCamp",
-    "user_id": 5972130,
-    "avatar": "https://cdn-img.gitcode.com/bc/dc/b0c74280778d4cfae90d279d8d770561e60e3fcecf6a9e048d66447807ab8527.png?time=1750769939438",
-    "starred_repos": [
-      "cann/ops-math",
-      "cann/ops-transformer"
-    ]
-  },
-  {
     "user_name": "2302_78012980",
     "nick_name": "得之我幸，失之我命",
     "user_id": 4954407,
     "avatar": "https://cdn-img.gitcode.com/ca/fe/caf445431eb46325d9fb242d5f09a35ab7b956836b792013ac9e9522de25f426.png",
     "starred_repos": [
-      "cann/ops-math"
+      "cann/ops-math",
+      "cann/community",
+      "cann/asc-devkit"
     ]
   },
   {
@@ -280,6 +301,7 @@
     "starred_repos": [
       "cann/ops-math",
       "cann/ops-transformer",
+      "cann/community",
       "cann/ops-nn",
       "cann/cannbot-skills",
       "cann/ops-cv",
@@ -1387,6 +1409,7 @@
       "cann/ops-cv",
       "cann/cann-recipes-train",
       "cann/asnumpy",
+      "cann/amct",
       "cann/driver",
       "cann/cann-recipes-embodied-intelligence",
       "cann/cann-recipes-spatial-intelligence"
@@ -4430,7 +4453,8 @@
       "cann/infrastructure",
       "cann/cann-agreements",
       "cann/release-management",
-      "cann/torchtitan-npu"
+      "cann/torchtitan-npu",
+      "cann/cann-bench"
     ]
   },
   {
@@ -7701,6 +7725,7 @@
       "cann/ops-math",
       "cann/ops-transformer",
       "cann/ops-nn",
+      "cann/cannbot-skills",
       "cann/opbase",
       "cann/cann-samples",
       "cann/atvoss"
@@ -7715,6 +7740,7 @@
       "cann/ops-math",
       "cann/ops-transformer",
       "cann/ops-nn",
+      "cann/cannbot-skills",
       "cann/opbase",
       "cann/ops-cv",
       "cann/atvoss"
@@ -8149,6 +8175,7 @@
       "cann/opbase",
       "cann/graph-autofusion",
       "cann/catlass",
+      "cann/cann-samples",
       "cann/ascend-boost-comm"
     ]
   },
@@ -10078,7 +10105,7 @@
   },
   {
     "user_name": "tanxiangyuu",
-    "nick_name": "JasonX_",
+    "nick_name": "tanxiangyuu",
     "user_id": 5455025,
     "avatar": "https://cdn-img.gitcode.com/ae/bf/6ae718b547fb7947c59af28da62caf624a8e34acc52a8cd8574d0d0d5eb5dfec.png?time=1766480013909",
     "starred_repos": [
@@ -10597,6 +10624,7 @@
       "cann/community",
       "cann/cann-recipes-infer",
       "cann/ops-nn",
+      "cann/cannbot-skills",
       "cann/hixl",
       "cann/opbase",
       "cann/ops-cv",
@@ -11757,6 +11785,7 @@
       "cann/community",
       "cann/cann-recipes-infer",
       "cann/ops-nn",
+      "cann/cannbot-skills",
       "cann/hixl",
       "cann/opbase",
       "cann/ge",
@@ -16907,6 +16936,15 @@
     ]
   },
   {
+    "user_name": "chenjiale56",
+    "nick_name": "chenjl",
+    "user_id": 5505770,
+    "avatar": null,
+    "starred_repos": [
+      "cann/ops-transformer"
+    ]
+  },
+  {
     "user_name": "ol1613661434",
     "nick_name": "ol木子李lo",
     "user_id": 3911466,
@@ -17162,7 +17200,8 @@
     "user_id": 5578081,
     "avatar": null,
     "starred_repos": [
-      "cann/ops-transformer"
+      "cann/ops-transformer",
+      "cann/cannbot-skills"
     ]
   },
   {
@@ -17486,7 +17525,8 @@
     "user_id": 6824024,
     "avatar": null,
     "starred_repos": [
-      "cann/ops-transformer"
+      "cann/ops-transformer",
+      "cann/cannbot-skills"
     ]
   },
   {
@@ -17701,7 +17741,7 @@
     ]
   },
   {
-    "user_name": "ZHUhapi",
+    "user_name": "wangtianzhu_",
     "nick_name": "ZHU～.",
     "user_id": 1385791,
     "avatar": "https://cdn-img.gitcode.com/ed/fe/640e39df6efaccc1ca54b3ee2fa64600160039480b1f435f21d8945f71b68002.jpg",
@@ -18049,7 +18089,8 @@
     "user_id": 1321081,
     "avatar": "https://cdn-img.gitcode.com/fe/ee/fee36e548e73e59a81a996e7a7497776e5263a12b2325f415b02e035e713e3a3.png",
     "starred_repos": [
-      "cann/ops-transformer"
+      "cann/ops-transformer",
+      "cann/cannbot-skills"
     ]
   },
   {
@@ -18679,9 +18720,9 @@
   },
   {
     "user_name": "zxyzlx",
-    "nick_name": "bluecodezlx",
+    "nick_name": "心如止水",
     "user_id": 2231607,
-    "avatar": "https://cdn-img.gitcode.com/ae/ae/0a8e0ae222f350d438bf5a7740667e21fde6d988ca13c5195489ec8ae5f529c0.jpg",
+    "avatar": "https://cdn-img.gitcode.com/cb/df/c3b7080d3f11270390ed60d7fd3dafba3efc6a9724be7ea6b64573e798e07168.png?time=1778580074477",
     "starred_repos": [
       "cann/ops-transformer"
     ]
@@ -19024,7 +19065,8 @@
     "user_id": 3986947,
     "avatar": "https://cdn-img.gitcode.com/fd/aa/f2daa1e6cc307c9895772dcaa1d05aae32e67f941b74d5c4ed24315edc3e1b6a.png",
     "starred_repos": [
-      "cann/ops-transformer"
+      "cann/ops-transformer",
+      "cann/cannbot-skills"
     ]
   },
   {
@@ -19917,6 +19959,7 @@
     "starred_repos": [
       "cann/ops-transformer",
       "cann/cann-recipes-infer",
+      "cann/cannbot-skills",
       "cann/pypto",
       "cann/catlass",
       "cann/cann-samples"
@@ -20938,6 +20981,24 @@
     ]
   },
   {
+    "user_name": "qq_61788894",
+    "nick_name": "Nemophilist515",
+    "user_id": 8054136,
+    "avatar": "https://cdn-img.gitcode.com/aa/cb/9aa39c1611b5be3713e6a563ff8039d7b632c03f93c6b5c91774c3e310817f5e.jpg",
+    "starred_repos": [
+      "cann/community"
+    ]
+  },
+  {
+    "user_name": "NiuGangGang",
+    "nick_name": "刘志刚",
+    "user_id": 11202256,
+    "avatar": "https://cdn-img.gitcode.com/ee/cf/0e0074e6cf04245998170f32c5e14bc6dfc42b16c6a98c3644444f3f2dccaba2.jpg",
+    "starred_repos": [
+      "cann/community"
+    ]
+  },
+  {
     "user_name": "Cristiano_Ronaldo",
     "nick_name": "Cristiano_Ronaldo ",
     "user_id": 10650914,
@@ -21217,7 +21278,7 @@
   },
   {
     "user_name": "clinglai0517",
-    "nick_name": "clinglai0517",
+    "nick_name": "clinglai",
     "user_id": 7705518,
     "avatar": "",
     "starred_repos": [
@@ -22242,6 +22303,24 @@
     ]
   },
   {
+    "user_name": "HengjiaL",
+    "nick_name": "HengjiaL",
+    "user_id": 7162570,
+    "avatar": null,
+    "starred_repos": [
+      "cann/cann-recipes-infer"
+    ]
+  },
+  {
+    "user_name": "lmxxf",
+    "nick_name": "靳岩岩",
+    "user_id": 3147459,
+    "avatar": "https://cdn-img.gitcode.com/cb/ac/0c1b59131aca348211aea4f5ee8c9c52d5e31d3270b3183cd93386e71a8489d1.jpg",
+    "starred_repos": [
+      "cann/cann-recipes-infer"
+    ]
+  },
+  {
     "user_name": "lumin17",
     "nick_name": "lumin17",
     "user_id": 2325668,
@@ -22422,6 +22501,7 @@
     "starred_repos": [
       "cann/cann-recipes-infer",
       "cann/ops-nn",
+      "cann/cannbot-skills",
       "cann/catlass",
       "cann/ascend-transformer-boost"
     ]
@@ -22891,6 +22971,7 @@
     "starred_repos": [
       "cann/cann-recipes-infer",
       "cann/ops-nn",
+      "cann/cannbot-skills",
       "cann/asc-devkit",
       "cann/cann-samples"
     ]
@@ -25734,7 +25815,7 @@
     "user_name": "yefeicoding",
     "nick_name": "yefeicoding",
     "user_id": 7165973,
-    "avatar": null,
+    "avatar": "https://cdn-img.gitcode.com/fd/ba/fd4524558b85a3fa3012feda6b0948f80023d74f5b8fefee0fccf12823d33a2d.png?time=1778567897848",
     "starred_repos": [
       "cann/ops-nn",
       "cann/cannbot-skills"
@@ -26914,6 +26995,276 @@
     ]
   },
   {
+    "user_name": "Alice_zhou",
+    "nick_name": "Alice_zhou",
+    "user_id": 7222030,
+    "avatar": null,
+    "starred_repos": [
+      "cann/cannbot-skills"
+    ]
+  },
+  {
+    "user_name": "gcw_HpX39bRh",
+    "nick_name": "fenfenchang",
+    "user_id": 10034525,
+    "avatar": "",
+    "starred_repos": [
+      "cann/cannbot-skills",
+      "cann/cann-samples"
+    ]
+  },
+  {
+    "user_name": "xieyangyang",
+    "nick_name": "xieyangyang",
+    "user_id": 9418960,
+    "avatar": null,
+    "starred_repos": [
+      "cann/cannbot-skills",
+      "cann/cann-samples"
+    ]
+  },
+  {
+    "user_name": "shiqingyun",
+    "nick_name": "shiqingyun",
+    "user_id": 9393555,
+    "avatar": "",
+    "starred_repos": [
+      "cann/cannbot-skills"
+    ]
+  },
+  {
+    "user_name": "zwx1104019",
+    "nick_name": "zwx1104019",
+    "user_id": 7720883,
+    "avatar": null,
+    "starred_repos": [
+      "cann/cannbot-skills"
+    ]
+  },
+  {
+    "user_name": "XW_wei",
+    "nick_name": "XW_wei",
+    "user_id": 9393532,
+    "avatar": null,
+    "starred_repos": [
+      "cann/cannbot-skills",
+      "cann/cann-samples"
+    ]
+  },
+  {
+    "user_name": "wangyueting",
+    "nick_name": "wangyueting",
+    "user_id": 9419031,
+    "avatar": null,
+    "starred_repos": [
+      "cann/cannbot-skills",
+      "cann/cann-samples"
+    ]
+  },
+  {
+    "user_name": "rrrrcao",
+    "nick_name": "rrrrcao",
+    "user_id": 9409378,
+    "avatar": null,
+    "starred_repos": [
+      "cann/cannbot-skills"
+    ]
+  },
+  {
+    "user_name": "c30076899",
+    "nick_name": "c30076899",
+    "user_id": 9134758,
+    "avatar": null,
+    "starred_repos": [
+      "cann/cannbot-skills",
+      "cann/cann-samples"
+    ]
+  },
+  {
+    "user_name": "dfup",
+    "nick_name": "dfup",
+    "user_id": 11208524,
+    "avatar": null,
+    "starred_repos": [
+      "cann/cannbot-skills"
+    ]
+  },
+  {
+    "user_name": "fishing_artist",
+    "nick_name": "fishing_artist",
+    "user_id": 7804537,
+    "avatar": null,
+    "starred_repos": [
+      "cann/cannbot-skills"
+    ]
+  },
+  {
+    "user_name": "zwx1138188",
+    "nick_name": "zwx1138188",
+    "user_id": 10076204,
+    "avatar": null,
+    "starred_repos": [
+      "cann/cannbot-skills"
+    ]
+  },
+  {
+    "user_name": "chensujuan001",
+    "nick_name": "chensujuan001",
+    "user_id": 5613729,
+    "avatar": null,
+    "starred_repos": [
+      "cann/cannbot-skills"
+    ]
+  },
+  {
+    "user_name": "su_ad",
+    "nick_name": "su_ad",
+    "user_id": 11208371,
+    "avatar": null,
+    "starred_repos": [
+      "cann/cannbot-skills"
+    ]
+  },
+  {
+    "user_name": "wang5320259",
+    "nick_name": "wang5320259",
+    "user_id": 11208382,
+    "avatar": null,
+    "starred_repos": [
+      "cann/cannbot-skills"
+    ]
+  },
+  {
+    "user_name": "zhs1225",
+    "nick_name": "humbleZhang",
+    "user_id": 1281164,
+    "avatar": "https://cdn-img.gitcode.com/bb/ff/4b3bf9329fdac7bd022c97e6d323d9eca405c13ee21733690fa3201a90939c4f.jpg",
+    "starred_repos": [
+      "cann/cannbot-skills"
+    ]
+  },
+  {
+    "user_name": "sleeveen",
+    "nick_name": "sleeveen",
+    "user_id": 10753652,
+    "avatar": null,
+    "starred_repos": [
+      "cann/cannbot-skills"
+    ]
+  },
+  {
+    "user_name": "song0304",
+    "nick_name": "song0304",
+    "user_id": 7293615,
+    "avatar": null,
+    "starred_repos": [
+      "cann/cannbot-skills"
+    ]
+  },
+  {
+    "user_name": "hu_yanling",
+    "nick_name": "hu_yanling",
+    "user_id": 10753675,
+    "avatar": null,
+    "starred_repos": [
+      "cann/cannbot-skills"
+    ]
+  },
+  {
+    "user_name": "gcw_bTqMP71X",
+    "nick_name": "wkk",
+    "user_id": 9393160,
+    "avatar": "",
+    "starred_repos": [
+      "cann/cannbot-skills",
+      "cann/cann-samples"
+    ]
+  },
+  {
+    "user_name": "deliciousmakima",
+    "nick_name": "deliciousmakima",
+    "user_id": 9393386,
+    "avatar": null,
+    "starred_repos": [
+      "cann/cannbot-skills",
+      "cann/cann-samples"
+    ]
+  },
+  {
+    "user_name": "wangyan189",
+    "nick_name": "wangyan189",
+    "user_id": 6810353,
+    "avatar": null,
+    "starred_repos": [
+      "cann/cannbot-skills",
+      "cann/cann-samples"
+    ]
+  },
+  {
+    "user_name": "zengzihui",
+    "nick_name": "zengzihui",
+    "user_id": 7121697,
+    "avatar": "https://cdn-img.gitcode.com/af/ad/1a192f9a584d49aa9c203027d8cd81ed5ad7410149ac379bb257a85549147a5c.png?time=1767878081692",
+    "starred_repos": [
+      "cann/cannbot-skills",
+      "cann/cann-samples"
+    ]
+  },
+  {
+    "user_name": "bot_007",
+    "nick_name": "bot_007",
+    "user_id": 10020231,
+    "avatar": null,
+    "starred_repos": [
+      "cann/cannbot-skills"
+    ]
+  },
+  {
+    "user_name": "wansanying",
+    "nick_name": "wansanying",
+    "user_id": 7124986,
+    "avatar": null,
+    "starred_repos": [
+      "cann/cannbot-skills"
+    ]
+  },
+  {
+    "user_name": "zhiweiyuan",
+    "nick_name": "zhiweiyuan",
+    "user_id": 7121170,
+    "avatar": "https://cdn-img.gitcode.com/dd/aa/10dd0a0a042d80d5a64f5c3645f67960b1f84641c210e69dbaeed8f3677dc575.jpg",
+    "starred_repos": [
+      "cann/cannbot-skills"
+    ]
+  },
+  {
+    "user_name": "Lizexin312",
+    "nick_name": "Lizexin312",
+    "user_id": 3274192,
+    "avatar": null,
+    "starred_repos": [
+      "cann/cannbot-skills"
+    ]
+  },
+  {
+    "user_name": "DaWiiX",
+    "nick_name": "DaWiiX",
+    "user_id": 7774614,
+    "avatar": "https://cdn-img.gitcode.com/dd/ce/2dd4cef51f46981681941dbc654c59c45d5618452c8cd0d575f12aca2aaa3ecd.png",
+    "starred_repos": [
+      "cann/cannbot-skills"
+    ]
+  },
+  {
+    "user_name": "xuzm15",
+    "nick_name": "Ziming Xu",
+    "user_id": 3639648,
+    "avatar": "https://cdn-img.gitcode.com/ca/be/ca7b0eb23a4d9eeb407f2dd75e20f03ba092d0a9c284dcd0f90904adfc46fed6.png?time=1752853186992",
+    "starred_repos": [
+      "cann/cannbot-skills"
+    ]
+  },
+  {
     "user_name": "gcw_RiQJ6j22",
     "nick_name": "hw_yzr",
     "user_id": 9527882,
@@ -26926,7 +27277,7 @@
   },
   {
     "user_name": "gcw_nB7bUJWa",
-    "nick_name": "gcw_nB7bUJWa",
+    "nick_name": "wurui_chill",
     "user_id": 10858761,
     "avatar": "",
     "starred_repos": [
@@ -27383,15 +27734,6 @@
     "nick_name": "weixin_45613039",
     "user_id": 1437551,
     "avatar": "https://cdn-img.gitcode.com/fb/ab/0fb819a8b2b80f995163bba4227b4cfd5d1cf958e3c423338f9fd2e75e94cc0f.jpg",
-    "starred_repos": [
-      "cann/cannbot-skills"
-    ]
-  },
-  {
-    "user_name": "song0304",
-    "nick_name": "song0304",
-    "user_id": 7293615,
-    "avatar": null,
     "starred_repos": [
       "cann/cannbot-skills"
     ]
@@ -27903,7 +28245,8 @@
       "cann/ge",
       "cann/runtime",
       "cann/metadef",
-      "cann/cann-samples"
+      "cann/cann-samples",
+      "cann/driver"
     ]
   },
   {
@@ -28559,15 +28902,6 @@
     ]
   },
   {
-    "user_name": "wansanying",
-    "nick_name": "wansanying",
-    "user_id": 7124986,
-    "avatar": null,
-    "starred_repos": [
-      "cann/cannbot-skills"
-    ]
-  },
-  {
     "user_name": "zoujiamin123",
     "nick_name": "zjm123",
     "user_id": 1056618,
@@ -28626,15 +28960,6 @@
     "nick_name": "葛梦白",
     "user_id": 6502950,
     "avatar": "",
-    "starred_repos": [
-      "cann/cannbot-skills"
-    ]
-  },
-  {
-    "user_name": "zhiweiyuan",
-    "nick_name": "zhiweiyuan",
-    "user_id": 7121170,
-    "avatar": "https://cdn-img.gitcode.com/dd/aa/10dd0a0a042d80d5a64f5c3645f67960b1f84641c210e69dbaeed8f3677dc575.jpg",
     "starred_repos": [
       "cann/cannbot-skills"
     ]
@@ -31356,7 +31681,7 @@
     "user_name": "gothizzz",
     "nick_name": "gothizzz",
     "user_id": 6168773,
-    "avatar": null,
+    "avatar": "https://cdn-img.gitcode.com/fa/cc/f0a7c02c6ca6748bcf48d6cd8532ab353f8ce7005ec803607cef7464509a4fbb.png?time=1778576462618",
     "starred_repos": [
       "cann/ge"
     ]
@@ -32999,7 +33324,8 @@
     "user_id": 10999761,
     "avatar": "https://cdn-img.gitcode.com/cc/ec/68c462c0092e6cbe498d994c56a9de73454874bba150d655992ccc8ea4406315.jpg",
     "starred_repos": [
-      "cann/pypto"
+      "cann/pypto",
+      "cann/cann-learning-hub"
     ]
   },
   {
@@ -33834,7 +34160,7 @@
   },
   {
     "user_name": "Brain_Sleeping",
-    "nick_name": "Brain_Sleeping",
+    "nick_name": "liuzhong",
     "user_id": 9566111,
     "avatar": null,
     "starred_repos": [
@@ -36711,6 +37037,15 @@
     ]
   },
   {
+    "user_name": "CubeLander",
+    "nick_name": "Jingyuan Tian",
+    "user_id": 11208880,
+    "avatar": "https://cdn-img.gitcode.com/ba/ae/3b5aa4ed7219a091e30c1cd3aea65f39b45162f85a601b70c5e6880dfa3b7313.jpg",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
     "user_name": "XyHalcyon",
     "nick_name": "XyHalcyon",
     "user_id": 10772227,
@@ -37390,7 +37725,7 @@
     ]
   },
   {
-    "user_name": "weixin_62236033",
+    "user_name": "manchill",
     "nick_name": "泽野千里(ω",
     "user_id": 2229381,
     "avatar": "https://cdn-img.gitcode.com/ea/da/17ea3dac0004aba3d5f43fe196b3925ae2acf823906826508d561e5871698bb8.jpg",
@@ -37475,15 +37810,6 @@
     "nick_name": "zhang-song-rui",
     "user_id": 9089077,
     "avatar": "https://cdn-img.gitcode.com/ed/ad/988ed47a0dd7440ced42f485bd7726d10c9eb339fd985d2de3fc93fe0c7c5405.png?time=1769476892217",
-    "starred_repos": [
-      "cann/cann-samples"
-    ]
-  },
-  {
-    "user_name": "zengzihui",
-    "nick_name": "zengzihui",
-    "user_id": 7121697,
-    "avatar": "https://cdn-img.gitcode.com/af/ad/1a192f9a584d49aa9c203027d8cd81ed5ad7410149ac379bb257a85549147a5c.png?time=1767878081692",
     "starred_repos": [
       "cann/cann-samples"
     ]
@@ -37627,78 +37953,6 @@
     "user_name": "luo-yong-qing",
     "nick_name": "luo-yong-qing",
     "user_id": 6269549,
-    "avatar": null,
-    "starred_repos": [
-      "cann/cann-samples"
-    ]
-  },
-  {
-    "user_name": "deliciousmakima",
-    "nick_name": "deliciousmakima",
-    "user_id": 9393386,
-    "avatar": null,
-    "starred_repos": [
-      "cann/cann-samples"
-    ]
-  },
-  {
-    "user_name": "gcw_bTqMP71X",
-    "nick_name": "wkk",
-    "user_id": 9393160,
-    "avatar": "",
-    "starred_repos": [
-      "cann/cann-samples"
-    ]
-  },
-  {
-    "user_name": "gcw_HpX39bRh",
-    "nick_name": "fenfenchang",
-    "user_id": 10034525,
-    "avatar": "",
-    "starred_repos": [
-      "cann/cann-samples"
-    ]
-  },
-  {
-    "user_name": "c30076899",
-    "nick_name": "c30076899",
-    "user_id": 9134758,
-    "avatar": null,
-    "starred_repos": [
-      "cann/cann-samples"
-    ]
-  },
-  {
-    "user_name": "wangyueting",
-    "nick_name": "wangyueting",
-    "user_id": 9419031,
-    "avatar": null,
-    "starred_repos": [
-      "cann/cann-samples"
-    ]
-  },
-  {
-    "user_name": "xieyangyang",
-    "nick_name": "xieyangyang",
-    "user_id": 9418960,
-    "avatar": null,
-    "starred_repos": [
-      "cann/cann-samples"
-    ]
-  },
-  {
-    "user_name": "XW_wei",
-    "nick_name": "XW_wei",
-    "user_id": 9393532,
-    "avatar": null,
-    "starred_repos": [
-      "cann/cann-samples"
-    ]
-  },
-  {
-    "user_name": "wangyan189",
-    "nick_name": "wangyan189",
-    "user_id": 6810353,
     "avatar": null,
     "starred_repos": [
       "cann/cann-samples"
@@ -39717,6 +39971,15 @@
     ]
   },
   {
+    "user_name": "wuranxx",
+    "nick_name": "wuranxx",
+    "user_id": 11132907,
+    "avatar": null,
+    "starred_repos": [
+      "cann/amct"
+    ]
+  },
+  {
     "user_name": "Wendell",
     "nick_name": "Wendell",
     "user_id": 56545,
@@ -40656,6 +40919,15 @@
     ]
   },
   {
+    "user_name": "yanxiang123456",
+    "nick_name": "yanxiang123456",
+    "user_id": 11210499,
+    "avatar": null,
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ]
+  },
+  {
     "user_name": "met3or1te",
     "nick_name": "chenzijian",
     "user_id": 7008589,
@@ -41419,6 +41691,15 @@
     "avatar": "https://cdn-img.gitcode.com/da/da/d45ad5a44a4f8b1d0dc5c84cf6a63ed3bf4a5b3c67c14d32290f52d775051039.jpg",
     "starred_repos": [
       "cann/cann-learning-hub"
+    ]
+  },
+  {
+    "user_name": "jmc7771",
+    "nick_name": "泠然",
+    "user_id": 8751775,
+    "avatar": "https://cdn-img.gitcode.com/cf/ab/091c4f26a70bc7e2683e054dc74eb7f1152b071f4de4ac68da97b7bb3154f9f6.png?time=1778575408992",
+    "starred_repos": [
+      "cann/cann-bench"
     ]
   },
   {
