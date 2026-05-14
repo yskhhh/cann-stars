@@ -24,8 +24,8 @@
     {
       "name": "ops-cv",
       "path": "cann/ops-cv",
-      "avg_days": 3.6,
-      "closed": 359,
+      "avg_days": 3.7,
+      "closed": 362,
       "opened": 30
     },
     {
@@ -43,25 +43,25 @@
       "opened": 16
     },
     {
-      "name": "runtime",
-      "path": "cann/runtime",
-      "avg_days": 5.6,
-      "closed": 433,
-      "opened": 29
-    },
-    {
       "name": "ops-transformer",
       "path": "cann/ops-transformer",
-      "avg_days": 5.8,
-      "closed": 2201,
-      "opened": 123
+      "avg_days": 5.7,
+      "closed": 2212,
+      "opened": 129
+    },
+    {
+      "name": "runtime",
+      "path": "cann/runtime",
+      "avg_days": 5.7,
+      "closed": 435,
+      "opened": 29
     },
     {
       "name": "ops-nn",
       "path": "cann/ops-nn",
       "avg_days": 6.0,
-      "closed": 2415,
-      "opened": 184
+      "closed": 2425,
+      "opened": 182
     },
     {
       "name": "catlass",
@@ -80,9 +80,9 @@
     {
       "name": "pto-isa",
       "path": "cann/pto-isa",
-      "avg_days": 6.9,
-      "closed": 311,
-      "opened": 19
+      "avg_days": 7.0,
+      "closed": 312,
+      "opened": 22
     },
     {
       "name": "sip",
@@ -96,7 +96,7 @@
       "path": "cann/cannbot-skills",
       "avg_days": 7.1,
       "closed": 85,
-      "opened": 12
+      "opened": 13
     },
     {
       "name": "metadef",
@@ -108,16 +108,16 @@
     {
       "name": "opbase",
       "path": "cann/opbase",
-      "avg_days": 7.6,
-      "closed": 151,
-      "opened": 8
+      "avg_days": 7.5,
+      "closed": 154,
+      "opened": 5
     },
     {
       "name": "asc-devkit",
       "path": "cann/asc-devkit",
-      "avg_days": 8.2,
-      "closed": 568,
-      "opened": 69
+      "avg_days": 8.1,
+      "closed": 569,
+      "opened": 71
     },
     {
       "name": "triton-inference-server-ge-backend",
@@ -143,9 +143,9 @@
     {
       "name": "ops-math",
       "path": "cann/ops-math",
-      "avg_days": 8.6,
-      "closed": 1374,
-      "opened": 114
+      "avg_days": 8.5,
+      "closed": 1380,
+      "opened": 113
     },
     {
       "name": "ops-blas",
@@ -159,14 +159,14 @@
       "path": "cann/ascend-transformer-boost",
       "avg_days": 9.9,
       "closed": 263,
-      "opened": 12
+      "opened": 13
     },
     {
       "name": "ge",
       "path": "cann/ge",
       "avg_days": 10.2,
       "closed": 315,
-      "opened": 40
+      "opened": 42
     },
     {
       "name": "shmem",
@@ -185,16 +185,16 @@
     {
       "name": "hixl",
       "path": "cann/hixl",
-      "avg_days": 12.8,
-      "closed": 214,
-      "opened": 41
+      "avg_days": 12.7,
+      "closed": 216,
+      "opened": 39
     },
     {
       "name": "hcomm",
       "path": "cann/hcomm",
       "avg_days": 12.9,
       "closed": 180,
-      "opened": 22
+      "opened": 23
     },
     {
       "name": "driver",
@@ -213,9 +213,9 @@
     {
       "name": "community",
       "path": "cann/community",
-      "avg_days": 13.9,
-      "closed": 104,
-      "opened": 17
+      "avg_days": 14.0,
+      "closed": 105,
+      "opened": 16
     },
     {
       "name": "atvoss",
@@ -228,8 +228,8 @@
       "name": "pypto",
       "path": "cann/pypto",
       "avg_days": 14.8,
-      "closed": 1490,
-      "opened": 174
+      "closed": 1503,
+      "opened": 169
     },
     {
       "name": "torchtitan-npu",
@@ -283,9 +283,9 @@
     {
       "name": "cann-recipes-train",
       "path": "cann/cann-recipes-train",
-      "avg_days": 27.4,
-      "closed": 56,
-      "opened": 10
+      "avg_days": 27.3,
+      "closed": 57,
+      "opened": 9
     },
     {
       "name": "cann-recipes-spatial-intelligence",
@@ -297,8 +297,8 @@
     {
       "name": "ascend-boost-comm",
       "path": "cann/ascend-boost-comm",
-      "avg_days": 32.9,
-      "closed": 24,
+      "avg_days": 33.2,
+      "closed": 25,
       "opened": 4
     },
     {
@@ -306,8 +306,8 @@
       "path": "cann/infrastructure",
       "avg_days": 34.1,
       "closed": 73,
-      "opened": 31
+      "opened": 32
     }
   ],
-  "generated_at": "2026-05-13"
+  "generated_at": "2026-05-14"
 }
