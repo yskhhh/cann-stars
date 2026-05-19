@@ -1,5 +1,34 @@
 [
   {
+    "user_name": "xiu_ling_wang",
+    "nick_name": "xiu_ling_wang",
+    "user_id": 7042561,
+    "avatar": null,
+    "starred_repos": [
+      "cann/ops-math",
+      "cann/catlass"
+    ]
+  },
+  {
+    "user_name": "SearchB",
+    "nick_name": "thomas",
+    "user_id": 10275430,
+    "avatar": "https://cdn-img.gitcode.com/db/ca/0d53b00cae163363ec5e53a776e04617771a99c609cba1e0c439314d3f776aa5.png",
+    "starred_repos": [
+      "cann/ops-math"
+    ]
+  },
+  {
+    "user_name": "ChipCamp",
+    "nick_name": "ChipCamp",
+    "user_id": 5972130,
+    "avatar": "https://cdn-img.gitcode.com/bc/dc/b0c74280778d4cfae90d279d8d770561e60e3fcecf6a9e048d66447807ab8527.png?time=1750769939438",
+    "starred_repos": [
+      "cann/ops-math",
+      "cann/ops-transformer"
+    ]
+  },
+  {
     "user_name": "weixin_45569069",
     "nick_name": "今天我肥了吗",
     "user_id": 1357220,
@@ -19,16 +48,6 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/ops-cv"
-    ]
-  },
-  {
-    "user_name": "ChipCamp",
-    "nick_name": "ChipCamp",
-    "user_id": 5972130,
-    "avatar": "https://cdn-img.gitcode.com/bc/dc/b0c74280778d4cfae90d279d8d770561e60e3fcecf6a9e048d66447807ab8527.png?time=1750769939438",
-    "starred_repos": [
-      "cann/ops-math",
-      "cann/ops-transformer"
     ]
   },
   {
@@ -662,7 +681,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -950,7 +969,8 @@
     "avatar": null,
     "starred_repos": [
       "cann/ops-math",
-      "cann/ops-transformer"
+      "cann/ops-transformer",
+      "cann/cannbot-skills"
     ]
   },
   {
@@ -1417,7 +1437,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/ascend-boost-comm",
@@ -1611,7 +1631,7 @@
       "cann/asnumpy",
       "cann/amct",
       "cann/driver",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/cann-recipes-spatial-intelligence"
     ]
   },
@@ -1642,7 +1662,7 @@
       "cann/atvoss",
       "cann/amct",
       "cann/oam-tools",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/asc-tools",
       "cann/cann-recipes-spatial-intelligence",
       "cann/ascend-boost-comm",
@@ -2090,7 +2110,7 @@
       "cann/ops-nn",
       "cann/hccl",
       "cann/ascend-transformer-boost",
-      "cann/cann-recipes-embodied-intelligence"
+      "cann/cann-recipes-embodied-ai"
     ]
   },
   {
@@ -2167,6 +2187,7 @@
       "cann/ops-transformer",
       "cann/cannbot-skills",
       "cann/cann-recipes-infer",
+      "cann/cann-recipes-train",
       "cann/ascend-transformer-boost",
       "cann/asnumpy"
     ]
@@ -2291,7 +2312,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -2364,7 +2385,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -2407,7 +2428,7 @@
       "cann/amct",
       "cann/oam-tools",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -2467,7 +2488,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -2512,7 +2533,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -2557,7 +2578,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -2602,7 +2623,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -2647,7 +2668,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -2688,7 +2709,7 @@
       "cann/amct",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -2734,7 +2755,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -2781,7 +2802,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -2827,7 +2848,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -2872,7 +2893,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -2918,7 +2939,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -2962,7 +2983,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -3009,7 +3030,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -3054,7 +3075,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -3098,7 +3119,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -3256,7 +3277,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -3319,7 +3340,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -3359,7 +3380,7 @@
       "cann/amct",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -3402,7 +3423,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -3447,7 +3468,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -3491,7 +3512,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -3580,7 +3601,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -3623,7 +3644,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -3667,7 +3688,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -3712,7 +3733,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -3758,7 +3779,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -3799,7 +3820,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -3844,7 +3865,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -3889,7 +3910,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -3934,7 +3955,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -3979,7 +4000,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -4024,7 +4045,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -4068,7 +4089,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -4114,7 +4135,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -4160,7 +4181,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -4204,7 +4225,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -4249,7 +4270,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -4293,7 +4314,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -4339,7 +4360,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -4383,7 +4404,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -4428,7 +4449,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -4473,7 +4494,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -4514,7 +4535,7 @@
       "cann/pyasc",
       "cann/oam-tools",
       "cann/driver",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -4555,7 +4576,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -4601,7 +4622,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -4646,7 +4667,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/asc-tools",
       "cann/cann-recipes-spatial-intelligence",
       "cann/ascend-boost-comm",
@@ -4691,7 +4712,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -4736,7 +4757,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -4779,7 +4800,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -4848,7 +4869,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -4891,7 +4912,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -4935,7 +4956,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-spatial-intelligence",
@@ -4978,7 +4999,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -5046,7 +5067,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -5129,7 +5150,7 @@
       "cann/hcomm",
       "cann/pyasc",
       "cann/oam-tools",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-spatial-intelligence",
@@ -5169,7 +5190,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -5214,7 +5235,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/cann-recipes-spatial-intelligence",
@@ -5259,7 +5280,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/cann-recipes-spatial-intelligence",
@@ -5304,7 +5325,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/cann-recipes-spatial-intelligence",
@@ -5360,7 +5381,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -5406,7 +5427,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -5451,7 +5472,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -5497,7 +5518,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -5542,7 +5563,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -5588,7 +5609,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -5634,7 +5655,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -5678,7 +5699,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -5722,7 +5743,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -5768,7 +5789,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -5843,7 +5864,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -5890,7 +5911,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -5937,7 +5958,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -5982,7 +6003,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -6027,7 +6048,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -6071,7 +6092,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -6111,7 +6132,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-spatial-intelligence",
@@ -6154,7 +6175,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -6199,7 +6220,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -6244,7 +6265,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -6289,7 +6310,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -6333,7 +6354,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -6376,7 +6397,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -6421,7 +6442,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -6466,7 +6487,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -6511,7 +6532,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -6556,7 +6577,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -6601,7 +6622,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -6646,7 +6667,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -6704,7 +6725,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -6751,7 +6772,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -6796,7 +6817,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -6841,7 +6862,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -6884,7 +6905,7 @@
       "cann/amct",
       "cann/oam-tools",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -6928,7 +6949,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -6974,7 +6995,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -7047,7 +7068,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -7092,7 +7113,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/cann-recipes-spatial-intelligence",
@@ -7181,7 +7202,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -7225,7 +7246,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -7263,7 +7284,7 @@
       "cann/amct",
       "cann/oam-tools",
       "cann/driver",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/asc-tools",
       "cann/cann-recipes-spatial-intelligence",
       "cann/ascend-boost-comm",
@@ -7318,7 +7339,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -7359,7 +7380,7 @@
       "cann/amct",
       "cann/oam-tools",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -7422,7 +7443,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -7518,7 +7539,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-spatial-intelligence",
@@ -7708,7 +7729,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -7734,7 +7755,8 @@
       "cann/ops-cv",
       "cann/cann-samples",
       "cann/atvoss",
-      "cann/ops-test-kit"
+      "cann/ops-test-kit",
+      "cann/cann-competitions"
     ]
   },
   {
@@ -8207,7 +8229,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -8293,7 +8315,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-spatial-intelligence",
@@ -8451,7 +8473,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -8870,7 +8892,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-spatial-intelligence",
@@ -8959,7 +8981,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -9050,7 +9072,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -9238,7 +9260,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -9698,7 +9720,7 @@
       "cann/pyasc",
       "cann/atvoss",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-spatial-intelligence",
@@ -10019,7 +10041,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -10476,7 +10498,7 @@
       "cann/community",
       "cann/cann-recipes-infer",
       "cann/opbase",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/cann-learning-hub"
     ]
   },
@@ -10611,7 +10633,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -10624,8 +10646,8 @@
       "cann/shmem",
       "cann/cann-learning-hub",
       "cann/cann-bench",
-      "cann/ops-blas",
       "cann/cann-competitions",
+      "cann/ops-blas",
       "cann/ops-tensor",
       "cann/catccos",
       "cann/mat-chem-sim-pred",
@@ -10673,7 +10695,7 @@
       "cann/hcomm",
       "cann/amct",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-spatial-intelligence",
@@ -11312,7 +11334,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -11842,7 +11864,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -11891,7 +11913,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -11937,7 +11959,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -11982,7 +12004,7 @@
       "cann/amct",
       "cann/oam-tools",
       "cann/driver",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -12026,7 +12048,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -12080,7 +12102,7 @@
       "cann/amct",
       "cann/oam-tools",
       "cann/driver",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
       "cann/cann-recipes-spatial-intelligence",
@@ -12418,16 +12440,6 @@
     ]
   },
   {
-    "user_name": "xiu_ling_wang",
-    "nick_name": "xiu_ling_wang",
-    "user_id": 7042561,
-    "avatar": null,
-    "starred_repos": [
-      "cann/ops-math",
-      "cann/catlass"
-    ]
-  },
-  {
     "user_name": "ZhaiPeiChao",
     "nick_name": "ZhaiPeiChao",
     "user_id": 6487537,
@@ -12443,7 +12455,9 @@
       "cann/graph-autofusion",
       "cann/runtime",
       "cann/metadef",
+      "cann/asc-devkit",
       "cann/cann-recipes-train",
+      "cann/pyasc",
       "cann/triton-inference-server-ge-backend"
     ]
   },
@@ -12512,7 +12526,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -12822,7 +12836,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -12971,6 +12985,7 @@
     "avatar": "",
     "starred_repos": [
       "cann/ops-math",
+      "cann/ops-transformer",
       "cann/community",
       "cann/opbase"
     ]
@@ -13742,7 +13757,7 @@
       "cann/asc-devkit",
       "cann/catlass",
       "cann/amct",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/atvc",
       "cann/cann-learning-hub",
       "cann/cann-competitions",
@@ -14658,7 +14673,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -14893,7 +14908,7 @@
   },
   {
     "user_name": "wang_yinqiang",
-    "nick_name": "wang_yinqiang",
+    "nick_name": "yyqq",
     "user_id": 5580403,
     "avatar": null,
     "starred_repos": [
@@ -15630,7 +15645,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -16173,7 +16188,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -16243,7 +16258,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -16446,7 +16461,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-spatial-intelligence",
@@ -16480,7 +16495,7 @@
       "cann/pyasc",
       "cann/atvoss",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-spatial-intelligence",
@@ -16607,7 +16622,7 @@
       "cann/pyasc",
       "cann/atvoss",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-spatial-intelligence",
@@ -16739,7 +16754,7 @@
       "cann/asc-devkit",
       "cann/cann-samples",
       "cann/asnumpy",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/ops-test-kit"
     ]
   },
@@ -16962,7 +16977,7 @@
       "cann/amct",
       "cann/oam-tools",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/ascend-boost-comm",
@@ -17074,7 +17089,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-spatial-intelligence",
@@ -17083,6 +17098,15 @@
       "cann/infrastructure",
       "cann/cann-bench",
       "cann/cann-competitions"
+    ]
+  },
+  {
+    "user_name": "lianhai_lh",
+    "nick_name": "恋海",
+    "user_id": 4087797,
+    "avatar": "https://cdn-img.gitcode.com/ee/fc/01e66146563e38793fc0ab568fe06479ba5770d5f1681c369c78f682ac27180d.jpg",
+    "starred_repos": [
+      "cann/ops-transformer"
     ]
   },
   {
@@ -17574,7 +17598,7 @@
       "cann/metadef",
       "cann/cann-recipes-train",
       "cann/amct",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/cann-recipes-spatial-intelligence"
     ]
   },
@@ -17906,7 +17930,7 @@
     "user_name": "zhangzhuopan",
     "nick_name": "zhangzhuopan",
     "user_id": 331340,
-    "avatar": "https://cdn-img.gitcode.com/bd/ec/b9096d3e1ca75b49849f40baedcc184b22bcecea6bc8cd4d9dcfd19ca3b0ee56.png",
+    "avatar": "https://cdn-img.gitcode.com/aa/cd/0903a8ac09d407c398f716418e6763485821702e3a9d99727e4aeab418c5c286.png?time=1779159798039",
     "starred_repos": [
       "cann/ops-transformer",
       "cann/cannbot-skills",
@@ -18250,8 +18274,8 @@
     ]
   },
   {
-    "user_name": "Molly111125",
-    "nick_name": "Molly111125",
+    "user_name": "Liiii159573",
+    "nick_name": "蓝色圣托里尼",
     "user_id": 3526756,
     "avatar": "https://cdn-img.gitcode.com/cb/ea/c522beaf25872040c686a4c0a25efb666fe177116d69fc291b3559cea27b000b.png?time=1774922097609",
     "starred_repos": [
@@ -18641,7 +18665,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -18686,7 +18710,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/sip",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
@@ -19256,7 +19280,7 @@
       "cann/ops-nn",
       "cann/cann-recipes-train",
       "cann/ascend-transformer-boost",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/cann-recipes-harmony-infer",
       "cann/cann-recipes-spatial-intelligence",
       "cann/ascend-boost-comm"
@@ -19524,7 +19548,7 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/asc-tools",
       "cann/cann-recipes-harmony-infer",
       "cann/cann-recipes-spatial-intelligence",
@@ -19967,7 +19991,7 @@
       "cann/metadef",
       "cann/cann-recipes-train",
       "cann/amct",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/cann-recipes-harmony-infer",
       "cann/cann-recipes-spatial-intelligence",
       "cann/shmem"
@@ -21144,6 +21168,24 @@
     "avatar": null,
     "starred_repos": [
       "cann/ops-transformer"
+    ]
+  },
+  {
+    "user_name": "ichaoren",
+    "nick_name": "ichaoren",
+    "user_id": 10170651,
+    "avatar": null,
+    "starred_repos": [
+      "cann/cannbot-skills"
+    ]
+  },
+  {
+    "user_name": "gcw_IVkTMYHC",
+    "nick_name": "caracal",
+    "user_id": 9443225,
+    "avatar": "https://cdn-img.gitcode.com/ae/cf/6ae4c5f266a9450ffd68976e2f7e6c33d492a08e049bd31f2a687abf6d2c4801.jpg?time=1766379363091",
+    "starred_repos": [
+      "cann/cannbot-skills"
     ]
   },
   {
@@ -23349,7 +23391,7 @@
       "cann/cann-recipes-infer",
       "cann/hixl",
       "cann/cann-recipes-train",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/cann-recipes-spatial-intelligence",
       "cann/torchtitan-npu"
     ]
@@ -23404,7 +23446,7 @@
       "cann/ops-nn",
       "cann/cann-recipes-train",
       "cann/cann-samples",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/cann-recipes-spatial-intelligence"
     ]
   },
@@ -23895,7 +23937,7 @@
       "cann/cann-recipes-infer",
       "cann/ops-nn",
       "cann/cann-recipes-train",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/cann-recipes-harmony-infer",
       "cann/cann-recipes-spatial-intelligence",
       "cann/torchtitan-npu"
@@ -24004,7 +24046,7 @@
     "starred_repos": [
       "cann/cannbot-skills",
       "cann/cann-recipes-infer",
-      "cann/cann-recipes-embodied-intelligence"
+      "cann/cann-recipes-embodied-ai"
     ]
   },
   {
@@ -24580,7 +24622,7 @@
       "cann/metadef",
       "cann/cann-recipes-train",
       "cann/amct",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/cann-recipes-spatial-intelligence"
     ]
   },
@@ -24844,7 +24886,7 @@
       "cann/metadef",
       "cann/cann-recipes-train",
       "cann/amct",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/cann-recipes-spatial-intelligence"
     ]
   },
@@ -25015,6 +25057,15 @@
       "cann/ops-nn",
       "cann/pypto",
       "cann/cann-samples"
+    ]
+  },
+  {
+    "user_name": "m0_63642614",
+    "nick_name": " Bug_制造者",
+    "user_id": 136220,
+    "avatar": "https://cdn-img.gitcode.com/db/fa/336d99bfa5e38facdcc480ffdee2e92e4d55a65922ba30eac7dda6dadaf71769.png?time=1756342016469",
+    "starred_repos": [
+      "cann/community"
     ]
   },
   {
@@ -26897,7 +26948,7 @@
     "starred_repos": [
       "cann/cann-recipes-infer",
       "cann/cann-recipes-train",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/cann-recipes-spatial-intelligence"
     ]
   },
@@ -27061,7 +27112,7 @@
       "cann/metadef",
       "cann/cann-recipes-train",
       "cann/amct",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/cann-recipes-spatial-intelligence"
     ]
   },
@@ -27105,7 +27156,7 @@
       "cann/cann-recipes-infer",
       "cann/graph-autofusion",
       "cann/cann-recipes-train",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/cann-recipes-spatial-intelligence"
     ]
   },
@@ -27869,7 +27920,7 @@
     "avatar": null,
     "starred_repos": [
       "cann/cann-recipes-infer",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/cann-recipes-spatial-intelligence"
     ]
   },
@@ -27936,7 +27987,7 @@
       "cann/metadef",
       "cann/cann-recipes-train",
       "cann/amct",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/cann-recipes-spatial-intelligence"
     ]
   },
@@ -27995,7 +28046,7 @@
       "cann/cann-recipes-infer",
       "cann/pypto",
       "cann/cann-recipes-train",
-      "cann/cann-recipes-embodied-intelligence",
+      "cann/cann-recipes-embodied-ai",
       "cann/cann-recipes-spatial-intelligence"
     ]
   },
@@ -29002,6 +29053,15 @@
     "avatar": "",
     "starred_repos": [
       "cann/cann-recipes-infer"
+    ]
+  },
+  {
+    "user_name": "yuyuanfeng",
+    "nick_name": "yuyuanfeng",
+    "user_id": 11138273,
+    "avatar": null,
+    "starred_repos": [
+      "cann/ops-nn"
     ]
   },
   {
@@ -30167,6 +30227,25 @@
     "avatar": "https://cdn-img.gitcode.com/eb/ed/941785e4be6689721721d2eb7dbb89ba25e980e3496a26f4dcbd3bd00d2622f9.jpg",
     "starred_repos": [
       "cann/ops-nn"
+    ]
+  },
+  {
+    "user_name": "qq_43499814",
+    "nick_name": "qq_43499814",
+    "user_id": 4624925,
+    "avatar": "https://cdn-img.gitcode.com/ee/df/7806e4e45444d03fe39abe4f64a0a1355fedde3ac4b1bbf8334874022c9ab23f.png",
+    "starred_repos": [
+      "cann/hixl"
+    ]
+  },
+  {
+    "user_name": "gcw_M5Xrk6cX",
+    "nick_name": "liuao",
+    "user_id": 5081849,
+    "avatar": "",
+    "starred_repos": [
+      "cann/hixl",
+      "cann/hccl"
     ]
   },
   {
@@ -31696,7 +31775,7 @@
       "cann/hixl",
       "cann/ge",
       "cann/metadef",
-      "cann/cann-recipes-embodied-intelligence"
+      "cann/cann-recipes-embodied-ai"
     ]
   },
   {
@@ -32426,6 +32505,53 @@
     "avatar": "",
     "starred_repos": [
       "cann/opbase"
+    ]
+  },
+  {
+    "user_name": "gcw_2mqml1vq",
+    "nick_name": "gcw_2mqml1vq",
+    "user_id": 7845265,
+    "avatar": "",
+    "starred_repos": [
+      "cann/ge",
+      "cann/graph-autofusion",
+      "cann/metadef"
+    ]
+  },
+  {
+    "user_name": "gcw_RQTRuoC1",
+    "nick_name": "gcw_RQTRuoC1",
+    "user_id": 11307373,
+    "avatar": "",
+    "starred_repos": [
+      "cann/ge"
+    ]
+  },
+  {
+    "user_name": "ohos_dev",
+    "nick_name": "ohos_dev",
+    "user_id": 4356199,
+    "avatar": null,
+    "starred_repos": [
+      "cann/ge"
+    ]
+  },
+  {
+    "user_name": "dernigede",
+    "nick_name": "dernigede",
+    "user_id": 11307209,
+    "avatar": null,
+    "starred_repos": [
+      "cann/ge"
+    ]
+  },
+  {
+    "user_name": "zhang946766897",
+    "nick_name": "zhang946766897",
+    "user_id": 11307129,
+    "avatar": null,
+    "starred_repos": [
+      "cann/ge"
     ]
   },
   {
@@ -33275,7 +33401,8 @@
     "starred_repos": [
       "cann/ge",
       "cann/graph-autofusion",
-      "cann/metadef"
+      "cann/metadef",
+      "cann/hccl"
     ]
   },
   {
@@ -34385,6 +34512,25 @@
     ]
   },
   {
+    "user_name": "accofkaguya",
+    "nick_name": "accofkaguya",
+    "user_id": 10905842,
+    "avatar": null,
+    "starred_repos": [
+      "cann/pypto",
+      "cann/cann-learning-hub"
+    ]
+  },
+  {
+    "user_name": "youlz",
+    "nick_name": "youlz",
+    "user_id": 5636562,
+    "avatar": "https://cdn-img.gitcode.com/ea/ff/980e543a65ff213a63d0981499de6a11cf7bb8e0c7af9b781e7b28970fc9b4ff.jpg",
+    "starred_repos": [
+      "cann/pypto"
+    ]
+  },
+  {
     "user_name": "paintstar",
     "nick_name": "paintstar",
     "user_id": 11221287,
@@ -34543,7 +34689,8 @@
     "user_id": 7065317,
     "avatar": "https://cdn-img.gitcode.com/bc/fb/165594b0c91fb4c6a30bf39a5d748ba090ddfa3c9309cacc288246049a37015b.jpeg?time=1764639722936",
     "starred_repos": [
-      "cann/pypto"
+      "cann/pypto",
+      "cann/cann-outreach"
     ]
   },
   {
@@ -34871,7 +35018,7 @@
     "avatar": "https://cdn-img.gitcode.com/de/bc/6344612d4e3432882b16cf8c63d8f69b783f93a1b04f8197769a1e1ea306493a.png?time=1776675148243",
     "starred_repos": [
       "cann/pypto",
-      "cann/cann-recipes-embodied-intelligence"
+      "cann/cann-recipes-embodied-ai"
     ]
   },
   {
@@ -36372,8 +36519,26 @@
     ]
   },
   {
+    "user_name": "guozhifeng",
+    "nick_name": "guozhifeng",
+    "user_id": 389563,
+    "avatar": null,
+    "starred_repos": [
+      "cann/graph-autofusion"
+    ]
+  },
+  {
+    "user_name": "JerryBai25",
+    "nick_name": "JerryBai25",
+    "user_id": 7772192,
+    "avatar": null,
+    "starred_repos": [
+      "cann/graph-autofusion"
+    ]
+  },
+  {
     "user_name": "gcw_8foqD0kz",
-    "nick_name": "gcw_8foqD0kz",
+    "nick_name": "nevermore",
     "user_id": 10003859,
     "avatar": "",
     "starred_repos": [
@@ -37176,15 +37341,6 @@
     ]
   },
   {
-    "user_name": "gcw_2mqml1vq",
-    "nick_name": "gcw_2mqml1vq",
-    "user_id": 7845265,
-    "avatar": "",
-    "starred_repos": [
-      "cann/graph-autofusion"
-    ]
-  },
-  {
     "user_name": "qq_34581217",
     "nick_name": "zhanfeiran",
     "user_id": 1204599,
@@ -37265,6 +37421,15 @@
     "avatar": null,
     "starred_repos": [
       "cann/graph-autofusion"
+    ]
+  },
+  {
+    "user_name": "liu_huilin",
+    "nick_name": "liu_huilin",
+    "user_id": 9701627,
+    "avatar": null,
+    "starred_repos": [
+      "cann/runtime"
     ]
   },
   {
@@ -38002,6 +38167,15 @@
     "starred_repos": [
       "cann/metadef",
       "cann/hccl"
+    ]
+  },
+  {
+    "user_name": "lion_tra",
+    "nick_name": "lion_tra",
+    "user_id": 11314044,
+    "avatar": null,
+    "starred_repos": [
+      "cann/asc-devkit"
     ]
   },
   {
@@ -40419,6 +40593,15 @@
     ]
   },
   {
+    "user_name": "gcw_ljYmrbMw",
+    "nick_name": "hzhuang",
+    "user_id": 10587010,
+    "avatar": "",
+    "starred_repos": [
+      "cann/ascend-transformer-boost"
+    ]
+  },
+  {
     "user_name": "shawoxing",
     "nick_name": "沙沃兴",
     "user_id": 3426770,
@@ -40835,8 +41018,8 @@
     ]
   },
   {
-    "user_name": "sinat_38685910",
-    "nick_name": "FZZT",
+    "user_name": "xiongwu",
+    "nick_name": "bear",
     "user_id": 2387734,
     "avatar": "https://cdn-img.gitcode.com/ff/fc/fff537ce8b90abd4bb7482fda3e0fb79fabe842b5f52df99ef2dd95a5042a708.png",
     "starred_repos": [
@@ -42268,7 +42451,7 @@
     "user_id": 8153027,
     "avatar": "",
     "starred_repos": [
-      "cann/cann-recipes-embodied-intelligence"
+      "cann/cann-recipes-embodied-ai"
     ]
   },
   {
@@ -42277,7 +42460,7 @@
     "user_id": 4182740,
     "avatar": "https://cdn-img.gitcode.com/dc/bb/50d0c41bb03e9190e900c691de6e75b565a4ebe85e3377891f2b62eaac83984a.png",
     "starred_repos": [
-      "cann/cann-recipes-embodied-intelligence"
+      "cann/cann-recipes-embodied-ai"
     ]
   },
   {
@@ -42286,7 +42469,7 @@
     "user_id": 5295841,
     "avatar": null,
     "starred_repos": [
-      "cann/cann-recipes-embodied-intelligence"
+      "cann/cann-recipes-embodied-ai"
     ]
   },
   {
@@ -42295,7 +42478,7 @@
     "user_id": 10180573,
     "avatar": "",
     "starred_repos": [
-      "cann/cann-recipes-embodied-intelligence"
+      "cann/cann-recipes-embodied-ai"
     ]
   },
   {
@@ -42304,7 +42487,7 @@
     "user_id": 10666313,
     "avatar": "",
     "starred_repos": [
-      "cann/cann-recipes-embodied-intelligence"
+      "cann/cann-recipes-embodied-ai"
     ]
   },
   {
@@ -42313,7 +42496,7 @@
     "user_id": 3998182,
     "avatar": null,
     "starred_repos": [
-      "cann/cann-recipes-embodied-intelligence"
+      "cann/cann-recipes-embodied-ai"
     ]
   },
   {
@@ -42322,7 +42505,7 @@
     "user_id": 5111091,
     "avatar": "https://cdn-img.gitcode.com/be/da/bed26afe14921098d5a1d20e6ae8a4ed66f74c1c3cc463955f0da3a76ed47f51.png",
     "starred_repos": [
-      "cann/cann-recipes-embodied-intelligence"
+      "cann/cann-recipes-embodied-ai"
     ]
   },
   {
@@ -42331,7 +42514,7 @@
     "user_id": 10501070,
     "avatar": null,
     "starred_repos": [
-      "cann/cann-recipes-embodied-intelligence"
+      "cann/cann-recipes-embodied-ai"
     ]
   },
   {
@@ -42340,7 +42523,7 @@
     "user_id": 84914,
     "avatar": "https://cdn-img.gitcode.com/cf/eb/266c5f9548eb1b0d870e12e6eabe64a6aef70e0cd3e52ee6ca896350ea35098c.png?time=1762915260290",
     "starred_repos": [
-      "cann/cann-recipes-embodied-intelligence"
+      "cann/cann-recipes-embodied-ai"
     ]
   },
   {
@@ -42349,7 +42532,7 @@
     "user_id": 6045444,
     "avatar": "https://cdn-img.gitcode.com/cd/bb/cdb77bf4d5559a0eab8556203cf9c025431b35abb22ea5cc3d85153dd3799d83.png",
     "starred_repos": [
-      "cann/cann-recipes-embodied-intelligence"
+      "cann/cann-recipes-embodied-ai"
     ]
   },
   {
@@ -42358,7 +42541,7 @@
     "user_id": 806934,
     "avatar": "https://cdn-img.gitcode.com/ca/fe/323c4a35feb37d6bec3910a98a427ca340c7eb1917c5775970fc2dc7a4ad2e99.png",
     "starred_repos": [
-      "cann/cann-recipes-embodied-intelligence"
+      "cann/cann-recipes-embodied-ai"
     ]
   },
   {
@@ -42367,7 +42550,7 @@
     "user_id": 7052154,
     "avatar": "https://cdn-img.gitcode.com/ad/be/8ad4092b22e92ed17bafbde26b338a3573ce4da3b1bd650a6fbdb034141c52f0.jpg",
     "starred_repos": [
-      "cann/cann-recipes-embodied-intelligence"
+      "cann/cann-recipes-embodied-ai"
     ]
   },
   {
@@ -42376,7 +42559,7 @@
     "user_id": 9883281,
     "avatar": "",
     "starred_repos": [
-      "cann/cann-recipes-embodied-intelligence"
+      "cann/cann-recipes-embodied-ai"
     ]
   },
   {
@@ -42385,7 +42568,7 @@
     "user_id": 6234434,
     "avatar": "https://cdn-img.gitcode.com/ce/ae/43013c4247255ea0800568eccd2b56473b1c5aa6a3140f8d38c69d6fb4baae7f.png?time=1768292883104",
     "starred_repos": [
-      "cann/cann-recipes-embodied-intelligence"
+      "cann/cann-recipes-embodied-ai"
     ]
   },
   {
@@ -42394,7 +42577,7 @@
     "user_id": 6887661,
     "avatar": "https://cdn-img.gitcode.com/db/cc/5398757db3703303c1c4abb1e2a6fd4c86ab672544fa21a7a9af7a0dc0d9b5a5.png?time=1777543124862",
     "starred_repos": [
-      "cann/cann-recipes-embodied-intelligence"
+      "cann/cann-recipes-embodied-ai"
     ]
   },
   {
@@ -42403,7 +42586,7 @@
     "user_id": 5676563,
     "avatar": "https://cdn-img.gitcode.com/ba/fb/81026ba8f5644405b32f2362b7ea3957004df35b3dc9f198ac4b97d67a3abed1.png",
     "starred_repos": [
-      "cann/cann-recipes-embodied-intelligence"
+      "cann/cann-recipes-embodied-ai"
     ]
   },
   {
@@ -42412,7 +42595,7 @@
     "user_id": 7217465,
     "avatar": null,
     "starred_repos": [
-      "cann/cann-recipes-embodied-intelligence"
+      "cann/cann-recipes-embodied-ai"
     ]
   },
   {
@@ -42421,7 +42604,7 @@
     "user_id": 9746211,
     "avatar": null,
     "starred_repos": [
-      "cann/cann-recipes-embodied-intelligence"
+      "cann/cann-recipes-embodied-ai"
     ]
   },
   {
@@ -42430,7 +42613,7 @@
     "user_id": 1155986,
     "avatar": "https://cdn-img.gitcode.com/da/bf/3d34a09b4f864aadf33d47d6401f8f6e0caebcd2f214c82ea55a842873649624.png?time=1773035880527",
     "starred_repos": [
-      "cann/cann-recipes-embodied-intelligence"
+      "cann/cann-recipes-embodied-ai"
     ]
   },
   {
@@ -42439,7 +42622,7 @@
     "user_id": 6516593,
     "avatar": "",
     "starred_repos": [
-      "cann/cann-recipes-embodied-intelligence"
+      "cann/cann-recipes-embodied-ai"
     ]
   },
   {
@@ -42448,7 +42631,7 @@
     "user_id": 6291743,
     "avatar": "",
     "starred_repos": [
-      "cann/cann-recipes-embodied-intelligence"
+      "cann/cann-recipes-embodied-ai"
     ]
   },
   {
@@ -42457,7 +42640,7 @@
     "user_id": 1473349,
     "avatar": "https://cdn-img.gitcode.com/ca/ee/0ca0ee449dd0c88007c791b4b316e053b0b2d4f9c9b7dc71b1913558d3682535.png",
     "starred_repos": [
-      "cann/cann-recipes-embodied-intelligence"
+      "cann/cann-recipes-embodied-ai"
     ]
   },
   {
@@ -42466,7 +42649,7 @@
     "user_id": 6006044,
     "avatar": "",
     "starred_repos": [
-      "cann/cann-recipes-embodied-intelligence"
+      "cann/cann-recipes-embodied-ai"
     ]
   },
   {
@@ -42475,7 +42658,7 @@
     "user_id": 2906737,
     "avatar": "https://cdn-img.gitcode.com/fe/ca/1f9ec52a888d53d031d3f97e21bc145c97ed5245e677139af7d269924382d631.png",
     "starred_repos": [
-      "cann/cann-recipes-embodied-intelligence"
+      "cann/cann-recipes-embodied-ai"
     ]
   },
   {
@@ -43372,15 +43555,6 @@
     ]
   },
   {
-    "user_name": "accofkaguya",
-    "nick_name": "accofkaguya",
-    "user_id": 10905842,
-    "avatar": null,
-    "starred_repos": [
-      "cann/cann-learning-hub"
-    ]
-  },
-  {
     "user_name": "forgetthekey",
     "nick_name": "∣ξ∣",
     "user_id": 8365862,
@@ -43723,33 +43897,6 @@
     ]
   },
   {
-    "user_name": "sushaGo",
-    "nick_name": "sushaGo",
-    "user_id": 9645314,
-    "avatar": null,
-    "starred_repos": [
-      "cann/ops-blas"
-    ]
-  },
-  {
-    "user_name": "gcw_nrO5EEDt",
-    "nick_name": "gcw_nrO5EEDt",
-    "user_id": 10754787,
-    "avatar": "",
-    "starred_repos": [
-      "cann/ops-blas"
-    ]
-  },
-  {
-    "user_name": "2302_77046878",
-    "nick_name": "早点睡",
-    "user_id": 214494,
-    "avatar": "https://cdn-img.gitcode.com/fc/da/3fc3835d5a287a6b293c8bcc47aeb854302e256d460becc9002bd9e8c9d25075.png?time=1773365724721",
-    "starred_repos": [
-      "cann/ops-blas"
-    ]
-  },
-  {
     "user_name": "faenc15",
     "nick_name": "barbarlkirkcarr-beep",
     "user_id": 10636490,
@@ -43774,6 +43921,33 @@
     "avatar": "https://cdn-img.gitcode.com/fa/ca/23f7a16240c2ada5056774068837f7a52b91e2f162a4fe9e06d37ebd37d22afd.jpg",
     "starred_repos": [
       "cann/cann-competitions"
+    ]
+  },
+  {
+    "user_name": "sushaGo",
+    "nick_name": "sushaGo",
+    "user_id": 9645314,
+    "avatar": null,
+    "starred_repos": [
+      "cann/ops-blas"
+    ]
+  },
+  {
+    "user_name": "gcw_nrO5EEDt",
+    "nick_name": "gcw_nrO5EEDt",
+    "user_id": 10754787,
+    "avatar": "",
+    "starred_repos": [
+      "cann/ops-blas"
+    ]
+  },
+  {
+    "user_name": "2302_77046878",
+    "nick_name": "早点睡",
+    "user_id": 214494,
+    "avatar": "https://cdn-img.gitcode.com/fc/da/3fc3835d5a287a6b293c8bcc47aeb854302e256d460becc9002bd9e8c9d25075.png?time=1773365724721",
+    "starred_repos": [
+      "cann/ops-blas"
     ]
   },
   {
