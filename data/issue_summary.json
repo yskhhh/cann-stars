@@ -144,7 +144,7 @@
       "name": "asc-devkit",
       "path": "cann/asc-devkit",
       "avg_days": 8.2,
-      "closed": 639,
+      "closed": 640,
       "opened": 55
     },
     {
@@ -152,7 +152,7 @@
       "path": "cann/ops-math",
       "avg_days": 8.4,
       "closed": 1449,
-      "opened": 131
+      "opened": 132
     },
     {
       "name": "ascend-transformer-boost",
@@ -208,7 +208,7 @@
       "path": "cann/pyasc",
       "avg_days": 13.2,
       "closed": 31,
-      "opened": 0
+      "opened": 1
     },
     {
       "name": "torchtitan-npu",
@@ -229,7 +229,7 @@
       "path": "cann/pypto",
       "avg_days": 14.4,
       "closed": 1634,
-      "opened": 195
+      "opened": 196
     },
     {
       "name": "atvoss",
@@ -269,9 +269,9 @@
     {
       "name": "asnumpy",
       "path": "cann/asnumpy",
-      "avg_days": 25.0,
-      "closed": 10,
-      "opened": 13
+      "avg_days": 23.1,
+      "closed": 11,
+      "opened": 12
     },
     {
       "name": "ops-solver",
@@ -316,5 +316,5 @@
       "opened": 35
     }
   ],
-  "generated_at": "2026-05-23"
+  "generated_at": "2026-05-24"
 }
