@@ -26,14 +26,14 @@
       "path": "cann/ops-cv",
       "avg_days": 4.3,
       "closed": 447,
-      "opened": 16
+      "opened": 17
     },
     {
       "name": "cann-bench",
       "path": "cann/cann-bench",
       "avg_days": 4.4,
       "closed": 23,
-      "opened": 5
+      "opened": 6
     },
     {
       "name": "ops-collections",
@@ -59,30 +59,30 @@
     {
       "name": "ops-transformer",
       "path": "cann/ops-transformer",
-      "avg_days": 5.6,
-      "closed": 2675,
-      "opened": 168
+      "avg_days": 5.5,
+      "closed": 2689,
+      "opened": 162
     },
     {
       "name": "cannbot-skills",
       "path": "cann/cannbot-skills",
       "avg_days": 5.8,
       "closed": 181,
-      "opened": 63
+      "opened": 65
     },
     {
       "name": "catlass",
       "path": "cann/catlass",
-      "avg_days": 5.9,
-      "closed": 181,
-      "opened": 6
+      "avg_days": 5.8,
+      "closed": 183,
+      "opened": 7
     },
     {
       "name": "opbase",
       "path": "cann/opbase",
       "avg_days": 6.2,
-      "closed": 191,
-      "opened": 7
+      "closed": 194,
+      "opened": 6
     },
     {
       "name": "runtime",
@@ -95,8 +95,8 @@
       "name": "ops-nn",
       "path": "cann/ops-nn",
       "avg_days": 6.4,
-      "closed": 2836,
-      "opened": 234
+      "closed": 2852,
+      "opened": 230
     },
     {
       "name": "pto-isa",
@@ -110,13 +110,13 @@
       "path": "cann/oam-tools",
       "avg_days": 6.9,
       "closed": 106,
-      "opened": 5
+      "opened": 8
     },
     {
       "name": "cann-samples",
       "path": "cann/cann-samples",
-      "avg_days": 7.1,
-      "closed": 170,
+      "avg_days": 7.0,
+      "closed": 171,
       "opened": 11
     },
     {
@@ -137,8 +137,8 @@
       "name": "ops-math",
       "path": "cann/ops-math",
       "avg_days": 7.9,
-      "closed": 1637,
-      "opened": 179
+      "closed": 1643,
+      "opened": 182
     },
     {
       "name": "triton-inference-server-ge-backend",
@@ -151,15 +151,8 @@
       "name": "asc-devkit",
       "path": "cann/asc-devkit",
       "avg_days": 8.1,
-      "closed": 745,
-      "opened": 100
-    },
-    {
-      "name": "torchtitan-npu",
-      "path": "cann/torchtitan-npu",
-      "avg_days": 9.9,
-      "closed": 43,
-      "opened": 9
+      "closed": 749,
+      "opened": 99
     },
     {
       "name": "ascend-transformer-boost",
@@ -167,6 +160,13 @@
       "avg_days": 10.0,
       "closed": 279,
       "opened": 11
+    },
+    {
+      "name": "torchtitan-npu",
+      "path": "cann/torchtitan-npu",
+      "avg_days": 10.1,
+      "closed": 44,
+      "opened": 8
     },
     {
       "name": "ge",
@@ -199,9 +199,16 @@
     {
       "name": "hixl",
       "path": "cann/hixl",
-      "avg_days": 12.4,
-      "closed": 281,
+      "avg_days": 12.5,
+      "closed": 282,
       "opened": 23
+    },
+    {
+      "name": "shmem",
+      "path": "cann/shmem",
+      "avg_days": 12.5,
+      "closed": 255,
+      "opened": 52
     },
     {
       "name": "graph-autofusion",
@@ -211,18 +218,11 @@
       "opened": 10
     },
     {
-      "name": "shmem",
-      "path": "cann/shmem",
-      "avg_days": 12.6,
-      "closed": 253,
-      "opened": 52
-    },
-    {
       "name": "hcomm",
       "path": "cann/hcomm",
       "avg_days": 12.9,
-      "closed": 209,
-      "opened": 23
+      "closed": 210,
+      "opened": 22
     },
     {
       "name": "pyasc",
@@ -234,16 +234,16 @@
     {
       "name": "community",
       "path": "cann/community",
-      "avg_days": 13.5,
-      "closed": 118,
-      "opened": 27
+      "avg_days": 13.4,
+      "closed": 121,
+      "opened": 24
     },
     {
       "name": "pypto",
       "path": "cann/pypto",
       "avg_days": 13.6,
-      "closed": 1874,
-      "opened": 207
+      "closed": 1878,
+      "opened": 212
     },
     {
       "name": "atvoss",
@@ -327,8 +327,8 @@
       "path": "cann/infrastructure",
       "avg_days": 35.5,
       "closed": 97,
-      "opened": 35
+      "opened": 36
     }
   ],
-  "generated_at": "2026-06-05"
+  "generated_at": "2026-06-06"
 }
