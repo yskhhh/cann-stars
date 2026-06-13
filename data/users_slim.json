@@ -1,5 +1,20 @@
 [
   {
+    "user_name": "Almost_CANN",
+    "nick_name": "Almost_Miao",
+    "starred_repos": [
+      "cann/ops-math",
+      "cann/cannbot-skills",
+      "cann/opbase",
+      "cann/cann-learning-hub",
+      "cann/cann-bench"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
     "user_name": "interset-wq",
     "nick_name": "Interset Wq",
     "starred_repos": [
@@ -88,8 +103,8 @@
       "cann/runtime",
       "cann/metadef",
       "cann/catlass",
-      "cann/cann-recipes-train",
       "cann/cann-learning-hub",
+      "cann/cann-recipes-train",
       "cann/hccl",
       "cann/hcomm",
       "cann/ascend-transformer-boost",
@@ -146,8 +161,8 @@
       "cann/metadef",
       "cann/cann-samples",
       "cann/catlass",
-      "cann/cann-recipes-train",
       "cann/cann-learning-hub",
+      "cann/cann-recipes-train",
       "cann/hccl",
       "cann/hcomm",
       "cann/ascend-transformer-boost",
@@ -249,6 +264,7 @@
     "starred_repos": [
       "cann/ops-math",
       "cann/cannbot-skills",
+      "cann/ops-nn",
       "cann/hixl",
       "cann/graph-autofusion",
       "cann/torchtitan-npu",
@@ -301,8 +317,8 @@
       "cann/ge",
       "cann/asc-devkit",
       "cann/cann-samples",
-      "cann/cann-recipes-train",
       "cann/cann-learning-hub",
+      "cann/cann-recipes-train",
       "cann/cann-outreach"
     ],
     "user_type": "developer",
@@ -449,8 +465,8 @@
       "cann/cann-samples",
       "cann/catlass",
       "cann/torchtitan-npu",
-      "cann/cann-recipes-train",
       "cann/cann-learning-hub",
+      "cann/cann-recipes-train",
       "cann/hccl",
       "cann/hcomm",
       "cann/ascend-transformer-boost",
@@ -531,7 +547,7 @@
       "cann/asc-devkit",
       "cann/cann-samples"
     ],
-    "user_type": "contributor",
+    "user_type": "developer",
     "fans_count": 0,
     "original_repo_count": 0,
     "total_contributions": 344
@@ -846,7 +862,7 @@
       "cann/cann-samples",
       "cann/cann-ops-competitions"
     ],
-    "user_type": "contributor",
+    "user_type": "developer",
     "fans_count": 0,
     "original_repo_count": 0,
     "total_contributions": 8
@@ -959,8 +975,8 @@
       "cann/cann-samples",
       "cann/catlass",
       "cann/torchtitan-npu",
-      "cann/cann-recipes-train",
       "cann/cann-learning-hub",
+      "cann/cann-recipes-train",
       "cann/hccl",
       "cann/hcomm",
       "cann/ascend-transformer-boost",
@@ -1040,8 +1056,8 @@
       "cann/cann-samples",
       "cann/catlass",
       "cann/torchtitan-npu",
-      "cann/cann-recipes-train",
       "cann/cann-learning-hub",
+      "cann/cann-recipes-train",
       "cann/hccl",
       "cann/hcomm",
       "cann/ascend-transformer-boost",
@@ -1308,8 +1324,8 @@
       "cann/metadef",
       "cann/cann-samples",
       "cann/catlass",
-      "cann/cann-recipes-train",
       "cann/cann-learning-hub",
+      "cann/cann-recipes-train",
       "cann/hccl",
       "cann/hcomm",
       "cann/ascend-transformer-boost",
@@ -1379,7 +1395,8 @@
       "cann/hixl",
       "cann/cann-samples",
       "cann/torchtitan-npu",
-      "cann/cann-learning-hub"
+      "cann/cann-learning-hub",
+      "cann/cann-ops-competitions"
     ],
     "user_type": "developer",
     "fans_count": 0,
@@ -1391,7 +1408,8 @@
     "nick_name": "wu15220880",
     "starred_repos": [
       "cann/ops-math",
-      "cann/runtime"
+      "cann/runtime",
+      "cann/cann-ops-competitions"
     ],
     "user_type": "die_hard_fan",
     "fans_count": 0,
@@ -1727,8 +1745,8 @@
       "cann/metadef",
       "cann/cann-samples",
       "cann/catlass",
-      "cann/cann-recipes-train",
       "cann/cann-learning-hub",
+      "cann/cann-recipes-train",
       "cann/hccl",
       "cann/hcomm",
       "cann/ascend-transformer-boost",
@@ -2058,8 +2076,8 @@
       "cann/cannbot-skills",
       "cann/ops-transformer",
       "cann/asc-devkit",
-      "cann/cann-recipes-train",
       "cann/cann-learning-hub",
+      "cann/cann-recipes-train",
       "cann/hcomm",
       "cann/driver"
     ],
@@ -2552,8 +2570,8 @@
       "cann/metadef",
       "cann/cann-samples",
       "cann/catlass",
-      "cann/cann-recipes-train",
       "cann/cann-learning-hub",
+      "cann/cann-recipes-train",
       "cann/hccl",
       "cann/hcomm",
       "cann/ascend-transformer-boost",
@@ -3687,8 +3705,8 @@
       "cann/cann-recipes-infer",
       "cann/ops-cv",
       "cann/cann-samples",
-      "cann/cann-recipes-train",
       "cann/cann-learning-hub",
+      "cann/cann-recipes-train",
       "cann/asnumpy",
       "cann/amct",
       "cann/driver",
@@ -3866,6 +3884,7 @@
     "nick_name": "cangjie-ranmingxian",
     "starred_repos": [
       "cann/ops-math",
+      "cann/cannbot-skills",
       "cann/ops-nn",
       "cann/asnumpy"
     ],
@@ -4353,8 +4372,8 @@
       "cann/cann-recipes-infer",
       "cann/hixl",
       "cann/torchtitan-npu",
-      "cann/cann-recipes-train",
       "cann/cann-learning-hub",
+      "cann/cann-recipes-train",
       "cann/ascend-transformer-boost",
       "cann/asnumpy"
     ],
@@ -9938,8 +9957,8 @@
       "cann/asc-devkit",
       "cann/cann-samples",
       "cann/torchtitan-npu",
-      "cann/cann-recipes-train",
       "cann/cann-learning-hub",
+      "cann/cann-recipes-train",
       "cann/ascend-transformer-boost",
       "cann/cann-ops-competitions",
       "cann/cann-outreach"
@@ -11513,8 +11532,8 @@
       "cann/runtime",
       "cann/metadef",
       "cann/catlass",
-      "cann/cann-recipes-train",
       "cann/cann-learning-hub",
+      "cann/cann-recipes-train",
       "cann/hccl",
       "cann/hcomm",
       "cann/ascend-transformer-boost",
@@ -13405,8 +13424,8 @@
       "cann/cann-samples",
       "cann/catlass",
       "cann/torchtitan-npu",
-      "cann/cann-recipes-train",
       "cann/cann-learning-hub",
+      "cann/cann-recipes-train",
       "cann/hccl",
       "cann/hcomm",
       "cann/ascend-transformer-boost",
@@ -14206,8 +14225,8 @@
       "cann/runtime",
       "cann/metadef",
       "cann/catlass",
-      "cann/cann-recipes-train",
       "cann/cann-learning-hub",
+      "cann/cann-recipes-train",
       "cann/hccl",
       "cann/hcomm",
       "cann/ascend-transformer-boost",
@@ -18930,8 +18949,8 @@
       "cann/ops-nn",
       "cann/cann-recipes-infer",
       "cann/cann-samples",
-      "cann/cann-recipes-train",
       "cann/cann-learning-hub",
+      "cann/cann-recipes-train",
       "cann/ops-blas",
       "cann/ops-sparse",
       "cann/ops-solver"
@@ -19777,8 +19796,8 @@
       "cann/cann-samples",
       "cann/catlass",
       "cann/torchtitan-npu",
-      "cann/cann-recipes-train",
       "cann/cann-learning-hub",
+      "cann/cann-recipes-train",
       "cann/hccl",
       "cann/hcomm",
       "cann/ascend-transformer-boost",
@@ -20109,8 +20128,8 @@
       "cann/cann-samples",
       "cann/catlass",
       "cann/torchtitan-npu",
-      "cann/cann-recipes-train",
       "cann/cann-learning-hub",
+      "cann/cann-recipes-train",
       "cann/hccl",
       "cann/hcomm",
       "cann/ascend-transformer-boost",
@@ -20373,8 +20392,8 @@
       "cann/cann-samples",
       "cann/catlass",
       "cann/torchtitan-npu",
-      "cann/cann-recipes-train",
       "cann/cann-learning-hub",
+      "cann/cann-recipes-train",
       "cann/hccl",
       "cann/hcomm",
       "cann/ascend-transformer-boost",
@@ -20831,8 +20850,8 @@
       "cann/cann-samples",
       "cann/catlass",
       "cann/torchtitan-npu",
-      "cann/cann-recipes-train",
       "cann/cann-learning-hub",
+      "cann/cann-recipes-train",
       "cann/hccl",
       "cann/hcomm",
       "cann/ascend-transformer-boost",
@@ -20882,6 +20901,31 @@
     "total_contributions": 509
   },
   {
+    "user_name": "qq_20461409",
+    "nick_name": "Alex Soong",
+    "starred_repos": [
+      "cann/cannbot-skills"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "otserpms",
+    "nick_name": "otserpms",
+    "starred_repos": [
+      "cann/cannbot-skills",
+      "cann/asc-devkit",
+      "cann/runtime",
+      "cann/driver"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 18
+  },
+  {
     "user_name": "quamaly",
     "nick_name": "quamaly",
     "starred_repos": [
@@ -20923,7 +20967,7 @@
   },
   {
     "user_name": "weixin_60187947",
-    "nick_name": "Mike During",
+    "nick_name": "Heizi IKUN",
     "starred_repos": [
       "cann/cannbot-skills",
       "cann/asc-devkit"
@@ -21060,7 +21104,7 @@
       "cann/cannbot-skills",
       "cann/cann-samples"
     ],
-    "user_type": "contributor",
+    "user_type": "developer",
     "fans_count": 0,
     "original_repo_count": 0,
     "total_contributions": 23
@@ -21686,8 +21730,8 @@
       "cann/runtime",
       "cann/metadef",
       "cann/cann-samples",
-      "cann/cann-recipes-train",
-      "cann/cann-learning-hub"
+      "cann/cann-learning-hub",
+      "cann/cann-recipes-train"
     ],
     "user_type": "contributor",
     "fans_count": 0,
@@ -21816,7 +21860,8 @@
       "cann/cannbot-skills",
       "cann/ops-nn",
       "cann/ge",
-      "cann/pypto"
+      "cann/pypto",
+      "cann/ops-test-kit"
     ],
     "user_type": "contributor",
     "fans_count": 0,
@@ -24040,20 +24085,6 @@
     "total_contributions": 0
   },
   {
-    "user_name": "Almost_CANN",
-    "nick_name": "Almost_Miao",
-    "starred_repos": [
-      "cann/cannbot-skills",
-      "cann/opbase",
-      "cann/cann-learning-hub",
-      "cann/cann-bench"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
     "user_name": "hello_simida",
     "nick_name": "王毅",
     "starred_repos": [
@@ -25698,8 +25729,8 @@
       "cann/graph-autofusion",
       "cann/metadef",
       "cann/torchtitan-npu",
-      "cann/cann-recipes-train",
       "cann/cann-learning-hub",
+      "cann/cann-recipes-train",
       "cann/asnumpy",
       "cann/cann-ops-competitions",
       "cann/xla-npu"
@@ -25728,7 +25759,7 @@
     "starred_repos": [
       "cann/cannbot-skills"
     ],
-    "user_type": "developer",
+    "user_type": "contributor",
     "fans_count": 0,
     "original_repo_count": 2,
     "total_contributions": 32
@@ -27678,8 +27709,8 @@
       "cann/graph-autofusion",
       "cann/runtime",
       "cann/metadef",
-      "cann/cann-recipes-train",
       "cann/cann-learning-hub",
+      "cann/cann-recipes-train",
       "cann/pyasc",
       "cann/amct",
       "cann/oam-tools"
@@ -28889,8 +28920,8 @@
       "cann/runtime",
       "cann/metadef",
       "cann/torchtitan-npu",
-      "cann/cann-recipes-train",
       "cann/cann-learning-hub",
+      "cann/cann-recipes-train",
       "cann/pyasc",
       "cann/amct",
       "cann/oam-tools",
@@ -31066,8 +31097,8 @@
       "cann/runtime",
       "cann/metadef",
       "cann/catlass",
-      "cann/cann-recipes-train",
       "cann/cann-learning-hub",
+      "cann/cann-recipes-train",
       "cann/hccl",
       "cann/hcomm",
       "cann/ascend-transformer-boost",
@@ -32022,7 +32053,7 @@
   },
   {
     "user_name": "2501_90415399",
-    "nick_name": "mjhcsp",
+    "nick_name": "starryfast",
     "starred_repos": [
       "cann/ops-transformer"
     ],
@@ -35397,6 +35428,29 @@
     "total_contributions": 866
   },
   {
+    "user_name": "gcw_WTfSfUy7",
+    "nick_name": "wangmm",
+    "starred_repos": [
+      "cann/community",
+      "cann/cann-recipes-infer",
+      "cann/hixl",
+      "cann/ge",
+      "cann/asc-devkit",
+      "cann/graph-autofusion",
+      "cann/runtime",
+      "cann/metadef",
+      "cann/cann-recipes-train",
+      "cann/pyasc",
+      "cann/amct",
+      "cann/oam-tools",
+      "cann/cann-ops-competitions"
+    ],
+    "user_type": "contributor",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 374
+  },
+  {
     "user_name": "changxianyu",
     "nick_name": "changxianyu",
     "starred_repos": [
@@ -35673,8 +35727,8 @@
     "starred_repos": [
       "cann/community",
       "cann/cann-recipes-infer",
-      "cann/cann-recipes-train",
       "cann/cann-learning-hub",
+      "cann/cann-recipes-train",
       "cann/ascend-transformer-boost",
       "cann/amct",
       "cann/ascend-boost-comm"
@@ -38213,28 +38267,6 @@
     "total_contributions": 359
   },
   {
-    "user_name": "gcw_WTfSfUy7",
-    "nick_name": "wangmm",
-    "starred_repos": [
-      "cann/cann-recipes-infer",
-      "cann/hixl",
-      "cann/ge",
-      "cann/asc-devkit",
-      "cann/graph-autofusion",
-      "cann/runtime",
-      "cann/metadef",
-      "cann/cann-recipes-train",
-      "cann/pyasc",
-      "cann/amct",
-      "cann/oam-tools",
-      "cann/cann-ops-competitions"
-    ],
-    "user_type": "contributor",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 374
-  },
-  {
     "user_name": "jiazhaoyang",
     "nick_name": "贾昭阳",
     "starred_repos": [
@@ -38527,8 +38559,8 @@
       "cann/runtime",
       "cann/metadef",
       "cann/torchtitan-npu",
-      "cann/cann-recipes-train",
       "cann/cann-learning-hub",
+      "cann/cann-recipes-train",
       "cann/pyasc",
       "cann/amct",
       "cann/oam-tools",
@@ -40174,6 +40206,17 @@
     "fans_count": 0,
     "original_repo_count": 0,
     "total_contributions": 71
+  },
+  {
+    "user_name": "larryliuqing",
+    "nick_name": "拉里山姆",
+    "starred_repos": [
+      "cann/hixl"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
   },
   {
     "user_name": "wanghui390",
@@ -46600,7 +46643,8 @@
     "user_name": "weixin_46466275",
     "nick_name": "xyzllm2",
     "starred_repos": [
-      "cann/asc-devkit"
+      "cann/asc-devkit",
+      "cann/cann-outreach"
     ],
     "user_type": "die_hard_fan",
     "fans_count": 0,
@@ -48460,6 +48504,39 @@
     "fans_count": 0,
     "original_repo_count": 0,
     "total_contributions": 4
+  },
+  {
+    "user_name": "gcw_ig9lDez8",
+    "nick_name": "gcw_ig9lDez8",
+    "starred_repos": [
+      "cann/graph-autofusion"
+    ],
+    "user_type": "contributor",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 3
+  },
+  {
+    "user_name": "liantian321",
+    "nick_name": "蓝天",
+    "starred_repos": [
+      "cann/graph-autofusion"
+    ],
+    "user_type": "contributor",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 5
+  },
+  {
+    "user_name": "gcw_yc9ps1Ve",
+    "nick_name": "RedCode",
+    "starred_repos": [
+      "cann/graph-autofusion"
+    ],
+    "user_type": "contributor",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 3
   },
   {
     "user_name": "weiyyyuxin",
@@ -53263,7 +53340,7 @@
     "starred_repos": [
       "cann/cann-samples"
     ],
-    "user_type": "questioner",
+    "user_type": "contributor",
     "fans_count": 0,
     "original_repo_count": 0,
     "total_contributions": 24
@@ -56775,187 +56852,21 @@
     "total_contributions": 198
   },
   {
-    "user_name": "chansinging",
-    "nick_name": "chansinging",
+    "user_name": "yeyi913",
+    "nick_name": "Aja Cotheran",
     "starred_repos": [
-      "cann/cann-recipes-train"
-    ],
-    "user_type": "developer",
-    "fans_count": 0,
-    "original_repo_count": 1,
-    "total_contributions": 444
-  },
-  {
-    "user_name": "qq_62640183",
-    "nick_name": "thuZyQiu",
-    "starred_repos": [
-      "cann/cann-recipes-train"
-    ],
-    "user_type": "contributor",
-    "fans_count": 0,
-    "original_repo_count": 1,
-    "total_contributions": 14
-  },
-  {
-    "user_name": "gcw_ErLZYkZn",
-    "nick_name": "gcw_ErLZYkZn",
-    "starred_repos": [
-      "cann/cann-recipes-train"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "sinat_34524528",
-    "nick_name": "Simon-CHOU",
-    "starred_repos": [
-      "cann/cann-recipes-train"
-    ],
-    "user_type": "developer",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 1
-  },
-  {
-    "user_name": "weixin_45663130",
-    "nick_name": "weixin_45663130",
-    "starred_repos": [
-      "cann/cann-recipes-train"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "gcw_ig9DoqV3",
-    "nick_name": "gcw_ig9DoqV3",
-    "starred_repos": [
-      "cann/cann-recipes-train"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "gcw_Rr9wGhTI",
-    "nick_name": "xiami",
-    "starred_repos": [
-      "cann/cann-recipes-train"
-    ],
-    "user_type": "developer",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 4
-  },
-  {
-    "user_name": "zealff",
-    "nick_name": "zealww",
-    "starred_repos": [
-      "cann/cann-recipes-train"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "weixin_59837223",
-    "nick_name": "wulianhua",
-    "starred_repos": [
-      "cann/cann-recipes-train"
-    ],
-    "user_type": "questioner",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 39
-  },
-  {
-    "user_name": "skywalk163",
-    "nick_name": "skywalk163",
-    "starred_repos": [
-      "cann/cann-recipes-train"
-    ],
-    "user_type": "developer",
-    "fans_count": 0,
-    "original_repo_count": 20,
-    "total_contributions": 970
-  },
-  {
-    "user_name": "gcw_ztf10Sb9",
-    "nick_name": "gcw_ztf10Sb9",
-    "starred_repos": [
-      "cann/cann-recipes-train"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "h00887734",
-    "nick_name": "huyuanquan1",
-    "starred_repos": [
-      "cann/cann-recipes-train"
-    ],
-    "user_type": "contributor",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 118
-  },
-  {
-    "user_name": "weixin_53594099",
-    "nick_name": "ccccsyyyy",
-    "starred_repos": [
-      "cann/cann-recipes-train"
-    ],
-    "user_type": "contributor",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 65
-  },
-  {
-    "user_name": "Citric123",
-    "nick_name": "Zachary_Meng",
-    "starred_repos": [
-      "cann/cann-recipes-train"
-    ],
-    "user_type": "developer",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 3
-  },
-  {
-    "user_name": "jszheng21",
-    "nick_name": "Jason Zheng",
-    "starred_repos": [
-      "cann/cann-recipes-train",
       "cann/cann-learning-hub"
     ],
-    "user_type": "contributor",
-    "fans_count": 0,
-    "original_repo_count": 2,
-    "total_contributions": 52
-  },
-  {
-    "user_name": "gcw_ZqdMQIM5",
-    "nick_name": "gcw_ZqdMQIM5",
-    "starred_repos": [
-      "cann/cann-recipes-train"
-    ],
-    "user_type": "questioner",
+    "user_type": "die_hard_fan",
     "fans_count": 0,
     "original_repo_count": 0,
-    "total_contributions": 1
+    "total_contributions": 0
   },
   {
-    "user_name": "gcw_1iezOJTg",
-    "nick_name": "gcw_1iezOJTg",
+    "user_name": "2301_79306123",
+    "nick_name": "lingqian",
     "starred_repos": [
-      "cann/cann-recipes-train"
+      "cann/cann-learning-hub"
     ],
     "user_type": "die_hard_fan",
     "fans_count": 0,
@@ -56963,45 +56874,21 @@
     "total_contributions": 0
   },
   {
-    "user_name": "chenjingzzzz",
-    "nick_name": "chenjingzzzz",
+    "user_name": "tax77",
+    "nick_name": "tax77",
     "starred_repos": [
-      "cann/cann-recipes-train",
-      "cann/cann-recipes-spatial-intelligence"
-    ],
-    "user_type": "contributor",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 164
-  },
-  {
-    "user_name": "sharonyunyun",
-    "nick_name": "sharonyunyun",
-    "starred_repos": [
-      "cann/cann-recipes-train",
-      "cann/cann-recipes-spatial-intelligence"
-    ],
-    "user_type": "questioner",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 154
-  },
-  {
-    "user_name": "Passby666",
-    "nick_name": "Passby666",
-    "starred_repos": [
-      "cann/cann-recipes-train"
+      "cann/cann-learning-hub"
     ],
     "user_type": "developer",
     "fans_count": 0,
     "original_repo_count": 0,
-    "total_contributions": 3
+    "total_contributions": 90
   },
   {
-    "user_name": "jahentao",
-    "nick_name": "jahentao",
+    "user_name": "zyg17525952138",
+    "nick_name": "zzu123456789",
     "starred_repos": [
-      "cann/cann-recipes-train"
+      "cann/cann-learning-hub"
     ],
     "user_type": "die_hard_fan",
     "fans_count": 0,
@@ -57009,10 +56896,54 @@
     "total_contributions": 0
   },
   {
-    "user_name": "mhqmhy",
-    "nick_name": "jeffer_h",
+    "user_name": "gcw_FCUz5e0h",
+    "nick_name": "gcw_FCUz5e0h",
     "starred_repos": [
-      "cann/cann-recipes-train"
+      "cann/cann-learning-hub"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "m0_55949426",
+    "nick_name": "韩梦然",
+    "starred_repos": [
+      "cann/cann-learning-hub"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 225
+  },
+  {
+    "user_name": "yanfan",
+    "nick_name": "肆拾贰点壹玖伍1111111111111122222222222222222333333333333",
+    "starred_repos": [
+      "cann/cann-learning-hub"
+    ],
+    "user_type": "developer",
+    "fans_count": 1,
+    "original_repo_count": 15,
+    "total_contributions": 1071
+  },
+  {
+    "user_name": "LJQ13222108461",
+    "nick_name": "LJQ_code",
+    "starred_repos": [
+      "cann/cann-learning-hub"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 1,
+    "total_contributions": 3
+  },
+  {
+    "user_name": "gurudk",
+    "nick_name": "gurudk",
+    "starred_repos": [
+      "cann/cann-learning-hub"
     ],
     "user_type": "die_hard_fan",
     "fans_count": 0,
@@ -57893,17 +57824,6 @@
     "total_contributions": 0
   },
   {
-    "user_name": "tax77",
-    "nick_name": "tax77",
-    "starred_repos": [
-      "cann/cann-learning-hub"
-    ],
-    "user_type": "developer",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 90
-  },
-  {
     "user_name": "wxD20",
     "nick_name": "wxD20",
     "starred_repos": [
@@ -58102,6 +58022,18 @@
     "fans_count": 1,
     "original_repo_count": 7,
     "total_contributions": 94
+  },
+  {
+    "user_name": "jszheng21",
+    "nick_name": "Jason Zheng",
+    "starred_repos": [
+      "cann/cann-learning-hub",
+      "cann/cann-recipes-train"
+    ],
+    "user_type": "contributor",
+    "fans_count": 0,
+    "original_repo_count": 2,
+    "total_contributions": 52
   },
   {
     "user_name": "handsomegujiawei",
@@ -58855,6 +58787,250 @@
     "fans_count": 0,
     "original_repo_count": 2,
     "total_contributions": 36
+  },
+  {
+    "user_name": "chansinging",
+    "nick_name": "chansinging",
+    "starred_repos": [
+      "cann/cann-recipes-train"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 1,
+    "total_contributions": 444
+  },
+  {
+    "user_name": "qq_62640183",
+    "nick_name": "thuZyQiu",
+    "starred_repos": [
+      "cann/cann-recipes-train"
+    ],
+    "user_type": "contributor",
+    "fans_count": 0,
+    "original_repo_count": 1,
+    "total_contributions": 14
+  },
+  {
+    "user_name": "gcw_ErLZYkZn",
+    "nick_name": "gcw_ErLZYkZn",
+    "starred_repos": [
+      "cann/cann-recipes-train"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "sinat_34524528",
+    "nick_name": "Simon-CHOU",
+    "starred_repos": [
+      "cann/cann-recipes-train"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 1
+  },
+  {
+    "user_name": "weixin_45663130",
+    "nick_name": "weixin_45663130",
+    "starred_repos": [
+      "cann/cann-recipes-train"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "gcw_ig9DoqV3",
+    "nick_name": "gcw_ig9DoqV3",
+    "starred_repos": [
+      "cann/cann-recipes-train"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "gcw_Rr9wGhTI",
+    "nick_name": "xiami",
+    "starred_repos": [
+      "cann/cann-recipes-train"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 4
+  },
+  {
+    "user_name": "zealff",
+    "nick_name": "zealww",
+    "starred_repos": [
+      "cann/cann-recipes-train"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "weixin_59837223",
+    "nick_name": "wulianhua",
+    "starred_repos": [
+      "cann/cann-recipes-train"
+    ],
+    "user_type": "questioner",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 39
+  },
+  {
+    "user_name": "skywalk163",
+    "nick_name": "skywalk163",
+    "starred_repos": [
+      "cann/cann-recipes-train"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 20,
+    "total_contributions": 970
+  },
+  {
+    "user_name": "gcw_ztf10Sb9",
+    "nick_name": "gcw_ztf10Sb9",
+    "starred_repos": [
+      "cann/cann-recipes-train"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "h00887734",
+    "nick_name": "huyuanquan1",
+    "starred_repos": [
+      "cann/cann-recipes-train"
+    ],
+    "user_type": "contributor",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 118
+  },
+  {
+    "user_name": "weixin_53594099",
+    "nick_name": "ccccsyyyy",
+    "starred_repos": [
+      "cann/cann-recipes-train"
+    ],
+    "user_type": "contributor",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 65
+  },
+  {
+    "user_name": "Citric123",
+    "nick_name": "Zachary_Meng",
+    "starred_repos": [
+      "cann/cann-recipes-train"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 3
+  },
+  {
+    "user_name": "gcw_ZqdMQIM5",
+    "nick_name": "gcw_ZqdMQIM5",
+    "starred_repos": [
+      "cann/cann-recipes-train"
+    ],
+    "user_type": "questioner",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 1
+  },
+  {
+    "user_name": "gcw_1iezOJTg",
+    "nick_name": "gcw_1iezOJTg",
+    "starred_repos": [
+      "cann/cann-recipes-train"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "chenjingzzzz",
+    "nick_name": "chenjingzzzz",
+    "starred_repos": [
+      "cann/cann-recipes-train",
+      "cann/cann-recipes-spatial-intelligence"
+    ],
+    "user_type": "contributor",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 164
+  },
+  {
+    "user_name": "sharonyunyun",
+    "nick_name": "sharonyunyun",
+    "starred_repos": [
+      "cann/cann-recipes-train",
+      "cann/cann-recipes-spatial-intelligence"
+    ],
+    "user_type": "questioner",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 154
+  },
+  {
+    "user_name": "Passby666",
+    "nick_name": "Passby666",
+    "starred_repos": [
+      "cann/cann-recipes-train"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 3
+  },
+  {
+    "user_name": "jahentao",
+    "nick_name": "jahentao",
+    "starred_repos": [
+      "cann/cann-recipes-train"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "mhqmhy",
+    "nick_name": "jeffer_h",
+    "starred_repos": [
+      "cann/cann-recipes-train"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "2302_80653507",
+    "nick_name": "系包",
+    "starred_repos": [
+      "cann/hccl"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
   },
   {
     "user_name": "geoff_tang",
@@ -62689,7 +62865,7 @@
     "starred_repos": [
       "cann/shmem"
     ],
-    "user_type": "contributor",
+    "user_type": "questioner",
     "fans_count": 0,
     "original_repo_count": 0,
     "total_contributions": 1308
