@@ -103,21 +103,21 @@
       "path": "cann/ops-transformer",
       "avg_days": 5.7,
       "closed": 2954,
-      "opened": 152
+      "opened": 153
     },
     {
       "name": "ops-nn",
       "path": "cann/ops-nn",
       "avg_days": 6.5,
       "closed": 3097,
-      "opened": 256
+      "opened": 257
     },
     {
       "name": "runtime",
       "path": "cann/runtime",
-      "avg_days": 6.5,
-      "closed": 545,
-      "opened": 41
+      "avg_days": 6.6,
+      "closed": 547,
+      "opened": 46
     },
     {
       "name": "cann-samples",
@@ -165,8 +165,8 @@
       "name": "asc-devkit",
       "path": "cann/asc-devkit",
       "avg_days": 8.0,
-      "closed": 867,
-      "opened": 88
+      "closed": 868,
+      "opened": 87
     },
     {
       "name": "triton-inference-server-ge-backend",
@@ -180,7 +180,7 @@
       "path": "cann/graph-autofusion",
       "avg_days": 9.1,
       "closed": 99,
-      "opened": 13
+      "opened": 14
     },
     {
       "name": "torchtitan-npu",
@@ -214,8 +214,8 @@
       "name": "hixl",
       "path": "cann/hixl",
       "avg_days": 12.1,
-      "closed": 302,
-      "opened": 36
+      "closed": 303,
+      "opened": 35
     },
     {
       "name": "driver",
@@ -351,5 +351,5 @@
       "opened": 29
     }
   ],
-  "generated_at": "2026-06-18"
+  "generated_at": "2026-06-19"
 }

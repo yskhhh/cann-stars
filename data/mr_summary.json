@@ -11,8 +11,8 @@
       "name": "ops-nn",
       "path": "cann/ops-nn",
       "merged": 3894,
-      "open": 266,
-      "total": 4160
+      "open": 267,
+      "total": 4161
     },
     {
       "name": "pypto",
@@ -32,8 +32,8 @@
       "name": "ops-math",
       "path": "cann/ops-math",
       "merged": 2055,
-      "open": 223,
-      "total": 2278
+      "open": 224,
+      "total": 2279
     },
     {
       "name": "runtime",
@@ -53,8 +53,8 @@
       "name": "hcomm",
       "path": "cann/hcomm",
       "merged": 1738,
-      "open": 177,
-      "total": 1915
+      "open": 178,
+      "total": 1916
     },
     {
       "name": "ascend-transformer-boost",
@@ -66,9 +66,9 @@
     {
       "name": "pto-isa",
       "path": "cann/pto-isa",
-      "merged": 898,
-      "open": 39,
-      "total": 937
+      "merged": 899,
+      "open": 37,
+      "total": 936
     },
     {
       "name": "hccl",
@@ -88,8 +88,8 @@
       "name": "graph-autofusion",
       "path": "cann/graph-autofusion",
       "merged": 486,
-      "open": 67,
-      "total": 553
+      "open": 68,
+      "total": 554
     },
     {
       "name": "hixl",
@@ -102,8 +102,8 @@
       "name": "catlass",
       "path": "cann/catlass",
       "merged": 465,
-      "open": 43,
-      "total": 508
+      "open": 46,
+      "total": 511
     },
     {
       "name": "community",
@@ -151,15 +151,15 @@
       "name": "cannbot-skills",
       "path": "cann/cannbot-skills",
       "merged": 250,
-      "open": 48,
-      "total": 298
+      "open": 49,
+      "total": 299
     },
     {
       "name": "torchtitan-npu",
       "path": "cann/torchtitan-npu",
       "merged": 274,
-      "open": 20,
-      "total": 294
+      "open": 21,
+      "total": 295
     },
     {
       "name": "metadef",
@@ -463,6 +463,6 @@
       "total": 2
     }
   ],
-  "unique_authors": 3229,
-  "generated_at": "2026-06-18"
+  "unique_authors": 3230,
+  "generated_at": "2026-06-19"
 }
