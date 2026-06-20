@@ -103,7 +103,7 @@
       "path": "cann/ops-transformer",
       "avg_days": 5.7,
       "closed": 2954,
-      "opened": 153
+      "opened": 154
     },
     {
       "name": "ops-nn",
@@ -115,9 +115,9 @@
     {
       "name": "runtime",
       "path": "cann/runtime",
-      "avg_days": 6.6,
-      "closed": 547,
-      "opened": 46
+      "avg_days": 6.7,
+      "closed": 552,
+      "opened": 41
     },
     {
       "name": "cann-samples",
@@ -166,7 +166,7 @@
       "path": "cann/asc-devkit",
       "avg_days": 8.0,
       "closed": 868,
-      "opened": 87
+      "opened": 88
     },
     {
       "name": "triton-inference-server-ge-backend",
@@ -229,14 +229,14 @@
       "path": "cann/shmem",
       "avg_days": 12.3,
       "closed": 279,
-      "opened": 62
+      "opened": 65
     },
     {
       "name": "hccl",
       "path": "cann/hccl",
-      "avg_days": 12.4,
-      "closed": 125,
-      "opened": 23
+      "avg_days": 12.5,
+      "closed": 126,
+      "opened": 22
     },
     {
       "name": "hcomm",
@@ -278,7 +278,7 @@
       "path": "cann/cann-learning-hub",
       "avg_days": 15.9,
       "closed": 22,
-      "opened": 53
+      "opened": 54
     },
     {
       "name": "atvc",
@@ -351,5 +351,5 @@
       "opened": 29
     }
   ],
-  "generated_at": "2026-06-19"
+  "generated_at": "2026-06-20"
 }

@@ -25,8 +25,8 @@
       "name": "asc-devkit",
       "path": "cann/asc-devkit",
       "merged": 2368,
-      "open": 134,
-      "total": 2502
+      "open": 136,
+      "total": 2504
     },
     {
       "name": "ops-math",
@@ -52,8 +52,8 @@
     {
       "name": "hcomm",
       "path": "cann/hcomm",
-      "merged": 1738,
-      "open": 178,
+      "merged": 1739,
+      "open": 177,
       "total": 1916
     },
     {
@@ -95,8 +95,8 @@
       "name": "hixl",
       "path": "cann/hixl",
       "merged": 531,
-      "open": 17,
-      "total": 548
+      "open": 18,
+      "total": 549
     },
     {
       "name": "catlass",
@@ -109,8 +109,8 @@
       "name": "community",
       "path": "cann/community",
       "merged": 496,
-      "open": 11,
-      "total": 507
+      "open": 12,
+      "total": 508
     },
     {
       "name": "cann-outreach",
@@ -358,18 +358,18 @@
       "total": 21
     },
     {
+      "name": "mat-chem-sim-pred",
+      "path": "cann/mat-chem-sim-pred",
+      "merged": 17,
+      "open": 2,
+      "total": 19
+    },
+    {
       "name": "ops-collections",
       "path": "cann/ops-collections",
       "merged": 19,
       "open": 0,
       "total": 19
-    },
-    {
-      "name": "mat-chem-sim-pred",
-      "path": "cann/mat-chem-sim-pred",
-      "merged": 17,
-      "open": 1,
-      "total": 18
     },
     {
       "name": "ops-solver",
@@ -381,8 +381,8 @@
     {
       "name": "ops-test-kit",
       "path": "cann/ops-test-kit",
-      "merged": 11,
-      "open": 4,
+      "merged": 12,
+      "open": 3,
       "total": 15
     },
     {
@@ -464,5 +464,5 @@
     }
   ],
   "unique_authors": 3230,
-  "generated_at": "2026-06-19"
+  "generated_at": "2026-06-20"
 }
