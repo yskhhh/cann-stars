@@ -1,5 +1,27 @@
 [
   {
+    "user_name": "desshu",
+    "nick_name": "boolcube",
+    "starred_repos": [
+      "cann/cannbot-skills"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 2,
+    "total_contributions": 19
+  },
+  {
+    "user_name": "zz1227",
+    "nick_name": "棠语",
+    "starred_repos": [
+      "cann/cannbot-skills"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
     "user_name": "yangyibin",
     "nick_name": "yangyibin",
     "starred_repos": [
@@ -1290,8 +1312,8 @@
       "cann/xla-npu",
       "cann/tensorflow",
       "cann/ops-solver",
-      "cann/ops-collections",
       "cann/cann-launch-camp",
+      "cann/ops-collections",
       "cann/elec-ops-inspection",
       "cann/elec-ops-prediction",
       "cann/elec-ops-simulation",
@@ -1381,6 +1403,10 @@
     "nick_name": "jaydi",
     "starred_repos": [
       "cann/cannbot-skills",
+      "cann/ops-math",
+      "cann/ops-transformer",
+      "cann/ops-nn",
+      "cann/cann-learning-hub",
       "cann/cann-recipes-embodied-ai"
     ],
     "user_type": "die_hard_fan",
@@ -1563,8 +1589,8 @@
       "cann/xla-npu",
       "cann/tensorflow",
       "cann/ops-solver",
-      "cann/ops-collections",
       "cann/cann-launch-camp",
+      "cann/ops-collections",
       "cann/elec-ops-inspection",
       "cann/elec-ops-prediction",
       "cann/elec-ops-simulation",
@@ -1915,8 +1941,8 @@
       "cann/xla-npu",
       "cann/tensorflow",
       "cann/ops-solver",
-      "cann/ops-collections",
       "cann/cann-launch-camp",
+      "cann/ops-collections",
       "cann/elec-ops-inspection",
       "cann/elec-ops-prediction",
       "cann/elec-ops-simulation",
@@ -2119,8 +2145,8 @@
       "cann/xla-npu",
       "cann/tensorflow",
       "cann/ops-solver",
-      "cann/ops-collections",
       "cann/cann-launch-camp",
+      "cann/ops-collections",
       "cann/elec-ops-inspection",
       "cann/elec-ops-prediction",
       "cann/elec-ops-simulation",
@@ -2382,8 +2408,8 @@
       "cann/xla-npu",
       "cann/tensorflow",
       "cann/ops-solver",
-      "cann/ops-collections",
       "cann/cann-launch-camp",
+      "cann/ops-collections",
       "cann/elec-ops-inspection",
       "cann/elec-ops-prediction",
       "cann/elec-ops-simulation",
@@ -2732,8 +2758,8 @@
       "cann/xla-npu",
       "cann/tensorflow",
       "cann/ops-solver",
-      "cann/ops-collections",
       "cann/cann-launch-camp",
+      "cann/ops-collections",
       "cann/elec-ops-inspection",
       "cann/elec-ops-prediction",
       "cann/elec-ops-simulation",
@@ -3193,8 +3219,8 @@
       "cann/xla-npu",
       "cann/tensorflow",
       "cann/ops-solver",
-      "cann/ops-collections",
       "cann/cann-launch-camp",
+      "cann/ops-collections",
       "cann/elec-ops-inspection",
       "cann/elec-ops-prediction",
       "cann/elec-ops-simulation",
@@ -3269,8 +3295,8 @@
       "cann/xla-npu",
       "cann/tensorflow",
       "cann/ops-solver",
-      "cann/ops-collections",
       "cann/cann-launch-camp",
+      "cann/ops-collections",
       "cann/elec-ops-inspection",
       "cann/elec-ops-prediction",
       "cann/elec-ops-simulation",
@@ -3346,8 +3372,8 @@
       "cann/xla-npu",
       "cann/tensorflow",
       "cann/ops-solver",
-      "cann/ops-collections",
       "cann/cann-launch-camp",
+      "cann/ops-collections",
       "cann/elec-ops-inspection",
       "cann/elec-ops-prediction",
       "cann/elec-ops-simulation",
@@ -3991,8 +4017,8 @@
       "cann/xla-npu",
       "cann/tensorflow",
       "cann/ops-solver",
-      "cann/ops-collections",
       "cann/cann-launch-camp",
+      "cann/ops-collections",
       "cann/elec-ops-inspection",
       "cann/elec-ops-prediction",
       "cann/elec-ops-simulation",
@@ -4044,6 +4070,8 @@
       "cann/ops-nn",
       "cann/pypto",
       "cann/ge",
+      "cann/asc-devkit",
+      "cann/cann-learning-hub",
       "cann/ops-cv",
       "cann/runtime",
       "cann/catlass"
@@ -4724,8 +4752,8 @@
       "cann/xla-npu",
       "cann/tensorflow",
       "cann/ops-solver",
-      "cann/ops-collections",
       "cann/cann-launch-camp",
+      "cann/ops-collections",
       "cann/elec-ops-inspection",
       "cann/elec-ops-prediction",
       "cann/elec-ops-simulation",
@@ -4811,8 +4839,8 @@
       "cann/xla-npu",
       "cann/tensorflow",
       "cann/ops-solver",
-      "cann/ops-collections",
       "cann/cann-launch-camp",
+      "cann/ops-collections",
       "cann/elec-ops-inspection",
       "cann/elec-ops-prediction",
       "cann/elec-ops-simulation",
@@ -12438,6 +12466,7 @@
     "nick_name": "huqi",
     "starred_repos": [
       "cann/cannbot-skills",
+      "cann/ops-math",
       "cann/ops-transformer",
       "cann/community",
       "cann/asc-devkit",
@@ -13996,6 +14025,7 @@
     "starred_repos": [
       "cann/cannbot-skills",
       "cann/ops-math",
+      "cann/ops-transformer",
       "cann/cann-recipes-infer",
       "cann/community",
       "cann/opbase",
@@ -15093,6 +15123,7 @@
     "starred_repos": [
       "cann/cannbot-skills",
       "cann/ops-math",
+      "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
       "cann/ge",
@@ -18690,6 +18721,7 @@
       "cann/cannbot-skills",
       "cann/ops-math",
       "cann/ops-transformer",
+      "cann/cann-learning-hub",
       "cann/ops-cv"
     ],
     "user_type": "contributor",
@@ -18873,7 +18905,7 @@
       "cann/cann-samples",
       "cann/atvoss"
     ],
-    "user_type": "questioner",
+    "user_type": "contributor",
     "fans_count": 0,
     "original_repo_count": 0,
     "total_contributions": 3
@@ -19044,6 +19076,18 @@
     "fans_count": 0,
     "original_repo_count": 0,
     "total_contributions": 1328
+  },
+  {
+    "user_name": "zhang-song-rui",
+    "nick_name": "zhang-song-rui",
+    "starred_repos": [
+      "cann/ops-math",
+      "cann/cann-samples"
+    ],
+    "user_type": "contributor",
+    "fans_count": 0,
+    "original_repo_count": 1,
+    "total_contributions": 249
   },
   {
     "user_name": "dragon2524",
@@ -20256,7 +20300,8 @@
       "cann/ops-math",
       "cann/cann-recipes-infer",
       "cann/runtime",
-      "cann/cann-ops-competitions"
+      "cann/cann-ops-competitions",
+      "cann/catccos"
     ],
     "user_type": "die_hard_fan",
     "fans_count": 0,
@@ -32778,7 +32823,8 @@
       "cann/ops-math",
       "cann/ops-nn",
       "cann/community",
-      "cann/opbase"
+      "cann/opbase",
+      "cann/cann-launch-camp"
     ],
     "user_type": "questioner",
     "fans_count": 0,
@@ -52779,6 +52825,17 @@
     "total_contributions": 0
   },
   {
+    "user_name": "dananjj",
+    "nick_name": "dananjj",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 31
+  },
+  {
     "user_name": "gcw_pn1H5UDA",
     "nick_name": "gcw_pn1H5UDA",
     "starred_repos": [
@@ -56033,6 +56090,17 @@
     "total_contributions": 0
   },
   {
+    "user_name": "qq_65021355",
+    "nick_name": "白沙清水",
+    "starred_repos": [
+      "cann/cann-learning-hub"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
     "user_name": "LTFEHI",
     "nick_name": "LTFEHI",
     "starred_repos": [
@@ -56080,7 +56148,8 @@
     "user_name": "AscendSH_Tim",
     "nick_name": "AscendSH_Tim",
     "starred_repos": [
-      "cann/cann-learning-hub"
+      "cann/cann-learning-hub",
+      "cann/ops-cv"
     ],
     "user_type": "die_hard_fan",
     "fans_count": 0,
@@ -56540,7 +56609,7 @@
     "starred_repos": [
       "cann/cann-learning-hub"
     ],
-    "user_type": "contributor",
+    "user_type": "developer",
     "fans_count": 0,
     "original_repo_count": 0,
     "total_contributions": 3
@@ -56739,7 +56808,7 @@
       "cann/cann-learning-hub",
       "cann/torchtitan-npu"
     ],
-    "user_type": "contributor",
+    "user_type": "developer",
     "fans_count": 0,
     "original_repo_count": 0,
     "total_contributions": 2
@@ -59830,6 +59899,17 @@
     "total_contributions": 0
   },
   {
+    "user_name": "zyx1996",
+    "nick_name": "zyx1996",
+    "starred_repos": [
+      "cann/runtime"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
     "user_name": "maxiaofan2",
     "nick_name": "maxiaofan",
     "starred_repos": [
@@ -61109,17 +61189,6 @@
     "fans_count": 0,
     "original_repo_count": 1,
     "total_contributions": 410
-  },
-  {
-    "user_name": "zhang-song-rui",
-    "nick_name": "zhang-song-rui",
-    "starred_repos": [
-      "cann/cann-samples"
-    ],
-    "user_type": "contributor",
-    "fans_count": 0,
-    "original_repo_count": 1,
-    "total_contributions": 249
   },
   {
     "user_name": "qq_44519100",
