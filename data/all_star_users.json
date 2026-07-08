@@ -1,11 +1,301 @@
 [
   {
+    "user_name": "lixiang2202",
+    "nick_name": "lixiang2202",
+    "user_id": 6247095,
+    "avatar": "https://cdn-img.gitcode.com/ed/ca/ed6ca938a836d26e0612cbd50da434f3182334059475b1c2c4e9166c0b5d1c1d.jpg",
+    "starred_repos": [
+      "cann/cannbot-skills"
+    ]
+  },
+  {
+    "user_name": "zhengwenhui0817",
+    "nick_name": "郑文惠",
+    "user_id": 3221500,
+    "avatar": "https://cdn-img.gitcode.com/ad/ff/a8339d8666f03551f5a1b1afa44b92eaa8b3dfb3d9298c581e35aa36466a8dc6.png",
+    "starred_repos": [
+      "cann/cannbot-skills",
+      "cann/ops-math",
+      "cann/ops-transformer"
+    ]
+  },
+  {
+    "user_name": "hl-tang",
+    "nick_name": "hl-tang",
+    "user_id": 9206785,
+    "avatar": null,
+    "starred_repos": [
+      "cann/cannbot-skills",
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "yipyip",
+    "nick_name": "yipyip",
+    "user_id": 7025094,
+    "avatar": null,
+    "starred_repos": [
+      "cann/cannbot-skills",
+      "cann/ops-transformer"
+    ]
+  },
+  {
+    "user_name": "UFOunder",
+    "nick_name": "UFOunder",
+    "user_id": 6942970,
+    "avatar": null,
+    "starred_repos": [
+      "cann/cannbot-skills",
+      "cann/ops-math",
+      "cann/ops-transformer",
+      "cann/ops-nn",
+      "cann/cann-recipes-infer",
+      "cann/community",
+      "cann/hixl",
+      "cann/pypto",
+      "cann/ge",
+      "cann/cann-learning-hub",
+      "cann/asc-devkit",
+      "cann/opbase",
+      "cann/graph-autofusion",
+      "cann/ops-cv",
+      "cann/runtime",
+      "cann/cann-samples",
+      "cann/metadef",
+      "cann/catlass",
+      "cann/torchtitan-npu",
+      "cann/cann-recipes-train",
+      "cann/hccl",
+      "cann/hcomm",
+      "cann/pto-isa",
+      "cann/ascend-transformer-boost",
+      "cann/pyasc",
+      "cann/asnumpy",
+      "cann/atvoss",
+      "cann/amct",
+      "cann/oam-tools",
+      "cann/driver",
+      "cann/cann-recipes-embodied-ai",
+      "cann/triton-inference-server-ge-backend",
+      "cann/asc-tools",
+      "cann/sip",
+      "cann/cann-recipes-harmony-infer",
+      "cann/cann-recipes-spatial-intelligence",
+      "cann/ascend-boost-comm",
+      "cann/atvc",
+      "cann/infrastructure",
+      "cann/pypto-gym",
+      "cann/shmem",
+      "cann/cann-agreements",
+      "cann/release-management",
+      "cann/cann-ops-competitions",
+      "cann/ops-test-kit",
+      "cann/cann-bench",
+      "cann/cann-outreach",
+      "cann/ops-blas",
+      "cann/catccos",
+      "cann/cmake",
+      "cann/mat-chem-sim-pred",
+      "cann/ops-sparse",
+      "cann/cann-launch-camp",
+      "cann/xla-npu",
+      "cann/tensorflow",
+      "cann/ops-solver",
+      "cann/ops-collections",
+      "cann/elec-ops-inspection",
+      "cann/elec-ops-prediction",
+      "cann/elec-ops-simulation",
+      "cann/cann-spack-package",
+      "cann/asnumpy-docs",
+      "cann/.gitcode",
+      "cann/ops-rand",
+      "cann/ops-fft",
+      "cann/manifest",
+      "cann/ops-multimodal-fusion",
+      "cann/docs"
+    ]
+  },
+  {
+    "user_name": "sohnkee",
+    "nick_name": "sohnkee",
+    "user_id": 10311533,
+    "avatar": null,
+    "starred_repos": [
+      "cann/cannbot-skills",
+      "cann/ops-math",
+      "cann/ops-transformer",
+      "cann/ops-nn",
+      "cann/cann-recipes-infer",
+      "cann/community",
+      "cann/hixl",
+      "cann/pypto",
+      "cann/ge",
+      "cann/cann-learning-hub",
+      "cann/asc-devkit",
+      "cann/opbase",
+      "cann/graph-autofusion",
+      "cann/ops-cv",
+      "cann/runtime",
+      "cann/cann-samples",
+      "cann/metadef",
+      "cann/catlass",
+      "cann/torchtitan-npu",
+      "cann/cann-recipes-train",
+      "cann/hccl",
+      "cann/hcomm",
+      "cann/pto-isa",
+      "cann/ascend-transformer-boost",
+      "cann/pyasc",
+      "cann/asnumpy",
+      "cann/atvoss",
+      "cann/amct",
+      "cann/oam-tools",
+      "cann/driver",
+      "cann/cann-recipes-embodied-ai",
+      "cann/triton-inference-server-ge-backend",
+      "cann/asc-tools",
+      "cann/sip",
+      "cann/cann-recipes-harmony-infer",
+      "cann/cann-recipes-spatial-intelligence",
+      "cann/ascend-boost-comm",
+      "cann/atvc",
+      "cann/infrastructure",
+      "cann/pypto-gym",
+      "cann/shmem",
+      "cann/release-management",
+      "cann/cann-ops-competitions",
+      "cann/ops-test-kit",
+      "cann/cann-bench",
+      "cann/cann-outreach",
+      "cann/ops-blas",
+      "cann/ops-tensor",
+      "cann/catccos",
+      "cann/cmake",
+      "cann/mat-chem-sim-pred",
+      "cann/ops-sparse",
+      "cann/cann-launch-camp",
+      "cann/xla-npu",
+      "cann/tensorflow",
+      "cann/ops-solver",
+      "cann/ops-collections",
+      "cann/elec-ops-inspection",
+      "cann/elec-ops-prediction",
+      "cann/elec-ops-simulation",
+      "cann/cann-spack-package",
+      "cann/asnumpy-docs",
+      "cann/.gitcode",
+      "cann/ops-rand",
+      "cann/ops-fft",
+      "cann/manifest",
+      "cann/ops-multimodal-fusion",
+      "cann/docs"
+    ]
+  },
+  {
+    "user_name": "JieCat2526",
+    "nick_name": "AU丶JieCat。",
+    "user_id": 3224951,
+    "avatar": "https://cdn-img.gitcode.com/cd/ad/c5da9d2e80630e8f95304d9801e5099eebc04bae53d7008f301e278490fcf451.png?time=1768909154914",
+    "starred_repos": [
+      "cann/cannbot-skills",
+      "cann/ops-math",
+      "cann/ops-transformer",
+      "cann/ops-nn",
+      "cann/cann-recipes-infer",
+      "cann/community",
+      "cann/hixl",
+      "cann/pypto",
+      "cann/ge",
+      "cann/cann-learning-hub",
+      "cann/asc-devkit",
+      "cann/opbase",
+      "cann/graph-autofusion",
+      "cann/ops-cv",
+      "cann/runtime",
+      "cann/cann-samples",
+      "cann/metadef",
+      "cann/catlass",
+      "cann/torchtitan-npu",
+      "cann/cann-recipes-train",
+      "cann/hccl",
+      "cann/hcomm",
+      "cann/pto-isa",
+      "cann/ascend-transformer-boost",
+      "cann/pyasc",
+      "cann/asnumpy",
+      "cann/atvoss",
+      "cann/amct",
+      "cann/oam-tools",
+      "cann/driver",
+      "cann/cann-recipes-embodied-ai",
+      "cann/triton-inference-server-ge-backend",
+      "cann/asc-tools",
+      "cann/sip",
+      "cann/cann-recipes-harmony-infer",
+      "cann/cann-recipes-spatial-intelligence",
+      "cann/ascend-boost-comm",
+      "cann/atvc",
+      "cann/infrastructure",
+      "cann/pypto-gym",
+      "cann/shmem",
+      "cann/release-management",
+      "cann/cann-ops-competitions",
+      "cann/ops-test-kit",
+      "cann/cann-bench",
+      "cann/cann-outreach",
+      "cann/ops-blas",
+      "cann/ops-tensor",
+      "cann/catccos",
+      "cann/cmake",
+      "cann/mat-chem-sim-pred",
+      "cann/ops-sparse",
+      "cann/cann-launch-camp",
+      "cann/xla-npu",
+      "cann/tensorflow",
+      "cann/ops-solver",
+      "cann/ops-collections",
+      "cann/elec-ops-inspection",
+      "cann/elec-ops-prediction",
+      "cann/elec-ops-simulation",
+      "cann/cann-spack-package",
+      "cann/asnumpy-docs",
+      "cann/.gitcode",
+      "cann/ops-rand",
+      "cann/ops-fft",
+      "cann/manifest",
+      "cann/ops-multimodal-fusion",
+      "cann/docs"
+    ]
+  },
+  {
+    "user_name": "hutusi1",
+    "nick_name": "hutusi",
+    "user_id": 165,
+    "avatar": "https://cdn-img.gitcode.com/cc/ce/9c5c44c4976e2b8d877cd98e227ea5d7a18f9cc8c86b12fb76d8556d0f1f29ec.png",
+    "starred_repos": [
+      "cann/cannbot-skills"
+    ]
+  },
+  {
+    "user_name": "unravel",
+    "nick_name": "unravel",
+    "user_id": 831900,
+    "avatar": "https://cdn-img.gitcode.com/be/cf/2b244e03745324c4fcb9bc0ef4486ae84472db4f69f214ea30b54b0f15e5dc9b.png?time=1723681936756",
+    "starred_repos": [
+      "cann/cannbot-skills",
+      "cann/ops-transformer",
+      "cann/cann-learning-hub",
+      "cann/ops-tensor"
+    ]
+  },
+  {
     "user_name": "gcw_PHIowkfk",
     "nick_name": "llh",
     "user_id": 9550396,
     "avatar": "",
     "starred_repos": [
       "cann/cannbot-skills",
+      "cann/cann-learning-hub",
       "cann/cann-outreach"
     ]
   },
@@ -102,7 +392,9 @@
     "user_id": 1356437,
     "avatar": "https://cdn-img.gitcode.com/df/dd/dfdd00f8611a3d5bb44010237c0f74a1bcaa09b8268b21bee9f0b7a843c84ff3.png?time=1780898406044",
     "starred_repos": [
-      "cann/cannbot-skills"
+      "cann/cannbot-skills",
+      "cann/ops-math",
+      "cann/cann-samples"
     ]
   },
   {
@@ -153,10 +445,11 @@
       "cann/cann-recipes-infer",
       "cann/community",
       "cann/pypto",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
       "cann/cann-recipes-train",
       "cann/hcomm",
+      "cann/ops-test-kit",
       "cann/cann-outreach"
     ]
   },
@@ -191,6 +484,7 @@
     "avatar": "",
     "starred_repos": [
       "cann/cannbot-skills",
+      "cann/ops-math",
       "cann/ops-transformer",
       "cann/cann-learning-hub",
       "cann/ops-cv"
@@ -283,16 +577,16 @@
       "cann/ops-nn",
       "cann/community",
       "cann/pypto",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
       "cann/ops-cv",
       "cann/runtime",
       "cann/hcomm",
       "cann/amct",
       "cann/oam-tools",
       "cann/cann-bench",
-      "cann/ops-tensor",
-      "cann/ops-blas"
+      "cann/ops-blas",
+      "cann/ops-tensor"
     ]
   },
   {
@@ -310,9 +604,9 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -332,8 +626,8 @@
       "cann/shmem",
       "cann/release-management",
       "cann/cann-bench",
-      "cann/ops-tensor",
       "cann/ops-blas",
+      "cann/ops-tensor",
       "cann/catccos",
       "cann/cmake",
       "cann/mat-chem-sim-pred",
@@ -375,9 +669,9 @@
       "cann/community",
       "cann/hixl",
       "cann/pypto",
-      "cann/opbase",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -683,17 +977,6 @@
     "avatar": null,
     "starred_repos": [
       "cann/cannbot-skills"
-    ]
-  },
-  {
-    "user_name": "zhengwenhui0817",
-    "nick_name": "郑文惠",
-    "user_id": 3221500,
-    "avatar": "https://cdn-img.gitcode.com/ad/ff/a8339d8666f03551f5a1b1afa44b92eaa8b3dfb3d9298c581e35aa36466a8dc6.png",
-    "starred_repos": [
-      "cann/cannbot-skills",
-      "cann/ops-math",
-      "cann/ops-transformer"
     ]
   },
   {
@@ -1041,9 +1324,9 @@
       "cann/cann-recipes-infer",
       "cann/community",
       "cann/hixl",
-      "cann/opbase",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/catlass",
@@ -1185,8 +1468,8 @@
     "starred_repos": [
       "cann/cannbot-skills",
       "cann/ops-nn",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/cann-samples",
       "cann/atvoss",
       "cann/ops-test-kit"
@@ -1302,9 +1585,9 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -1339,8 +1622,8 @@
       "cann/ops-test-kit",
       "cann/cann-bench",
       "cann/cann-outreach",
-      "cann/ops-tensor",
       "cann/ops-blas",
+      "cann/ops-tensor",
       "cann/catccos",
       "cann/cmake",
       "cann/mat-chem-sim-pred",
@@ -1376,9 +1659,9 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -1400,8 +1683,8 @@
       "cann/cann-ops-competitions",
       "cann/ops-test-kit",
       "cann/cann-outreach",
-      "cann/ops-tensor",
       "cann/ops-blas",
+      "cann/ops-tensor",
       "cann/catccos",
       "cann/mat-chem-sim-pred",
       "cann/ops-sparse",
@@ -1461,7 +1744,9 @@
       "cann/cannbot-skills",
       "cann/ops-transformer",
       "cann/ops-nn",
-      "cann/cann-recipes-infer"
+      "cann/cann-recipes-infer",
+      "cann/cann-learning-hub",
+      "cann/cann-recipes-embodied-ai"
     ]
   },
   {
@@ -1470,7 +1755,8 @@
     "user_id": 2109738,
     "avatar": "https://cdn-img.gitcode.com/de/ba/986565de05ba8e4cc27c7b94e5b689269b1da25f580b4260daacc79af92207f8.png",
     "starred_repos": [
-      "cann/cannbot-skills"
+      "cann/cannbot-skills",
+      "cann/cann-recipes-infer"
     ]
   },
   {
@@ -1519,8 +1805,8 @@
       "cann/hcomm",
       "cann/cann-recipes-embodied-ai",
       "cann/shmem",
-      "cann/ops-tensor",
       "cann/ops-blas",
+      "cann/ops-tensor",
       "cann/cann-launch-camp"
     ]
   },
@@ -1558,9 +1844,9 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -1594,8 +1880,8 @@
       "cann/ops-test-kit",
       "cann/cann-bench",
       "cann/cann-outreach",
-      "cann/ops-tensor",
       "cann/ops-blas",
+      "cann/ops-tensor",
       "cann/catccos",
       "cann/cmake",
       "cann/mat-chem-sim-pred",
@@ -1737,9 +2023,9 @@
       "cann/community",
       "cann/hixl",
       "cann/pypto",
-      "cann/opbase",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -1799,9 +2085,9 @@
       "cann/community",
       "cann/hixl",
       "cann/pypto",
-      "cann/opbase",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -1877,9 +2163,9 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -1914,8 +2200,8 @@
       "cann/ops-test-kit",
       "cann/cann-bench",
       "cann/cann-outreach",
-      "cann/ops-tensor",
       "cann/ops-blas",
+      "cann/ops-tensor",
       "cann/catccos",
       "cann/cmake",
       "cann/mat-chem-sim-pred",
@@ -1993,8 +2279,8 @@
       "cann/ops-math",
       "cann/ops-transformer",
       "cann/ops-nn",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
       "cann/cann-recipes-train",
       "cann/ascend-transformer-boost",
       "cann/atvoss",
@@ -2063,9 +2349,9 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -2100,8 +2386,8 @@
       "cann/ops-test-kit",
       "cann/cann-bench",
       "cann/cann-outreach",
-      "cann/ops-tensor",
       "cann/ops-blas",
+      "cann/ops-tensor",
       "cann/catccos",
       "cann/cmake",
       "cann/mat-chem-sim-pred",
@@ -2185,8 +2471,8 @@
       "cann/ops-nn",
       "cann/community",
       "cann/pypto",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
       "cann/graph-autofusion",
       "cann/cann-samples",
       "cann/hccl",
@@ -2217,8 +2503,8 @@
       "cann/cannbot-skills",
       "cann/ops-math",
       "cann/community",
-      "cann/opbase",
-      "cann/cann-learning-hub"
+      "cann/cann-learning-hub",
+      "cann/opbase"
     ]
   },
   {
@@ -2261,8 +2547,8 @@
       "cann/community",
       "cann/hixl",
       "cann/pypto",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
       "cann/cann-samples",
       "cann/catlass",
       "cann/hcomm",
@@ -2301,9 +2587,9 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -2338,8 +2624,8 @@
       "cann/ops-test-kit",
       "cann/cann-bench",
       "cann/cann-outreach",
-      "cann/ops-tensor",
       "cann/ops-blas",
+      "cann/ops-tensor",
       "cann/catccos",
       "cann/cmake",
       "cann/mat-chem-sim-pred",
@@ -2384,8 +2670,8 @@
       "cann/amct",
       "cann/asc-tools",
       "cann/shmem",
-      "cann/ops-tensor",
-      "cann/ops-blas"
+      "cann/ops-blas",
+      "cann/ops-tensor"
     ]
   },
   {
@@ -2401,9 +2687,9 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/runtime",
       "cann/catlass",
@@ -2592,9 +2878,10 @@
     "starred_repos": [
       "cann/cannbot-skills",
       "cann/ops-math",
+      "cann/ops-transformer",
       "cann/pypto",
-      "cann/opbase",
       "cann/cann-learning-hub",
+      "cann/opbase",
       "cann/cann-recipes-train",
       "cann/ops-tensor",
       "cann/cmake"
@@ -2615,9 +2902,9 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -2651,8 +2938,8 @@
       "cann/ops-test-kit",
       "cann/cann-bench",
       "cann/cann-outreach",
-      "cann/ops-tensor",
       "cann/ops-blas",
+      "cann/ops-tensor",
       "cann/catccos",
       "cann/cmake",
       "cann/mat-chem-sim-pred",
@@ -2702,9 +2989,9 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -2727,8 +3014,8 @@
       "cann/ops-test-kit",
       "cann/cann-bench",
       "cann/cann-outreach",
-      "cann/ops-tensor",
       "cann/ops-blas",
+      "cann/ops-tensor",
       "cann/catccos",
       "cann/cmake",
       "cann/elec-ops-inspection",
@@ -2793,8 +3080,8 @@
       "cann/ops-nn",
       "cann/cann-samples",
       "cann/pypto-gym",
-      "cann/ops-tensor",
-      "cann/ops-blas"
+      "cann/ops-blas",
+      "cann/ops-tensor"
     ]
   },
   {
@@ -3027,9 +3314,9 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -3063,8 +3350,8 @@
       "cann/ops-test-kit",
       "cann/cann-bench",
       "cann/cann-outreach",
-      "cann/ops-tensor",
       "cann/ops-blas",
+      "cann/ops-tensor",
       "cann/catccos",
       "cann/cmake",
       "cann/mat-chem-sim-pred",
@@ -3101,9 +3388,9 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -3137,8 +3424,8 @@
       "cann/ops-test-kit",
       "cann/cann-bench",
       "cann/cann-outreach",
-      "cann/ops-tensor",
       "cann/ops-blas",
+      "cann/ops-tensor",
       "cann/catccos",
       "cann/cmake",
       "cann/mat-chem-sim-pred",
@@ -3175,9 +3462,9 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -3212,8 +3499,8 @@
       "cann/ops-test-kit",
       "cann/cann-bench",
       "cann/cann-outreach",
-      "cann/ops-tensor",
       "cann/ops-blas",
+      "cann/ops-tensor",
       "cann/catccos",
       "cann/cmake",
       "cann/mat-chem-sim-pred",
@@ -3272,7 +3559,8 @@
     "avatar": "https://cdn-img.gitcode.com/fb/ac/619f8b00a4c6b04a2b51bf60e979fd84e4eb95f9d893843f44a9c9a58318b158.png",
     "starred_repos": [
       "cann/cannbot-skills",
-      "cann/cann-launch-camp"
+      "cann/ops-math",
+      "cann/cann-samples"
     ]
   },
   {
@@ -3469,10 +3757,11 @@
       "cann/ops-math",
       "cann/ops-nn",
       "cann/pypto",
-      "cann/opbase",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
+      "cann/ops-cv",
       "cann/cann-samples",
       "cann/catlass",
       "cann/pto-isa",
@@ -3533,8 +3822,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/opbase",
       "cann/cann-learning-hub",
+      "cann/opbase",
       "cann/ascend-transformer-boost"
     ]
   },
@@ -3563,8 +3852,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -3601,8 +3890,8 @@
     "avatar": "https://cdn-img.gitcode.com/ac/ff/a00c782f2fa5f9ded6a3f9e3b6cd57f57f2eacc5407f0f78d733c33f775a056c.png",
     "starred_repos": [
       "cann/cannbot-skills",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
       "cann/xla-npu"
     ]
   },
@@ -3657,9 +3946,9 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
+      "cann/opbase",
       "cann/ops-cv",
       "cann/runtime",
       "cann/cann-samples",
@@ -3719,8 +4008,8 @@
       "cann/ops-nn",
       "cann/hixl",
       "cann/pypto",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/runtime",
       "cann/hccl",
       "cann/hcomm",
@@ -3737,8 +4026,8 @@
     "starred_repos": [
       "cann/cannbot-skills",
       "cann/ops-math",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
       "cann/cann-samples",
       "cann/sip"
     ]
@@ -3758,8 +4047,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -3793,8 +4082,8 @@
       "cann/ops-test-kit",
       "cann/cann-bench",
       "cann/cann-outreach",
-      "cann/ops-tensor",
       "cann/ops-blas",
+      "cann/ops-tensor",
       "cann/cmake",
       "cann/mat-chem-sim-pred",
       "cann/ops-sparse",
@@ -3848,12 +4137,13 @@
       "cann/ops-nn",
       "cann/pypto",
       "cann/ge",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
       "cann/ops-cv",
       "cann/runtime",
       "cann/catlass",
-      "cann/pto-isa"
+      "cann/pto-isa",
+      "cann/shmem"
     ]
   },
   {
@@ -3896,8 +4186,8 @@
       "cann/ops-nn",
       "cann/cann-recipes-infer",
       "cann/ge",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
       "cann/cann-samples",
       "cann/cann-recipes-train",
       "cann/cann-outreach"
@@ -3962,9 +4252,9 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/cann-samples",
@@ -3997,8 +4287,8 @@
       "cann/ops-test-kit",
       "cann/cann-bench",
       "cann/cann-outreach",
-      "cann/ops-tensor",
       "cann/ops-blas",
+      "cann/ops-tensor",
       "cann/catccos",
       "cann/cmake",
       "cann/mat-chem-sim-pred",
@@ -4135,8 +4425,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -4185,9 +4475,9 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -4221,8 +4511,8 @@
       "cann/ops-test-kit",
       "cann/cann-bench",
       "cann/cann-outreach",
-      "cann/ops-tensor",
       "cann/ops-blas",
+      "cann/ops-tensor",
       "cann/catccos",
       "cann/cmake",
       "cann/mat-chem-sim-pred",
@@ -4253,9 +4543,9 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -4284,8 +4574,8 @@
       "cann/ops-test-kit",
       "cann/cann-bench",
       "cann/cann-outreach",
-      "cann/ops-tensor",
       "cann/ops-blas",
+      "cann/ops-tensor",
       "cann/catccos",
       "cann/cmake",
       "cann/mat-chem-sim-pred",
@@ -4311,9 +4601,9 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -4338,8 +4628,8 @@
       "cann/cann-ops-competitions",
       "cann/ops-test-kit",
       "cann/cann-outreach",
-      "cann/ops-tensor",
       "cann/ops-blas",
+      "cann/ops-tensor",
       "cann/catccos",
       "cann/ops-sparse",
       "cann/cann-launch-camp"
@@ -4394,8 +4684,8 @@
       "cann/ops-math",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
       "cann/cann-ops-competitions"
     ]
   },
@@ -4428,9 +4718,9 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -4464,8 +4754,8 @@
       "cann/ops-test-kit",
       "cann/cann-bench",
       "cann/cann-outreach",
-      "cann/ops-tensor",
       "cann/ops-blas",
+      "cann/ops-tensor",
       "cann/catccos",
       "cann/cmake",
       "cann/mat-chem-sim-pred",
@@ -4511,9 +4801,9 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -4547,8 +4837,8 @@
       "cann/ops-test-kit",
       "cann/cann-bench",
       "cann/cann-outreach",
-      "cann/ops-tensor",
       "cann/ops-blas",
+      "cann/ops-tensor",
       "cann/catccos",
       "cann/cmake",
       "cann/mat-chem-sim-pred",
@@ -4655,9 +4945,9 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -4692,8 +4982,8 @@
       "cann/ops-test-kit",
       "cann/cann-bench",
       "cann/cann-outreach",
-      "cann/ops-tensor",
       "cann/ops-blas",
+      "cann/ops-tensor",
       "cann/catccos",
       "cann/cmake",
       "cann/mat-chem-sim-pred",
@@ -5083,9 +5373,9 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -5118,8 +5408,8 @@
       "cann/cann-ops-competitions",
       "cann/ops-test-kit",
       "cann/cann-bench",
-      "cann/ops-tensor",
       "cann/ops-blas",
+      "cann/ops-tensor",
       "cann/catccos",
       "cann/mat-chem-sim-pred",
       "cann/ops-sparse",
@@ -5153,9 +5443,9 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -5188,8 +5478,8 @@
       "cann/cann-ops-competitions",
       "cann/ops-test-kit",
       "cann/cann-bench",
-      "cann/ops-tensor",
       "cann/ops-blas",
+      "cann/ops-tensor",
       "cann/catccos",
       "cann/cmake",
       "cann/ops-sparse",
@@ -5286,8 +5576,8 @@
       "cann/ops-transformer",
       "cann/cann-recipes-infer",
       "cann/community",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
       "cann/cann-samples"
     ]
   },
@@ -5700,6 +5990,7 @@
       "cann/ops-math",
       "cann/ops-nn",
       "cann/pypto",
+      "cann/cann-samples",
       "cann/pto-isa",
       "cann/pypto-gym"
     ]
@@ -5808,6 +6099,7 @@
     "starred_repos": [
       "cann/cannbot-skills",
       "cann/ops-math",
+      "cann/cann-learning-hub",
       "cann/opbase"
     ]
   },
@@ -5854,6 +6146,7 @@
       "cann/ops-math",
       "cann/ops-transformer",
       "cann/ops-nn",
+      "cann/asc-devkit",
       "cann/ops-cv"
     ]
   },
@@ -5925,9 +6218,9 @@
       "cann/ops-nn",
       "cann/cann-recipes-infer",
       "cann/community",
-      "cann/opbase",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
+      "cann/opbase",
       "cann/catlass",
       "cann/cann-recipes-train",
       "cann/amct",
@@ -6025,8 +6318,8 @@
     "avatar": "https://cdn-img.gitcode.com/ce/ae/01c815e3a367333eb854959bdc2bd564ac353e778cb4087b00923ecb6518ba9e.png",
     "starred_repos": [
       "cann/cannbot-skills",
-      "cann/asc-devkit",
-      "cann/cann-learning-hub"
+      "cann/cann-learning-hub",
+      "cann/asc-devkit"
     ]
   },
   {
@@ -6062,9 +6355,9 @@
       "cann/ops-nn",
       "cann/cann-recipes-infer",
       "cann/community",
-      "cann/opbase",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
+      "cann/opbase",
       "cann/ops-cv",
       "cann/asnumpy"
     ]
@@ -6406,8 +6699,8 @@
     "avatar": null,
     "starred_repos": [
       "cann/cannbot-skills",
-      "cann/opbase",
-      "cann/asc-devkit"
+      "cann/asc-devkit",
+      "cann/opbase"
     ]
   },
   {
@@ -6591,8 +6884,8 @@
       "cann/ops-math",
       "cann/cann-recipes-infer",
       "cann/community",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
       "cann/cann-samples",
       "cann/torchtitan-npu",
       "cann/cann-recipes-train",
@@ -6797,8 +7090,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/community",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/cann-samples"
     ]
   },
@@ -7590,8 +7883,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/ge",
-      "cann/opbase",
       "cann/cann-learning-hub",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/runtime",
       "cann/torchtitan-npu",
@@ -7608,8 +7901,8 @@
       "cann/cannbot-skills",
       "cann/ops-math",
       "cann/ops-nn",
-      "cann/opbase",
       "cann/cann-learning-hub",
+      "cann/opbase",
       "cann/cann-bench"
     ]
   },
@@ -7671,9 +7964,9 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -7700,8 +7993,8 @@
       "cann/ops-test-kit",
       "cann/cann-bench",
       "cann/cann-outreach",
-      "cann/ops-tensor",
       "cann/ops-blas",
+      "cann/ops-tensor",
       "cann/catccos",
       "cann/cmake",
       "cann/ops-sparse",
@@ -7769,8 +8062,8 @@
     "starred_repos": [
       "cann/cannbot-skills",
       "cann/ops-math",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/ops-cv",
       "cann/cann-samples",
       "cann/atvoss",
@@ -8742,9 +9035,9 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/community",
-      "cann/opbase",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
+      "cann/opbase",
       "cann/ops-cv",
       "cann/cann-samples",
       "cann/pypto-gym",
@@ -8848,8 +9141,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -9380,8 +9673,8 @@
       "cann/cannbot-skills",
       "cann/ops-math",
       "cann/ops-transformer",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
       "cann/cann-recipes-train",
       "cann/hcomm",
       "cann/driver"
@@ -9503,8 +9796,8 @@
       "cann/ops-nn",
       "cann/cann-recipes-infer",
       "cann/community",
-      "cann/opbase",
       "cann/cann-learning-hub",
+      "cann/opbase",
       "cann/ops-cv",
       "cann/cann-samples",
       "cann/atvoss",
@@ -9646,8 +9939,8 @@
     "starred_repos": [
       "cann/cannbot-skills",
       "cann/pypto",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
       "cann/pto-isa"
     ]
   },
@@ -9678,6 +9971,7 @@
       "cann/cannbot-skills",
       "cann/pypto",
       "cann/pto-isa",
+      "cann/ops-test-kit",
       "cann/ops-blas"
     ]
   },
@@ -9758,9 +10052,9 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -9843,8 +10137,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -9983,8 +10277,8 @@
       "cann/community",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -10019,9 +10313,9 @@
       "cann/cann-recipes-infer",
       "cann/community",
       "cann/pypto",
-      "cann/opbase",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
+      "cann/opbase",
       "cann/ops-cv",
       "cann/cann-samples",
       "cann/catlass",
@@ -10104,8 +10398,8 @@
       "cann/cann-recipes-infer",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -10460,8 +10754,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -10691,8 +10985,8 @@
     "avatar": null,
     "starred_repos": [
       "cann/cannbot-skills",
-      "cann/asc-devkit",
-      "cann/cann-learning-hub"
+      "cann/cann-learning-hub",
+      "cann/asc-devkit"
     ]
   },
   {
@@ -10810,8 +11104,8 @@
       "cann/cann-recipes-infer",
       "cann/community",
       "cann/pypto",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
       "cann/ops-cv",
       "cann/catlass",
       "cann/atvoss"
@@ -10841,8 +11135,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/community",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/sip",
@@ -10982,8 +11276,8 @@
       "cann/ops-nn",
       "cann/cann-recipes-infer",
       "cann/community",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
       "cann/ops-cv",
       "cann/cann-samples",
       "cann/cann-recipes-train",
@@ -11024,8 +11318,8 @@
       "cann/ops-math",
       "cann/ops-transformer",
       "cann/community",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
       "cann/catlass"
     ]
   },
@@ -11066,8 +11360,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -11113,8 +11407,8 @@
     "avatar": "https://cdn-img.gitcode.com/ab/cd/05abc37866d9bbcf861509c3adba09d832dd7364fead43cf43d2741583b97b86.png",
     "starred_repos": [
       "cann/cannbot-skills",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
       "cann/cann-samples"
     ]
   },
@@ -11162,8 +11456,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -11227,9 +11521,9 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -11338,8 +11632,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -11418,8 +11712,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/community",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/ops-cv",
       "cann/pypto-gym"
     ]
@@ -11522,8 +11816,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -11568,8 +11862,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -11615,8 +11909,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -11751,8 +12045,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -11836,8 +12130,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -11946,8 +12240,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -12002,8 +12296,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -12086,8 +12380,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -12251,8 +12545,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -12434,8 +12728,8 @@
       "cann/ops-transformer",
       "cann/cann-recipes-infer",
       "cann/community",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/ops-cv",
       "cann/cann-samples",
       "cann/atvoss",
@@ -12482,8 +12776,8 @@
       "cann/atvoss",
       "cann/pypto-gym",
       "cann/ops-test-kit",
-      "cann/ops-tensor",
       "cann/ops-blas",
+      "cann/ops-tensor",
       "cann/ops-sparse",
       "cann/ops-solver"
     ]
@@ -12525,8 +12819,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -12644,8 +12938,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/pypto",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
       "cann/cann-samples",
       "cann/pto-isa",
       "cann/ops-test-kit",
@@ -12706,8 +13000,8 @@
       "cann/cann-recipes-infer",
       "cann/hixl",
       "cann/ge",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
       "cann/graph-autofusion",
       "cann/runtime",
       "cann/metadef",
@@ -12732,8 +13026,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -13262,9 +13556,9 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -13296,8 +13590,8 @@
       "cann/release-management",
       "cann/cann-ops-competitions",
       "cann/cann-bench",
-      "cann/ops-tensor",
       "cann/ops-blas",
+      "cann/ops-tensor",
       "cann/catccos",
       "cann/cmake",
       "cann/mat-chem-sim-pred",
@@ -14284,8 +14578,8 @@
     "avatar": "https://cdn-img.gitcode.com/fe/cd/f5e202c724d438dd1adbf84dceb19978113165c75f707ed50eba7eff7e4f2808.jpg",
     "starred_repos": [
       "cann/cannbot-skills",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
       "cann/catlass",
       "cann/ops-blas",
       "cann/ops-sparse"
@@ -14392,8 +14686,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -14441,8 +14735,8 @@
       "cann/ops-math",
       "cann/ops-nn",
       "cann/community",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/runtime",
       "cann/cann-samples",
       "cann/catlass"
@@ -14511,8 +14805,8 @@
       "cann/asc-devkit",
       "cann/cann-samples",
       "cann/atvoss",
-      "cann/ops-tensor",
       "cann/ops-blas",
+      "cann/ops-tensor",
       "cann/ops-sparse",
       "cann/ops-solver"
     ]
@@ -14732,8 +15026,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/community",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/ops-cv",
       "cann/cann-samples",
       "cann/ops-tensor"
@@ -15020,8 +15314,8 @@
       "cann/ops-nn",
       "cann/community",
       "cann/pypto",
-      "cann/opbase",
       "cann/cann-learning-hub",
+      "cann/opbase",
       "cann/ops-cv",
       "cann/cann-samples",
       "cann/atvoss",
@@ -15047,8 +15341,8 @@
     "starred_repos": [
       "cann/cannbot-skills",
       "cann/cann-samples",
-      "cann/ops-tensor",
       "cann/ops-blas",
+      "cann/ops-tensor",
       "cann/ops-sparse",
       "cann/ops-solver"
     ]
@@ -15173,8 +15467,8 @@
       "cann/community",
       "cann/hixl",
       "cann/ge",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
       "cann/graph-autofusion",
       "cann/runtime",
       "cann/metadef",
@@ -15327,8 +15621,8 @@
       "cann/community",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/ops-cv",
       "cann/cann-samples",
       "cann/catlass",
@@ -15378,8 +15672,8 @@
       "cann/community",
       "cann/hixl",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -15521,8 +15815,8 @@
       "cann/ops-nn",
       "cann/cann-recipes-infer",
       "cann/pypto",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/ops-cv",
       "cann/cann-samples",
       "cann/cann-recipes-train",
@@ -15611,8 +15905,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -15720,8 +16014,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/pypto",
-      "cann/opbase",
       "cann/cann-learning-hub",
+      "cann/opbase",
       "cann/ops-cv",
       "cann/cann-samples",
       "cann/atvoss",
@@ -15752,8 +16046,8 @@
       "cann/cann-recipes-infer",
       "cann/community",
       "cann/pypto",
-      "cann/opbase",
       "cann/cann-learning-hub",
+      "cann/opbase",
       "cann/ops-cv",
       "cann/cann-samples",
       "cann/atvoss",
@@ -15804,8 +16098,8 @@
       "cann/ops-nn",
       "cann/cann-recipes-infer",
       "cann/community",
-      "cann/opbase",
       "cann/cann-learning-hub",
+      "cann/opbase",
       "cann/ops-cv",
       "cann/asnumpy",
       "cann/catccos",
@@ -15830,8 +16124,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -15883,8 +16177,8 @@
       "cann/ops-nn",
       "cann/community",
       "cann/pypto",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/ops-cv",
       "cann/atvoss",
       "cann/pypto-gym"
@@ -15903,8 +16197,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/runtime",
       "cann/metadef",
@@ -15974,8 +16268,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -16079,8 +16373,8 @@
       "cann/community",
       "cann/hixl",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/metadef",
@@ -16197,9 +16491,9 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/cann-samples",
@@ -16394,8 +16688,8 @@
       "cann/cann-recipes-infer",
       "cann/community",
       "cann/pypto",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/ops-cv",
       "cann/pypto-gym"
     ]
@@ -16501,8 +16795,8 @@
       "cann/ops-nn",
       "cann/community",
       "cann/pypto",
-      "cann/opbase",
       "cann/cann-learning-hub",
+      "cann/opbase",
       "cann/ops-cv",
       "cann/pypto-gym"
     ]
@@ -16528,8 +16822,8 @@
       "cann/ops-math",
       "cann/ops-transformer",
       "cann/ops-nn",
-      "cann/opbase",
       "cann/cann-learning-hub",
+      "cann/opbase",
       "cann/ops-cv",
       "cann/atvoss"
     ]
@@ -16663,8 +16957,8 @@
       "cann/atvoss",
       "cann/pypto-gym",
       "cann/ops-test-kit",
-      "cann/ops-tensor",
       "cann/ops-blas",
+      "cann/ops-tensor",
       "cann/ops-sparse",
       "cann/ops-solver"
     ]
@@ -16769,8 +17063,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -16842,8 +17136,8 @@
       "cann/cann-recipes-infer",
       "cann/community",
       "cann/pypto",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/ops-cv",
       "cann/cann-samples",
       "cann/asnumpy",
@@ -16879,6 +17173,224 @@
       "cann/cannbot-skills",
       "cann/ops-nn",
       "cann/pypto",
+      "cann/cann-samples"
+    ]
+  },
+  {
+    "user_name": "GSH976560569mn",
+    "nick_name": "GSH976560569mn",
+    "user_id": 2162562,
+    "avatar": "https://cdn-img.gitcode.com/ca/ae/ca6a4042ed03a9eace13747597e9b366091c4ebc96081321d1c4d002a4ec0113.png",
+    "starred_repos": [
+      "cann/ops-math",
+      "cann/pypto",
+      "cann/pto-isa"
+    ]
+  },
+  {
+    "user_name": "techAo",
+    "nick_name": "techAo",
+    "user_id": 11957515,
+    "avatar": null,
+    "starred_repos": [
+      "cann/ops-math"
+    ]
+  },
+  {
+    "user_name": "2301_79842066",
+    "nick_name": "Newton",
+    "user_id": 11030684,
+    "avatar": "https://cdn-img.gitcode.com/dd/ff/65110ddf725f5f092e51a812a9bee98e9bdaa75ee8a8c753521e63beaa22a5ba.png",
+    "starred_repos": [
+      "cann/ops-math"
+    ]
+  },
+  {
+    "user_name": "chenshijin2005",
+    "nick_name": "清水寺找人生答案",
+    "user_id": 2616405,
+    "avatar": "https://cdn-img.gitcode.com/ef/cf/11e00012135376234fc4071f7bf8dad064f5a0b51e8c0530f28ccafadeb97900.png",
+    "starred_repos": [
+      "cann/ops-math",
+      "cann/cann-samples"
+    ]
+  },
+  {
+    "user_name": "gcw_NPVWYkwr",
+    "nick_name": "gcw_NPVWYkwr",
+    "user_id": 11677904,
+    "avatar": "",
+    "starred_repos": [
+      "cann/ops-math",
+      "cann/cann-samples"
+    ]
+  },
+  {
+    "user_name": "pandagerzi",
+    "nick_name": "pandagerzi",
+    "user_id": 2206273,
+    "avatar": "https://cdn-img.gitcode.com/ca/af/5783ca8afa3bb2c921ec5b62324b05456ff51803fce606a9cb5c2088b43f4c50.png",
+    "starred_repos": [
+      "cann/ops-math",
+      "cann/cann-samples"
+    ]
+  },
+  {
+    "user_name": "topgap06",
+    "nick_name": "topgap06",
+    "user_id": 4702828,
+    "avatar": "https://cdn-img.gitcode.com/ef/fa/7e1255f7f7a03070f9d079b8f88de087a6cbe2b7589f5ad2a34203ef740218ab.png",
+    "starred_repos": [
+      "cann/ops-math"
+    ]
+  },
+  {
+    "user_name": "tsz123",
+    "nick_name": "tsz123",
+    "user_id": 3298404,
+    "avatar": null,
+    "starred_repos": [
+      "cann/ops-math",
+      "cann/cann-samples"
+    ]
+  },
+  {
+    "user_name": "liukaiyu",
+    "nick_name": "shenliiu",
+    "user_id": 5076116,
+    "avatar": "",
+    "starred_repos": [
+      "cann/ops-math",
+      "cann/cann-samples"
+    ]
+  },
+  {
+    "user_name": "m0_62184455",
+    "nick_name": "ccs_JS",
+    "user_id": 5292071,
+    "avatar": "https://cdn-img.gitcode.com/cf/bb/c4f2bb483b6f28ddc758cdbec858532d2c8122daa7f879a6deca02adcd208e6f.jpg",
+    "starred_repos": [
+      "cann/ops-math",
+      "cann/cann-samples"
+    ]
+  },
+  {
+    "user_name": "lincrush",
+    "nick_name": "lincrush",
+    "user_id": 2610266,
+    "avatar": "https://cdn-img.gitcode.com/db/ba/650db8ba829e21608f7a0b8548d54bdd43a6fa79954791196699458b77173edb.png",
+    "starred_repos": [
+      "cann/ops-math",
+      "cann/cann-samples"
+    ]
+  },
+  {
+    "user_name": "2301_81707392",
+    "nick_name": "LXY",
+    "user_id": 522405,
+    "avatar": "https://cdn-img.gitcode.com/ce/de/8427cede69fb38ec2c5aead07311564b9f246d856067528df8ef02d8ea0d8051.png",
+    "starred_repos": [
+      "cann/ops-math"
+    ]
+  },
+  {
+    "user_name": "a_xmrlbz",
+    "nick_name": "a_xmrlbz",
+    "user_id": 4294392,
+    "avatar": "https://cdn-img.gitcode.com/ba/dc/4bad9641cef4a6bd023a45d59b01de028518d9819a895f2220a0b9fec4440201.png",
+    "starred_repos": [
+      "cann/ops-math",
+      "cann/cann-samples"
+    ]
+  },
+  {
+    "user_name": "zjy_123456",
+    "nick_name": "朱炯宇",
+    "user_id": 11574613,
+    "avatar": "https://cdn-img.gitcode.com/aa/dd/aa6ddde3ecae555fa787df2ff5179d0689077cd79adb8b2f75670b56a009f10f.jpg",
+    "starred_repos": [
+      "cann/ops-math",
+      "cann/cann-samples"
+    ]
+  },
+  {
+    "user_name": "kiri905",
+    "nick_name": "kiri905",
+    "user_id": 6932537,
+    "avatar": "https://cdn-img.gitcode.com/eb/ae/e0896bae81788219a13df007c8b54b0ef90954b6c47ba28b421d5e39b7bbd4a4.png",
+    "starred_repos": [
+      "cann/ops-math",
+      "cann/cann-samples"
+    ]
+  },
+  {
+    "user_name": "ZHJYYDSm",
+    "nick_name": "ZHJYYDSm",
+    "user_id": 6966684,
+    "avatar": "https://cdn-img.gitcode.com/fc/ae/6f4c4aecb86d65a80ee976e7f164edf2f2ac4d69be36e9ef79866dfae57064f9.png",
+    "starred_repos": [
+      "cann/ops-math",
+      "cann/cann-samples"
+    ]
+  },
+  {
+    "user_name": "2401_87283207",
+    "nick_name": "Ldd",
+    "user_id": 2780603,
+    "avatar": "https://cdn-img.gitcode.com/af/de/60a4872fd825e0d0b3d6e1d0a5b2975f01e1b5e0b4ab698e53966e41eb1df3f0.png",
+    "starred_repos": [
+      "cann/ops-math",
+      "cann/cann-samples"
+    ]
+  },
+  {
+    "user_name": "Kal_tsit_N",
+    "nick_name": "Kal_tsit_N",
+    "user_id": 4740375,
+    "avatar": "https://cdn-img.gitcode.com/be/ac/b3ea664c3ed6c372802c345ddf9c050ea4259121c3f6c0fb7fc3bd7ad019ce34.png",
+    "starred_repos": [
+      "cann/ops-math",
+      "cann/cann-samples"
+    ]
+  },
+  {
+    "user_name": "2301_79800624",
+    "nick_name": "句号加三点",
+    "user_id": 261867,
+    "avatar": "https://cdn-img.gitcode.com/ce/ab/c78e22a6690b25e6794a88faed04de509546200ad8bab32c8805a9bba0b75801.png",
+    "starred_repos": [
+      "cann/ops-math",
+      "cann/cann-learning-hub",
+      "cann/cann-samples"
+    ]
+  },
+  {
+    "user_name": "qq_56405273",
+    "nick_name": "蒋宇航",
+    "user_id": 3023178,
+    "avatar": "https://cdn-img.gitcode.com/db/ab/3db43076a79633b01d5277a153a84aa98bfabb75bf6431bbed0e00a06e0eb59b.jpg",
+    "starred_repos": [
+      "cann/ops-math",
+      "cann/cann-samples"
+    ]
+  },
+  {
+    "user_name": "dorlin",
+    "nick_name": "陈东林",
+    "user_id": 11574745,
+    "avatar": "https://cdn-img.gitcode.com/be/db/5b7e7db17af2437f24f0de349c20ef8e43ec9d30c35fc6d4caa94c8b9d08a7c0.jpg",
+    "starred_repos": [
+      "cann/ops-math",
+      "cann/cann-samples"
+    ]
+  },
+  {
+    "user_name": "RUN1ZHANG",
+    "nick_name": "RUN1ZHANG",
+    "user_id": 4384928,
+    "avatar": "https://cdn-img.gitcode.com/aa/ac/2aa035a614ce021faffa2a9c70b907f450cd451e11f48e54bf3f0e14e8ef215a.jpg",
+    "starred_repos": [
+      "cann/ops-math",
       "cann/cann-samples"
     ]
   },
@@ -17257,6 +17769,7 @@
     "avatar": "https://cdn-img.gitcode.com/db/dc/d76974b484d086c27a811cedeac455855449b9a481da1b0d466076c04988b93b.png",
     "starred_repos": [
       "cann/ops-math",
+      "cann/ops-transformer",
       "cann/ops-nn"
     ]
   },
@@ -17273,8 +17786,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
       "cann/graph-autofusion",
       "cann/runtime",
       "cann/torchtitan-npu",
@@ -17798,16 +18311,16 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/ge",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
       "cann/cann-samples",
       "cann/hccl",
       "cann/hcomm",
-      "cann/ops-tensor",
-      "cann/ops-blas"
+      "cann/ops-blas",
+      "cann/ops-tensor"
     ]
   },
   {
@@ -17824,8 +18337,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -17917,6 +18430,7 @@
       "cann/cann-recipes-infer",
       "cann/cann-learning-hub",
       "cann/runtime",
+      "cann/cann-recipes-embodied-ai",
       "cann/cann-ops-competitions",
       "cann/catccos"
     ]
@@ -18421,6 +18935,7 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/ops-cv",
+      "cann/cann-bench",
       "cann/ops-blas"
     ]
   },
@@ -18890,8 +19405,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/runtime",
       "cann/metadef",
@@ -19055,8 +19570,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -19114,8 +19629,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/ops-cv",
       "cann/runtime",
       "cann/metadef",
@@ -19137,8 +19652,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/ops-cv",
       "cann/runtime",
       "cann/catlass",
@@ -19632,8 +20147,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -19677,8 +20192,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -19735,8 +20250,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -19780,8 +20295,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -19825,8 +20340,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -19870,8 +20385,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -19913,8 +20428,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/metadef",
@@ -19957,8 +20472,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -20003,8 +20518,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -20048,8 +20563,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -20094,8 +20609,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -20138,8 +20653,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -20183,8 +20698,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/runtime",
       "cann/metadef",
@@ -20273,8 +20788,8 @@
       "cann/ops-math",
       "cann/ops-nn",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/hccl",
       "cann/pyasc",
@@ -20296,8 +20811,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -20337,8 +20852,8 @@
       "cann/ops-transformer",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/ops-cv",
       "cann/runtime",
       "cann/hcomm",
@@ -20359,8 +20874,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -20402,8 +20917,8 @@
       "cann/community",
       "cann/hixl",
       "cann/pypto",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/metadef",
@@ -20442,8 +20957,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -20487,9 +21002,9 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -20532,8 +21047,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -20594,8 +21109,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -20623,8 +21138,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -20667,8 +21182,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -20709,8 +21224,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -20754,8 +21269,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -20797,8 +21312,8 @@
       "cann/community",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -20840,8 +21355,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -20885,8 +21400,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -20930,8 +21445,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -20975,8 +21490,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -21020,8 +21535,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -21064,8 +21579,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -21109,8 +21624,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -21153,8 +21668,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -21198,8 +21713,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -21243,8 +21758,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -21288,8 +21803,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -21332,8 +21847,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -21377,8 +21892,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -21422,8 +21937,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -21467,8 +21982,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -21504,8 +22019,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -21550,8 +22065,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -21595,8 +22110,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -21640,8 +22155,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -21685,8 +22200,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -21728,8 +22243,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -21772,8 +22287,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -21841,8 +22356,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/ops-cv",
       "cann/runtime",
       "cann/metadef",
@@ -21884,8 +22399,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -21995,8 +22510,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -22038,8 +22553,8 @@
       "cann/community",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -22073,8 +22588,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -22118,8 +22633,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -22162,8 +22677,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -22208,8 +22723,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -22253,8 +22768,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -22298,8 +22813,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -22345,8 +22860,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -22391,8 +22906,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -22436,8 +22951,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -22479,8 +22994,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -22552,8 +23067,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -22598,8 +23113,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -22643,8 +23158,8 @@
       "cann/community",
       "cann/hixl",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -22688,8 +23203,8 @@
       "cann/community",
       "cann/hixl",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -22731,8 +23246,8 @@
       "cann/community",
       "cann/hixl",
       "cann/pypto",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/cann-recipes-train",
@@ -22770,8 +23285,8 @@
       "cann/community",
       "cann/hixl",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -22815,8 +23330,8 @@
       "cann/community",
       "cann/hixl",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -22860,8 +23375,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -22905,8 +23420,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -22949,8 +23464,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -22993,8 +23508,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/ops-cv",
       "cann/runtime",
       "cann/metadef",
@@ -23038,8 +23553,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -23082,8 +23597,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -23172,8 +23687,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -23217,8 +23732,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -23262,8 +23777,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -23306,8 +23821,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -23351,8 +23866,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -23395,8 +23910,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/metadef",
@@ -23440,8 +23955,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -23483,8 +23998,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/ops-cv",
       "cann/runtime",
       "cann/metadef",
@@ -23514,8 +24029,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/runtime",
       "cann/metadef",
@@ -23558,8 +24073,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -23602,8 +24117,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -23647,8 +24162,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -23738,8 +24253,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -23818,8 +24333,8 @@
       "cann/community",
       "cann/hixl",
       "cann/pypto",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -24174,8 +24689,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -24319,8 +24834,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -24685,8 +25200,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -24721,52 +25236,6 @@
     "avatar": "https://cdn-img.gitcode.com/cf/bf/c4f19b4ff6c3617f1466084801bb340e3f587e2630af421594d8f44f0ffe66e0.png",
     "starred_repos": [
       "cann/ops-math"
-    ]
-  },
-  {
-    "user_name": "UFOunder",
-    "nick_name": "UFOunder",
-    "user_id": 6942970,
-    "avatar": null,
-    "starred_repos": [
-      "cann/ops-math",
-      "cann/ops-transformer",
-      "cann/ops-nn",
-      "cann/cann-recipes-infer",
-      "cann/community",
-      "cann/hixl",
-      "cann/pypto",
-      "cann/ge",
-      "cann/opbase",
-      "cann/asc-devkit",
-      "cann/cann-learning-hub",
-      "cann/graph-autofusion",
-      "cann/ops-cv",
-      "cann/runtime",
-      "cann/metadef",
-      "cann/catlass",
-      "cann/cann-recipes-train",
-      "cann/hccl",
-      "cann/hcomm",
-      "cann/pto-isa",
-      "cann/ascend-transformer-boost",
-      "cann/pyasc",
-      "cann/asnumpy",
-      "cann/atvoss",
-      "cann/amct",
-      "cann/oam-tools",
-      "cann/driver",
-      "cann/cann-recipes-embodied-ai",
-      "cann/triton-inference-server-ge-backend",
-      "cann/asc-tools",
-      "cann/sip",
-      "cann/cann-recipes-harmony-infer",
-      "cann/cann-recipes-spatial-intelligence",
-      "cann/ascend-boost-comm",
-      "cann/atvc",
-      "cann/infrastructure",
-      "cann/cann-agreements",
-      "cann/release-management"
     ]
   },
   {
@@ -24831,8 +25300,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -24894,8 +25363,8 @@
       "cann/community",
       "cann/hixl",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -24950,8 +25419,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -24998,8 +25467,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -25404,8 +25873,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -25618,9 +26087,9 @@
       "cann/ops-nn",
       "cann/cann-recipes-infer",
       "cann/community",
-      "cann/opbase",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
+      "cann/opbase",
       "cann/ops-cv",
       "cann/runtime",
       "cann/cann-recipes-train",
@@ -25773,8 +26242,8 @@
       "cann/ops-math",
       "cann/cann-recipes-infer",
       "cann/community",
-      "cann/opbase",
       "cann/cann-learning-hub",
+      "cann/opbase",
       "cann/cann-recipes-embodied-ai"
     ]
   },
@@ -25871,8 +26340,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -25944,8 +26413,8 @@
     "starred_repos": [
       "cann/ops-math",
       "cann/community",
-      "cann/opbase",
-      "cann/asc-devkit"
+      "cann/asc-devkit",
+      "cann/opbase"
     ]
   },
   {
@@ -26193,8 +26662,8 @@
       "cann/community",
       "cann/hixl",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -26221,9 +26690,9 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -26309,8 +26778,8 @@
       "cann/community",
       "cann/hixl",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -26333,8 +26802,8 @@
       "cann/community",
       "cann/hixl",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -26378,8 +26847,8 @@
       "cann/community",
       "cann/hixl",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -26414,9 +26883,9 @@
       "cann/community",
       "cann/hixl",
       "cann/pypto",
-      "cann/opbase",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -26501,8 +26970,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -26561,8 +27030,8 @@
       "cann/ops-nn",
       "cann/community",
       "cann/pypto",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/runtime",
       "cann/hccl",
       "cann/pyasc",
@@ -26663,8 +27132,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -26708,8 +27177,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -26868,8 +27337,8 @@
       "cann/community",
       "cann/hixl",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -26925,8 +27394,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -27434,8 +27903,8 @@
       "cann/ops-nn",
       "cann/community",
       "cann/pypto",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/ops-cv"
     ]
   },
@@ -27980,8 +28449,8 @@
     "starred_repos": [
       "cann/ops-math",
       "cann/community",
-      "cann/opbase",
-      "cann/asc-devkit"
+      "cann/asc-devkit",
+      "cann/opbase"
     ]
   },
   {
@@ -28302,9 +28771,9 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -28539,8 +29008,8 @@
       "cann/ops-nn",
       "cann/cann-recipes-infer",
       "cann/community",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/ops-cv",
       "cann/catlass",
       "cann/asnumpy",
@@ -28622,7 +29091,8 @@
     "avatar": "https://cdn-img.gitcode.com/df/df/dfd5f438bed0df522d544c279b467021c28bf3c8b09000ace830612f81a69180.jpg",
     "starred_repos": [
       "cann/ops-math",
-      "cann/ops-transformer"
+      "cann/ops-transformer",
+      "cann/ops-test-kit"
     ]
   },
   {
@@ -28711,8 +29181,8 @@
     "starred_repos": [
       "cann/ops-math",
       "cann/community",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/cann-recipes-harmony-infer"
     ]
   },
@@ -28918,8 +29388,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -28995,8 +29465,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -29054,8 +29524,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/runtime",
       "cann/metadef",
@@ -29192,8 +29662,8 @@
       "cann/community",
       "cann/hixl",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/runtime",
       "cann/metadef",
@@ -29235,8 +29705,8 @@
       "cann/ops-math",
       "cann/community",
       "cann/hixl",
-      "cann/opbase",
-      "cann/asc-devkit"
+      "cann/asc-devkit",
+      "cann/opbase"
     ]
   },
   {
@@ -29388,8 +29858,8 @@
     "starred_repos": [
       "cann/ops-math",
       "cann/community",
-      "cann/opbase",
       "cann/cann-learning-hub",
+      "cann/opbase",
       "cann/ops-cv"
     ]
   },
@@ -29405,8 +29875,8 @@
       "cann/cann-recipes-infer",
       "cann/community",
       "cann/hixl",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/catlass",
@@ -29463,9 +29933,9 @@
       "cann/ops-nn",
       "cann/community",
       "cann/hixl",
-      "cann/opbase",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/hccl",
@@ -29597,8 +30067,8 @@
       "cann/cann-recipes-infer",
       "cann/community",
       "cann/hixl",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/catlass",
@@ -29672,6 +30142,26 @@
     ]
   },
   {
+    "user_name": "discry1986",
+    "nick_name": "大番薯",
+    "user_id": 1428076,
+    "avatar": "https://cdn-img.gitcode.com/ab/fb/ab88fb57cdd04231c35cee8d73a588b2e53d6110ed0919228588114d4908f1ba.jpg",
+    "starred_repos": [
+      "cann/ops-transformer",
+      "cann/community"
+    ]
+  },
+  {
+    "user_name": "anzizhuo",
+    "nick_name": "anzizhuo",
+    "user_id": 9218076,
+    "avatar": "https://cdn-img.gitcode.com/fd/bd/7287f49524d4bd882da10468d77140d50841080c70932f7cacd8b61a6332d8e8.jpg",
+    "starred_repos": [
+      "cann/ops-transformer",
+      "cann/cann-recipes-infer"
+    ]
+  },
+  {
     "user_name": "gcw_Dv662UX7",
     "nick_name": "gcw_Dv662UX7",
     "user_id": 11831362,
@@ -29688,6 +30178,7 @@
     "starred_repos": [
       "cann/ops-transformer",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
       "cann/cann-launch-camp"
     ]
   },
@@ -29715,15 +30206,6 @@
     "nick_name": "jy_du",
     "user_id": 4869655,
     "avatar": "https://cdn-img.gitcode.com/bf/dd/b399f23d3d47ec934e4170ce04a4e976db89b5e4a6529d3c3c71749a4e271902.jpg",
-    "starred_repos": [
-      "cann/ops-transformer"
-    ]
-  },
-  {
-    "user_name": "yipyip",
-    "nick_name": "yipyip",
-    "user_id": 7025094,
-    "avatar": null,
     "starred_repos": [
       "cann/ops-transformer"
     ]
@@ -31014,8 +31496,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/ops-cv",
       "cann/runtime",
       "cann/metadef",
@@ -31055,9 +31537,9 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -31100,8 +31582,8 @@
       "cann/hixl",
       "cann/pypto",
       "cann/ge",
-      "cann/opbase",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -31272,8 +31754,8 @@
     "avatar": "https://cdn-img.gitcode.com/dc/cc/300d167cc79c81edbcbafebd571444be65dd65968a67b8b8ad7852141dfead12.png?time=1764952964809",
     "starred_repos": [
       "cann/ops-transformer",
-      "cann/opbase",
-      "cann/cann-learning-hub"
+      "cann/cann-learning-hub",
+      "cann/opbase"
     ]
   },
   {
@@ -32366,17 +32848,6 @@
     ]
   },
   {
-    "user_name": "unravel",
-    "nick_name": "unravel",
-    "user_id": 831900,
-    "avatar": "https://cdn-img.gitcode.com/be/cf/2b244e03745324c4fcb9bc0ef4486ae84472db4f69f214ea30b54b0f15e5dc9b.png?time=1723681936756",
-    "starred_repos": [
-      "cann/ops-transformer",
-      "cann/cann-learning-hub",
-      "cann/ops-tensor"
-    ]
-  },
-  {
     "user_name": "adslvcd",
     "nick_name": "adslvcd",
     "user_id": 815578,
@@ -33189,8 +33660,8 @@
       "cann/community",
       "cann/hixl",
       "cann/ge",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
       "cann/graph-autofusion",
       "cann/runtime",
       "cann/metadef",
@@ -33346,6 +33817,7 @@
     "starred_repos": [
       "cann/ops-nn",
       "cann/asc-devkit",
+      "cann/cann-samples",
       "cann/ops-test-kit"
     ]
   },
@@ -34165,8 +34637,8 @@
     "starred_repos": [
       "cann/ops-nn",
       "cann/ge",
-      "cann/opbase",
       "cann/cann-learning-hub",
+      "cann/opbase",
       "cann/runtime",
       "cann/driver",
       "cann/release-management"
@@ -36194,8 +36666,8 @@
       "cann/cann-recipes-infer",
       "cann/hixl",
       "cann/ge",
-      "cann/asc-devkit",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/runtime",
@@ -38597,15 +39069,6 @@
     "nick_name": "tacoNana",
     "user_id": 6762559,
     "avatar": "https://cdn-img.gitcode.com/fe/ad/21fe7adca8e5cb5d8decdaf3aa9fa7832bd96bef54c6e83f542fa4f4353d0173.jpg",
-    "starred_repos": [
-      "cann/community"
-    ]
-  },
-  {
-    "user_name": "discry1986",
-    "nick_name": "大番薯",
-    "user_id": 1428076,
-    "avatar": "https://cdn-img.gitcode.com/ab/fb/ab88fb57cdd04231c35cee8d73a588b2e53d6110ed0919228588114d4908f1ba.jpg",
     "starred_repos": [
       "cann/community"
     ]
@@ -45739,6 +46202,7 @@
     "starred_repos": [
       "cann/ge",
       "cann/graph-autofusion",
+      "cann/metadef",
       "cann/triton-inference-server-ge-backend"
     ]
   },
@@ -45878,1821 +46342,59 @@
     ]
   },
   {
-    "user_name": "gcw_EgzARlfG",
-    "nick_name": "gcw_EgzARlfG",
-    "user_id": 11695946,
-    "avatar": "",
+    "user_name": "1945685270",
+    "nick_name": "1945685270",
+    "user_id": 264044,
+    "avatar": "https://cdn-img.gitcode.com/aa/ab/1a3a6a5b6b78c7fa53e3b48e6cdeaed404b308b40042da04f2358896ea519f35.png",
     "starred_repos": [
-      "cann/opbase"
+      "cann/cann-learning-hub"
     ]
   },
   {
-    "user_name": "Deng_Pan",
-    "nick_name": "Deng Pan",
-    "user_id": 9848438,
-    "avatar": "https://cdn-img.gitcode.com/aa/cc/a2452a20c6855cccdd96bebe68c35c96b513562dc5d7992ea75447656c745555.png?time=1780998596318",
+    "user_name": "ieu65535",
+    "nick_name": "ieu",
+    "user_id": 3351599,
+    "avatar": "https://cdn-img.gitcode.com/bf/ab/bfa471b52038489a41d60a78271e1549816b9768f6576a51087ab57427711b08.png?time=1781189748622",
     "starred_repos": [
-      "cann/opbase",
-      "cann/cann-bench"
+      "cann/cann-learning-hub"
     ]
   },
   {
-    "user_name": "z296249221",
-    "nick_name": "zhengkai",
-    "user_id": 7835950,
-    "avatar": null,
+    "user_name": "2501_94232288",
+    "nick_name": "Sherlock0621",
+    "user_id": 11294631,
+    "avatar": "https://cdn-img.gitcode.com/fc/dc/f9775727c3477429dcd009ba31cf5a9c720e097b304e5bcc629fb517788f9ca5.png",
     "starred_repos": [
-      "cann/opbase",
-      "cann/asc-devkit",
-      "cann/runtime",
-      "cann/oam-tools"
-    ]
-  },
-  {
-    "user_name": "qq_39803088",
-    "nick_name": "qq_39803088",
-    "user_id": 161783,
-    "avatar": "https://cdn-img.gitcode.com/db/af/dba08f3ec1353d91f1a5e5b7bdf2afa5b9b6e00f6fece7d27fde35c19497ff4f.png",
-    "starred_repos": [
-      "cann/opbase"
-    ]
-  },
-  {
-    "user_name": "wk0911",
-    "nick_name": "wk0911",
-    "user_id": 2857637,
-    "avatar": null,
-    "starred_repos": [
-      "cann/opbase",
-      "cann/asc-devkit",
-      "cann/runtime",
-      "cann/pyasc",
-      "cann/amct",
-      "cann/oam-tools",
-      "cann/asc-tools"
-    ]
-  },
-  {
-    "user_name": "AlexMudHorse",
-    "nick_name": "AlexMudHorse",
-    "user_id": 9174361,
-    "avatar": "https://cdn-img.gitcode.com/cb/dd/71c47b7d4628922dbd8fbf159bfecec12ed7194842d314c4e3b5aeb29ce7ff03.png?time=1766022832815",
-    "starred_repos": [
-      "cann/opbase",
-      "cann/runtime"
-    ]
-  },
-  {
-    "user_name": "zhangdongdong34",
-    "nick_name": "zhangdongdong34",
-    "user_id": 7484953,
-    "avatar": null,
-    "starred_repos": [
-      "cann/opbase"
-    ]
-  },
-  {
-    "user_name": "TensorLake",
-    "nick_name": "TensorLake",
-    "user_id": 5587283,
-    "avatar": null,
-    "starred_repos": [
-      "cann/opbase",
       "cann/cann-learning-hub",
-      "cann/triton-inference-server-ge-backend",
-      "cann/asc-tools"
+      "cann/asc-devkit"
     ]
   },
   {
-    "user_name": "hexma",
-    "nick_name": "lknew",
-    "user_id": 2548265,
+    "user_name": "ArdenX",
+    "nick_name": "ArdenX",
+    "user_id": 11944135,
     "avatar": null,
     "starred_repos": [
-      "cann/opbase"
-    ]
-  },
-  {
-    "user_name": "changjied",
-    "nick_name": "一只小小加菲猫",
-    "user_id": 499520,
-    "avatar": "https://cdn-img.gitcode.com/ce/ca/23902c844eca9044f631467a8eb1e1c61e47cebf5e82fe679809cf31355bc3a0.png",
-    "starred_repos": [
-      "cann/opbase"
-    ]
-  },
-  {
-    "user_name": "gcw_HJPTFPKc",
-    "nick_name": "gcw_HJPTFPKc",
-    "user_id": 6608348,
-    "avatar": "",
-    "starred_repos": [
-      "cann/opbase"
-    ]
-  },
-  {
-    "user_name": "xuchengyang",
-    "nick_name": "xuchengyang",
-    "user_id": 6574282,
-    "avatar": null,
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "dananjj",
-    "nick_name": "dananjj",
-    "user_id": 10433910,
-    "avatar": "https://cdn-img.gitcode.com/fd/da/fd12da2bd9b432556f12eecbaec20e865be8283e716dcc0bbf009b349b0bf8ac.jpg",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "gcw_pn1H5UDA",
-    "nick_name": "gcw_pn1H5UDA",
-    "user_id": 10452924,
-    "avatar": "",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "lh7963",
-    "nick_name": "lh7963",
-    "user_id": 11697794,
-    "avatar": null,
-    "starred_repos": [
-      "cann/asc-devkit",
-      "cann/catlass"
-    ]
-  },
-  {
-    "user_name": "Jervis",
-    "nick_name": "Jervis",
-    "user_id": 265461,
-    "avatar": null,
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "gcw_CVgnXbim",
-    "nick_name": "gcw_CVgnXbim",
-    "user_id": 6609060,
-    "avatar": "",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "wcleungaj",
-    "nick_name": "wcleungaj",
-    "user_id": 5298913,
-    "avatar": "https://cdn-img.gitcode.com/bb/cc/b3466b9ccd1b0d2033390c4d98a4dbe829095c3a407762a4d5768dbbade872d5.png?time=1776998652067",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "zheng555",
-    "nick_name": "zheng555",
-    "user_id": 8523516,
-    "avatar": null,
-    "starred_repos": [
-      "cann/asc-devkit",
-      "cann/hccl",
-      "cann/hcomm",
-      "cann/asc-tools"
-    ]
-  },
-  {
-    "user_name": "IceShip423",
-    "nick_name": "IceShip423",
-    "user_id": 5166148,
-    "avatar": "https://cdn-img.gitcode.com/fc/ef/94f90048ce52f03d4772397853c521a61fe5af7660a8f506d374a3680e6b80d5.jpg",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "clarkong",
-    "nick_name": "clarkong",
-    "user_id": 3856709,
-    "avatar": "https://cdn-img.gitcode.com/dd/fb/10d27382d1271634108f687b203a20cf859b5645336b4198bc608124e21c96e7.png",
-    "starred_repos": [
-      "cann/asc-devkit",
       "cann/cann-learning-hub"
     ]
   },
   {
-    "user_name": "yhf0922",
-    "nick_name": "yhf0922",
-    "user_id": 11636431,
-    "avatar": null,
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "hl-tang",
-    "nick_name": "hl-tang",
-    "user_id": 9206785,
-    "avatar": null,
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "happyhappyhappy-arch",
-    "nick_name": "happyhappyhappy-arch",
-    "user_id": 7578546,
-    "avatar": "https://cdn-img.gitcode.com/df/eb/449137d6f1eb65a4b4f41516c5a7986da9bd3e8e9ea678cdde52656b65f2c553.png",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "m0_45882154",
-    "nick_name": "m0_45882154",
-    "user_id": 3706201,
-    "avatar": "https://cdn-img.gitcode.com/af/ac/5a8f5a9c814622098ac0e135ec0ee55ded8b315db66ea458cf7dfe5c6ae2b92b.png",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "fiking",
-    "nick_name": "fiking",
-    "user_id": 965363,
-    "avatar": null,
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "HHH0258",
-    "nick_name": "HHH0258",
-    "user_id": 905507,
-    "avatar": "https://cdn-img.gitcode.com/eb/ee/4e7833638beeb0442f2d3ef773e696511da2d89768d95ab32db7cf58b5db27d6.png",
-    "starred_repos": [
-      "cann/asc-devkit",
-      "cann/asc-tools"
-    ]
-  },
-  {
-    "user_name": "Hyw10",
-    "nick_name": "Hyw",
-    "user_id": 10041766,
-    "avatar": "https://cdn-img.gitcode.com/ae/bc/ae70b00c7d2d404bb2e918b5411c58f3d4404b7b9213882643a4792087913791.jpg",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "enjun",
-    "nick_name": "enjun",
-    "user_id": 1936410,
-    "avatar": null,
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "weixin_63089733",
-    "nick_name": "小呆呆898",
-    "user_id": 4450745,
-    "avatar": "https://cdn-img.gitcode.com/ec/bb/e56c4126886bb3f3c44982a79e28e3807862f1586ed2d6079121baeb607f0df1.jpg",
-    "starred_repos": [
-      "cann/asc-devkit",
-      "cann/cann-learning-hub"
-    ]
-  },
-  {
-    "user_name": "hid91692032",
-    "nick_name": "nnnineee",
-    "user_id": 9220628,
-    "avatar": null,
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "wang_shuli",
-    "nick_name": "wang_shuli",
-    "user_id": 10192737,
-    "avatar": "https://cdn-img.gitcode.com/ed/ab/34ed3216a706bf8b9eb9cf4b861ea4256fbbe8a4b379a688438340c6ba4a1e7e.png?time=1782982717782",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "weixin_46466275",
-    "nick_name": "xyzllm2",
-    "user_id": 7757788,
-    "avatar": "https://cdn-img.gitcode.com/be/db/6442b04205285e5d50b15fbc66fca97162471565266affbf5a87970cbb3e1e7d.png?time=1779775785860",
-    "starred_repos": [
-      "cann/asc-devkit",
-      "cann/cann-outreach"
-    ]
-  },
-  {
-    "user_name": "GoliWie",
-    "nick_name": "GoliWie",
-    "user_id": 5101938,
-    "avatar": "https://cdn-img.gitcode.com/da/bf/44da4013248270bfc7666de522354657387e731763bcd279433776349023bc3f.png?time=1781167670083",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "Gaomh123456789",
-    "nick_name": "是否",
-    "user_id": 7133803,
-    "avatar": "https://cdn-img.gitcode.com/db/ce/1d6b40c580994ee8534d14b201c5f662fd59972ff63cd863244da1e50771dcfe.jpg",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "xfshine123",
-    "nick_name": "xfshine123",
-    "user_id": 2693226,
-    "avatar": "https://cdn-img.gitcode.com/fe/ba/f5eb4a625b802cd7e899949064473251999469155a303dd1403bae6ea3c9406b.png",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "wangruiqi25",
-    "nick_name": "wangruiqi25",
-    "user_id": 11364183,
-    "avatar": null,
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "fanglanyue0916",
-    "nick_name": "fanglanyue",
-    "user_id": 3068858,
-    "avatar": "https://cdn-img.gitcode.com/ea/cf/352e2a8462cf5a6e1a1e1d1361520436741dcf0c488cab6a94c264d88a5fca03.png?time=1757226167717",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "2402_89089470",
-    "nick_name": "洛书.57",
-    "user_id": 2613131,
-    "avatar": "https://cdn-img.gitcode.com/da/df/38703522d713a141d212767fec98e64998f66e27b19532b763ad0b39090f3162.png",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "azaz114514",
-    "nick_name": "azaz114514",
-    "user_id": 5485303,
-    "avatar": null,
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "cxj01",
-    "nick_name": "cxj01",
-    "user_id": 7903030,
-    "avatar": null,
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "Daliss",
-    "nick_name": "Daliss",
-    "user_id": 2137689,
-    "avatar": null,
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "asterich",
-    "nick_name": "asterich",
-    "user_id": 8262253,
-    "avatar": "",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "gcw_xSOc8HUw",
-    "nick_name": "gcw_xSOc8HUw",
-    "user_id": 11362428,
-    "avatar": "",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "MiddenVexu",
-    "nick_name": "MiddenVexu",
-    "user_id": 11043406,
-    "avatar": null,
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "shunxingshi_",
-    "nick_name": "火中的灭火者",
-    "user_id": 11362082,
-    "avatar": "https://cdn-img.gitcode.com/ef/fb/ef6f1078b3060da1fac3af6dc237e2dfba4ea4e4d261461325b67cd2f857665f.jpg",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "qq_17416947",
-    "nick_name": "znzdl123",
-    "user_id": 916235,
-    "avatar": "https://cdn-img.gitcode.com/ff/db/f3f89db46d22e98cb1021a9177d12abba8483d98f396a8f2526413a228d88771.png",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "m0_71454340",
-    "nick_name": "m0_71454340",
-    "user_id": 5464969,
-    "avatar": "https://cdn-img.gitcode.com/cc/ef/c905c85e3fc9a14d32ed2547f746c3f6d1c704ccc72f0b277fd10b00a4d6ffb4.png",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "gcw_KDIbD8EW",
-    "nick_name": "gcw_KDIbD8EW",
-    "user_id": 11361606,
-    "avatar": "",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "gcw_VvWNNnGx",
-    "nick_name": "gcw_VvWNNnGx",
-    "user_id": 11359316,
-    "avatar": "",
-    "starred_repos": [
-      "cann/asc-devkit",
-      "cann/cann-outreach"
-    ]
-  },
-  {
-    "user_name": "m0_57037894",
-    "nick_name": "m0_57037894",
-    "user_id": 2194680,
-    "avatar": "https://cdn-img.gitcode.com/fe/cf/fe24c48f3f23172216ae9b5d5003095d3db8fc5b3cf07c755fb84161e2d1b5df.png",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "gcw_Oq2HPV3t",
-    "nick_name": "gcw_Oq2HPV3t",
-    "user_id": 11361372,
-    "avatar": "",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "gcw_J7ZG5boW",
-    "nick_name": "gcw_J7ZG5boW",
-    "user_id": 11359115,
-    "avatar": "",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "gcw_IwJd1uy2",
-    "nick_name": "gcw_IwJd1uy2",
-    "user_id": 11359317,
-    "avatar": "",
-    "starred_repos": [
-      "cann/asc-devkit",
-      "cann/cann-outreach"
-    ]
-  },
-  {
-    "user_name": "gcw_i0yFZkCV",
-    "nick_name": "gcw_i0yFZkCV",
-    "user_id": 5780427,
-    "avatar": "",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "gcw_oZj3RPvn",
-    "nick_name": "gcw_oZj3RPvn",
-    "user_id": 11353555,
-    "avatar": "",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "SKLCCZHLiu",
-    "nick_name": "SKLCCZHLiu",
-    "user_id": 361510,
-    "avatar": "https://cdn-img.gitcode.com/cf/bb/89084cf948b4b09b75b3fe4124c6dc3000b6aef2b209408ea70095e1a69b3bce.png",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "not-equal",
-    "nick_name": "not-equal",
-    "user_id": 7717880,
-    "avatar": null,
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "gcw_AnIskfco",
-    "nick_name": "gcw_AnIskfco",
-    "user_id": 11360905,
-    "avatar": "",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "dong11408d",
-    "nick_name": "DONG",
-    "user_id": 8362720,
-    "avatar": "",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "zhangxiaojuan_115",
-    "nick_name": "张晓娟",
-    "user_id": 11360580,
-    "avatar": "https://cdn-img.gitcode.com/dd/ee/5dde156ecec5584a8510947a80d1462f8ef48507103726373e58c9a7909cf655.jpg",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "weixin_42961781",
-    "nick_name": "行走的小荷尔蒙",
-    "user_id": 2602184,
-    "avatar": "https://cdn-img.gitcode.com/bc/df/bc6d095f08fd12dec998dd40737eb9799dc33e0f84a35916e8ffc9444b693031.jpg",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "gcw_hNoAqYaW",
-    "nick_name": "gcw_hNoAqYaW",
-    "user_id": 11360562,
-    "avatar": "",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "chenxix",
-    "nick_name": "chenxix",
-    "user_id": 132581,
-    "avatar": null,
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "m0_60375625",
-    "nick_name": "预判你的代码",
-    "user_id": 4193913,
-    "avatar": "https://cdn-img.gitcode.com/ec/ed/8ec0e015172259d7884ab71a3a7992b3078133b77703e112bba23062b0b49de2.png",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "Tangefly",
-    "nick_name": "Tangefly",
-    "user_id": 186338,
-    "avatar": null,
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "linuxkiller",
-    "nick_name": "Linux Killer",
-    "user_id": 1110924,
-    "avatar": "https://cdn-img.gitcode.com/aa/ba/0a1162ab8a19267e28e4177176cf7c1bc2a64f0a3c18f72638d6d761b6d38be8.png",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "hdu_bone",
-    "nick_name": "BoneInscri",
-    "user_id": 5755809,
-    "avatar": "https://cdn-img.gitcode.com/cd/ed/cd3e005daa75d746e6836be70bb07c3ceb051dafe8eb1b4902559a326d1a2a99.png",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "qq_53662685",
-    "nick_name": "雨(●—●)",
-    "user_id": 1790870,
-    "avatar": "https://cdn-img.gitcode.com/ff/da/f81fd18aa3ad862e2c14be3ade049c39d05a6182488f6e96502eca3f48f5349e.jpg",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "gcw_H5qlln7y",
-    "nick_name": "gcw_H5qlln7y",
-    "user_id": 4614218,
-    "avatar": "",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "m0_62290903",
-    "nick_name": "m0_62290903",
-    "user_id": 4519167,
-    "avatar": "https://cdn-img.gitcode.com/fa/da/f0374538a662daaf3e66adf869509891ae9df7a2317a2ee298057c6a30d46ab7.png",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "weixin_43060955",
-    "nick_name": "weixin_43060955",
-    "user_id": 529430,
-    "avatar": "https://cdn-img.gitcode.com/db/cb/392d8b7505cbbc405f6eb2182c2497e837e79dfae5102e33210d0d1eb118c077.jpg",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "weixin_47159869",
-    "nick_name": "weixin_47159869",
-    "user_id": 5322050,
-    "avatar": "https://cdn-img.gitcode.com/ba/cb/027457b69150acb5a9d0698ca321af8a532f4e5ca533cf06c75203354dc39976.png",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "s3064016108",
-    "nick_name": "迷糊大王-007",
-    "user_id": 6878231,
-    "avatar": "https://cdn-img.gitcode.com/ff/ba/33f515438538fba421cdeb6d594ffa35c3a8afd9ac966039f58e6436d0530465.png",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "benzene6",
-    "nick_name": "benzene6",
-    "user_id": 1418658,
-    "avatar": "https://cdn-img.gitcode.com/dc/dd/083dcd08dd810cf94ece685662172cdf33c0757af3a4af948d3a110131df1d7e.png",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "lichenxi2024",
-    "nick_name": "lichenxi2024",
-    "user_id": 1100836,
-    "avatar": null,
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "jiucheng_",
-    "nick_name": "C",
-    "user_id": 6240069,
-    "avatar": "https://cdn-img.gitcode.com/ed/ff/7edf3046459fc51748f5b11edcaf4cfe88b09532bc9d11d6646d3c396b45b214.jpg",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "m0_69524246",
-    "nick_name": "Emonkey_",
-    "user_id": 1283514,
-    "avatar": "https://cdn-img.gitcode.com/ff/aa/9f2f7a35851a1e9234bf11bab592647d0fd910e32007ff77e3c2fb3b87e0c4de.png",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "shwstone",
-    "nick_name": "ShwStone",
-    "user_id": 10181765,
-    "avatar": "https://cdn-img.gitcode.com/ba/cd/b7a1414c76d81964875661cb6eca24e962f82cafaf22702c00274faefb2b3a92.jpg",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "uuku",
-    "nick_name": "uuku",
-    "user_id": 3618862,
-    "avatar": "https://cdn-img.gitcode.com/da/fd/d71afd98e12bd68f3cc177a94275e6963041b706454e691ca0295476133c8fc2.jpg",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "shiqi6",
-    "nick_name": "shiqi6",
-    "user_id": 11359135,
-    "avatar": null,
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "Z1258cbn",
-    "nick_name": "Z~",
-    "user_id": 11359067,
-    "avatar": "https://cdn-img.gitcode.com/ab/da/187a5b83d642a26b5b8aae92643f62e4dee571a1dd3a1020e2d2718d2ff6f426.jpg",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "2503_94338677",
-    "nick_name": "绝世豪喵",
-    "user_id": 9481226,
-    "avatar": "https://cdn-img.gitcode.com/cd/be/134cdb4e573ba9a3db21942a3626c8f47929ff7635a8ec77111543c437638489.png",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "CarlWang_2025",
-    "nick_name": "CarlWang_2025",
-    "user_id": 5679825,
-    "avatar": null,
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "hwhwz23",
-    "nick_name": "hwhwz23",
-    "user_id": 11354422,
-    "avatar": "https://cdn-img.gitcode.com/fa/ea/0f03ae63a02af05402c2436e25fad2f14d3dc4f9ded38e0f404973d4b4b044c6.png",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "gcw_oroHQZs3",
-    "nick_name": "Robell",
-    "user_id": 7443877,
-    "avatar": "",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "m0_52721353",
-    "nick_name": "m0_52721353",
-    "user_id": 4777430,
-    "avatar": "https://cdn-img.gitcode.com/ee/da/ee78268d628ae56f40a25cff140311ac8dcc80b853e72c299f887287a99b48b2.png",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "m0_37066184",
-    "nick_name": "m0_37066184",
-    "user_id": 8214072,
-    "avatar": "",
-    "starred_repos": [
-      "cann/asc-devkit",
-      "cann/cann-outreach"
-    ]
-  },
-  {
-    "user_name": "gcw_T2F3j2oe",
-    "nick_name": "gcw_T2F3j2oe",
-    "user_id": 7057460,
-    "avatar": "",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "Nanaaaaaaa",
-    "nick_name": "Nanaaaaaaa",
-    "user_id": 11352110,
-    "avatar": null,
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "Ja_Morant__",
-    "nick_name": "张泰宁",
-    "user_id": 4361327,
-    "avatar": "https://cdn-img.gitcode.com/db/dc/35dbdca4d64632d1f78d90ca9d9658459e3a8a9ee9ca68bab362fadfef00294d.png?time=1777829073064",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "u011749267",
-    "nick_name": "月下星河",
-    "user_id": 4676386,
-    "avatar": "https://cdn-img.gitcode.com/eb/ac/1967448eba2cf0ea8a52f3bc8678c5177ad158f15b38f034ace4f5772370cdae.png",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "Maxzhang0522",
-    "nick_name": "张明",
-    "user_id": 11351662,
-    "avatar": "https://cdn-img.gitcode.com/ef/da/60ef330508da46a124ce742d070b447748b744374954f0115bd4bce2b3ede165.jpg",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "lhs666666",
-    "nick_name": "lhs666666",
-    "user_id": 11351456,
-    "avatar": null,
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "weixin_60987792",
-    "nick_name": "刘安琪604",
-    "user_id": 1446098,
-    "avatar": "https://cdn-img.gitcode.com/fc/fe/4733fc69231926fe4f235d90d4946a0830a032660506b68ebe64909c54d4d8fd.jpg",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "Nautilus1993",
-    "nick_name": "Nautilus1993",
-    "user_id": 11351503,
-    "avatar": null,
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "wyx1679831570",
-    "nick_name": "wyx1679831570",
-    "user_id": 10698354,
-    "avatar": "https://cdn-img.gitcode.com/ab/dd/ab439dd631a92b70a1bce7f2868bb394ff7daaa0fa9de1cc2089930a7e5a1be4.png",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "EliotLixiuyi",
-    "nick_name": "EliotLixiuyi",
-    "user_id": 11351368,
-    "avatar": null,
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "gcw_zJ4O2m0t",
-    "nick_name": "cuiyuemeng",
-    "user_id": 11296519,
-    "avatar": "",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "gcw_KAjtYQu5",
-    "nick_name": "gcw_KAjtYQu5",
-    "user_id": 10219551,
-    "avatar": "",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "qq_42485804",
-    "nick_name": "qq_42485804",
-    "user_id": 922996,
-    "avatar": "https://cdn-img.gitcode.com/fe/ba/8722776feb34ad75a9787f48e80665e29ca1faa64341677d5f8a35daf1bfb8c9.png",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "2301_79796995",
-    "nick_name": "2301_79796995",
-    "user_id": 582734,
-    "avatar": "https://cdn-img.gitcode.com/ff/fa/213895ff6f301aca8a6cf725d2bb574d345131588e4748a4ab7e038e9c366c77.png",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "hsggsh",
-    "nick_name": "hsggsh",
-    "user_id": 11350359,
-    "avatar": null,
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "m0_57385706",
-    "nick_name": "m0_57385706",
-    "user_id": 1125864,
-    "avatar": "https://cdn-img.gitcode.com/bd/ff/47b5df912f516691a64f81c28497a81e75b20c06e26e0b1f01b578d3f3ab52c2.png",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "AdadadaChen",
-    "nick_name": "AdadadaChen",
-    "user_id": 11350116,
-    "avatar": "https://cdn-img.gitcode.com/cd/af/cda08f530084aed53eebd625ab3489c91c5473f2f6db584c0a03da7c7f3ee9bb.jpg",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "Yy0421",
-    "nick_name": "元仔🍭",
-    "user_id": 11350033,
-    "avatar": "https://cdn-img.gitcode.com/ca/cf/ca3511cf0e9860a8cb65deb9738ca0634d8970043015ff085f8e70ea04b51534.jpg",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "shiliudawang",
-    "nick_name": "shiliudawang",
-    "user_id": 11350061,
-    "avatar": null,
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "2401_89169951",
-    "nick_name": "2401_89169951",
-    "user_id": 7856393,
-    "avatar": "https://cdn-img.gitcode.com/db/fa/6d77b82f29a900b82219cec590dd6f9edcf30572b5e015a7f94c1e501b36665e.png",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "jefd",
-    "nick_name": "Jeff",
-    "user_id": 8266751,
-    "avatar": "",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "li-sisi",
-    "nick_name": "li-sisi",
-    "user_id": 10747633,
-    "avatar": null,
-    "starred_repos": [
-      "cann/asc-devkit",
-      "cann/runtime"
-    ]
-  },
-  {
-    "user_name": "qq_74282438",
-    "nick_name": "螭尘",
-    "user_id": 5389818,
-    "avatar": "https://cdn-img.gitcode.com/cb/df/615cb0d1fe471c92f141d6662d3816778c2df5a78f8339383ead0fc0e46733e9.png",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "gcw_EfW6326I",
-    "nick_name": "gcw_EfW6326I",
-    "user_id": 6939461,
-    "avatar": "",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "haoran505",
-    "nick_name": "haoran505",
-    "user_id": 10288137,
-    "avatar": null,
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "zzpig1111",
-    "nick_name": "zzpig",
-    "user_id": 11349281,
-    "avatar": "https://cdn-img.gitcode.com/ce/df/c7ed4633fbb412110b9358e950cdf7a6604abd518869f7322f0c465ea8204ef1.jpg",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "wuyw",
-    "nick_name": "walker",
-    "user_id": 179,
-    "avatar": "https://cdn-img.gitcode.com/fe/bf/047fe52854b353858fe9b5796b2e298accf8faa9c425fad94206bb97f24e5eca.png",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "RTzsama",
-    "nick_name": "瑞天sama",
-    "user_id": 11349238,
-    "avatar": "https://cdn-img.gitcode.com/cd/ee/cdeea177aa7843035c1937fa74ec605bc2a5e25a7d19c65340bcce6c0cf18da3.jpg",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "C0reFast",
-    "nick_name": "C0reFast",
-    "user_id": 5299856,
-    "avatar": null,
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "aabbxxaa",
-    "nick_name": "aabbxxaa",
-    "user_id": 951750,
-    "avatar": "https://cdn-img.gitcode.com/de/ec/77667d0ee73c457011e36300ed29097bb5e977bcd0e471de5a36a17a4d4545ef.png",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "fateldd",
-    "nick_name": "fateldd",
-    "user_id": 3465745,
-    "avatar": "https://cdn-img.gitcode.com/ec/db/27e300c46290d04b7f4f9b4b604dd6be0c70649dbabcf84d3a5d8dc8183289d0.jpg",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "qzlshy",
-    "nick_name": "qzlshy",
-    "user_id": 4010129,
-    "avatar": "https://cdn-img.gitcode.com/cf/bb/63c957f1bb8c0ecf055458edd623cffd0c28aa95859f9057ed20b6c005d2090e.png",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "GKxx",
-    "nick_name": "GKxx",
-    "user_id": 5853669,
-    "avatar": null,
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "gucasboy",
-    "nick_name": "gucasboy",
-    "user_id": 3310894,
-    "avatar": "https://cdn-img.gitcode.com/fe/fd/02f2ef42dd5b18e04d2678683ed55b21ed4395b2a38598ed909af435b4dcef73.png",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "gcw_wvSKjA9w",
-    "nick_name": "gcw_wvSKjA9w",
-    "user_id": 11348450,
-    "avatar": "",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "weixin_37930112",
-    "nick_name": "weixin_37930112",
-    "user_id": 4920768,
-    "avatar": "https://cdn-img.gitcode.com/bf/af/bf6a313fe8a83ae5bfb7771b8ef151623a74a2d7eb437b448ffa80608e43aed3.png",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "lijinsong2025",
-    "nick_name": "lijinsong2025",
-    "user_id": 718927,
-    "avatar": "https://cdn-img.gitcode.com/db/ef/2d778407b9e20f582ab4a2a2d41b5d97175e9d89de9b7b33de556d6a817095f1.png?time=1782734164448",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "WuxuefengNeo",
-    "nick_name": "武雪峰 Neo",
-    "user_id": 11347270,
-    "avatar": "https://cdn-img.gitcode.com/db/ad/d234ba70d471858d0ba3c0bc7374cbeb78cac1cdddcdfa0e4d68628f427f59eb.jpg",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "muchangqing2025",
-    "nick_name": "muchangqing2025",
-    "user_id": 9217939,
-    "avatar": "https://cdn-img.gitcode.com/fa/db/4f25198631975ad420bf7e9f0362e7835a4cd8ad26cc85e0090df1d4600e0521.jpg",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "hid22806966",
-    "nick_name": "hid22806966",
-    "user_id": 11347166,
-    "avatar": null,
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "xychong123",
-    "nick_name": "xychong123",
-    "user_id": 2712736,
-    "avatar": "https://cdn-img.gitcode.com/cd/cb/8cd8c0b1a83e3ad5cf67051d88ff99b25e986c148fc7fa3c0772ff956dbca8f8.png",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "wwy-123",
-    "nick_name": "另一片天",
-    "user_id": 10386833,
-    "avatar": "https://cdn-img.gitcode.com/be/df/b0203e668df73adbd7a2ffad64e16b0efa26c3e04d2a059a404b27d12f769581.jpg",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "luanfy2006",
-    "nick_name": "栾凤宇",
-    "user_id": 11347068,
-    "avatar": "https://cdn-img.gitcode.com/cf/fa/c8292ff06907a169643354f692ccbfe83025a9788fc029981b57ca3e992d8e4e.jpg",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "qlss_1",
-    "nick_name": "歧路书生",
-    "user_id": 11346933,
-    "avatar": "https://cdn-img.gitcode.com/bd/fe/63bd59293f8ed6ffdec6786d3974071afa1d6c102d59b0a0421c70eb4a3c68ff.jpg",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "markzgwu",
-    "nick_name": "markzgwu",
-    "user_id": 278294,
-    "avatar": "https://cdn-img.gitcode.com/ab/ea/429a9be69a6b3c0c63064bc69ed0b22c9c3c18ad5ecd20dca194d74df422b44e.jpg",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "lvmqputin1",
-    "nick_name": "lvmqputin",
-    "user_id": 8231650,
-    "avatar": "",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "jinmoyuzhong",
-    "nick_name": "浸没雨中",
-    "user_id": 1172251,
-    "avatar": "https://cdn-img.gitcode.com/da/af/311d6a1a6fae7e1606d32b7fd48e39f6fed52c8ff5b5c52d874d2b257141df76.png?time=1740126016251",
-    "starred_repos": [
-      "cann/asc-devkit",
-      "cann/cann-samples"
-    ]
-  },
-  {
-    "user_name": "yi_lumochen",
-    "nick_name": "yi_lumochen",
-    "user_id": 752043,
-    "avatar": "https://cdn-img.gitcode.com/dc/fa/1815dc1fa8205d00a90480dc91ff42dc3422e0437f43d38a848782e2bcd96216.jpg",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "ciggaco",
-    "nick_name": "ciggaco",
-    "user_id": 9324638,
-    "avatar": null,
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "lion_tra",
-    "nick_name": "lion_tra",
-    "user_id": 11314044,
-    "avatar": null,
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "JYLiao32",
-    "nick_name": "JYLiAo32",
-    "user_id": 1958762,
-    "avatar": "https://cdn-img.gitcode.com/ef/fe/e96f527907f689ee92022383f27174c7fbc4963a67b15cba984bc4f9f25cffe7.png?time=1773817382568",
-    "starred_repos": [
-      "cann/asc-devkit",
-      "cann/catlass"
-    ]
-  },
-  {
-    "user_name": "lzch50056473",
-    "nick_name": "liuzichen",
-    "user_id": 3638435,
-    "avatar": "https://cdn-img.gitcode.com/fd/fa/165fd6fa4dca30b8953cc34157147096b68f61ec288f174bee26b08b98501d1c.jpg",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "bobo3",
-    "nick_name": "菠萝君er",
-    "user_id": 4326252,
-    "avatar": null,
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "CubeLander",
-    "nick_name": "Jingyuan Tian",
-    "user_id": 11208880,
-    "avatar": "https://cdn-img.gitcode.com/ba/ae/3b5aa4ed7219a091e30c1cd3aea65f39b45162f85a601b70c5e6880dfa3b7313.jpg",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "zhangfands",
-    "nick_name": "zhangfands",
-    "user_id": 6546620,
-    "avatar": null,
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "weixin_53348631",
-    "nick_name": "YOnG-KAnG",
-    "user_id": 312772,
-    "avatar": "https://cdn-img.gitcode.com/ed/fd/1e919d5f82d1bb07a9e4b8dfd0d785da22eb5813638469ee27ebef0ab8c1d568.png",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "ddd_f",
-    "nick_name": "ddd_f",
-    "user_id": 7772327,
-    "avatar": null,
-    "starred_repos": [
-      "cann/asc-devkit",
-      "cann/runtime"
-    ]
-  },
-  {
-    "user_name": "HaiqingFang",
-    "nick_name": "hq",
-    "user_id": 11057177,
-    "avatar": "https://cdn-img.gitcode.com/af/df/95a8634fdf0a7914aebb6008619b7ae70a0b7e8ede5b89c5ebb5b39e85865481.jpg",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "qq_73257844",
-    "nick_name": "lingyong",
-    "user_id": 350093,
-    "avatar": "https://cdn-img.gitcode.com/fb/cb/23fb3c6b1ee0787ae26577e21fb3e811037400540129ba984fcdc2a031041c17.png",
-    "starred_repos": [
-      "cann/asc-devkit",
-      "cann/catlass"
-    ]
-  },
-  {
-    "user_name": "gcw_jgWZA4ay",
-    "nick_name": "gcw_jgWZA4ay",
-    "user_id": 5100532,
-    "avatar": "",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "gcw_9myt1Xo0",
-    "nick_name": "gcw_9myt1Xo0",
-    "user_id": 10871834,
-    "avatar": "",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "yyoean",
-    "nick_name": "yyoean",
-    "user_id": 1009318,
-    "avatar": "https://cdn-img.gitcode.com/fc/fc/f218027cfc8203192c58782b61a318326b1928e5a9a8a2810d86899053972755.png",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "lingqingdada",
-    "nick_name": "lingqingdada",
-    "user_id": 265774,
-    "avatar": "https://cdn-img.gitcode.com/ca/dc/259c8a2dc5f86938d83b40e51c591fb6476a9d9273f370c25f451d17d53018b9.png",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "Yau_droid",
-    "nick_name": "Yau_droid",
-    "user_id": 9156060,
-    "avatar": "https://cdn-img.gitcode.com/be/ac/be40ac97fc17377b4bc50c7d1f31daceaee91f706e3243bda7e3ae559a602e54.png",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "liujinsheng7",
-    "nick_name": "liujinsheng",
-    "user_id": 7287535,
-    "avatar": "",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "coconut_tree",
-    "nick_name": "tongjinjian",
-    "user_id": 7738921,
-    "avatar": "https://cdn-img.gitcode.com/da/dc/da3d8783c607f07e4bd236b9ea7b916b825b91881b25fafb19aded5b3be459f5.jpg",
-    "starred_repos": [
-      "cann/asc-devkit",
+    "user_name": "wy_test",
+    "nick_name": "wy_32",
+    "user_id": 11122237,
+    "avatar": "https://cdn-img.gitcode.com/ff/da/ff18d26af732e02f25d40157b52e7226b3f4d8be46784b5f68fc64213a2ad802.jpg",
+    "starred_repos": [
+      "cann/cann-learning-hub",
       "cann/torchtitan-npu"
     ]
   },
   {
-    "user_name": "vendio",
-    "nick_name": "vendio",
-    "user_id": 7125598,
-    "avatar": "",
+    "user_name": "cute_loong_loong",
+    "nick_name": "cute loong loong",
+    "user_id": 3584312,
+    "avatar": "https://cdn-img.gitcode.com/da/ee/dae9ef4fe01e236a8bb27f487763f7cebbf081d315c8ad1fc28bf7a1cbd9fce8.png",
     "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "x6675636b796f75676974687562",
-    "nick_name": "Andrey Shcheglov",
-    "user_id": 10703819,
-    "avatar": "https://cdn-img.gitcode.com/ea/dc/71ea4dc7f629b0c06eb8ad2b4924d36c58cc95470a186e03e2002dcfb8c77c95.png?time=1775218277021",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "ascendhjh",
-    "nick_name": "ascendhjh",
-    "user_id": 6344812,
-    "avatar": null,
-    "starred_repos": [
-      "cann/asc-devkit",
-      "cann/pyasc"
-    ]
-  },
-  {
-    "user_name": "wangzw",
-    "nick_name": "zenithX",
-    "user_id": 9069480,
-    "avatar": "https://cdn-img.gitcode.com/cb/db/0c0751562b62d42bc4113c0f84b4355045a40df5c6d6c30254672a8f4e206f42.png?time=1774258555605",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "pengcheng1024",
-    "nick_name": "pengcheng1024",
-    "user_id": 6494092,
-    "avatar": null,
-    "starred_repos": [
-      "cann/asc-devkit",
-      "cann/pyasc",
-      "cann/shmem"
-    ]
-  },
-  {
-    "user_name": "zat",
-    "nick_name": "zat",
-    "user_id": 832711,
-    "avatar": null,
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "Be___Happy",
-    "nick_name": "zhuzhengan",
-    "user_id": 7772464,
-    "avatar": null,
-    "starred_repos": [
-      "cann/asc-devkit",
-      "cann/runtime"
-    ]
-  },
-  {
-    "user_name": "rookie_hongchuan",
-    "nick_name": "rookie_hongchuan",
-    "user_id": 5587516,
-    "avatar": null,
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "ww1881",
-    "nick_name": "王伟-九问studio",
-    "user_id": 6326056,
-    "avatar": "https://cdn-img.gitcode.com/fb/dd/4fb58ddcac2b4dd4de75175093c042f58690c921192d81acd21763d70847a87d.png",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "ElevenLiu",
-    "nick_name": "刘十一",
-    "user_id": 121676,
-    "avatar": "https://cdn-img.gitcode.com/af/da/85200afd6ad277a1c6db16b8a62477ce81ae7c38bb167b612ba665b27cfc3bd6.png?time=1756347210759",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "szdaniel",
-    "nick_name": "szdaniel",
-    "user_id": 105371,
-    "avatar": "https://cdn-img.gitcode.com/bf/de/3b7154f67d8ec5acdcff495e35c40587664b2ea83164aebe16680fb8b2f46570.jpg",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "qq_38244676",
-    "nick_name": "李爱乐",
-    "user_id": 5701023,
-    "avatar": "https://cdn-img.gitcode.com/bd/af/69196623b41da3fd787c3407dc7dc58deeb59ecd3054e5025d2997cf6545c7a6.png",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "Lynne9843",
-    "nick_name": "琳🐰",
-    "user_id": 10387339,
-    "avatar": "https://cdn-img.gitcode.com/cf/eb/cfe5b6eeac2aa24839f9abc25651067477e6c7adedcc3d2bf51a5885d79d4057.jpg",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "chentianyu19",
-    "nick_name": "chentianyu19",
-    "user_id": 6327929,
-    "avatar": null,
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "YANXI_ZHAO",
-    "nick_name": "YANXI_ZHAO",
-    "user_id": 6327894,
-    "avatar": null,
-    "starred_repos": [
-      "cann/asc-devkit",
-      "cann/pyasc",
-      "cann/asnumpy",
-      "cann/atvoss",
-      "cann/asc-tools",
-      "cann/atvc",
-      "cann/shmem"
-    ]
-  },
-  {
-    "user_name": "chenbl",
-    "nick_name": "chenbl",
-    "user_id": 7597377,
-    "avatar": null,
-    "starred_repos": [
-      "cann/asc-devkit",
-      "cann/atvoss"
-    ]
-  },
-  {
-    "user_name": "limingfan1995",
-    "nick_name": "limingfan1995",
-    "user_id": 6060927,
-    "avatar": null,
-    "starred_repos": [
-      "cann/asc-devkit",
-      "cann/hccl",
-      "cann/hcomm"
-    ]
-  },
-  {
-    "user_name": "zenglinlong",
-    "nick_name": "zenglinlong",
-    "user_id": 5585770,
-    "avatar": null,
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "qq_21089415",
-    "nick_name": "qq_21089415",
-    "user_id": 8161746,
-    "avatar": "",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "wenyiqing",
-    "nick_name": "wenyiqing",
-    "user_id": 6852867,
-    "avatar": "https://cdn-img.gitcode.com/de/be/95deb8595e227da9b5239c127cf9a118f89f2b6dd625edb805ffeb4a0dea1737.png?time=1764158762746",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "xiangpx",
-    "nick_name": "xiangpx",
-    "user_id": 5506021,
-    "avatar": null,
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "qq_37569355",
-    "nick_name": "小小洪人",
-    "user_id": 3793974,
-    "avatar": "https://cdn-img.gitcode.com/cc/be/c510c5381bea733c9cbb544f2aa04ffa394949a688bfa7df4d3b857c0d52a30b.png",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "asobczyk",
-    "nick_name": "asobczyk",
-    "user_id": 9123047,
-    "avatar": null,
-    "starred_repos": [
-      "cann/asc-devkit",
-      "cann/pto-isa"
-    ]
-  },
-  {
-    "user_name": "lzh5665661111",
-    "nick_name": "Artifact_lizhihuan",
-    "user_id": 2649966,
-    "avatar": "https://cdn-img.gitcode.com/ee/bc/7e897eb0c3cdb85f61fb962daf5d661b14be14e0b3e2e828e0d3e644c9502607.png?time=1768028958097",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "hujiawen_kaven",
-    "nick_name": "hujiawen_kaven",
-    "user_id": 6357493,
-    "avatar": null,
-    "starred_repos": [
-      "cann/asc-devkit",
-      "cann/graph-autofusion",
-      "cann/atvoss",
-      "cann/asc-tools",
-      "cann/atvc"
-    ]
-  },
-  {
-    "user_name": "ning_x",
-    "nick_name": "Chen Ning",
-    "user_id": 6942914,
-    "avatar": "https://cdn-img.gitcode.com/dc/ea/dcea5bd215bbd7cfe23c6037528a3d78f6b2bdbd7064272711ef7567be3f7dfb.jpg",
-    "starred_repos": [
-      "cann/asc-devkit",
-      "cann/cann-learning-hub",
-      "cann/asnumpy"
-    ]
-  },
-  {
-    "user_name": "yuaner1057",
-    "nick_name": "每天都要吃馒头",
-    "user_id": 6154908,
-    "avatar": "https://cdn-img.gitcode.com/bc/ce/7116bcc022701e20ba70dec8de6d813608081f4beaad44d3ce10683fefca0cdc.jpeg?time=1761621542222",
-    "starred_repos": [
-      "cann/asc-devkit",
-      "cann/catlass",
-      "cann/pto-isa",
-      "cann/pyasc"
-    ]
-  },
-  {
-    "user_name": "yhkz9211",
-    "nick_name": "yhkz9211",
-    "user_id": 6327504,
-    "avatar": null,
-    "starred_repos": [
-      "cann/asc-devkit",
-      "cann/pyasc",
-      "cann/asnumpy",
-      "cann/atvoss",
-      "cann/asc-tools",
-      "cann/atvc"
-    ]
-  },
-  {
-    "user_name": "JC1126",
-    "nick_name": "JC1126",
-    "user_id": 7752556,
-    "avatar": null,
-    "starred_repos": [
-      "cann/asc-devkit",
-      "cann/asc-tools"
-    ]
-  },
-  {
-    "user_name": "watermelon_milk",
-    "nick_name": "watermelon_milk",
-    "user_id": 7142404,
-    "avatar": null,
-    "starred_repos": [
-      "cann/asc-devkit",
-      "cann/pyasc",
-      "cann/atvoss",
-      "cann/asc-tools",
-      "cann/atvc"
-    ]
-  },
-  {
-    "user_name": "wang-zijiu",
-    "nick_name": "wang-zijiu",
-    "user_id": 6717571,
-    "avatar": null,
-    "starred_repos": [
-      "cann/asc-devkit",
-      "cann/asnumpy",
-      "cann/atvoss",
-      "cann/asc-tools",
-      "cann/atvc"
-    ]
-  },
-  {
-    "user_name": "ChenZhoujie",
-    "nick_name": "ChenZhoujie",
-    "user_id": 6327297,
-    "avatar": null,
-    "starred_repos": [
-      "cann/asc-devkit",
-      "cann/graph-autofusion",
-      "cann/asnumpy",
-      "cann/asc-tools"
-    ]
-  },
-  {
-    "user_name": "hbhdhd",
-    "nick_name": "Hyunbin",
-    "user_id": 1131887,
-    "avatar": "https://cdn-img.gitcode.com/ac/cf/4a7cc0fc55425ead9ef22cebd96f4eb7bafc3bee47248aa76ef16307da28c7a6.png",
-    "starred_repos": [
-      "cann/asc-devkit",
-      "cann/shmem"
-    ]
-  },
-  {
-    "user_name": "qin437231",
-    "nick_name": "qin437231",
-    "user_id": 5577386,
-    "avatar": null,
-    "starred_repos": [
-      "cann/asc-devkit",
-      "cann/cann-samples",
-      "cann/catlass",
-      "cann/pyasc",
-      "cann/asnumpy",
-      "cann/atvoss",
-      "cann/asc-tools",
-      "cann/atvc",
-      "cann/shmem"
-    ]
-  },
-  {
-    "user_name": "chenyiyuan",
-    "nick_name": "chenyiyuan",
-    "user_id": 6327157,
-    "avatar": null,
-    "starred_repos": [
-      "cann/asc-devkit",
-      "cann/pyasc",
-      "cann/atvoss",
-      "cann/asc-tools",
-      "cann/atvc"
-    ]
-  },
-  {
-    "user_name": "bianque",
-    "nick_name": "bianque",
-    "user_id": 6327611,
-    "avatar": null,
-    "starred_repos": [
-      "cann/asc-devkit",
-      "cann/pyasc",
-      "cann/asnumpy",
-      "cann/atvoss",
-      "cann/asc-tools",
-      "cann/atvc",
-      "cann/shmem"
-    ]
-  },
-  {
-    "user_name": "gcw_L4l69XLz",
-    "nick_name": "liang",
-    "user_id": 7821243,
-    "avatar": "",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ]
-  },
-  {
-    "user_name": "enihcam",
-    "nick_name": "enihcam",
-    "user_id": 7609579,
-    "avatar": null,
-    "starred_repos": [
-      "cann/asc-devkit"
+      "cann/cann-learning-hub"
     ]
   },
   {
@@ -47710,7 +46412,8 @@
     "user_id": 1111219,
     "avatar": null,
     "starred_repos": [
-      "cann/cann-learning-hub"
+      "cann/cann-learning-hub",
+      "cann/cann-outreach"
     ]
   },
   {
@@ -47733,6 +46436,17 @@
     ]
   },
   {
+    "user_name": "ning_x",
+    "nick_name": "Chen Ning",
+    "user_id": 6942914,
+    "avatar": "https://cdn-img.gitcode.com/dc/ea/dcea5bd215bbd7cfe23c6037528a3d78f6b2bdbd7064272711ef7567be3f7dfb.jpg",
+    "starred_repos": [
+      "cann/cann-learning-hub",
+      "cann/asc-devkit",
+      "cann/asnumpy"
+    ]
+  },
+  {
     "user_name": "weixin_42081421",
     "nick_name": "方华Elton",
     "user_id": 481768,
@@ -47744,7 +46458,7 @@
   },
   {
     "user_name": "2501_93209770",
-    "nick_name": "叶绫",
+    "nick_name": "3yeye-yeye3",
     "user_id": 9245184,
     "avatar": "https://cdn-img.gitcode.com/bd/fc/b91d779879fcc4c2bfc4c686e24e81b1829fd76c0d532d201a18bcbd6acfab98.png?time=1783087587476",
     "starred_repos": [
@@ -47814,6 +46528,18 @@
     "avatar": "https://cdn-img.gitcode.com/df/db/df59d341bb2c11f0daca414e58249a78dc5d14073236cfc46c7ffffce968cd5f.png?time=1783331644341",
     "starred_repos": [
       "cann/cann-learning-hub"
+    ]
+  },
+  {
+    "user_name": "TensorLake",
+    "nick_name": "TensorLake",
+    "user_id": 5587283,
+    "avatar": null,
+    "starred_repos": [
+      "cann/cann-learning-hub",
+      "cann/opbase",
+      "cann/triton-inference-server-ge-backend",
+      "cann/asc-tools"
     ]
   },
   {
@@ -48011,6 +46737,16 @@
     "avatar": "https://cdn-img.gitcode.com/cf/cf/cfc580375062fb5b21bc6a49962b973dddd3926236016ec0971399484c15092d.png",
     "starred_repos": [
       "cann/cann-learning-hub"
+    ]
+  },
+  {
+    "user_name": "weixin_63089733",
+    "nick_name": "小呆呆898",
+    "user_id": 4450745,
+    "avatar": "https://cdn-img.gitcode.com/ec/bb/e56c4126886bb3f3c44982a79e28e3807862f1586ed2d6079121baeb607f0df1.jpg",
+    "starred_repos": [
+      "cann/cann-learning-hub",
+      "cann/asc-devkit"
     ]
   },
   {
@@ -48588,7 +47324,7 @@
   },
   {
     "user_name": "gcw_l060oqx8",
-    "nick_name": "gcw_l060oqx8",
+    "nick_name": "zjl5071",
     "user_id": 11069575,
     "avatar": "",
     "starred_repos": [
@@ -48784,6 +47520,16 @@
     "avatar": "https://cdn-img.gitcode.com/be/eb/52be2e5857bafe13b65b7d8fbf22d459e67f2a5785188d1ede4e5024259815fb.png",
     "starred_repos": [
       "cann/cann-learning-hub"
+    ]
+  },
+  {
+    "user_name": "clarkong",
+    "nick_name": "clarkong",
+    "user_id": 3856709,
+    "avatar": "https://cdn-img.gitcode.com/dd/fb/10d27382d1271634108f687b203a20cf859b5645336b4198bc608124e21c96e7.png",
+    "starred_repos": [
+      "cann/cann-learning-hub",
+      "cann/asc-devkit"
     ]
   },
   {
@@ -49009,15 +47755,6 @@
     ]
   },
   {
-    "user_name": "2301_79800624",
-    "nick_name": "句号加三点",
-    "user_id": 261867,
-    "avatar": "https://cdn-img.gitcode.com/ce/ab/c78e22a6690b25e6794a88faed04de509546200ad8bab32c8805a9bba0b75801.png",
-    "starred_repos": [
-      "cann/cann-learning-hub"
-    ]
-  },
-  {
     "user_name": "Leekfeifon",
     "nick_name": "Leekfeifon",
     "user_id": 2489769,
@@ -49092,7 +47829,7 @@
   },
   {
     "user_name": "YHCT",
-    "nick_name": "一鹤冲天233",
+    "nick_name": "一鹤冲天",
     "user_id": 662406,
     "avatar": "https://cdn-img.gitcode.com/fb/ee/9f4931bee8de58c5d81989f24fb47c95260a91626dacb2debbca3358357060aa.jpg",
     "starred_repos": [
@@ -49169,7 +47906,7 @@
   },
   {
     "user_name": "lingqian-gi",
-    "nick_name": "lingqian",
+    "nick_name": "wuwulan",
     "user_id": 3170746,
     "avatar": "https://cdn-img.gitcode.com/cd/fa/7cd86fa5cfa29b4982b04adc5b82191ae2ceea595f65796736ce7c6ff613ccab.png?time=1781529801696",
     "starred_repos": [
@@ -50672,6 +49409,1790 @@
     "starred_repos": [
       "cann/cann-learning-hub",
       "cann/pyasc"
+    ]
+  },
+  {
+    "user_name": "clause",
+    "nick_name": "clause",
+    "user_id": 8984416,
+    "avatar": null,
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "nied",
+    "nick_name": "涛",
+    "user_id": 6973423,
+    "avatar": "https://cdn-img.gitcode.com/dc/ea/0376d99c1610eaff8180a913cfd416f473c3abd8db4a5d835aa488b3b6d68316.jpg",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "xuchengyang",
+    "nick_name": "xuchengyang",
+    "user_id": 6574282,
+    "avatar": null,
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "dananjj",
+    "nick_name": "dananjj",
+    "user_id": 10433910,
+    "avatar": "https://cdn-img.gitcode.com/fd/da/fd12da2bd9b432556f12eecbaec20e865be8283e716dcc0bbf009b349b0bf8ac.jpg",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "gcw_pn1H5UDA",
+    "nick_name": "gcw_pn1H5UDA",
+    "user_id": 10452924,
+    "avatar": "",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "lh7963",
+    "nick_name": "lh7963",
+    "user_id": 11697794,
+    "avatar": null,
+    "starred_repos": [
+      "cann/asc-devkit",
+      "cann/catlass"
+    ]
+  },
+  {
+    "user_name": "Jervis",
+    "nick_name": "Jervis",
+    "user_id": 265461,
+    "avatar": null,
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "gcw_CVgnXbim",
+    "nick_name": "gcw_CVgnXbim",
+    "user_id": 6609060,
+    "avatar": "",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "wcleungaj",
+    "nick_name": "wcleungaj",
+    "user_id": 5298913,
+    "avatar": "https://cdn-img.gitcode.com/bb/cc/b3466b9ccd1b0d2033390c4d98a4dbe829095c3a407762a4d5768dbbade872d5.png?time=1776998652067",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "zheng555",
+    "nick_name": "zheng555",
+    "user_id": 8523516,
+    "avatar": null,
+    "starred_repos": [
+      "cann/asc-devkit",
+      "cann/hccl",
+      "cann/hcomm",
+      "cann/asc-tools"
+    ]
+  },
+  {
+    "user_name": "IceShip423",
+    "nick_name": "IceShip423",
+    "user_id": 5166148,
+    "avatar": "https://cdn-img.gitcode.com/fc/ef/94f90048ce52f03d4772397853c521a61fe5af7660a8f506d374a3680e6b80d5.jpg",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "yhf0922",
+    "nick_name": "yhf0922",
+    "user_id": 11636431,
+    "avatar": null,
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "happyhappyhappy-arch",
+    "nick_name": "happyhappyhappy-arch",
+    "user_id": 7578546,
+    "avatar": "https://cdn-img.gitcode.com/df/eb/449137d6f1eb65a4b4f41516c5a7986da9bd3e8e9ea678cdde52656b65f2c553.png",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "m0_45882154",
+    "nick_name": "m0_45882154",
+    "user_id": 3706201,
+    "avatar": "https://cdn-img.gitcode.com/af/ac/5a8f5a9c814622098ac0e135ec0ee55ded8b315db66ea458cf7dfe5c6ae2b92b.png",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "fiking",
+    "nick_name": "fiking",
+    "user_id": 965363,
+    "avatar": null,
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "HHH0258",
+    "nick_name": "HHH0258",
+    "user_id": 905507,
+    "avatar": "https://cdn-img.gitcode.com/eb/ee/4e7833638beeb0442f2d3ef773e696511da2d89768d95ab32db7cf58b5db27d6.png",
+    "starred_repos": [
+      "cann/asc-devkit",
+      "cann/asc-tools"
+    ]
+  },
+  {
+    "user_name": "Hyw10",
+    "nick_name": "Hyw",
+    "user_id": 10041766,
+    "avatar": "https://cdn-img.gitcode.com/ae/bc/ae70b00c7d2d404bb2e918b5411c58f3d4404b7b9213882643a4792087913791.jpg",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "enjun",
+    "nick_name": "enjun",
+    "user_id": 1936410,
+    "avatar": null,
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "hid91692032",
+    "nick_name": "nnnineee",
+    "user_id": 9220628,
+    "avatar": null,
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "wang_shuli",
+    "nick_name": "wang_shuli",
+    "user_id": 10192737,
+    "avatar": "https://cdn-img.gitcode.com/ed/ab/34ed3216a706bf8b9eb9cf4b861ea4256fbbe8a4b379a688438340c6ba4a1e7e.png?time=1782982717782",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "weixin_46466275",
+    "nick_name": "xyzllm2",
+    "user_id": 7757788,
+    "avatar": "https://cdn-img.gitcode.com/be/db/6442b04205285e5d50b15fbc66fca97162471565266affbf5a87970cbb3e1e7d.png?time=1779775785860",
+    "starred_repos": [
+      "cann/asc-devkit",
+      "cann/cann-outreach"
+    ]
+  },
+  {
+    "user_name": "GoliWie",
+    "nick_name": "GoliWie",
+    "user_id": 5101938,
+    "avatar": "https://cdn-img.gitcode.com/da/bf/44da4013248270bfc7666de522354657387e731763bcd279433776349023bc3f.png?time=1781167670083",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "Gaomh123456789",
+    "nick_name": "是否",
+    "user_id": 7133803,
+    "avatar": "https://cdn-img.gitcode.com/db/ce/1d6b40c580994ee8534d14b201c5f662fd59972ff63cd863244da1e50771dcfe.jpg",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "xfshine123",
+    "nick_name": "xfshine123",
+    "user_id": 2693226,
+    "avatar": "https://cdn-img.gitcode.com/fe/ba/f5eb4a625b802cd7e899949064473251999469155a303dd1403bae6ea3c9406b.png",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "wangruiqi25",
+    "nick_name": "wangruiqi25",
+    "user_id": 11364183,
+    "avatar": null,
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "fanglanyue0916",
+    "nick_name": "fanglanyue",
+    "user_id": 3068858,
+    "avatar": "https://cdn-img.gitcode.com/ea/cf/352e2a8462cf5a6e1a1e1d1361520436741dcf0c488cab6a94c264d88a5fca03.png?time=1757226167717",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "2402_89089470",
+    "nick_name": "洛书.57",
+    "user_id": 2613131,
+    "avatar": "https://cdn-img.gitcode.com/da/df/38703522d713a141d212767fec98e64998f66e27b19532b763ad0b39090f3162.png",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "azaz114514",
+    "nick_name": "azaz114514",
+    "user_id": 5485303,
+    "avatar": null,
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "cxj01",
+    "nick_name": "cxj01",
+    "user_id": 7903030,
+    "avatar": null,
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "Daliss",
+    "nick_name": "Daliss",
+    "user_id": 2137689,
+    "avatar": null,
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "asterich",
+    "nick_name": "asterich",
+    "user_id": 8262253,
+    "avatar": "",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "gcw_xSOc8HUw",
+    "nick_name": "gcw_xSOc8HUw",
+    "user_id": 11362428,
+    "avatar": "",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "MiddenVexu",
+    "nick_name": "MiddenVexu",
+    "user_id": 11043406,
+    "avatar": null,
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "shunxingshi_",
+    "nick_name": "火中的灭火者",
+    "user_id": 11362082,
+    "avatar": "https://cdn-img.gitcode.com/ef/fb/ef6f1078b3060da1fac3af6dc237e2dfba4ea4e4d261461325b67cd2f857665f.jpg",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "qq_17416947",
+    "nick_name": "znzdl123",
+    "user_id": 916235,
+    "avatar": "https://cdn-img.gitcode.com/ff/db/f3f89db46d22e98cb1021a9177d12abba8483d98f396a8f2526413a228d88771.png",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "m0_71454340",
+    "nick_name": "m0_71454340",
+    "user_id": 5464969,
+    "avatar": "https://cdn-img.gitcode.com/cc/ef/c905c85e3fc9a14d32ed2547f746c3f6d1c704ccc72f0b277fd10b00a4d6ffb4.png",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "gcw_KDIbD8EW",
+    "nick_name": "gcw_KDIbD8EW",
+    "user_id": 11361606,
+    "avatar": "",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "gcw_VvWNNnGx",
+    "nick_name": "gcw_VvWNNnGx",
+    "user_id": 11359316,
+    "avatar": "",
+    "starred_repos": [
+      "cann/asc-devkit",
+      "cann/cann-outreach"
+    ]
+  },
+  {
+    "user_name": "m0_57037894",
+    "nick_name": "m0_57037894",
+    "user_id": 2194680,
+    "avatar": "https://cdn-img.gitcode.com/fe/cf/fe24c48f3f23172216ae9b5d5003095d3db8fc5b3cf07c755fb84161e2d1b5df.png",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "gcw_Oq2HPV3t",
+    "nick_name": "gcw_Oq2HPV3t",
+    "user_id": 11361372,
+    "avatar": "",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "gcw_J7ZG5boW",
+    "nick_name": "gcw_J7ZG5boW",
+    "user_id": 11359115,
+    "avatar": "",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "gcw_IwJd1uy2",
+    "nick_name": "gcw_IwJd1uy2",
+    "user_id": 11359317,
+    "avatar": "",
+    "starred_repos": [
+      "cann/asc-devkit",
+      "cann/cann-outreach"
+    ]
+  },
+  {
+    "user_name": "gcw_i0yFZkCV",
+    "nick_name": "gcw_i0yFZkCV",
+    "user_id": 5780427,
+    "avatar": "",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "gcw_oZj3RPvn",
+    "nick_name": "gcw_oZj3RPvn",
+    "user_id": 11353555,
+    "avatar": "",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "SKLCCZHLiu",
+    "nick_name": "SKLCCZHLiu",
+    "user_id": 361510,
+    "avatar": "https://cdn-img.gitcode.com/cf/bb/89084cf948b4b09b75b3fe4124c6dc3000b6aef2b209408ea70095e1a69b3bce.png",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "not-equal",
+    "nick_name": "not-equal",
+    "user_id": 7717880,
+    "avatar": null,
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "gcw_AnIskfco",
+    "nick_name": "gcw_AnIskfco",
+    "user_id": 11360905,
+    "avatar": "",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "dong11408d",
+    "nick_name": "DONG",
+    "user_id": 8362720,
+    "avatar": "",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "zhangxiaojuan_115",
+    "nick_name": "张晓娟",
+    "user_id": 11360580,
+    "avatar": "https://cdn-img.gitcode.com/dd/ee/5dde156ecec5584a8510947a80d1462f8ef48507103726373e58c9a7909cf655.jpg",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "weixin_42961781",
+    "nick_name": "行走的小荷尔蒙",
+    "user_id": 2602184,
+    "avatar": "https://cdn-img.gitcode.com/bc/df/bc6d095f08fd12dec998dd40737eb9799dc33e0f84a35916e8ffc9444b693031.jpg",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "gcw_hNoAqYaW",
+    "nick_name": "gcw_hNoAqYaW",
+    "user_id": 11360562,
+    "avatar": "",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "chenxix",
+    "nick_name": "chenxix",
+    "user_id": 132581,
+    "avatar": null,
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "m0_60375625",
+    "nick_name": "预判你的代码",
+    "user_id": 4193913,
+    "avatar": "https://cdn-img.gitcode.com/ec/ed/8ec0e015172259d7884ab71a3a7992b3078133b77703e112bba23062b0b49de2.png",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "Tangefly",
+    "nick_name": "Tangefly",
+    "user_id": 186338,
+    "avatar": null,
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "linuxkiller",
+    "nick_name": "Linux Killer",
+    "user_id": 1110924,
+    "avatar": "https://cdn-img.gitcode.com/aa/ba/0a1162ab8a19267e28e4177176cf7c1bc2a64f0a3c18f72638d6d761b6d38be8.png",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "hdu_bone",
+    "nick_name": "BoneInscri",
+    "user_id": 5755809,
+    "avatar": "https://cdn-img.gitcode.com/cd/ed/cd3e005daa75d746e6836be70bb07c3ceb051dafe8eb1b4902559a326d1a2a99.png",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "qq_53662685",
+    "nick_name": "雨(●—●)",
+    "user_id": 1790870,
+    "avatar": "https://cdn-img.gitcode.com/ff/da/f81fd18aa3ad862e2c14be3ade049c39d05a6182488f6e96502eca3f48f5349e.jpg",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "gcw_H5qlln7y",
+    "nick_name": "gcw_H5qlln7y",
+    "user_id": 4614218,
+    "avatar": "",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "m0_62290903",
+    "nick_name": "m0_62290903",
+    "user_id": 4519167,
+    "avatar": "https://cdn-img.gitcode.com/fa/da/f0374538a662daaf3e66adf869509891ae9df7a2317a2ee298057c6a30d46ab7.png",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "weixin_43060955",
+    "nick_name": "weixin_43060955",
+    "user_id": 529430,
+    "avatar": "https://cdn-img.gitcode.com/db/cb/392d8b7505cbbc405f6eb2182c2497e837e79dfae5102e33210d0d1eb118c077.jpg",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "weixin_47159869",
+    "nick_name": "weixin_47159869",
+    "user_id": 5322050,
+    "avatar": "https://cdn-img.gitcode.com/ba/cb/027457b69150acb5a9d0698ca321af8a532f4e5ca533cf06c75203354dc39976.png",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "s3064016108",
+    "nick_name": "迷糊大王-007",
+    "user_id": 6878231,
+    "avatar": "https://cdn-img.gitcode.com/ff/ba/33f515438538fba421cdeb6d594ffa35c3a8afd9ac966039f58e6436d0530465.png",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "benzene6",
+    "nick_name": "benzene6",
+    "user_id": 1418658,
+    "avatar": "https://cdn-img.gitcode.com/dc/dd/083dcd08dd810cf94ece685662172cdf33c0757af3a4af948d3a110131df1d7e.png",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "lichenxi2024",
+    "nick_name": "lichenxi2024",
+    "user_id": 1100836,
+    "avatar": null,
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "jiucheng_",
+    "nick_name": "C",
+    "user_id": 6240069,
+    "avatar": "https://cdn-img.gitcode.com/ed/ff/7edf3046459fc51748f5b11edcaf4cfe88b09532bc9d11d6646d3c396b45b214.jpg",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "m0_69524246",
+    "nick_name": "Emonkey_",
+    "user_id": 1283514,
+    "avatar": "https://cdn-img.gitcode.com/ff/aa/9f2f7a35851a1e9234bf11bab592647d0fd910e32007ff77e3c2fb3b87e0c4de.png",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "shwstone",
+    "nick_name": "ShwStone",
+    "user_id": 10181765,
+    "avatar": "https://cdn-img.gitcode.com/ba/cd/b7a1414c76d81964875661cb6eca24e962f82cafaf22702c00274faefb2b3a92.jpg",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "uuku",
+    "nick_name": "uuku",
+    "user_id": 3618862,
+    "avatar": "https://cdn-img.gitcode.com/da/fd/d71afd98e12bd68f3cc177a94275e6963041b706454e691ca0295476133c8fc2.jpg",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "shiqi6",
+    "nick_name": "shiqi6",
+    "user_id": 11359135,
+    "avatar": null,
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "Z1258cbn",
+    "nick_name": "Z~",
+    "user_id": 11359067,
+    "avatar": "https://cdn-img.gitcode.com/ab/da/187a5b83d642a26b5b8aae92643f62e4dee571a1dd3a1020e2d2718d2ff6f426.jpg",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "2503_94338677",
+    "nick_name": "绝世豪喵",
+    "user_id": 9481226,
+    "avatar": "https://cdn-img.gitcode.com/cd/be/134cdb4e573ba9a3db21942a3626c8f47929ff7635a8ec77111543c437638489.png",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "CarlWang_2025",
+    "nick_name": "CarlWang_2025",
+    "user_id": 5679825,
+    "avatar": null,
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "hwhwz23",
+    "nick_name": "hwhwz23",
+    "user_id": 11354422,
+    "avatar": "https://cdn-img.gitcode.com/fa/ea/0f03ae63a02af05402c2436e25fad2f14d3dc4f9ded38e0f404973d4b4b044c6.png",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "gcw_oroHQZs3",
+    "nick_name": "Robell",
+    "user_id": 7443877,
+    "avatar": "",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "m0_52721353",
+    "nick_name": "m0_52721353",
+    "user_id": 4777430,
+    "avatar": "https://cdn-img.gitcode.com/ee/da/ee78268d628ae56f40a25cff140311ac8dcc80b853e72c299f887287a99b48b2.png",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "m0_37066184",
+    "nick_name": "m0_37066184",
+    "user_id": 8214072,
+    "avatar": "",
+    "starred_repos": [
+      "cann/asc-devkit",
+      "cann/cann-outreach"
+    ]
+  },
+  {
+    "user_name": "gcw_T2F3j2oe",
+    "nick_name": "gcw_T2F3j2oe",
+    "user_id": 7057460,
+    "avatar": "",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "Nanaaaaaaa",
+    "nick_name": "Nanaaaaaaa",
+    "user_id": 11352110,
+    "avatar": null,
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "Ja_Morant__",
+    "nick_name": "张泰宁",
+    "user_id": 4361327,
+    "avatar": "https://cdn-img.gitcode.com/db/dc/35dbdca4d64632d1f78d90ca9d9658459e3a8a9ee9ca68bab362fadfef00294d.png?time=1777829073064",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "u011749267",
+    "nick_name": "月下星河",
+    "user_id": 4676386,
+    "avatar": "https://cdn-img.gitcode.com/eb/ac/1967448eba2cf0ea8a52f3bc8678c5177ad158f15b38f034ace4f5772370cdae.png",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "Maxzhang0522",
+    "nick_name": "张明",
+    "user_id": 11351662,
+    "avatar": "https://cdn-img.gitcode.com/ef/da/60ef330508da46a124ce742d070b447748b744374954f0115bd4bce2b3ede165.jpg",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "lhs666666",
+    "nick_name": "lhs666666",
+    "user_id": 11351456,
+    "avatar": null,
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "weixin_60987792",
+    "nick_name": "刘安琪604",
+    "user_id": 1446098,
+    "avatar": "https://cdn-img.gitcode.com/fc/fe/4733fc69231926fe4f235d90d4946a0830a032660506b68ebe64909c54d4d8fd.jpg",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "Nautilus1993",
+    "nick_name": "Nautilus1993",
+    "user_id": 11351503,
+    "avatar": null,
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "wyx1679831570",
+    "nick_name": "wyx1679831570",
+    "user_id": 10698354,
+    "avatar": "https://cdn-img.gitcode.com/ab/dd/ab439dd631a92b70a1bce7f2868bb394ff7daaa0fa9de1cc2089930a7e5a1be4.png",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "EliotLixiuyi",
+    "nick_name": "EliotLixiuyi",
+    "user_id": 11351368,
+    "avatar": null,
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "gcw_zJ4O2m0t",
+    "nick_name": "cuiyuemeng",
+    "user_id": 11296519,
+    "avatar": "",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "gcw_KAjtYQu5",
+    "nick_name": "gcw_KAjtYQu5",
+    "user_id": 10219551,
+    "avatar": "",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "qq_42485804",
+    "nick_name": "qq_42485804",
+    "user_id": 922996,
+    "avatar": "https://cdn-img.gitcode.com/fe/ba/8722776feb34ad75a9787f48e80665e29ca1faa64341677d5f8a35daf1bfb8c9.png",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "2301_79796995",
+    "nick_name": "2301_79796995",
+    "user_id": 582734,
+    "avatar": "https://cdn-img.gitcode.com/ff/fa/213895ff6f301aca8a6cf725d2bb574d345131588e4748a4ab7e038e9c366c77.png",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "hsggsh",
+    "nick_name": "hsggsh",
+    "user_id": 11350359,
+    "avatar": null,
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "m0_57385706",
+    "nick_name": "m0_57385706",
+    "user_id": 1125864,
+    "avatar": "https://cdn-img.gitcode.com/bd/ff/47b5df912f516691a64f81c28497a81e75b20c06e26e0b1f01b578d3f3ab52c2.png",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "AdadadaChen",
+    "nick_name": "AdadadaChen",
+    "user_id": 11350116,
+    "avatar": "https://cdn-img.gitcode.com/cd/af/cda08f530084aed53eebd625ab3489c91c5473f2f6db584c0a03da7c7f3ee9bb.jpg",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "Yy0421",
+    "nick_name": "元仔🍭",
+    "user_id": 11350033,
+    "avatar": "https://cdn-img.gitcode.com/ca/cf/ca3511cf0e9860a8cb65deb9738ca0634d8970043015ff085f8e70ea04b51534.jpg",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "shiliudawang",
+    "nick_name": "shiliudawang",
+    "user_id": 11350061,
+    "avatar": null,
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "2401_89169951",
+    "nick_name": "2401_89169951",
+    "user_id": 7856393,
+    "avatar": "https://cdn-img.gitcode.com/db/fa/6d77b82f29a900b82219cec590dd6f9edcf30572b5e015a7f94c1e501b36665e.png",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "jefd",
+    "nick_name": "Jeff",
+    "user_id": 8266751,
+    "avatar": "",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "li-sisi",
+    "nick_name": "li-sisi",
+    "user_id": 10747633,
+    "avatar": null,
+    "starred_repos": [
+      "cann/asc-devkit",
+      "cann/runtime"
+    ]
+  },
+  {
+    "user_name": "qq_74282438",
+    "nick_name": "螭尘",
+    "user_id": 5389818,
+    "avatar": "https://cdn-img.gitcode.com/cb/df/615cb0d1fe471c92f141d6662d3816778c2df5a78f8339383ead0fc0e46733e9.png",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "gcw_EfW6326I",
+    "nick_name": "gcw_EfW6326I",
+    "user_id": 6939461,
+    "avatar": "",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "haoran505",
+    "nick_name": "haoran505",
+    "user_id": 10288137,
+    "avatar": null,
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "zzpig1111",
+    "nick_name": "zzpig",
+    "user_id": 11349281,
+    "avatar": "https://cdn-img.gitcode.com/ce/df/c7ed4633fbb412110b9358e950cdf7a6604abd518869f7322f0c465ea8204ef1.jpg",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "wuyw",
+    "nick_name": "walker",
+    "user_id": 179,
+    "avatar": "https://cdn-img.gitcode.com/fe/bf/047fe52854b353858fe9b5796b2e298accf8faa9c425fad94206bb97f24e5eca.png",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "RTzsama",
+    "nick_name": "瑞天sama",
+    "user_id": 11349238,
+    "avatar": "https://cdn-img.gitcode.com/cd/ee/cdeea177aa7843035c1937fa74ec605bc2a5e25a7d19c65340bcce6c0cf18da3.jpg",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "C0reFast",
+    "nick_name": "C0reFast",
+    "user_id": 5299856,
+    "avatar": null,
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "aabbxxaa",
+    "nick_name": "aabbxxaa",
+    "user_id": 951750,
+    "avatar": "https://cdn-img.gitcode.com/de/ec/77667d0ee73c457011e36300ed29097bb5e977bcd0e471de5a36a17a4d4545ef.png",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "fateldd",
+    "nick_name": "fateldd",
+    "user_id": 3465745,
+    "avatar": "https://cdn-img.gitcode.com/ec/db/27e300c46290d04b7f4f9b4b604dd6be0c70649dbabcf84d3a5d8dc8183289d0.jpg",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "qzlshy",
+    "nick_name": "qzlshy",
+    "user_id": 4010129,
+    "avatar": "https://cdn-img.gitcode.com/cf/bb/63c957f1bb8c0ecf055458edd623cffd0c28aa95859f9057ed20b6c005d2090e.png",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "GKxx",
+    "nick_name": "GKxx",
+    "user_id": 5853669,
+    "avatar": null,
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "gucasboy",
+    "nick_name": "gucasboy",
+    "user_id": 3310894,
+    "avatar": "https://cdn-img.gitcode.com/fe/fd/02f2ef42dd5b18e04d2678683ed55b21ed4395b2a38598ed909af435b4dcef73.png",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "gcw_wvSKjA9w",
+    "nick_name": "gcw_wvSKjA9w",
+    "user_id": 11348450,
+    "avatar": "",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "weixin_37930112",
+    "nick_name": "weixin_37930112",
+    "user_id": 4920768,
+    "avatar": "https://cdn-img.gitcode.com/bf/af/bf6a313fe8a83ae5bfb7771b8ef151623a74a2d7eb437b448ffa80608e43aed3.png",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "lijinsong2025",
+    "nick_name": "lijinsong2025",
+    "user_id": 718927,
+    "avatar": "https://cdn-img.gitcode.com/db/ef/2d778407b9e20f582ab4a2a2d41b5d97175e9d89de9b7b33de556d6a817095f1.png?time=1782734164448",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "WuxuefengNeo",
+    "nick_name": "武雪峰 Neo",
+    "user_id": 11347270,
+    "avatar": "https://cdn-img.gitcode.com/db/ad/d234ba70d471858d0ba3c0bc7374cbeb78cac1cdddcdfa0e4d68628f427f59eb.jpg",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "muchangqing2025",
+    "nick_name": "muchangqing2025",
+    "user_id": 9217939,
+    "avatar": "https://cdn-img.gitcode.com/fa/db/4f25198631975ad420bf7e9f0362e7835a4cd8ad26cc85e0090df1d4600e0521.jpg",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "hid22806966",
+    "nick_name": "hid22806966",
+    "user_id": 11347166,
+    "avatar": null,
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "xychong123",
+    "nick_name": "xychong123",
+    "user_id": 2712736,
+    "avatar": "https://cdn-img.gitcode.com/cd/cb/8cd8c0b1a83e3ad5cf67051d88ff99b25e986c148fc7fa3c0772ff956dbca8f8.png",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "wwy-123",
+    "nick_name": "另一片天",
+    "user_id": 10386833,
+    "avatar": "https://cdn-img.gitcode.com/be/df/b0203e668df73adbd7a2ffad64e16b0efa26c3e04d2a059a404b27d12f769581.jpg",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "luanfy2006",
+    "nick_name": "栾凤宇",
+    "user_id": 11347068,
+    "avatar": "https://cdn-img.gitcode.com/cf/fa/c8292ff06907a169643354f692ccbfe83025a9788fc029981b57ca3e992d8e4e.jpg",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "qlss_1",
+    "nick_name": "歧路书生",
+    "user_id": 11346933,
+    "avatar": "https://cdn-img.gitcode.com/bd/fe/63bd59293f8ed6ffdec6786d3974071afa1d6c102d59b0a0421c70eb4a3c68ff.jpg",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "markzgwu",
+    "nick_name": "markzgwu",
+    "user_id": 278294,
+    "avatar": "https://cdn-img.gitcode.com/ab/ea/429a9be69a6b3c0c63064bc69ed0b22c9c3c18ad5ecd20dca194d74df422b44e.jpg",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "lvmqputin1",
+    "nick_name": "lvmqputin",
+    "user_id": 8231650,
+    "avatar": "",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "jinmoyuzhong",
+    "nick_name": "浸没雨中",
+    "user_id": 1172251,
+    "avatar": "https://cdn-img.gitcode.com/da/af/311d6a1a6fae7e1606d32b7fd48e39f6fed52c8ff5b5c52d874d2b257141df76.png?time=1740126016251",
+    "starred_repos": [
+      "cann/asc-devkit",
+      "cann/cann-samples"
+    ]
+  },
+  {
+    "user_name": "yi_lumochen",
+    "nick_name": "yi_lumochen",
+    "user_id": 752043,
+    "avatar": "https://cdn-img.gitcode.com/dc/fa/1815dc1fa8205d00a90480dc91ff42dc3422e0437f43d38a848782e2bcd96216.jpg",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "ciggaco",
+    "nick_name": "ciggaco",
+    "user_id": 9324638,
+    "avatar": null,
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "lion_tra",
+    "nick_name": "lion_tra",
+    "user_id": 11314044,
+    "avatar": null,
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "JYLiao32",
+    "nick_name": "JYLiAo32",
+    "user_id": 1958762,
+    "avatar": "https://cdn-img.gitcode.com/ef/fe/e96f527907f689ee92022383f27174c7fbc4963a67b15cba984bc4f9f25cffe7.png?time=1773817382568",
+    "starred_repos": [
+      "cann/asc-devkit",
+      "cann/catlass"
+    ]
+  },
+  {
+    "user_name": "lzch50056473",
+    "nick_name": "liuzichen",
+    "user_id": 3638435,
+    "avatar": "https://cdn-img.gitcode.com/fd/fa/165fd6fa4dca30b8953cc34157147096b68f61ec288f174bee26b08b98501d1c.jpg",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "bobo3",
+    "nick_name": "菠萝君er",
+    "user_id": 4326252,
+    "avatar": null,
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "CubeLander",
+    "nick_name": "Jingyuan Tian",
+    "user_id": 11208880,
+    "avatar": "https://cdn-img.gitcode.com/ba/ae/3b5aa4ed7219a091e30c1cd3aea65f39b45162f85a601b70c5e6880dfa3b7313.jpg",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "zhangfands",
+    "nick_name": "zhangfands",
+    "user_id": 6546620,
+    "avatar": null,
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "weixin_53348631",
+    "nick_name": "YOnG-KAnG",
+    "user_id": 312772,
+    "avatar": "https://cdn-img.gitcode.com/ed/fd/1e919d5f82d1bb07a9e4b8dfd0d785da22eb5813638469ee27ebef0ab8c1d568.png",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "ddd_f",
+    "nick_name": "ddd_f",
+    "user_id": 7772327,
+    "avatar": null,
+    "starred_repos": [
+      "cann/asc-devkit",
+      "cann/runtime"
+    ]
+  },
+  {
+    "user_name": "HaiqingFang",
+    "nick_name": "hq",
+    "user_id": 11057177,
+    "avatar": "https://cdn-img.gitcode.com/af/df/95a8634fdf0a7914aebb6008619b7ae70a0b7e8ede5b89c5ebb5b39e85865481.jpg",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "qq_73257844",
+    "nick_name": "lingyong",
+    "user_id": 350093,
+    "avatar": "https://cdn-img.gitcode.com/fb/cb/23fb3c6b1ee0787ae26577e21fb3e811037400540129ba984fcdc2a031041c17.png",
+    "starred_repos": [
+      "cann/asc-devkit",
+      "cann/catlass"
+    ]
+  },
+  {
+    "user_name": "gcw_jgWZA4ay",
+    "nick_name": "gcw_jgWZA4ay",
+    "user_id": 5100532,
+    "avatar": "",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "gcw_9myt1Xo0",
+    "nick_name": "gcw_9myt1Xo0",
+    "user_id": 10871834,
+    "avatar": "",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "yyoean",
+    "nick_name": "yyoean",
+    "user_id": 1009318,
+    "avatar": "https://cdn-img.gitcode.com/fc/fc/f218027cfc8203192c58782b61a318326b1928e5a9a8a2810d86899053972755.png",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "lingqingdada",
+    "nick_name": "lingqingdada",
+    "user_id": 265774,
+    "avatar": "https://cdn-img.gitcode.com/ca/dc/259c8a2dc5f86938d83b40e51c591fb6476a9d9273f370c25f451d17d53018b9.png",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "Yau_droid",
+    "nick_name": "Yau_droid",
+    "user_id": 9156060,
+    "avatar": "https://cdn-img.gitcode.com/be/ac/be40ac97fc17377b4bc50c7d1f31daceaee91f706e3243bda7e3ae559a602e54.png",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "liujinsheng7",
+    "nick_name": "liujinsheng",
+    "user_id": 7287535,
+    "avatar": "",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "coconut_tree",
+    "nick_name": "tongjinjian",
+    "user_id": 7738921,
+    "avatar": "https://cdn-img.gitcode.com/da/dc/da3d8783c607f07e4bd236b9ea7b916b825b91881b25fafb19aded5b3be459f5.jpg",
+    "starred_repos": [
+      "cann/asc-devkit",
+      "cann/torchtitan-npu"
+    ]
+  },
+  {
+    "user_name": "z296249221",
+    "nick_name": "zhengkai",
+    "user_id": 7835950,
+    "avatar": null,
+    "starred_repos": [
+      "cann/asc-devkit",
+      "cann/opbase",
+      "cann/runtime",
+      "cann/oam-tools"
+    ]
+  },
+  {
+    "user_name": "vendio",
+    "nick_name": "vendio",
+    "user_id": 7125598,
+    "avatar": "",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "x6675636b796f75676974687562",
+    "nick_name": "Andrey Shcheglov",
+    "user_id": 10703819,
+    "avatar": "https://cdn-img.gitcode.com/ea/dc/71ea4dc7f629b0c06eb8ad2b4924d36c58cc95470a186e03e2002dcfb8c77c95.png?time=1775218277021",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "ascendhjh",
+    "nick_name": "ascendhjh",
+    "user_id": 6344812,
+    "avatar": null,
+    "starred_repos": [
+      "cann/asc-devkit",
+      "cann/pyasc"
+    ]
+  },
+  {
+    "user_name": "wangzw",
+    "nick_name": "zenithX",
+    "user_id": 9069480,
+    "avatar": "https://cdn-img.gitcode.com/cb/db/0c0751562b62d42bc4113c0f84b4355045a40df5c6d6c30254672a8f4e206f42.png?time=1774258555605",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "pengcheng1024",
+    "nick_name": "pengcheng1024",
+    "user_id": 6494092,
+    "avatar": null,
+    "starred_repos": [
+      "cann/asc-devkit",
+      "cann/pyasc",
+      "cann/shmem"
+    ]
+  },
+  {
+    "user_name": "zat",
+    "nick_name": "zat",
+    "user_id": 832711,
+    "avatar": null,
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "Be___Happy",
+    "nick_name": "zhuzhengan",
+    "user_id": 7772464,
+    "avatar": null,
+    "starred_repos": [
+      "cann/asc-devkit",
+      "cann/runtime"
+    ]
+  },
+  {
+    "user_name": "wk0911",
+    "nick_name": "wk0911",
+    "user_id": 2857637,
+    "avatar": null,
+    "starred_repos": [
+      "cann/asc-devkit",
+      "cann/opbase",
+      "cann/runtime",
+      "cann/pyasc",
+      "cann/amct",
+      "cann/oam-tools",
+      "cann/asc-tools"
+    ]
+  },
+  {
+    "user_name": "rookie_hongchuan",
+    "nick_name": "rookie_hongchuan",
+    "user_id": 5587516,
+    "avatar": null,
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "ww1881",
+    "nick_name": "王伟-九问studio",
+    "user_id": 6326056,
+    "avatar": "https://cdn-img.gitcode.com/fb/dd/4fb58ddcac2b4dd4de75175093c042f58690c921192d81acd21763d70847a87d.png",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "ElevenLiu",
+    "nick_name": "刘十一",
+    "user_id": 121676,
+    "avatar": "https://cdn-img.gitcode.com/af/da/85200afd6ad277a1c6db16b8a62477ce81ae7c38bb167b612ba665b27cfc3bd6.png?time=1756347210759",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "szdaniel",
+    "nick_name": "szdaniel",
+    "user_id": 105371,
+    "avatar": "https://cdn-img.gitcode.com/bf/de/3b7154f67d8ec5acdcff495e35c40587664b2ea83164aebe16680fb8b2f46570.jpg",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "qq_38244676",
+    "nick_name": "李爱乐",
+    "user_id": 5701023,
+    "avatar": "https://cdn-img.gitcode.com/bd/af/69196623b41da3fd787c3407dc7dc58deeb59ecd3054e5025d2997cf6545c7a6.png",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "Lynne9843",
+    "nick_name": "琳🐰",
+    "user_id": 10387339,
+    "avatar": "https://cdn-img.gitcode.com/cf/eb/cfe5b6eeac2aa24839f9abc25651067477e6c7adedcc3d2bf51a5885d79d4057.jpg",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "chentianyu19",
+    "nick_name": "chentianyu19",
+    "user_id": 6327929,
+    "avatar": null,
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "YANXI_ZHAO",
+    "nick_name": "YANXI_ZHAO",
+    "user_id": 6327894,
+    "avatar": null,
+    "starred_repos": [
+      "cann/asc-devkit",
+      "cann/pyasc",
+      "cann/asnumpy",
+      "cann/atvoss",
+      "cann/asc-tools",
+      "cann/atvc",
+      "cann/shmem"
+    ]
+  },
+  {
+    "user_name": "chenbl",
+    "nick_name": "chenbl",
+    "user_id": 7597377,
+    "avatar": null,
+    "starred_repos": [
+      "cann/asc-devkit",
+      "cann/atvoss"
+    ]
+  },
+  {
+    "user_name": "limingfan1995",
+    "nick_name": "limingfan1995",
+    "user_id": 6060927,
+    "avatar": null,
+    "starred_repos": [
+      "cann/asc-devkit",
+      "cann/hccl",
+      "cann/hcomm"
+    ]
+  },
+  {
+    "user_name": "zenglinlong",
+    "nick_name": "zenglinlong",
+    "user_id": 5585770,
+    "avatar": null,
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "qq_21089415",
+    "nick_name": "qq_21089415",
+    "user_id": 8161746,
+    "avatar": "",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "wenyiqing",
+    "nick_name": "wenyiqing",
+    "user_id": 6852867,
+    "avatar": "https://cdn-img.gitcode.com/de/be/95deb8595e227da9b5239c127cf9a118f89f2b6dd625edb805ffeb4a0dea1737.png?time=1764158762746",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "xiangpx",
+    "nick_name": "xiangpx",
+    "user_id": 5506021,
+    "avatar": null,
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "qq_37569355",
+    "nick_name": "小小洪人",
+    "user_id": 3793974,
+    "avatar": "https://cdn-img.gitcode.com/cc/be/c510c5381bea733c9cbb544f2aa04ffa394949a688bfa7df4d3b857c0d52a30b.png",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "asobczyk",
+    "nick_name": "asobczyk",
+    "user_id": 9123047,
+    "avatar": null,
+    "starred_repos": [
+      "cann/asc-devkit",
+      "cann/pto-isa"
+    ]
+  },
+  {
+    "user_name": "lzh5665661111",
+    "nick_name": "Artifact_lizhihuan",
+    "user_id": 2649966,
+    "avatar": "https://cdn-img.gitcode.com/ee/bc/7e897eb0c3cdb85f61fb962daf5d661b14be14e0b3e2e828e0d3e644c9502607.png?time=1768028958097",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "hujiawen_kaven",
+    "nick_name": "hujiawen_kaven",
+    "user_id": 6357493,
+    "avatar": null,
+    "starred_repos": [
+      "cann/asc-devkit",
+      "cann/graph-autofusion",
+      "cann/atvoss",
+      "cann/asc-tools",
+      "cann/atvc"
+    ]
+  },
+  {
+    "user_name": "yuaner1057",
+    "nick_name": "每天都要吃馒头",
+    "user_id": 6154908,
+    "avatar": "https://cdn-img.gitcode.com/bc/ce/7116bcc022701e20ba70dec8de6d813608081f4beaad44d3ce10683fefca0cdc.jpeg?time=1761621542222",
+    "starred_repos": [
+      "cann/asc-devkit",
+      "cann/catlass",
+      "cann/pto-isa",
+      "cann/pyasc"
+    ]
+  },
+  {
+    "user_name": "yhkz9211",
+    "nick_name": "yhkz9211",
+    "user_id": 6327504,
+    "avatar": null,
+    "starred_repos": [
+      "cann/asc-devkit",
+      "cann/pyasc",
+      "cann/asnumpy",
+      "cann/atvoss",
+      "cann/asc-tools",
+      "cann/atvc"
+    ]
+  },
+  {
+    "user_name": "JC1126",
+    "nick_name": "JC1126",
+    "user_id": 7752556,
+    "avatar": null,
+    "starred_repos": [
+      "cann/asc-devkit",
+      "cann/asc-tools"
+    ]
+  },
+  {
+    "user_name": "watermelon_milk",
+    "nick_name": "watermelon_milk",
+    "user_id": 7142404,
+    "avatar": null,
+    "starred_repos": [
+      "cann/asc-devkit",
+      "cann/pyasc",
+      "cann/atvoss",
+      "cann/asc-tools",
+      "cann/atvc"
+    ]
+  },
+  {
+    "user_name": "wang-zijiu",
+    "nick_name": "wang-zijiu",
+    "user_id": 6717571,
+    "avatar": null,
+    "starred_repos": [
+      "cann/asc-devkit",
+      "cann/asnumpy",
+      "cann/atvoss",
+      "cann/asc-tools",
+      "cann/atvc"
+    ]
+  },
+  {
+    "user_name": "ChenZhoujie",
+    "nick_name": "ChenZhoujie",
+    "user_id": 6327297,
+    "avatar": null,
+    "starred_repos": [
+      "cann/asc-devkit",
+      "cann/graph-autofusion",
+      "cann/asnumpy",
+      "cann/asc-tools"
+    ]
+  },
+  {
+    "user_name": "hbhdhd",
+    "nick_name": "Hyunbin",
+    "user_id": 1131887,
+    "avatar": "https://cdn-img.gitcode.com/ac/cf/4a7cc0fc55425ead9ef22cebd96f4eb7bafc3bee47248aa76ef16307da28c7a6.png",
+    "starred_repos": [
+      "cann/asc-devkit",
+      "cann/shmem"
+    ]
+  },
+  {
+    "user_name": "qin437231",
+    "nick_name": "qin437231",
+    "user_id": 5577386,
+    "avatar": null,
+    "starred_repos": [
+      "cann/asc-devkit",
+      "cann/cann-samples",
+      "cann/catlass",
+      "cann/pyasc",
+      "cann/asnumpy",
+      "cann/atvoss",
+      "cann/asc-tools",
+      "cann/atvc",
+      "cann/shmem"
+    ]
+  },
+  {
+    "user_name": "chenyiyuan",
+    "nick_name": "chenyiyuan",
+    "user_id": 6327157,
+    "avatar": null,
+    "starred_repos": [
+      "cann/asc-devkit",
+      "cann/pyasc",
+      "cann/atvoss",
+      "cann/asc-tools",
+      "cann/atvc"
+    ]
+  },
+  {
+    "user_name": "bianque",
+    "nick_name": "bianque",
+    "user_id": 6327611,
+    "avatar": null,
+    "starred_repos": [
+      "cann/asc-devkit",
+      "cann/pyasc",
+      "cann/asnumpy",
+      "cann/atvoss",
+      "cann/asc-tools",
+      "cann/atvc",
+      "cann/shmem"
+    ]
+  },
+  {
+    "user_name": "gcw_L4l69XLz",
+    "nick_name": "liang",
+    "user_id": 7821243,
+    "avatar": "",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "enihcam",
+    "nick_name": "enihcam",
+    "user_id": 7609579,
+    "avatar": null,
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "gcw_EgzARlfG",
+    "nick_name": "gcw_EgzARlfG",
+    "user_id": 11695946,
+    "avatar": "",
+    "starred_repos": [
+      "cann/opbase"
+    ]
+  },
+  {
+    "user_name": "Deng_Pan",
+    "nick_name": "Deng Pan",
+    "user_id": 9848438,
+    "avatar": "https://cdn-img.gitcode.com/aa/cc/a2452a20c6855cccdd96bebe68c35c96b513562dc5d7992ea75447656c745555.png?time=1780998596318",
+    "starred_repos": [
+      "cann/opbase",
+      "cann/cann-bench"
+    ]
+  },
+  {
+    "user_name": "qq_39803088",
+    "nick_name": "qq_39803088",
+    "user_id": 161783,
+    "avatar": "https://cdn-img.gitcode.com/db/af/dba08f3ec1353d91f1a5e5b7bdf2afa5b9b6e00f6fece7d27fde35c19497ff4f.png",
+    "starred_repos": [
+      "cann/opbase"
+    ]
+  },
+  {
+    "user_name": "AlexMudHorse",
+    "nick_name": "AlexMudHorse",
+    "user_id": 9174361,
+    "avatar": "https://cdn-img.gitcode.com/cb/dd/71c47b7d4628922dbd8fbf159bfecec12ed7194842d314c4e3b5aeb29ce7ff03.png?time=1766022832815",
+    "starred_repos": [
+      "cann/opbase",
+      "cann/runtime"
+    ]
+  },
+  {
+    "user_name": "zhangdongdong34",
+    "nick_name": "zhangdongdong34",
+    "user_id": 7484953,
+    "avatar": null,
+    "starred_repos": [
+      "cann/opbase"
+    ]
+  },
+  {
+    "user_name": "hexma",
+    "nick_name": "lknew",
+    "user_id": 2548265,
+    "avatar": null,
+    "starred_repos": [
+      "cann/opbase"
+    ]
+  },
+  {
+    "user_name": "changjied",
+    "nick_name": "一只小小加菲猫",
+    "user_id": 499520,
+    "avatar": "https://cdn-img.gitcode.com/ce/ca/23902c844eca9044f631467a8eb1e1c61e47cebf5e82fe679809cf31355bc3a0.png",
+    "starred_repos": [
+      "cann/opbase"
+    ]
+  },
+  {
+    "user_name": "gcw_HJPTFPKc",
+    "nick_name": "gcw_HJPTFPKc",
+    "user_id": 6608348,
+    "avatar": "",
+    "starred_repos": [
+      "cann/opbase"
     ]
   },
   {
@@ -53217,6 +53738,15 @@
     ]
   },
   {
+    "user_name": "gcw_XiXyWhZD",
+    "nick_name": "gcw_XiXyWhZD",
+    "user_id": 11952043,
+    "avatar": "",
+    "starred_repos": [
+      "cann/catlass"
+    ]
+  },
+  {
     "user_name": "li_wei21",
     "nick_name": "li_wei21",
     "user_id": 5579560,
@@ -55468,15 +55998,6 @@
     ]
   },
   {
-    "user_name": "wy_test",
-    "nick_name": "wy_32",
-    "user_id": 11122237,
-    "avatar": "https://cdn-img.gitcode.com/ff/da/ff18d26af732e02f25d40157b52e7226b3f4d8be46784b5f68fc64213a2ad802.jpg",
-    "starred_repos": [
-      "cann/torchtitan-npu"
-    ]
-  },
-  {
     "user_name": "lyx19981118",
     "nick_name": "wegreagrehgtrh",
     "user_id": 2983173,
@@ -56130,6 +56651,15 @@
     "avatar": "https://cdn-img.gitcode.com/ff/ae/ff39a1e04470ff337683099b9a94bc8ae2a16e19ad317225a26fe6b7b62ea11f.png",
     "starred_repos": [
       "cann/cann-recipes-train"
+    ]
+  },
+  {
+    "user_name": "gcw_pFVASvfJ",
+    "nick_name": "Felix",
+    "user_id": 11873838,
+    "avatar": "",
+    "starred_repos": [
+      "cann/hccl"
     ]
   },
   {
@@ -58469,6 +58999,15 @@
     ]
   },
   {
+    "user_name": "gcw_Exvum57y",
+    "nick_name": "gcw_Exvum57y",
+    "user_id": 11962201,
+    "avatar": "",
+    "starred_repos": [
+      "cann/driver"
+    ]
+  },
+  {
     "user_name": "huanghua1990127",
     "nick_name": "huanghua1990127",
     "user_id": 1120579,
@@ -59820,6 +60359,15 @@
     ]
   },
   {
+    "user_name": "hzy1754203003",
+    "nick_name": "hzy1754203003",
+    "user_id": 2736205,
+    "avatar": "https://cdn-img.gitcode.com/fc/bd/f512160cb6d2e9824107866d34b6957e4fcb90d0d825cc87379a3b0c91b656bd.png",
+    "starred_repos": [
+      "cann/cann-outreach"
+    ]
+  },
+  {
     "user_name": "Finlenco",
     "nick_name": "Finlenco",
     "user_id": 1803603,
@@ -59919,6 +60467,60 @@
     ]
   },
   {
+    "user_name": "pangshidong",
+    "nick_name": "pangshidong",
+    "user_id": 11497752,
+    "avatar": "",
+    "starred_repos": [
+      "cann/ops-blas"
+    ]
+  },
+  {
+    "user_name": "Twoliges",
+    "nick_name": "Riki",
+    "user_id": 2190955,
+    "avatar": "https://cdn-img.gitcode.com/ad/ff/5144adf5f33f0d6de2f558d55972398efa86f6183c2db18ce7caf69b0e23d588.png?time=1781077195297",
+    "starred_repos": [
+      "cann/ops-blas"
+    ]
+  },
+  {
+    "user_name": "Nin-zhihao",
+    "nick_name": "Nin-zhihao",
+    "user_id": 860465,
+    "avatar": "https://cdn-img.gitcode.com/ba/fe/3b10563a0496f11e3746afb361685a8166607fdfc24fb1085e1d7c25f77fc171.jpg",
+    "starred_repos": [
+      "cann/ops-blas"
+    ]
+  },
+  {
+    "user_name": "sushaGo",
+    "nick_name": "sushaGo",
+    "user_id": 9645314,
+    "avatar": null,
+    "starred_repos": [
+      "cann/ops-blas"
+    ]
+  },
+  {
+    "user_name": "gcw_nrO5EEDt",
+    "nick_name": "gcw_nrO5EEDt",
+    "user_id": 10754787,
+    "avatar": "",
+    "starred_repos": [
+      "cann/ops-blas"
+    ]
+  },
+  {
+    "user_name": "2302_77046878",
+    "nick_name": "早点睡",
+    "user_id": 214494,
+    "avatar": "https://cdn-img.gitcode.com/fc/da/3fc3835d5a287a6b293c8bcc47aeb854302e256d460becc9002bd9e8c9d25075.png?time=1773365724721",
+    "starred_repos": [
+      "cann/ops-blas"
+    ]
+  },
+  {
     "user_name": "HazySoulSaint",
     "nick_name": "HazySoulSaint",
     "user_id": 9342921,
@@ -60006,60 +60608,6 @@
     "avatar": null,
     "starred_repos": [
       "cann/ops-tensor"
-    ]
-  },
-  {
-    "user_name": "pangshidong",
-    "nick_name": "pangshidong",
-    "user_id": 11497752,
-    "avatar": "",
-    "starred_repos": [
-      "cann/ops-blas"
-    ]
-  },
-  {
-    "user_name": "Twoliges",
-    "nick_name": "Riki",
-    "user_id": 2190955,
-    "avatar": "https://cdn-img.gitcode.com/ad/ff/5144adf5f33f0d6de2f558d55972398efa86f6183c2db18ce7caf69b0e23d588.png?time=1781077195297",
-    "starred_repos": [
-      "cann/ops-blas"
-    ]
-  },
-  {
-    "user_name": "Nin-zhihao",
-    "nick_name": "Nin-zhihao",
-    "user_id": 860465,
-    "avatar": "https://cdn-img.gitcode.com/ba/fe/3b10563a0496f11e3746afb361685a8166607fdfc24fb1085e1d7c25f77fc171.jpg",
-    "starred_repos": [
-      "cann/ops-blas"
-    ]
-  },
-  {
-    "user_name": "sushaGo",
-    "nick_name": "sushaGo",
-    "user_id": 9645314,
-    "avatar": null,
-    "starred_repos": [
-      "cann/ops-blas"
-    ]
-  },
-  {
-    "user_name": "gcw_nrO5EEDt",
-    "nick_name": "gcw_nrO5EEDt",
-    "user_id": 10754787,
-    "avatar": "",
-    "starred_repos": [
-      "cann/ops-blas"
-    ]
-  },
-  {
-    "user_name": "2302_77046878",
-    "nick_name": "早点睡",
-    "user_id": 214494,
-    "avatar": "https://cdn-img.gitcode.com/fc/da/3fc3835d5a287a6b293c8bcc47aeb854302e256d460becc9002bd9e8c9d25075.png?time=1773365724721",
-    "starred_repos": [
-      "cann/ops-blas"
     ]
   },
   {
@@ -60303,6 +60851,15 @@
     "avatar": "https://cdn-img.gitcode.com/ea/bd/e0a300b853d6ebbc953744b664709b211c4d260f9a5c463ea8564df6f714a4b2.jpg",
     "starred_repos": [
       "cann/xla-npu"
+    ]
+  },
+  {
+    "user_name": "dongya",
+    "nick_name": "孑遗",
+    "user_id": 9189662,
+    "avatar": "https://cdn-img.gitcode.com/dd/fa/d6713df74a043fd679c58293294cec3b5aa6adedafc6da6f3592fd9727ff220d.jpg",
+    "starred_repos": [
+      "cann/ops-solver"
     ]
   },
   {
