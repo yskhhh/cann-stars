@@ -1,5 +1,78 @@
 [
   {
+    "user_name": "jianc59399",
+    "nick_name": "JianC",
+    "starred_repos": [
+      "cann/cannbot-skills"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "iuyi",
+    "nick_name": "iuyi",
+    "starred_repos": [
+      "cann/cannbot-skills",
+      "cann/ops-math",
+      "cann/ops-nn",
+      "cann/cann-learning-hub",
+      "cann/cann-samples",
+      "cann/cann-ops-competitions"
+    ],
+    "user_type": "contributor",
+    "fans_count": 0,
+    "original_repo_count": 1,
+    "total_contributions": 3
+  },
+  {
+    "user_name": "IceShip423",
+    "nick_name": "IceShip423",
+    "starred_repos": [
+      "cann/cannbot-skills",
+      "cann/asc-devkit"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 114
+  },
+  {
+    "user_name": "leonaltair",
+    "nick_name": "leonaltair",
+    "starred_repos": [
+      "cann/cannbot-skills",
+      "cann/ops-math",
+      "cann/ops-transformer",
+      "cann/ops-nn",
+      "cann/pypto",
+      "cann/ops-cv"
+    ],
+    "user_type": "star_enthusiast",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "2301_78862378",
+    "nick_name": "luotianhang",
+    "starred_repos": [
+      "cann/cannbot-skills",
+      "cann/ops-transformer",
+      "cann/ops-nn",
+      "cann/opbase",
+      "cann/cann-samples",
+      "cann/ops-blas",
+      "cann/ops-sparse",
+      "cann/ops-solver"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
     "user_name": "jameees",
     "nick_name": "jameees",
     "starred_repos": [
@@ -57,7 +130,8 @@
       "cann/cannbot-skills",
       "cann/ops-nn",
       "cann/cann-learning-hub",
-      "cann/cann-samples"
+      "cann/cann-samples",
+      "cann/shmem"
     ],
     "user_type": "contributor",
     "fans_count": 0,
@@ -194,8 +268,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/cann-learning-hub",
       "cann/ge",
@@ -203,8 +277,8 @@
       "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
-      "cann/runtime",
       "cann/cann-samples",
+      "cann/runtime",
       "cann/catlass",
       "cann/metadef",
       "cann/torchtitan-npu",
@@ -242,12 +316,12 @@
       "cann/ops-sparse",
       "cann/cmake",
       "cann/mat-chem-sim-pred",
+      "cann/ops-solver",
       "cann/xla-npu",
       "cann/tensorflow",
-      "cann/ops-solver",
       "cann/elec-ops-prediction",
-      "cann/elec-ops-inspection",
       "cann/ops-collections",
+      "cann/elec-ops-inspection",
       "cann/elec-ops-simulation",
       "cann/cann-spack-package",
       "cann/asnumpy-docs",
@@ -279,6 +353,7 @@
     "nick_name": "dragon2524",
     "starred_repos": [
       "cann/cannbot-skills",
+      "cann/ge",
       "cann/sip",
       "cann/elec-ops-prediction"
     ],
@@ -288,7 +363,7 @@
     "total_contributions": 0
   },
   {
-    "user_name": "weixin_60234659",
+    "user_name": "chenpeng2333",
     "nick_name": "小小鸟925",
     "starred_repos": [
       "cann/cannbot-skills"
@@ -296,7 +371,7 @@
     "user_type": "contributor",
     "fans_count": 0,
     "original_repo_count": 0,
-    "total_contributions": 13
+    "total_contributions": 12
   },
   {
     "user_name": "hanxiaolu_12138",
@@ -307,8 +382,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/cann-learning-hub",
       "cann/ge",
@@ -383,14 +458,14 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/cann-learning-hub",
       "cann/ge",
       "cann/opbase",
       "cann/graph-autofusion",
-      "cann/runtime",
       "cann/cann-samples",
+      "cann/runtime",
       "cann/catlass",
       "cann/metadef",
       "cann/torchtitan-npu",
@@ -475,8 +550,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/cann-learning-hub",
       "cann/ge",
@@ -484,8 +559,8 @@
       "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
-      "cann/runtime",
       "cann/cann-samples",
+      "cann/runtime",
       "cann/catlass",
       "cann/metadef",
       "cann/torchtitan-npu",
@@ -523,12 +598,12 @@
       "cann/ops-sparse",
       "cann/cmake",
       "cann/mat-chem-sim-pred",
+      "cann/ops-solver",
       "cann/xla-npu",
       "cann/tensorflow",
-      "cann/ops-solver",
       "cann/elec-ops-prediction",
-      "cann/elec-ops-inspection",
       "cann/ops-collections",
+      "cann/elec-ops-inspection",
       "cann/elec-ops-simulation",
       "cann/cann-spack-package",
       "cann/asnumpy-docs",
@@ -585,8 +660,8 @@
       "cann/asc-devkit",
       "cann/graph-autofusion",
       "cann/ops-cv",
-      "cann/runtime",
       "cann/cann-samples",
+      "cann/runtime",
       "cann/catlass",
       "cann/metadef",
       "cann/torchtitan-npu",
@@ -624,12 +699,12 @@
       "cann/ops-sparse",
       "cann/cmake",
       "cann/mat-chem-sim-pred",
+      "cann/ops-solver",
       "cann/xla-npu",
       "cann/tensorflow",
-      "cann/ops-solver",
       "cann/elec-ops-prediction",
-      "cann/elec-ops-inspection",
       "cann/ops-collections",
+      "cann/elec-ops-inspection",
       "cann/elec-ops-simulation",
       "cann/cann-spack-package",
       "cann/asnumpy-docs",
@@ -654,8 +729,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -724,8 +799,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -865,8 +940,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/cann-learning-hub",
       "cann/ge",
@@ -874,8 +949,8 @@
       "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
-      "cann/runtime",
       "cann/cann-samples",
+      "cann/runtime",
       "cann/catlass",
       "cann/metadef",
       "cann/torchtitan-npu",
@@ -913,12 +988,12 @@
       "cann/ops-sparse",
       "cann/cmake",
       "cann/mat-chem-sim-pred",
+      "cann/ops-solver",
       "cann/xla-npu",
       "cann/tensorflow",
-      "cann/ops-solver",
       "cann/elec-ops-prediction",
-      "cann/elec-ops-inspection",
       "cann/ops-collections",
+      "cann/elec-ops-inspection",
       "cann/elec-ops-simulation",
       "cann/cann-spack-package",
       "cann/asnumpy-docs",
@@ -943,8 +1018,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/cann-learning-hub",
       "cann/ge",
@@ -952,8 +1027,8 @@
       "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
-      "cann/runtime",
       "cann/cann-samples",
+      "cann/runtime",
       "cann/catlass",
       "cann/metadef",
       "cann/torchtitan-npu",
@@ -991,12 +1066,12 @@
       "cann/ops-sparse",
       "cann/cmake",
       "cann/mat-chem-sim-pred",
+      "cann/ops-solver",
       "cann/xla-npu",
       "cann/tensorflow",
-      "cann/ops-solver",
       "cann/elec-ops-prediction",
-      "cann/elec-ops-inspection",
       "cann/ops-collections",
+      "cann/elec-ops-inspection",
       "cann/elec-ops-simulation",
       "cann/cann-spack-package",
       "cann/asnumpy-docs",
@@ -1021,8 +1096,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/cann-learning-hub",
       "cann/ge",
@@ -1030,8 +1105,8 @@
       "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
-      "cann/runtime",
       "cann/cann-samples",
+      "cann/runtime",
       "cann/catlass",
       "cann/metadef",
       "cann/torchtitan-npu",
@@ -1069,12 +1144,12 @@
       "cann/ops-sparse",
       "cann/cmake",
       "cann/mat-chem-sim-pred",
+      "cann/ops-solver",
       "cann/xla-npu",
       "cann/tensorflow",
-      "cann/ops-solver",
       "cann/elec-ops-prediction",
-      "cann/elec-ops-inspection",
       "cann/ops-collections",
+      "cann/elec-ops-inspection",
       "cann/elec-ops-simulation",
       "cann/cann-spack-package",
       "cann/asnumpy-docs",
@@ -1094,7 +1169,72 @@
     "user_name": "hutusi1",
     "nick_name": "hutusi",
     "starred_repos": [
-      "cann/cannbot-skills"
+      "cann/cannbot-skills",
+      "cann/ops-math",
+      "cann/ops-transformer",
+      "cann/ops-nn",
+      "cann/cann-recipes-infer",
+      "cann/hixl",
+      "cann/community",
+      "cann/pypto",
+      "cann/cann-learning-hub",
+      "cann/ge",
+      "cann/asc-devkit",
+      "cann/opbase",
+      "cann/ops-cv",
+      "cann/cann-samples",
+      "cann/runtime",
+      "cann/catlass",
+      "cann/metadef",
+      "cann/torchtitan-npu",
+      "cann/cann-recipes-train",
+      "cann/hccl",
+      "cann/hcomm",
+      "cann/pto-isa",
+      "cann/ascend-transformer-boost",
+      "cann/asnumpy",
+      "cann/pyasc",
+      "cann/atvoss",
+      "cann/oam-tools",
+      "cann/amct",
+      "cann/driver",
+      "cann/cann-recipes-embodied-ai",
+      "cann/triton-inference-server-ge-backend",
+      "cann/sip",
+      "cann/asc-tools",
+      "cann/cann-recipes-harmony-infer",
+      "cann/cann-recipes-spatial-intelligence",
+      "cann/infrastructure",
+      "cann/atvc",
+      "cann/pypto-gym",
+      "cann/shmem",
+      "cann/release-management",
+      "cann/cann-ops-competitions",
+      "cann/ops-test-kit",
+      "cann/cann-bench",
+      "cann/ops-blas",
+      "cann/cann-outreach",
+      "cann/ops-tensor",
+      "cann/catccos",
+      "cann/cann-launch-camp",
+      "cann/ops-sparse",
+      "cann/cmake",
+      "cann/mat-chem-sim-pred",
+      "cann/ops-solver",
+      "cann/xla-npu",
+      "cann/tensorflow",
+      "cann/elec-ops-prediction",
+      "cann/ops-collections",
+      "cann/elec-ops-inspection",
+      "cann/elec-ops-simulation",
+      "cann/cann-spack-package",
+      "cann/asnumpy-docs",
+      "cann/.gitcode",
+      "cann/ops-rand",
+      "cann/ops-fft",
+      "cann/manifest",
+      "cann/ops-multimodal-fusion",
+      "cann/docs"
     ],
     "user_type": "die_hard_fan",
     "fans_count": 0,
@@ -1258,8 +1398,8 @@
       "cann/cann-learning-hub",
       "cann/ge",
       "cann/graph-autofusion",
-      "cann/runtime",
       "cann/cann-samples",
+      "cann/runtime",
       "cann/metadef",
       "cann/cann-recipes-train"
     ],
@@ -1367,7 +1507,7 @@
       "cann/cannbot-skills",
       "cann/hixl"
     ],
-    "user_type": "contributor",
+    "user_type": "developer",
     "fans_count": 6,
     "original_repo_count": 12,
     "total_contributions": 304
@@ -1491,8 +1631,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/cann-learning-hub",
       "cann/ge",
@@ -1500,8 +1640,8 @@
       "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
-      "cann/runtime",
       "cann/cann-samples",
+      "cann/runtime",
       "cann/catlass",
       "cann/metadef",
       "cann/torchtitan-npu",
@@ -1563,16 +1703,16 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/cann-learning-hub",
       "cann/asc-devkit",
       "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
-      "cann/runtime",
       "cann/cann-samples",
+      "cann/runtime",
       "cann/catlass",
       "cann/torchtitan-npu",
       "cann/cann-recipes-train",
@@ -1604,8 +1744,8 @@
       "cann/xla-npu",
       "cann/tensorflow",
       "cann/elec-ops-prediction",
-      "cann/elec-ops-inspection",
       "cann/ops-collections",
+      "cann/elec-ops-inspection",
       "cann/elec-ops-simulation",
       "cann/asnumpy-docs"
     ],
@@ -2331,8 +2471,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/cann-learning-hub",
       "cann/asc-devkit",
       "cann/opbase",
@@ -2599,6 +2739,7 @@
       "cann/community",
       "cann/opbase",
       "cann/ops-cv",
+      "cann/cann-samples",
       "cann/runtime",
       "cann/cann-bench"
     ],
@@ -2630,8 +2771,8 @@
       "cann/ops-math",
       "cann/ops-transformer",
       "cann/ops-nn",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/cann-learning-hub",
       "cann/ge",
@@ -2639,8 +2780,8 @@
       "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
-      "cann/runtime",
       "cann/cann-samples",
+      "cann/runtime",
       "cann/catlass",
       "cann/metadef",
       "cann/torchtitan-npu",
@@ -2678,12 +2819,12 @@
       "cann/ops-sparse",
       "cann/cmake",
       "cann/mat-chem-sim-pred",
+      "cann/ops-solver",
       "cann/xla-npu",
       "cann/tensorflow",
-      "cann/ops-solver",
       "cann/elec-ops-prediction",
-      "cann/elec-ops-inspection",
       "cann/ops-collections",
+      "cann/elec-ops-inspection",
       "cann/elec-ops-simulation",
       "cann/cann-spack-package",
       "cann/asnumpy-docs",
@@ -2831,8 +2972,8 @@
       "cann/cannbot-skills",
       "cann/ops-nn",
       "cann/asc-devkit",
-      "cann/runtime",
       "cann/cann-samples",
+      "cann/runtime",
       "cann/driver"
     ],
     "user_type": "contributor",
@@ -2913,8 +3054,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/cann-learning-hub",
       "cann/ge",
@@ -2922,8 +3063,8 @@
       "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
-      "cann/runtime",
       "cann/cann-samples",
+      "cann/runtime",
       "cann/catlass",
       "cann/metadef",
       "cann/torchtitan-npu",
@@ -2960,12 +3101,12 @@
       "cann/ops-sparse",
       "cann/cmake",
       "cann/mat-chem-sim-pred",
+      "cann/ops-solver",
       "cann/xla-npu",
       "cann/tensorflow",
-      "cann/ops-solver",
       "cann/elec-ops-prediction",
-      "cann/elec-ops-inspection",
       "cann/ops-collections",
+      "cann/elec-ops-inspection",
       "cann/elec-ops-simulation",
       "cann/cann-spack-package",
       "cann/asnumpy-docs",
@@ -3107,16 +3248,16 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/cann-learning-hub",
       "cann/asc-devkit",
       "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
-      "cann/runtime",
       "cann/cann-samples",
+      "cann/runtime",
       "cann/catlass",
       "cann/torchtitan-npu",
       "cann/cann-recipes-train",
@@ -3146,12 +3287,12 @@
       "cann/catccos",
       "cann/ops-sparse",
       "cann/mat-chem-sim-pred",
+      "cann/ops-solver",
       "cann/xla-npu",
       "cann/tensorflow",
-      "cann/ops-solver",
       "cann/elec-ops-prediction",
-      "cann/elec-ops-inspection",
       "cann/ops-collections",
+      "cann/elec-ops-inspection",
       "cann/elec-ops-simulation",
       "cann/asnumpy-docs",
       "cann/ops-rand",
@@ -3171,16 +3312,16 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/cann-learning-hub",
       "cann/asc-devkit",
       "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
-      "cann/runtime",
       "cann/cann-samples",
+      "cann/runtime",
       "cann/catlass",
       "cann/torchtitan-npu",
       "cann/cann-recipes-train",
@@ -3212,8 +3353,8 @@
       "cann/xla-npu",
       "cann/tensorflow",
       "cann/elec-ops-prediction",
-      "cann/elec-ops-inspection",
       "cann/ops-collections",
+      "cann/elec-ops-inspection",
       "cann/elec-ops-simulation",
       "cann/asnumpy-docs"
     ],
@@ -3254,8 +3395,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/cann-learning-hub",
       "cann/ge",
@@ -3263,8 +3404,8 @@
       "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
-      "cann/runtime",
       "cann/cann-samples",
+      "cann/runtime",
       "cann/catlass",
       "cann/metadef",
       "cann/torchtitan-npu",
@@ -3302,12 +3443,12 @@
       "cann/ops-sparse",
       "cann/cmake",
       "cann/mat-chem-sim-pred",
+      "cann/ops-solver",
       "cann/xla-npu",
       "cann/tensorflow",
-      "cann/ops-solver",
       "cann/elec-ops-prediction",
-      "cann/elec-ops-inspection",
       "cann/ops-collections",
+      "cann/elec-ops-inspection",
       "cann/elec-ops-simulation",
       "cann/cann-spack-package",
       "cann/asnumpy-docs",
@@ -3403,8 +3544,8 @@
       "cann/xla-npu",
       "cann/tensorflow",
       "cann/elec-ops-prediction",
-      "cann/elec-ops-inspection",
       "cann/ops-collections",
+      "cann/elec-ops-inspection",
       "cann/elec-ops-simulation"
     ],
     "user_type": "die_hard_fan",
@@ -3459,8 +3600,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/cann-learning-hub",
       "cann/ge",
@@ -3468,8 +3609,8 @@
       "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
-      "cann/runtime",
       "cann/cann-samples",
+      "cann/runtime",
       "cann/catlass",
       "cann/metadef",
       "cann/torchtitan-npu",
@@ -3507,12 +3648,12 @@
       "cann/ops-sparse",
       "cann/cmake",
       "cann/mat-chem-sim-pred",
+      "cann/ops-solver",
       "cann/xla-npu",
       "cann/tensorflow",
-      "cann/ops-solver",
       "cann/elec-ops-prediction",
-      "cann/elec-ops-inspection",
       "cann/ops-collections",
+      "cann/elec-ops-inspection",
       "cann/elec-ops-simulation",
       "cann/cann-spack-package",
       "cann/asnumpy-docs",
@@ -3559,8 +3700,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/asc-devkit",
       "cann/ops-cv",
@@ -3680,8 +3821,8 @@
     "nick_name": "user36330",
     "starred_repos": [
       "cann/cannbot-skills",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/cann-learning-hub",
       "cann/asc-devkit",
@@ -3723,8 +3864,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/cann-learning-hub",
       "cann/ge",
@@ -3732,8 +3873,8 @@
       "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
-      "cann/runtime",
       "cann/cann-samples",
+      "cann/runtime",
       "cann/catlass",
       "cann/metadef",
       "cann/torchtitan-npu",
@@ -3771,12 +3912,12 @@
       "cann/ops-sparse",
       "cann/cmake",
       "cann/mat-chem-sim-pred",
+      "cann/ops-solver",
       "cann/xla-npu",
       "cann/tensorflow",
-      "cann/ops-solver",
       "cann/elec-ops-prediction",
-      "cann/elec-ops-inspection",
       "cann/ops-collections",
+      "cann/elec-ops-inspection",
       "cann/elec-ops-simulation",
       "cann/cann-spack-package",
       "cann/asnumpy-docs",
@@ -4076,8 +4217,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/cann-learning-hub",
       "cann/ge",
@@ -4085,8 +4226,8 @@
       "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
-      "cann/runtime",
       "cann/cann-samples",
+      "cann/runtime",
       "cann/catlass",
       "cann/metadef",
       "cann/torchtitan-npu",
@@ -4123,12 +4264,12 @@
       "cann/ops-sparse",
       "cann/cmake",
       "cann/mat-chem-sim-pred",
+      "cann/ops-solver",
       "cann/xla-npu",
       "cann/tensorflow",
-      "cann/ops-solver",
       "cann/elec-ops-prediction",
-      "cann/elec-ops-inspection",
       "cann/ops-collections",
+      "cann/elec-ops-inspection",
       "cann/elec-ops-simulation",
       "cann/cann-spack-package",
       "cann/asnumpy-docs",
@@ -4167,8 +4308,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/cann-learning-hub",
       "cann/ge",
@@ -4527,8 +4668,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/cann-learning-hub",
       "cann/ge",
@@ -4536,8 +4677,8 @@
       "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
-      "cann/runtime",
       "cann/cann-samples",
+      "cann/runtime",
       "cann/catlass",
       "cann/metadef",
       "cann/torchtitan-npu",
@@ -4574,12 +4715,12 @@
       "cann/ops-sparse",
       "cann/cmake",
       "cann/mat-chem-sim-pred",
+      "cann/ops-solver",
       "cann/xla-npu",
       "cann/tensorflow",
-      "cann/ops-solver",
       "cann/elec-ops-prediction",
-      "cann/elec-ops-inspection",
       "cann/ops-collections",
+      "cann/elec-ops-inspection",
       "cann/elec-ops-simulation",
       "cann/cann-spack-package",
       "cann/asnumpy-docs",
@@ -4603,8 +4744,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/cann-learning-hub",
       "cann/ge",
@@ -4612,8 +4753,8 @@
       "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
-      "cann/runtime",
       "cann/cann-samples",
+      "cann/runtime",
       "cann/catlass",
       "cann/metadef",
       "cann/torchtitan-npu",
@@ -4650,12 +4791,12 @@
       "cann/ops-sparse",
       "cann/cmake",
       "cann/mat-chem-sim-pred",
+      "cann/ops-solver",
       "cann/xla-npu",
       "cann/tensorflow",
-      "cann/ops-solver",
       "cann/elec-ops-prediction",
-      "cann/elec-ops-inspection",
       "cann/ops-collections",
+      "cann/elec-ops-inspection",
       "cann/elec-ops-simulation",
       "cann/cann-spack-package",
       "cann/asnumpy-docs",
@@ -4679,8 +4820,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/cann-learning-hub",
       "cann/ge",
@@ -4688,8 +4829,8 @@
       "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
-      "cann/runtime",
       "cann/cann-samples",
+      "cann/runtime",
       "cann/catlass",
       "cann/metadef",
       "cann/torchtitan-npu",
@@ -4727,12 +4868,12 @@
       "cann/ops-sparse",
       "cann/cmake",
       "cann/mat-chem-sim-pred",
+      "cann/ops-solver",
       "cann/xla-npu",
       "cann/tensorflow",
-      "cann/ops-solver",
       "cann/elec-ops-prediction",
-      "cann/elec-ops-inspection",
       "cann/ops-collections",
+      "cann/elec-ops-inspection",
       "cann/elec-ops-simulation",
       "cann/cann-spack-package",
       "cann/asnumpy-docs",
@@ -5131,8 +5272,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -5236,16 +5377,16 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/cann-learning-hub",
       "cann/ge",
       "cann/asc-devkit",
       "cann/opbase",
       "cann/ops-cv",
-      "cann/runtime",
       "cann/cann-samples",
+      "cann/runtime",
       "cann/catlass",
       "cann/metadef",
       "cann/cann-recipes-train",
@@ -5279,11 +5420,11 @@
       "cann/ops-sparse",
       "cann/cmake",
       "cann/mat-chem-sim-pred",
-      "cann/tensorflow",
       "cann/ops-solver",
+      "cann/tensorflow",
       "cann/elec-ops-prediction",
-      "cann/elec-ops-inspection",
       "cann/ops-collections",
+      "cann/elec-ops-inspection",
       "cann/cann-spack-package",
       "cann/ops-rand",
       "cann/ops-fft",
@@ -5343,16 +5484,16 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/cann-learning-hub",
       "cann/ge",
       "cann/asc-devkit",
       "cann/graph-autofusion",
       "cann/ops-cv",
-      "cann/runtime",
       "cann/cann-samples",
+      "cann/runtime",
       "cann/catlass",
       "cann/metadef",
       "cann/torchtitan-npu",
@@ -5388,12 +5529,12 @@
       "cann/ops-sparse",
       "cann/cmake",
       "cann/mat-chem-sim-pred",
+      "cann/ops-solver",
       "cann/xla-npu",
       "cann/tensorflow",
-      "cann/ops-solver",
       "cann/elec-ops-prediction",
-      "cann/elec-ops-inspection",
       "cann/ops-collections",
+      "cann/elec-ops-inspection",
       "cann/elec-ops-simulation",
       "cann/cann-spack-package",
       "cann/asnumpy-docs",
@@ -5449,6 +5590,7 @@
       "cann/ops-cv",
       "cann/runtime",
       "cann/catlass",
+      "cann/metadef",
       "cann/pto-isa",
       "cann/oam-tools",
       "cann/amct",
@@ -5481,8 +5623,8 @@
       "cann/cannbot-skills",
       "cann/ops-math",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/ge",
       "cann/opbase",
       "cann/metadef",
@@ -5578,8 +5720,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/cann-learning-hub",
       "cann/ge",
@@ -5623,12 +5765,12 @@
       "cann/ops-sparse",
       "cann/cmake",
       "cann/mat-chem-sim-pred",
+      "cann/ops-solver",
       "cann/xla-npu",
       "cann/tensorflow",
-      "cann/ops-solver",
       "cann/elec-ops-prediction",
-      "cann/elec-ops-inspection",
       "cann/ops-collections",
+      "cann/elec-ops-inspection",
       "cann/elec-ops-simulation",
       "cann/cann-spack-package",
       "cann/asnumpy-docs",
@@ -5775,8 +5917,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/cann-learning-hub",
       "cann/ge",
@@ -5784,8 +5926,8 @@
       "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
-      "cann/runtime",
       "cann/cann-samples",
+      "cann/runtime",
       "cann/catlass",
       "cann/metadef",
       "cann/torchtitan-npu",
@@ -5823,12 +5965,12 @@
       "cann/ops-sparse",
       "cann/cmake",
       "cann/mat-chem-sim-pred",
+      "cann/ops-solver",
       "cann/xla-npu",
       "cann/tensorflow",
-      "cann/ops-solver",
       "cann/elec-ops-prediction",
-      "cann/elec-ops-inspection",
       "cann/ops-collections",
+      "cann/elec-ops-inspection",
       "cann/elec-ops-simulation",
       "cann/cann-spack-package",
       "cann/asnumpy-docs",
@@ -5865,8 +6007,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/cann-learning-hub",
       "cann/ge",
@@ -5874,8 +6016,8 @@
       "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
-      "cann/runtime",
       "cann/cann-samples",
+      "cann/runtime",
       "cann/catlass",
       "cann/metadef",
       "cann/torchtitan-npu",
@@ -5911,9 +6053,9 @@
       "cann/ops-sparse",
       "cann/cmake",
       "cann/mat-chem-sim-pred",
+      "cann/ops-solver",
       "cann/xla-npu",
       "cann/tensorflow",
-      "cann/ops-solver",
       "cann/elec-ops-prediction",
       "cann/ops-collections",
       "cann/elec-ops-simulation",
@@ -5935,8 +6077,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/cann-learning-hub",
       "cann/ge",
@@ -5944,8 +6086,8 @@
       "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
-      "cann/runtime",
       "cann/cann-samples",
+      "cann/runtime",
       "cann/catlass",
       "cann/metadef",
       "cann/torchtitan-npu",
@@ -5975,8 +6117,8 @@
       "cann/catccos",
       "cann/cmake",
       "cann/mat-chem-sim-pred",
-      "cann/tensorflow",
       "cann/ops-solver",
+      "cann/tensorflow",
       "cann/ops-collections",
       "cann/cann-spack-package",
       "cann/.gitcode"
@@ -5995,8 +6137,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/cann-learning-hub",
       "cann/ge",
@@ -6124,8 +6266,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/cann-learning-hub",
       "cann/ge",
@@ -6133,8 +6275,8 @@
       "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
-      "cann/runtime",
       "cann/cann-samples",
+      "cann/runtime",
       "cann/catlass",
       "cann/metadef",
       "cann/torchtitan-npu",
@@ -6171,12 +6313,12 @@
       "cann/ops-sparse",
       "cann/cmake",
       "cann/mat-chem-sim-pred",
+      "cann/ops-solver",
       "cann/xla-npu",
       "cann/tensorflow",
-      "cann/ops-solver",
       "cann/elec-ops-prediction",
-      "cann/elec-ops-inspection",
       "cann/ops-collections",
+      "cann/elec-ops-inspection",
       "cann/elec-ops-simulation",
       "cann/cann-spack-package",
       "cann/asnumpy-docs",
@@ -6211,8 +6353,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/cann-learning-hub",
       "cann/ge",
@@ -6220,8 +6362,8 @@
       "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
-      "cann/runtime",
       "cann/cann-samples",
+      "cann/runtime",
       "cann/catlass",
       "cann/metadef",
       "cann/torchtitan-npu",
@@ -6258,12 +6400,12 @@
       "cann/ops-sparse",
       "cann/cmake",
       "cann/mat-chem-sim-pred",
+      "cann/ops-solver",
       "cann/xla-npu",
       "cann/tensorflow",
-      "cann/ops-solver",
       "cann/elec-ops-prediction",
-      "cann/elec-ops-inspection",
       "cann/ops-collections",
+      "cann/elec-ops-inspection",
       "cann/elec-ops-simulation",
       "cann/cann-spack-package",
       "cann/asnumpy-docs",
@@ -6369,8 +6511,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/cann-learning-hub",
       "cann/ge",
@@ -6869,8 +7011,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/cann-learning-hub",
       "cann/ge",
@@ -6878,8 +7020,8 @@
       "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
-      "cann/runtime",
       "cann/cann-samples",
+      "cann/runtime",
       "cann/catlass",
       "cann/metadef",
       "cann/torchtitan-npu",
@@ -6913,12 +7055,12 @@
       "cann/catccos",
       "cann/ops-sparse",
       "cann/mat-chem-sim-pred",
+      "cann/ops-solver",
       "cann/xla-npu",
       "cann/tensorflow",
-      "cann/ops-solver",
       "cann/elec-ops-prediction",
-      "cann/elec-ops-inspection",
       "cann/ops-collections",
+      "cann/elec-ops-inspection",
       "cann/elec-ops-simulation",
       "cann/cann-spack-package",
       "cann/asnumpy-docs",
@@ -6941,8 +7083,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/cann-learning-hub",
       "cann/ge",
@@ -6950,8 +7092,8 @@
       "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
-      "cann/runtime",
       "cann/cann-samples",
+      "cann/runtime",
       "cann/catlass",
       "cann/metadef",
       "cann/torchtitan-npu",
@@ -6985,11 +7127,11 @@
       "cann/catccos",
       "cann/ops-sparse",
       "cann/cmake",
-      "cann/xla-npu",
       "cann/ops-solver",
+      "cann/xla-npu",
       "cann/elec-ops-prediction",
-      "cann/elec-ops-inspection",
       "cann/ops-collections",
+      "cann/elec-ops-inspection",
       "cann/elec-ops-simulation",
       "cann/cann-spack-package",
       "cann/asnumpy-docs",
@@ -7549,7 +7691,7 @@
       "cann/pypto",
       "cann/pypto-gym"
     ],
-    "user_type": "contributor",
+    "user_type": "developer",
     "fans_count": 0,
     "original_repo_count": 0,
     "total_contributions": 58
@@ -8840,7 +8982,7 @@
     "starred_repos": [
       "cann/cannbot-skills"
     ],
-    "user_type": "contributor",
+    "user_type": "questioner",
     "fans_count": 0,
     "original_repo_count": 0,
     "total_contributions": 2
@@ -9941,8 +10083,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/cann-learning-hub",
       "cann/ge",
@@ -9950,8 +10092,8 @@
       "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
-      "cann/runtime",
       "cann/cann-samples",
+      "cann/runtime",
       "cann/catlass",
       "cann/metadef",
       "cann/cann-recipes-train",
@@ -11334,8 +11476,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -11376,6 +11518,7 @@
     "nick_name": "zhangyiyi",
     "starred_repos": [
       "cann/cannbot-skills",
+      "cann/ops-math",
       "cann/ops-transformer",
       "cann/cann-recipes-infer",
       "cann/pypto",
@@ -11397,8 +11540,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/opbase",
       "cann/ops-cv",
       "cann/catlass",
@@ -11417,7 +11560,8 @@
     "nick_name": "niezhifei",
     "starred_repos": [
       "cann/cannbot-skills",
-      "cann/ops-transformer"
+      "cann/ops-transformer",
+      "cann/cann-samples"
     ],
     "user_type": "contributor",
     "fans_count": 0,
@@ -11453,7 +11597,8 @@
     "nick_name": "junyu_lu",
     "starred_repos": [
       "cann/cannbot-skills",
-      "cann/ops-transformer"
+      "cann/ops-transformer",
+      "cann/cann-samples"
     ],
     "user_type": "contributor",
     "fans_count": 0,
@@ -11501,7 +11646,8 @@
     "nick_name": "wangchenfeng6",
     "starred_repos": [
       "cann/cannbot-skills",
-      "cann/ops-transformer"
+      "cann/ops-transformer",
+      "cann/cann-samples"
     ],
     "user_type": "contributor",
     "fans_count": 0,
@@ -12400,8 +12546,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/cann-learning-hub",
       "cann/ge",
@@ -12409,8 +12555,8 @@
       "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
-      "cann/runtime",
       "cann/cann-samples",
+      "cann/runtime",
       "cann/catlass",
       "cann/metadef",
       "cann/cann-recipes-train",
@@ -12499,8 +12645,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -12913,8 +13059,8 @@
     "starred_repos": [
       "cann/cannbot-skills",
       "cann/ops-math",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/ge",
       "cann/opbase",
       "cann/cann-samples"
@@ -13132,8 +13278,8 @@
       "cann/ops-math",
       "cann/ops-transformer",
       "cann/ops-nn",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/ge",
       "cann/opbase",
       "cann/ops-cv"
@@ -13212,8 +13358,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -13277,7 +13423,8 @@
     "user_name": "yangzeheng",
     "nick_name": "yangzeheng",
     "starred_repos": [
-      "cann/cannbot-skills"
+      "cann/cannbot-skills",
+      "cann/cann-samples"
     ],
     "user_type": "contributor",
     "fans_count": 0,
@@ -13915,8 +14062,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -14023,8 +14170,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -14092,8 +14239,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/cann-learning-hub",
       "cann/ge",
@@ -14101,8 +14248,8 @@
       "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
-      "cann/runtime",
       "cann/cann-samples",
+      "cann/runtime",
       "cann/catlass",
       "cann/metadef",
       "cann/cann-recipes-train",
@@ -14160,8 +14307,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/opbase",
@@ -14209,8 +14356,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -14415,8 +14562,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -14463,8 +14610,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -14512,8 +14659,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -14572,8 +14719,8 @@
       "cann/ops-transformer",
       "cann/cann-recipes-infer",
       "cann/pypto",
-      "cann/runtime",
       "cann/cann-samples",
+      "cann/runtime",
       "cann/pypto-gym"
     ],
     "user_type": "contributor",
@@ -14644,8 +14791,8 @@
     "starred_repos": [
       "cann/cannbot-skills",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/torchtitan-npu",
       "cann/cann-recipes-train",
       "cann/cann-recipes-embodied-ai",
@@ -14665,8 +14812,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -14736,8 +14883,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/ge",
       "cann/opbase",
       "cann/ops-cv",
@@ -14758,8 +14905,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -14880,16 +15027,16 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
       "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
-      "cann/runtime",
       "cann/cann-samples",
+      "cann/runtime",
       "cann/catlass",
       "cann/metadef",
       "cann/cann-recipes-train",
@@ -14940,8 +15087,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -15045,8 +15192,8 @@
       "cann/cannbot-skills",
       "cann/hixl",
       "cann/ge",
-      "cann/runtime",
       "cann/cann-samples",
+      "cann/runtime",
       "cann/metadef",
       "cann/torchtitan-npu",
       "cann/driver"
@@ -15169,8 +15316,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -15229,7 +15376,8 @@
     "nick_name": "kq-ye",
     "starred_repos": [
       "cann/cannbot-skills",
-      "cann/cann-recipes-infer"
+      "cann/cann-recipes-infer",
+      "cann/catlass"
     ],
     "user_type": "developer",
     "fans_count": 0,
@@ -15383,6 +15531,7 @@
       "cann/cannbot-skills",
       "cann/ops-math",
       "cann/ops-transformer",
+      "cann/ops-nn",
       "cann/cann-recipes-infer",
       "cann/community",
       "cann/cann-learning-hub",
@@ -15485,8 +15634,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -15720,8 +15869,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -15840,8 +15989,8 @@
     "starred_repos": [
       "cann/cannbot-skills",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/ge",
       "cann/asc-devkit",
       "cann/graph-autofusion",
@@ -15863,7 +16012,8 @@
     "user_name": "skykone1",
     "nick_name": "hw_dingfei",
     "starred_repos": [
-      "cann/cannbot-skills"
+      "cann/cannbot-skills",
+      "cann/cann-samples"
     ],
     "user_type": "contributor",
     "fans_count": 1,
@@ -15903,8 +16053,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/opbase",
@@ -16130,8 +16280,8 @@
     "starred_repos": [
       "cann/cannbot-skills",
       "cann/graph-autofusion",
-      "cann/runtime",
-      "cann/cann-samples"
+      "cann/cann-samples",
+      "cann/runtime"
     ],
     "user_type": "questioner",
     "fans_count": 0,
@@ -16186,8 +16336,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/cann-recipes-train",
       "cann/ascend-transformer-boost",
       "cann/cann-recipes-embodied-ai",
@@ -16322,8 +16472,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/cann-learning-hub",
       "cann/ge",
@@ -16331,8 +16481,8 @@
       "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
-      "cann/runtime",
       "cann/cann-samples",
+      "cann/runtime",
       "cann/catlass",
       "cann/metadef",
       "cann/torchtitan-npu",
@@ -16366,12 +16516,12 @@
       "cann/ops-sparse",
       "cann/cmake",
       "cann/mat-chem-sim-pred",
+      "cann/ops-solver",
       "cann/xla-npu",
       "cann/tensorflow",
-      "cann/ops-solver",
       "cann/elec-ops-prediction",
-      "cann/elec-ops-inspection",
       "cann/ops-collections",
+      "cann/elec-ops-inspection",
       "cann/elec-ops-simulation",
       "cann/cann-spack-package",
       "cann/.gitcode",
@@ -17187,10 +17337,14 @@
       "cann/ops-math",
       "cann/ops-transformer",
       "cann/ops-nn",
+      "cann/cann-recipes-infer",
       "cann/pypto",
       "cann/cann-learning-hub",
+      "cann/asc-devkit",
       "cann/ops-cv",
-      "cann/cann-samples"
+      "cann/cann-samples",
+      "cann/hcomm",
+      "cann/pto-isa"
     ],
     "user_type": "star_enthusiast",
     "fans_count": 0,
@@ -17267,8 +17421,8 @@
       "cann/cannbot-skills",
       "cann/ops-math",
       "cann/ops-nn",
-      "cann/runtime",
-      "cann/cann-samples"
+      "cann/cann-samples",
+      "cann/runtime"
     ],
     "user_type": "contributor",
     "fans_count": 0,
@@ -17410,7 +17564,8 @@
     "nick_name": "zhangyuhan_gitcode",
     "starred_repos": [
       "cann/cannbot-skills",
-      "cann/ops-transformer"
+      "cann/ops-transformer",
+      "cann/cann-samples"
     ],
     "user_type": "contributor",
     "fans_count": 0,
@@ -17585,8 +17740,8 @@
       "cann/ops-math",
       "cann/ops-transformer",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/opbase",
       "cann/cann-samples"
     ],
@@ -17620,8 +17775,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -17665,8 +17820,8 @@
       "cann/community",
       "cann/asc-devkit",
       "cann/opbase",
-      "cann/runtime",
       "cann/cann-samples",
+      "cann/runtime",
       "cann/catlass"
     ],
     "user_type": "contributor",
@@ -18038,8 +18193,8 @@
     "starred_repos": [
       "cann/cannbot-skills",
       "cann/ops-math",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/opbase"
     ],
     "user_type": "star_enthusiast",
@@ -18067,11 +18222,11 @@
     "starred_repos": [
       "cann/cannbot-skills",
       "cann/ops-math",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/opbase",
-      "cann/runtime",
-      "cann/cann-samples"
+      "cann/cann-samples",
+      "cann/runtime"
     ],
     "user_type": "questioner",
     "fans_count": 0,
@@ -18095,7 +18250,8 @@
     "nick_name": "李政君",
     "starred_repos": [
       "cann/cannbot-skills",
-      "cann/community"
+      "cann/community",
+      "cann/cann-samples"
     ],
     "user_type": "contributor",
     "fans_count": 0,
@@ -18379,8 +18535,8 @@
     "starred_repos": [
       "cann/cannbot-skills",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/cann-learning-hub",
       "cann/ge",
       "cann/graph-autofusion",
@@ -18453,8 +18609,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -18498,8 +18654,8 @@
     "starred_repos": [
       "cann/cannbot-skills",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/cann-learning-hub",
       "cann/ge",
       "cann/asc-devkit",
@@ -18540,7 +18696,8 @@
     "nick_name": "chenglongyu",
     "starred_repos": [
       "cann/cannbot-skills",
-      "cann/ops-transformer"
+      "cann/ops-transformer",
+      "cann/cann-samples"
     ],
     "user_type": "contributor",
     "fans_count": 0,
@@ -18672,8 +18829,8 @@
       "cann/ops-math",
       "cann/ops-transformer",
       "cann/ops-nn",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -18731,8 +18888,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/ge",
       "cann/asc-devkit",
       "cann/opbase",
@@ -18917,8 +19074,8 @@
       "cann/ge",
       "cann/graph-autofusion",
       "cann/ops-cv",
-      "cann/runtime",
       "cann/cann-samples",
+      "cann/runtime",
       "cann/catlass",
       "cann/cann-recipes-train"
     ],
@@ -18991,8 +19148,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -19172,8 +19329,8 @@
       "cann/ops-math",
       "cann/ops-transformer",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/opbase",
       "cann/graph-autofusion",
@@ -19234,8 +19391,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -19313,8 +19470,8 @@
       "cann/cannbot-skills",
       "cann/ops-math",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -19355,8 +19512,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
@@ -19392,8 +19549,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -19463,7 +19620,8 @@
     "starred_repos": [
       "cann/cannbot-skills",
       "cann/ops-transformer",
-      "cann/pypto"
+      "cann/pypto",
+      "cann/cann-samples"
     ],
     "user_type": "contributor",
     "fans_count": 0,
@@ -19487,8 +19645,8 @@
     "starred_repos": [
       "cann/cannbot-skills",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/ge",
       "cann/graph-autofusion",
       "cann/metadef",
@@ -19510,8 +19668,8 @@
       "cann/ops-math",
       "cann/ops-transformer",
       "cann/ops-nn",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/ge",
       "cann/asc-devkit",
       "cann/opbase",
@@ -19645,8 +19803,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/cann-learning-hub",
       "cann/ge",
@@ -19706,7 +19864,8 @@
     "nick_name": "Wchun.",
     "starred_repos": [
       "cann/cannbot-skills",
-      "cann/ops-transformer"
+      "cann/ops-transformer",
+      "cann/cann-samples"
     ],
     "user_type": "contributor",
     "fans_count": 0,
@@ -19904,8 +20063,8 @@
       "cann/ops-nn",
       "cann/opbase",
       "cann/ops-cv",
-      "cann/runtime",
       "cann/cann-samples",
+      "cann/runtime",
       "cann/atvoss"
     ],
     "user_type": "contributor",
@@ -20298,16 +20457,16 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
       "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
-      "cann/runtime",
       "cann/cann-samples",
+      "cann/runtime",
       "cann/catlass",
       "cann/metadef",
       "cann/cann-recipes-train",
@@ -20363,6 +20522,7 @@
       "cann/ops-transformer",
       "cann/pypto",
       "cann/ops-cv",
+      "cann/cann-samples",
       "cann/ops-blas"
     ],
     "user_type": "contributor",
@@ -21362,7 +21522,8 @@
     "nick_name": "sunzhiang",
     "starred_repos": [
       "cann/ops-math",
-      "cann/opbase"
+      "cann/opbase",
+      "cann/cann-samples"
     ],
     "user_type": "star_enthusiast",
     "fans_count": 0,
@@ -21553,8 +21714,8 @@
       "cann/asc-devkit",
       "cann/graph-autofusion",
       "cann/ops-cv",
-      "cann/runtime",
       "cann/cann-samples",
+      "cann/runtime",
       "cann/catlass",
       "cann/metadef",
       "cann/hccl",
@@ -21867,8 +22028,8 @@
       "cann/asc-devkit",
       "cann/graph-autofusion",
       "cann/ops-cv",
-      "cann/runtime",
       "cann/cann-samples",
+      "cann/runtime",
       "cann/hccl",
       "cann/hcomm",
       "cann/ops-blas",
@@ -21887,8 +22048,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -22393,8 +22554,8 @@
     "nick_name": "zhangzidong",
     "starred_repos": [
       "cann/ops-math",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/opbase",
       "cann/shmem"
     ],
@@ -22402,18 +22563,6 @@
     "fans_count": 0,
     "original_repo_count": 0,
     "total_contributions": 5
-  },
-  {
-    "user_name": "leonaltair",
-    "nick_name": "leonaltair",
-    "starred_repos": [
-      "cann/ops-math",
-      "cann/ops-nn"
-    ],
-    "user_type": "star_enthusiast",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
   },
   {
     "user_name": "donaldsebleung",
@@ -22589,21 +22738,6 @@
     "fans_count": 0,
     "original_repo_count": 2,
     "total_contributions": 15
-  },
-  {
-    "user_name": "iuyi",
-    "nick_name": "iuyi",
-    "starred_repos": [
-      "cann/ops-math",
-      "cann/ops-nn",
-      "cann/cann-learning-hub",
-      "cann/cann-samples",
-      "cann/cann-ops-competitions"
-    ],
-    "user_type": "developer",
-    "fans_count": 0,
-    "original_repo_count": 1,
-    "total_contributions": 3
   },
   {
     "user_name": "gcw_mJtIrnnZ",
@@ -23246,18 +23380,18 @@
     "total_contributions": 51
   },
   {
-    "user_name": "wenxue_888",
-    "nick_name": "雪糕🍨",
+    "user_name": "wangbb13",
+    "nick_name": "wangbb13",
     "starred_repos": [
       "cann/ops-math",
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-samples"
     ],
-    "user_type": "star_enthusiast",
+    "user_type": "contributor",
     "fans_count": 0,
     "original_repo_count": 0,
-    "total_contributions": 0
+    "total_contributions": 13
   },
   {
     "user_name": "Carolina_yuan",
@@ -23333,8 +23467,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -23423,8 +23557,8 @@
       "cann/ops-math",
       "cann/ops-transformer",
       "cann/ops-nn",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -23489,8 +23623,8 @@
       "cann/ge",
       "cann/graph-autofusion",
       "cann/ops-cv",
-      "cann/runtime",
       "cann/cann-samples",
+      "cann/runtime",
       "cann/metadef",
       "cann/cann-recipes-train",
       "cann/driver",
@@ -23744,8 +23878,8 @@
       "cann/ops-nn",
       "cann/ge",
       "cann/ops-cv",
-      "cann/runtime",
       "cann/cann-samples",
+      "cann/runtime",
       "cann/metadef"
     ],
     "user_type": "contributor",
@@ -24004,8 +24138,8 @@
       "cann/ops-math",
       "cann/ops-transformer",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -24113,8 +24247,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -24160,8 +24294,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/cann-learning-hub",
       "cann/ge",
@@ -24208,8 +24342,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -24255,8 +24389,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -24300,8 +24434,8 @@
       "cann/ops-math",
       "cann/ops-transformer",
       "cann/ops-nn",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -24346,8 +24480,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -24394,8 +24528,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -24441,8 +24575,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -24489,8 +24623,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -24535,8 +24669,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -24582,8 +24716,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -24627,8 +24761,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -24703,8 +24837,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -24770,8 +24904,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -24816,8 +24950,8 @@
     "starred_repos": [
       "cann/ops-math",
       "cann/ops-nn",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/asc-devkit",
       "cann/opbase",
@@ -24857,8 +24991,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -24904,8 +25038,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/cann-learning-hub",
       "cann/ge",
@@ -24951,8 +25085,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -25048,8 +25182,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -25094,8 +25228,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -25138,8 +25272,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -25185,8 +25319,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -25275,8 +25409,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -25322,8 +25456,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -25369,8 +25503,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -25416,8 +25550,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -25463,8 +25597,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -25509,8 +25643,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -25556,8 +25690,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -25602,8 +25736,8 @@
     "starred_repos": [
       "cann/ops-math",
       "cann/ops-transformer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -25649,8 +25783,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -25696,8 +25830,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -25743,8 +25877,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -25789,8 +25923,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -25836,8 +25970,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -25883,8 +26017,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -25930,8 +26064,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -25969,8 +26103,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -26017,8 +26151,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -26064,8 +26198,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -26111,8 +26245,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -26158,8 +26292,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -26203,8 +26337,8 @@
       "cann/ops-math",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -26277,8 +26411,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/opbase",
@@ -26322,8 +26456,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -26367,8 +26501,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -26484,8 +26618,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -26566,8 +26700,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -26613,8 +26747,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -26659,8 +26793,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -26707,8 +26841,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -26754,8 +26888,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -26801,8 +26935,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -26850,8 +26984,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -26898,8 +27032,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -26945,8 +27079,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -26990,8 +27124,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -27067,8 +27201,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -27115,8 +27249,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -27163,8 +27297,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/ge",
       "cann/asc-devkit",
       "cann/opbase",
@@ -27210,8 +27344,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/ge",
       "cann/asc-devkit",
       "cann/opbase",
@@ -27255,8 +27389,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/asc-devkit",
       "cann/opbase",
@@ -27296,8 +27430,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/ge",
       "cann/asc-devkit",
       "cann/opbase",
@@ -27343,8 +27477,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/ge",
       "cann/asc-devkit",
       "cann/opbase",
@@ -27389,8 +27523,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -27436,8 +27570,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -27482,8 +27616,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -27528,8 +27662,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/ge",
       "cann/asc-devkit",
       "cann/opbase",
@@ -27574,8 +27708,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -27620,8 +27754,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -27668,8 +27802,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/opbase",
@@ -27714,8 +27848,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -27761,8 +27895,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -27808,8 +27942,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -27854,8 +27988,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -27901,8 +28035,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -27947,8 +28081,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -27994,8 +28128,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -28039,8 +28173,8 @@
       "cann/ops-math",
       "cann/ops-transformer",
       "cann/ops-nn",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -28072,8 +28206,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -28118,8 +28252,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -28164,8 +28298,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -28263,8 +28397,8 @@
       "cann/ops-math",
       "cann/ops-transformer",
       "cann/ops-nn",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -28354,8 +28488,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/asc-devkit",
       "cann/opbase",
@@ -28395,8 +28529,8 @@
       "cann/ops-math",
       "cann/ops-transformer",
       "cann/ops-nn",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/opbase",
       "cann/ops-cv",
       "cann/atvoss"
@@ -28619,8 +28753,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/asc-devkit",
       "cann/graph-autofusion",
       "cann/ops-cv",
@@ -28750,8 +28884,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -28915,8 +29049,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -29070,8 +29204,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/asc-devkit",
       "cann/graph-autofusion",
       "cann/ops-cv",
@@ -29345,16 +29479,16 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
       "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
-      "cann/runtime",
       "cann/cann-samples",
+      "cann/runtime",
       "cann/catlass",
       "cann/cann-recipes-train",
       "cann/hccl",
@@ -29457,8 +29591,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -29525,8 +29659,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/ge",
       "cann/asc-devkit",
       "cann/opbase",
@@ -29557,8 +29691,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/ge",
       "cann/opbase",
       "cann/graph-autofusion",
@@ -29584,8 +29718,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -29638,8 +29772,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -30053,8 +30187,8 @@
       "cann/ops-math",
       "cann/ops-transformer",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/ops-cv",
       "cann/catlass",
       "cann/ascend-transformer-boost",
@@ -30092,8 +30226,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/opbase",
       "cann/ops-cv",
       "cann/catlass",
@@ -30114,8 +30248,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -30156,8 +30290,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/opbase",
       "cann/catlass",
       "cann/ascend-transformer-boost",
@@ -30176,8 +30310,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/opbase",
       "cann/catlass",
       "cann/ascend-transformer-boost",
@@ -30479,8 +30613,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/opbase",
       "cann/ops-cv",
       "cann/catlass",
@@ -30647,8 +30781,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -30709,8 +30843,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/opbase",
       "cann/ops-cv",
       "cann/catlass",
@@ -30787,8 +30921,8 @@
     "nick_name": "yuanlang321",
     "starred_repos": [
       "cann/ops-math",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/opbase"
     ],
     "user_type": "questioner",
@@ -31018,8 +31152,8 @@
     "starred_repos": [
       "cann/ops-math",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/ge",
       "cann/asc-devkit",
       "cann/opbase",
@@ -31047,8 +31181,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/cann-learning-hub",
       "cann/ge",
@@ -31093,8 +31227,8 @@
     "starred_repos": [
       "cann/ops-math",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/ge",
       "cann/opbase",
       "cann/graph-autofusion",
@@ -31115,8 +31249,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/graph-autofusion",
       "cann/ops-cv",
       "cann/cann-recipes-train"
@@ -31144,8 +31278,8 @@
     "starred_repos": [
       "cann/ops-math",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/ge",
       "cann/asc-devkit",
       "cann/opbase",
@@ -31170,8 +31304,8 @@
     "starred_repos": [
       "cann/ops-math",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/ge",
       "cann/asc-devkit",
       "cann/opbase",
@@ -31196,8 +31330,8 @@
     "starred_repos": [
       "cann/ops-math",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/ge",
       "cann/opbase",
       "cann/graph-autofusion",
@@ -31219,8 +31353,8 @@
     "starred_repos": [
       "cann/ops-math",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/ge",
       "cann/asc-devkit",
       "cann/opbase",
@@ -31259,8 +31393,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/cann-learning-hub",
       "cann/asc-devkit",
@@ -31357,8 +31491,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -31401,8 +31535,8 @@
     "starred_repos": [
       "cann/ops-math",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/ge",
       "cann/opbase",
       "cann/graph-autofusion",
@@ -31535,8 +31669,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -31582,8 +31716,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -31679,8 +31813,8 @@
     "nick_name": "57_Viking",
     "starred_repos": [
       "cann/ops-math",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/opbase",
       "cann/hccl",
       "cann/hcomm",
@@ -31765,8 +31899,8 @@
       "cann/ops-math",
       "cann/ops-transformer",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -31830,8 +31964,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -33211,8 +33345,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/opbase",
       "cann/ops-cv",
       "cann/catlass",
@@ -33446,8 +33580,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/cann-learning-hub",
       "cann/ge",
@@ -33967,14 +34101,14 @@
     "starred_repos": [
       "cann/ops-math",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/ge",
       "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
-      "cann/runtime",
       "cann/cann-samples",
+      "cann/runtime",
       "cann/metadef",
       "cann/cann-recipes-train",
       "cann/driver"
@@ -34165,8 +34299,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -34250,16 +34384,16 @@
       "cann/ops-math",
       "cann/ops-transformer",
       "cann/ops-nn",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
       "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
-      "cann/runtime",
       "cann/cann-samples",
+      "cann/runtime",
       "cann/metadef",
       "cann/hccl",
       "cann/hcomm",
@@ -34317,8 +34451,8 @@
       "cann/ops-math",
       "cann/ops-transformer",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -34478,8 +34612,8 @@
     "starred_repos": [
       "cann/ops-math",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/ge",
       "cann/asc-devkit",
       "cann/opbase",
@@ -34528,8 +34662,8 @@
     "nick_name": "munanhw",
     "starred_repos": [
       "cann/ops-math",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/asc-devkit",
       "cann/opbase"
     ],
@@ -34726,8 +34860,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/asc-devkit",
       "cann/opbase",
       "cann/graph-autofusion",
@@ -34790,8 +34924,8 @@
       "cann/ops-math",
       "cann/ops-transformer",
       "cann/ops-nn",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/cann-learning-hub",
       "cann/asc-devkit",
       "cann/opbase",
@@ -34946,8 +35080,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/asc-devkit",
       "cann/opbase",
       "cann/graph-autofusion",
@@ -35442,7 +35576,7 @@
     "starred_repos": [
       "cann/ops-transformer"
     ],
-    "user_type": "developer",
+    "user_type": "questioner",
     "fans_count": 0,
     "original_repo_count": 0,
     "total_contributions": 25
@@ -35989,7 +36123,8 @@
     "user_name": "OblivionZHU",
     "nick_name": "OblivionZHU",
     "starred_repos": [
-      "cann/ops-transformer"
+      "cann/ops-transformer",
+      "cann/cann-samples"
     ],
     "user_type": "contributor",
     "fans_count": 0,
@@ -36802,8 +36937,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/cann-learning-hub",
       "cann/ge",
@@ -36849,8 +36984,8 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/ge",
       "cann/asc-devkit",
@@ -39243,8 +39378,8 @@
     "nick_name": "vkuramshin",
     "starred_repos": [
       "cann/ops-nn",
-      "cann/runtime",
       "cann/cann-samples",
+      "cann/runtime",
       "cann/hccl",
       "cann/driver"
     ],
@@ -39272,14 +39407,14 @@
     "starred_repos": [
       "cann/ops-nn",
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/pypto",
       "cann/opbase",
       "cann/graph-autofusion",
       "cann/ops-cv",
-      "cann/runtime",
       "cann/cann-samples",
+      "cann/runtime",
       "cann/catlass",
       "cann/torchtitan-npu",
       "cann/cann-recipes-train",
@@ -39310,8 +39445,8 @@
       "cann/xla-npu",
       "cann/tensorflow",
       "cann/elec-ops-prediction",
-      "cann/elec-ops-inspection",
       "cann/ops-collections",
+      "cann/elec-ops-inspection",
       "cann/elec-ops-simulation",
       "cann/asnumpy-docs"
     ],
@@ -39417,8 +39552,8 @@
     "nick_name": "wei_shi",
     "starred_repos": [
       "cann/ops-nn",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/cann-learning-hub",
       "cann/ge",
       "cann/asc-devkit",
@@ -39789,7 +39924,8 @@
     "user_name": "yuyuanfeng",
     "nick_name": "yuyuanfeng",
     "starred_repos": [
-      "cann/ops-nn"
+      "cann/ops-nn",
+      "cann/cann-samples"
     ],
     "user_type": "contributor",
     "fans_count": 0,
@@ -39910,8 +40046,8 @@
       "cann/ge",
       "cann/graph-autofusion",
       "cann/ops-cv",
-      "cann/runtime",
       "cann/cann-samples",
+      "cann/runtime",
       "cann/metadef",
       "cann/triton-inference-server-ge-backend"
     ],
@@ -41139,6 +41275,21 @@
     "total_contributions": 866
   },
   {
+    "user_name": "xdmiao",
+    "nick_name": "xdmiao",
+    "starred_repos": [
+      "cann/cann-recipes-infer",
+      "cann/cann-learning-hub",
+      "cann/cann-recipes-train",
+      "cann/cann-recipes-embodied-ai",
+      "cann/infrastructure"
+    ],
+    "user_type": "contributor",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 61
+  },
+  {
     "user_name": "llqx-1",
     "nick_name": "llqx-1",
     "starred_repos": [
@@ -41228,17 +41379,17 @@
     "total_contributions": 0
   },
   {
-    "user_name": "JimXu1",
+    "user_name": "xujin71",
     "nick_name": "xujin71",
     "starred_repos": [
       "cann/cann-recipes-infer",
       "cann/cann-recipes-train",
       "cann/cann-recipes-embodied-ai"
     ],
-    "user_type": "star_enthusiast",
+    "user_type": "developer",
     "fans_count": 0,
     "original_repo_count": 0,
-    "total_contributions": 0
+    "total_contributions": 2
   },
   {
     "user_name": "Wistariafufum_79",
@@ -42564,8 +42715,8 @@
     "nick_name": "liuhao",
     "starred_repos": [
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/cann-learning-hub",
       "cann/ge",
       "cann/graph-autofusion",
@@ -42824,8 +42975,8 @@
       "cann/ge",
       "cann/graph-autofusion",
       "cann/ops-cv",
-      "cann/runtime",
       "cann/cann-samples",
+      "cann/runtime",
       "cann/metadef",
       "cann/cann-recipes-train"
     ],
@@ -42895,8 +43046,8 @@
     "nick_name": "wangmm",
     "starred_repos": [
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/ge",
       "cann/asc-devkit",
       "cann/graph-autofusion",
@@ -42966,8 +43117,8 @@
       "cann/ge",
       "cann/asc-devkit",
       "cann/graph-autofusion",
-      "cann/runtime",
       "cann/cann-samples",
+      "cann/runtime",
       "cann/metadef",
       "cann/cann-recipes-train",
       "cann/pyasc",
@@ -43246,8 +43397,8 @@
     "nick_name": "yangyongqiang",
     "starred_repos": [
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/ge",
       "cann/asc-devkit",
       "cann/graph-autofusion",
@@ -43293,8 +43444,8 @@
     "nick_name": "xuyafei",
     "starred_repos": [
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/ge",
       "cann/asc-devkit",
       "cann/graph-autofusion",
@@ -44049,8 +44200,8 @@
     "nick_name": "wangxiaotian995",
     "starred_repos": [
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/ge",
       "cann/asc-devkit",
       "cann/graph-autofusion",
@@ -44783,8 +44934,8 @@
     "nick_name": "wbigat",
     "starred_repos": [
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/ge",
       "cann/opbase",
       "cann/graph-autofusion",
@@ -44892,8 +45043,8 @@
     "nick_name": "沛洋",
     "starred_repos": [
       "cann/cann-recipes-infer",
-      "cann/community",
       "cann/hixl",
+      "cann/community",
       "cann/ge",
       "cann/asc-devkit",
       "cann/graph-autofusion",
@@ -44911,1241 +45062,18 @@
     "total_contributions": 499
   },
   {
-    "user_name": "gcw_uMbK5Ib9",
-    "nick_name": "gcw_uMbK5Ib9",
+    "user_name": "weixin_43951495",
+    "nick_name": "波！积极波！",
     "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "2501_94232288",
-    "nick_name": "Sherlock0621",
-    "starred_repos": [
-      "cann/community",
-      "cann/cann-learning-hub",
-      "cann/asc-devkit",
-      "cann/hccl",
-      "cann/hcomm"
-    ],
-    "user_type": "contributor",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 1
-  },
-  {
-    "user_name": "huangxiaojian",
-    "nick_name": "huangxiaojian",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "developer",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 121
-  },
-  {
-    "user_name": "yanwei0615",
-    "nick_name": "yanwei0615",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "questioner",
-    "fans_count": 1,
-    "original_repo_count": 0,
-    "total_contributions": 19
-  },
-  {
-    "user_name": "ivanshan05075",
-    "nick_name": "ivanS",
-    "starred_repos": [
-      "cann/community",
-      "cann/pypto",
-      "cann/ascend-boost-comm",
-      "cann/catccos"
-    ],
-    "user_type": "star_enthusiast",
-    "fans_count": 0,
-    "original_repo_count": 1,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "G6G",
-    "nick_name": "G6G",
-    "starred_repos": [
-      "cann/community",
-      "cann/cann-learning-hub"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "ququde",
-    "nick_name": "ququde",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "developer",
-    "fans_count": 0,
-    "original_repo_count": 2,
-    "total_contributions": 2
-  },
-  {
-    "user_name": "m0_63642614",
-    "nick_name": " Bug_制造者",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "questioner",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 8
-  },
-  {
-    "user_name": "qq_61788894",
-    "nick_name": "Nemophilist515",
-    "starred_repos": [
-      "cann/community",
-      "cann/cann-learning-hub"
-    ],
-    "user_type": "star_enthusiast",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "NiuGangGang",
-    "nick_name": "刘志刚",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "Cristiano_Ronaldo",
-    "nick_name": "Cristiano_Ronaldo ",
-    "starred_repos": [
-      "cann/community",
-      "cann/hixl"
-    ],
-    "user_type": "developer",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 4
-  },
-  {
-    "user_name": "gsyn77",
-    "nick_name": "gsyn77",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "developer",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 2
-  },
-  {
-    "user_name": "kookgi",
-    "nick_name": "wakakaxin",
-    "starred_repos": [
-      "cann/community",
-      "cann/hccl"
-    ],
-    "user_type": "star_enthusiast",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "Kin_Mingg",
-    "nick_name": "Kin_Mingg",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "willtongji",
-    "nick_name": "will-ww",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "LiLvShai",
-    "nick_name": "LiLvShai",
-    "starred_repos": [
-      "cann/community",
-      "cann/cann-learning-hub"
-    ],
-    "user_type": "developer",
-    "fans_count": 0,
-    "original_repo_count": 2,
-    "total_contributions": 8
-  },
-  {
-    "user_name": "maliqiang8080",
-    "nick_name": "老马",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "supernova6758",
-    "nick_name": "supernova6758",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "gcw_FEXRAYNA",
-    "nick_name": "gcw_FEXRAYNA",
-    "starred_repos": [
-      "cann/community",
-      "cann/cann-learning-hub",
-      "cann/asnumpy"
-    ],
-    "user_type": "developer",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 1
-  },
-  {
-    "user_name": "shj_23",
-    "nick_name": "Jason.Sun.23",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "beuself",
-    "nick_name": "kunhao",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "MrPanda2025",
-    "nick_name": "MrPanda2025",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "gcw_aYZViqo8",
-    "nick_name": "gcw_aYZViqo8",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "Zoofay",
-    "nick_name": "Zoofay",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "Chang456852",
-    "nick_name": "Chang456852",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "lianyw",
-    "nick_name": "lianyw",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "xym-31",
-    "nick_name": "早餐加点",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "questioner",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 9
-  },
-  {
-    "user_name": "Giacche",
-    "nick_name": "Giacche",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "y373125688",
-    "nick_name": "y373125688",
-    "starred_repos": [
-      "cann/community",
-      "cann/hixl"
-    ],
-    "user_type": "star_enthusiast",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "m0_58213946",
-    "nick_name": "m0_58213946",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "lyy_666",
-    "nick_name": "lyy_666",
-    "starred_repos": [
-      "cann/community",
       "cann/hixl",
       "cann/hccl",
-      "cann/hcomm"
-    ],
-    "user_type": "questioner",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 7
-  },
-  {
-    "user_name": "weng-xinlong",
-    "nick_name": "翁鑫隆",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "clinglai0517",
-    "nick_name": "clinglai0517",
-    "starred_repos": [
-      "cann/community",
-      "cann/catlass"
-    ],
-    "user_type": "contributor",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 55
-  },
-  {
-    "user_name": "Tower19",
-    "nick_name": "Tower19",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "Tian-Fantasea",
-    "nick_name": "Tian-Fantasea",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "developer",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 5
-  },
-  {
-    "user_name": "json-lee",
-    "nick_name": "json-lee",
-    "starred_repos": [
-      "cann/community",
-      "cann/pto-isa"
-    ],
-    "user_type": "star_enthusiast",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "cc_beolus",
-    "nick_name": "cc_beolus",
-    "starred_repos": [
-      "cann/community",
-      "cann/triton-inference-server-ge-backend"
-    ],
-    "user_type": "questioner",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 29
-  },
-  {
-    "user_name": "happygirl2021",
-    "nick_name": "袁益明",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "Kprime",
-    "nick_name": "刘杰峰",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "developer",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 11
-  },
-  {
-    "user_name": "xxxlak",
-    "nick_name": "xxxlak",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "jyc304691735",
-    "nick_name": "jyc304691735",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "questioner",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 558
-  },
-  {
-    "user_name": "gcw_NqsMYq8W",
-    "nick_name": "gcw_NqsMYq8W",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "yuanbaopeng",
-    "nick_name": "yuanbaopeng",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "developer",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 1
-  },
-  {
-    "user_name": "tikifire",
-    "nick_name": "摸鱼艺术家",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "pangbingqiang",
-    "nick_name": "pangbingqiang",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "questioner",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 18
-  },
-  {
-    "user_name": "weixin_43835859",
-    "nick_name": "weixin_43835859",
-    "starred_repos": [
-      "cann/community",
-      "cann/cann-samples"
-    ],
-    "user_type": "star_enthusiast",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "sunpeng024",
-    "nick_name": "sunpeng024",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 4,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "AbrahamCaiJin",
-    "nick_name": "AbrahamCaiJin",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "developer",
-    "fans_count": 0,
-    "original_repo_count": 1,
-    "total_contributions": 24
-  },
-  {
-    "user_name": "ymqn180",
-    "nick_name": "ymqn180",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "developer",
-    "fans_count": 0,
-    "original_repo_count": 3,
-    "total_contributions": 41
-  },
-  {
-    "user_name": "fengwuqiang",
-    "nick_name": "fengwuqiang",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "developer",
-    "fans_count": 0,
-    "original_repo_count": 1,
-    "total_contributions": 151
-  },
-  {
-    "user_name": "zhaozhaoyu",
-    "nick_name": "zhaozhaoyu",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "EugeneWu",
-    "nick_name": "EugeneWu",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "developer",
-    "fans_count": 0,
-    "original_repo_count": 1,
-    "total_contributions": 32
-  },
-  {
-    "user_name": "zsynacl",
-    "nick_name": "zsyNaCl",
-    "starred_repos": [
-      "cann/community",
-      "cann/asc-devkit"
-    ],
-    "user_type": "contributor",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 246
-  },
-  {
-    "user_name": "yuchiwang",
-    "nick_name": "yuchiwang",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "yu597955752",
-    "nick_name": "yu597955752",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "Shan19900305",
-    "nick_name": "Shan19900305",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "longdetuichu",
-    "nick_name": "龙的推出",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "gcw_f76E6Whb",
-    "nick_name": "gcw_f76E6Whb",
-    "starred_repos": [
-      "cann/community",
-      "cann/pto-isa"
-    ],
-    "user_type": "star_enthusiast",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "VIHVV",
-    "nick_name": "VIHVV",
-    "starred_repos": [
-      "cann/community",
-      "cann/pypto",
-      "cann/pto-isa",
-      "cann/pyasc"
-    ],
-    "user_type": "questioner",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 1
-  },
-  {
-    "user_name": "lishengbao",
-    "nick_name": "Shengbao Li",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "developer",
-    "fans_count": 0,
-    "original_repo_count": 4,
-    "total_contributions": 19
-  },
-  {
-    "user_name": "xdjam",
-    "nick_name": "xdjam",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "ADAMWJD",
-    "nick_name": "Adam栋",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "liwenshen",
-    "nick_name": "liwenshen",
-    "starred_repos": [
-      "cann/community",
-      "cann/pto-isa"
-    ],
-    "user_type": "star_enthusiast",
-    "fans_count": 1,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "lllleo",
-    "nick_name": "Leosfly",
-    "starred_repos": [
-      "cann/community",
-      "cann/pypto",
-      "cann/runtime",
-      "cann/pto-isa"
-    ],
-    "user_type": "contributor",
-    "fans_count": 0,
-    "original_repo_count": 1,
-    "total_contributions": 115
-  },
-  {
-    "user_name": "dfanmaijukdl",
-    "nick_name": "dfanmaijukdl",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "gcw_KTJ9vvED",
-    "nick_name": "xuefanfan",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "questioner",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 23
-  },
-  {
-    "user_name": "gcw_FHrfwZBn",
-    "nick_name": "gcw_FHrfwZBn",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "developer",
-    "fans_count": 0,
-    "original_repo_count": 1,
-    "total_contributions": 32
-  },
-  {
-    "user_name": "yan8950040",
-    "nick_name": "natkang",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 1,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "chenhaiyan",
-    "nick_name": "chenhaiyan",
-    "starred_repos": [
-      "cann/community",
-      "cann/cann-learning-hub"
-    ],
-    "user_type": "questioner",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 24
-  },
-  {
-    "user_name": "gcw_4jk5yNz5",
-    "nick_name": "huokankan",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "REWGgfh",
-    "nick_name": "REWGgfh",
-    "starred_repos": [
-      "cann/community",
-      "cann/cann-recipes-train"
-    ],
-    "user_type": "star_enthusiast",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "2401_89292391",
-    "nick_name": "信息小李",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 1,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "gamehorse0525",
-    "nick_name": "gamehorse0525",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "newer2025-ai",
-    "nick_name": "newer2025-ai",
-    "starred_repos": [
-      "cann/community",
-      "cann/pypto"
-    ],
-    "user_type": "star_enthusiast",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "larry_www",
-    "nick_name": "王亚兵",
-    "starred_repos": [
-      "cann/community",
-      "cann/pypto"
-    ],
-    "user_type": "star_enthusiast",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "guochun",
-    "nick_name": "云上春哥",
-    "starred_repos": [
-      "cann/community",
-      "cann/pypto"
-    ],
-    "user_type": "questioner",
-    "fans_count": 1,
-    "original_repo_count": 1,
-    "total_contributions": 128
-  },
-  {
-    "user_name": "weixin_41082004",
-    "nick_name": "Knight677",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "huizi123321",
-    "nick_name": "huizi123321",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 18,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "gcw_YvTVwL6H",
-    "nick_name": "gcw_YvTVwL6H",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 1,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "gcw_jT0N3Ozl",
-    "nick_name": "waveman",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "GriffinChe",
-    "nick_name": "chejia",
-    "starred_repos": [
-      "cann/community",
-      "cann/hccl",
       "cann/hcomm",
-      "cann/cann-ops-competitions"
-    ],
-    "user_type": "developer",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 8
-  },
-  {
-    "user_name": "xusp977",
-    "nick_name": "xusp977",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "developer",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 28
-  },
-  {
-    "user_name": "dlf123456",
-    "nick_name": "dlf123456",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "questioner",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 21
-  },
-  {
-    "user_name": "littlemons",
-    "nick_name": "littlemons",
-    "starred_repos": [
-      "cann/community",
-      "cann/runtime"
-    ],
-    "user_type": "contributor",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 894
-  },
-  {
-    "user_name": "lilianlin_hw",
-    "nick_name": "lilianlin",
-    "starred_repos": [
-      "cann/community",
-      "cann/hccl",
-      "cann/hcomm"
+      "cann/shmem"
     ],
     "user_type": "star_enthusiast",
     "fans_count": 0,
     "original_repo_count": 0,
     "total_contributions": 0
-  },
-  {
-    "user_name": "HZFeng",
-    "nick_name": "Huzhanfeng",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "developer",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 10
-  },
-  {
-    "user_name": "pilipipi",
-    "nick_name": "陈然",
-    "starred_repos": [
-      "cann/community",
-      "cann/hixl"
-    ],
-    "user_type": "developer",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 2
-  },
-  {
-    "user_name": "HedgerLin",
-    "nick_name": "HedgerLin",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "developer",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 52
-  },
-  {
-    "user_name": "Leo-hele",
-    "nick_name": "何乐",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "developer",
-    "fans_count": 0,
-    "original_repo_count": 3,
-    "total_contributions": 12
-  },
-  {
-    "user_name": "HamburgerQ",
-    "nick_name": "RainbowSea",
-    "starred_repos": [
-      "cann/community",
-      "cann/opbase"
-    ],
-    "user_type": "developer",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 155
-  },
-  {
-    "user_name": "xyzheng1122",
-    "nick_name": "zhengxinyang",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "developer",
-    "fans_count": 2,
-    "original_repo_count": 4,
-    "total_contributions": 472
-  },
-  {
-    "user_name": "xiao1600908126",
-    "nick_name": "啸猫",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "developer",
-    "fans_count": 0,
-    "original_repo_count": 1,
-    "total_contributions": 186
-  },
-  {
-    "user_name": "gcw_jpL2UqBS",
-    "nick_name": "gcw_jpL2UqBS",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "developer",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 66
-  },
-  {
-    "user_name": "zw19950n-m",
-    "nick_name": "上尹下框11",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "developer",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 167
-  },
-  {
-    "user_name": "MerkavaR",
-    "nick_name": "MerkavaR",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "developer",
-    "fans_count": 0,
-    "original_repo_count": 2,
-    "total_contributions": 160
-  },
-  {
-    "user_name": "benpab",
-    "nick_name": "benpab",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "why1993327",
-    "nick_name": "why1993327",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "developer",
-    "fans_count": 0,
-    "original_repo_count": 3,
-    "total_contributions": 11
-  },
-  {
-    "user_name": "yaoyao12",
-    "nick_name": "yaoyaoyao",
-    "starred_repos": [
-      "cann/community",
-      "cann/asnumpy"
-    ],
-    "user_type": "developer",
-    "fans_count": 3,
-    "original_repo_count": 0,
-    "total_contributions": 209
-  },
-  {
-    "user_name": "m0_61055854",
-    "nick_name": "m0_61055854",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "developer",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 2
-  },
-  {
-    "user_name": "w5306",
-    "nick_name": "w5306",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "questioner",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 115
-  },
-  {
-    "user_name": "taozuhong",
-    "nick_name": "taozuhong",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 5,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "weixin_51568598",
-    "nick_name": "weixin_51568598",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "tacoNana",
-    "nick_name": "tacoNana",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 5,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "gcw_Z5NhlngC",
-    "nick_name": "gcw_Z5NhlngC",
-    "starred_repos": [
-      "cann/community"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "gcw_dqWp1geN",
-    "nick_name": "gcw_dqWp1geN",
-    "starred_repos": [
-      "cann/community",
-      "cann/opbase"
-    ],
-    "user_type": "star_enthusiast",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "coco_gitcode",
-    "nick_name": "GitCode优质项目",
-    "starred_repos": [
-      "cann/community",
-      "cann/asnumpy"
-    ],
-    "user_type": "star_enthusiast",
-    "fans_count": 7,
-    "original_repo_count": 3,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "qq_28230035",
-    "nick_name": "gk",
-    "starred_repos": [
-      "cann/community",
-      "cann/opbase"
-    ],
-    "user_type": "contributor",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 266
-  },
-  {
-    "user_name": "yangjunhui10",
-    "nick_name": "杨俊晖",
-    "starred_repos": [
-      "cann/community",
-      "cann/opbase"
-    ],
-    "user_type": "developer",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 713
   },
   {
     "user_name": "walson",
@@ -46357,6 +45285,20 @@
     "total_contributions": 0
   },
   {
+    "user_name": "lyy_666",
+    "nick_name": "lyy_666",
+    "starred_repos": [
+      "cann/hixl",
+      "cann/community",
+      "cann/hccl",
+      "cann/hcomm"
+    ],
+    "user_type": "questioner",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 7
+  },
+  {
     "user_name": "chenbing9527",
     "nick_name": "chenbing9527",
     "starred_repos": [
@@ -46389,6 +45331,18 @@
     "fans_count": 0,
     "original_repo_count": 2,
     "total_contributions": 0
+  },
+  {
+    "user_name": "Cristiano_Ronaldo",
+    "nick_name": "Cristiano_Ronaldo ",
+    "starred_repos": [
+      "cann/hixl",
+      "cann/community"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 4
   },
   {
     "user_name": "c__try",
@@ -48160,6 +47114,18 @@
     "total_contributions": 6
   },
   {
+    "user_name": "y373125688",
+    "nick_name": "y373125688",
+    "starred_repos": [
+      "cann/hixl",
+      "cann/community"
+    ],
+    "user_type": "star_enthusiast",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
     "user_name": "martinXuc",
     "nick_name": "徐驰",
     "starred_repos": [
@@ -49433,7 +48399,8 @@
     "user_name": "ye-wo-dong-shan",
     "nick_name": "夜卧东山",
     "starred_repos": [
-      "cann/hixl"
+      "cann/hixl",
+      "cann/cann-bench"
     ],
     "user_type": "questioner",
     "fans_count": 0,
@@ -49802,6 +48769,18 @@
     "total_contributions": 556
   },
   {
+    "user_name": "pilipipi",
+    "nick_name": "陈然",
+    "starred_repos": [
+      "cann/hixl",
+      "cann/community"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 2
+  },
+  {
     "user_name": "baxingpiaochong",
     "nick_name": "黄炎华",
     "starred_repos": [
@@ -50021,6 +49000,1215 @@
     "fans_count": 0,
     "original_repo_count": 0,
     "total_contributions": 911
+  },
+  {
+    "user_name": "gcw_uMbK5Ib9",
+    "nick_name": "gcw_uMbK5Ib9",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "2501_94232288",
+    "nick_name": "Sherlock0621",
+    "starred_repos": [
+      "cann/community",
+      "cann/cann-learning-hub",
+      "cann/asc-devkit",
+      "cann/hccl",
+      "cann/hcomm"
+    ],
+    "user_type": "contributor",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 1
+  },
+  {
+    "user_name": "huangxiaojian",
+    "nick_name": "huangxiaojian",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 121
+  },
+  {
+    "user_name": "yanwei0615",
+    "nick_name": "yanwei0615",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "questioner",
+    "fans_count": 1,
+    "original_repo_count": 0,
+    "total_contributions": 19
+  },
+  {
+    "user_name": "ivanshan05075",
+    "nick_name": "ivanS",
+    "starred_repos": [
+      "cann/community",
+      "cann/pypto",
+      "cann/ascend-boost-comm",
+      "cann/catccos"
+    ],
+    "user_type": "star_enthusiast",
+    "fans_count": 0,
+    "original_repo_count": 1,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "G6G",
+    "nick_name": "G6G",
+    "starred_repos": [
+      "cann/community",
+      "cann/cann-learning-hub"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "ququde",
+    "nick_name": "ququde",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 2,
+    "total_contributions": 2
+  },
+  {
+    "user_name": "m0_63642614",
+    "nick_name": " Bug_制造者",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "questioner",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 8
+  },
+  {
+    "user_name": "qq_61788894",
+    "nick_name": "Nemophilist515",
+    "starred_repos": [
+      "cann/community",
+      "cann/cann-learning-hub"
+    ],
+    "user_type": "star_enthusiast",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "NiuGangGang",
+    "nick_name": "刘志刚",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "gsyn77",
+    "nick_name": "gsyn77",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 2
+  },
+  {
+    "user_name": "kookgi",
+    "nick_name": "wakakaxin",
+    "starred_repos": [
+      "cann/community",
+      "cann/hccl"
+    ],
+    "user_type": "star_enthusiast",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "Kin_Mingg",
+    "nick_name": "Kin_Mingg",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "willtongji",
+    "nick_name": "will-ww",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "LiLvShai",
+    "nick_name": "LiLvShai",
+    "starred_repos": [
+      "cann/community",
+      "cann/cann-learning-hub"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 2,
+    "total_contributions": 8
+  },
+  {
+    "user_name": "maliqiang8080",
+    "nick_name": "老马",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "supernova6758",
+    "nick_name": "supernova6758",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "gcw_FEXRAYNA",
+    "nick_name": "gcw_FEXRAYNA",
+    "starred_repos": [
+      "cann/community",
+      "cann/cann-learning-hub",
+      "cann/asnumpy"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 1
+  },
+  {
+    "user_name": "shj_23",
+    "nick_name": "Jason.Sun.23",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "beuself",
+    "nick_name": "kunhao",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "MrPanda2025",
+    "nick_name": "MrPanda2025",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "gcw_aYZViqo8",
+    "nick_name": "gcw_aYZViqo8",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "Zoofay",
+    "nick_name": "Zoofay",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "Chang456852",
+    "nick_name": "Chang456852",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "lianyw",
+    "nick_name": "lianyw",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "xym-31",
+    "nick_name": "早餐加点",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "questioner",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 9
+  },
+  {
+    "user_name": "Giacche",
+    "nick_name": "Giacche",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "m0_58213946",
+    "nick_name": "m0_58213946",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "weng-xinlong",
+    "nick_name": "翁鑫隆",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "clinglai0517",
+    "nick_name": "clinglai0517",
+    "starred_repos": [
+      "cann/community",
+      "cann/catlass"
+    ],
+    "user_type": "contributor",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 55
+  },
+  {
+    "user_name": "Tower19",
+    "nick_name": "Tower19",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "Tian-Fantasea",
+    "nick_name": "Tian-Fantasea",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 5
+  },
+  {
+    "user_name": "json-lee",
+    "nick_name": "json-lee",
+    "starred_repos": [
+      "cann/community",
+      "cann/pto-isa"
+    ],
+    "user_type": "star_enthusiast",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "cc_beolus",
+    "nick_name": "cc_beolus",
+    "starred_repos": [
+      "cann/community",
+      "cann/triton-inference-server-ge-backend"
+    ],
+    "user_type": "questioner",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 29
+  },
+  {
+    "user_name": "happygirl2021",
+    "nick_name": "袁益明",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "Kprime",
+    "nick_name": "刘杰峰",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 11
+  },
+  {
+    "user_name": "xxxlak",
+    "nick_name": "xxxlak",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "jyc304691735",
+    "nick_name": "jyc304691735",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "questioner",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 558
+  },
+  {
+    "user_name": "gcw_NqsMYq8W",
+    "nick_name": "gcw_NqsMYq8W",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "yuanbaopeng",
+    "nick_name": "yuanbaopeng",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 1
+  },
+  {
+    "user_name": "tikifire",
+    "nick_name": "摸鱼艺术家",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "pangbingqiang",
+    "nick_name": "pangbingqiang",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "questioner",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 18
+  },
+  {
+    "user_name": "weixin_43835859",
+    "nick_name": "weixin_43835859",
+    "starred_repos": [
+      "cann/community",
+      "cann/cann-samples"
+    ],
+    "user_type": "star_enthusiast",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "sunpeng024",
+    "nick_name": "sunpeng024",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 4,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "AbrahamCaiJin",
+    "nick_name": "AbrahamCaiJin",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 1,
+    "total_contributions": 24
+  },
+  {
+    "user_name": "ymqn180",
+    "nick_name": "ymqn180",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 3,
+    "total_contributions": 41
+  },
+  {
+    "user_name": "fengwuqiang",
+    "nick_name": "fengwuqiang",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 1,
+    "total_contributions": 151
+  },
+  {
+    "user_name": "zhaozhaoyu",
+    "nick_name": "zhaozhaoyu",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "EugeneWu",
+    "nick_name": "EugeneWu",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 1,
+    "total_contributions": 32
+  },
+  {
+    "user_name": "zsynacl",
+    "nick_name": "zsyNaCl",
+    "starred_repos": [
+      "cann/community",
+      "cann/asc-devkit"
+    ],
+    "user_type": "contributor",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 246
+  },
+  {
+    "user_name": "yuchiwang",
+    "nick_name": "yuchiwang",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "yu597955752",
+    "nick_name": "yu597955752",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "Shan19900305",
+    "nick_name": "Shan19900305",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "longdetuichu",
+    "nick_name": "龙的推出",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "gcw_f76E6Whb",
+    "nick_name": "gcw_f76E6Whb",
+    "starred_repos": [
+      "cann/community",
+      "cann/pto-isa"
+    ],
+    "user_type": "star_enthusiast",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "VIHVV",
+    "nick_name": "VIHVV",
+    "starred_repos": [
+      "cann/community",
+      "cann/pypto",
+      "cann/pto-isa",
+      "cann/pyasc"
+    ],
+    "user_type": "questioner",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 1
+  },
+  {
+    "user_name": "lishengbao",
+    "nick_name": "Shengbao Li",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 4,
+    "total_contributions": 19
+  },
+  {
+    "user_name": "xdjam",
+    "nick_name": "xdjam",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "ADAMWJD",
+    "nick_name": "Adam栋",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "liwenshen",
+    "nick_name": "liwenshen",
+    "starred_repos": [
+      "cann/community",
+      "cann/pto-isa"
+    ],
+    "user_type": "star_enthusiast",
+    "fans_count": 1,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "lllleo",
+    "nick_name": "Leosfly",
+    "starred_repos": [
+      "cann/community",
+      "cann/pypto",
+      "cann/runtime",
+      "cann/pto-isa"
+    ],
+    "user_type": "contributor",
+    "fans_count": 0,
+    "original_repo_count": 1,
+    "total_contributions": 115
+  },
+  {
+    "user_name": "dfanmaijukdl",
+    "nick_name": "dfanmaijukdl",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "gcw_KTJ9vvED",
+    "nick_name": "xuefanfan",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "questioner",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 23
+  },
+  {
+    "user_name": "gcw_FHrfwZBn",
+    "nick_name": "gcw_FHrfwZBn",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 1,
+    "total_contributions": 32
+  },
+  {
+    "user_name": "yan8950040",
+    "nick_name": "natkang",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 1,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "chenhaiyan",
+    "nick_name": "chenhaiyan",
+    "starred_repos": [
+      "cann/community",
+      "cann/cann-learning-hub"
+    ],
+    "user_type": "questioner",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 24
+  },
+  {
+    "user_name": "gcw_4jk5yNz5",
+    "nick_name": "huokankan",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "REWGgfh",
+    "nick_name": "REWGgfh",
+    "starred_repos": [
+      "cann/community",
+      "cann/cann-recipes-train"
+    ],
+    "user_type": "star_enthusiast",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "2401_89292391",
+    "nick_name": "信息小李",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 1,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "gamehorse0525",
+    "nick_name": "gamehorse0525",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "newer2025-ai",
+    "nick_name": "newer2025-ai",
+    "starred_repos": [
+      "cann/community",
+      "cann/pypto"
+    ],
+    "user_type": "star_enthusiast",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "larry_www",
+    "nick_name": "王亚兵",
+    "starred_repos": [
+      "cann/community",
+      "cann/pypto"
+    ],
+    "user_type": "star_enthusiast",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "guochun",
+    "nick_name": "云上春哥",
+    "starred_repos": [
+      "cann/community",
+      "cann/pypto"
+    ],
+    "user_type": "questioner",
+    "fans_count": 1,
+    "original_repo_count": 1,
+    "total_contributions": 128
+  },
+  {
+    "user_name": "weixin_41082004",
+    "nick_name": "Knight677",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "huizi123321",
+    "nick_name": "huizi123321",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 18,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "gcw_YvTVwL6H",
+    "nick_name": "gcw_YvTVwL6H",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 1,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "gcw_jT0N3Ozl",
+    "nick_name": "waveman",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "GriffinChe",
+    "nick_name": "chejia",
+    "starred_repos": [
+      "cann/community",
+      "cann/hccl",
+      "cann/hcomm",
+      "cann/cann-ops-competitions"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 8
+  },
+  {
+    "user_name": "xusp977",
+    "nick_name": "xusp977",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 28
+  },
+  {
+    "user_name": "dlf123456",
+    "nick_name": "dlf123456",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "questioner",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 21
+  },
+  {
+    "user_name": "littlemons",
+    "nick_name": "littlemons",
+    "starred_repos": [
+      "cann/community",
+      "cann/runtime"
+    ],
+    "user_type": "contributor",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 894
+  },
+  {
+    "user_name": "lilianlin_hw",
+    "nick_name": "lilianlin",
+    "starred_repos": [
+      "cann/community",
+      "cann/hccl",
+      "cann/hcomm"
+    ],
+    "user_type": "star_enthusiast",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "HZFeng",
+    "nick_name": "Huzhanfeng",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 10
+  },
+  {
+    "user_name": "HedgerLin",
+    "nick_name": "HedgerLin",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 52
+  },
+  {
+    "user_name": "Leo-hele",
+    "nick_name": "何乐",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 3,
+    "total_contributions": 12
+  },
+  {
+    "user_name": "HamburgerQ",
+    "nick_name": "RainbowSea",
+    "starred_repos": [
+      "cann/community",
+      "cann/opbase"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 155
+  },
+  {
+    "user_name": "xyzheng1122",
+    "nick_name": "zhengxinyang",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "developer",
+    "fans_count": 2,
+    "original_repo_count": 4,
+    "total_contributions": 472
+  },
+  {
+    "user_name": "xiao1600908126",
+    "nick_name": "啸猫",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 1,
+    "total_contributions": 186
+  },
+  {
+    "user_name": "gcw_jpL2UqBS",
+    "nick_name": "gcw_jpL2UqBS",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 66
+  },
+  {
+    "user_name": "zw19950n-m",
+    "nick_name": "上尹下框11",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 167
+  },
+  {
+    "user_name": "MerkavaR",
+    "nick_name": "MerkavaR",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 2,
+    "total_contributions": 160
+  },
+  {
+    "user_name": "benpab",
+    "nick_name": "benpab",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "why1993327",
+    "nick_name": "why1993327",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 3,
+    "total_contributions": 11
+  },
+  {
+    "user_name": "yaoyao12",
+    "nick_name": "yaoyaoyao",
+    "starred_repos": [
+      "cann/community",
+      "cann/asnumpy"
+    ],
+    "user_type": "developer",
+    "fans_count": 3,
+    "original_repo_count": 0,
+    "total_contributions": 209
+  },
+  {
+    "user_name": "m0_61055854",
+    "nick_name": "m0_61055854",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 2
+  },
+  {
+    "user_name": "w5306",
+    "nick_name": "w5306",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "questioner",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 115
+  },
+  {
+    "user_name": "taozuhong",
+    "nick_name": "taozuhong",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 5,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "weixin_51568598",
+    "nick_name": "weixin_51568598",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "tacoNana",
+    "nick_name": "tacoNana",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 5,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "gcw_Z5NhlngC",
+    "nick_name": "gcw_Z5NhlngC",
+    "starred_repos": [
+      "cann/community"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "gcw_dqWp1geN",
+    "nick_name": "gcw_dqWp1geN",
+    "starred_repos": [
+      "cann/community",
+      "cann/opbase"
+    ],
+    "user_type": "star_enthusiast",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "coco_gitcode",
+    "nick_name": "GitCode优质项目",
+    "starred_repos": [
+      "cann/community",
+      "cann/asnumpy"
+    ],
+    "user_type": "star_enthusiast",
+    "fans_count": 7,
+    "original_repo_count": 3,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "qq_28230035",
+    "nick_name": "gk",
+    "starred_repos": [
+      "cann/community",
+      "cann/opbase"
+    ],
+    "user_type": "contributor",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 266
+  },
+  {
+    "user_name": "yangjunhui10",
+    "nick_name": "杨俊晖",
+    "starred_repos": [
+      "cann/community",
+      "cann/opbase"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 713
+  },
+  {
+    "user_name": "zhanghuixin",
+    "nick_name": "张慧鑫",
+    "starred_repos": [
+      "cann/pypto"
+    ],
+    "user_type": "contributor",
+    "fans_count": 1,
+    "original_repo_count": 0,
+    "total_contributions": 2134
+  },
+  {
+    "user_name": "gc_t9oRuVXz",
+    "nick_name": "gc_t9oRuVXz",
+    "starred_repos": [
+      "cann/pypto"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
   },
   {
     "user_name": "2401_87571996",
@@ -52454,8 +52642,8 @@
     "total_contributions": 245
   },
   {
-    "user_name": "qq_45307296",
-    "nick_name": "曦景",
+    "user_name": "pyjiao",
+    "nick_name": "pyjiao",
     "starred_repos": [
       "cann/cann-learning-hub"
     ],
@@ -52463,6 +52651,28 @@
     "fans_count": 0,
     "original_repo_count": 0,
     "total_contributions": 0
+  },
+  {
+    "user_name": "2401_87546341",
+    "nick_name": "2401_87546341",
+    "starred_repos": [
+      "cann/cann-learning-hub"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "XiJing_L",
+    "nick_name": "曦景",
+    "starred_repos": [
+      "cann/cann-learning-hub"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 2
   },
   {
     "user_name": "LambdaMiX",
@@ -52566,18 +52776,6 @@
     "fans_count": 0,
     "original_repo_count": 0,
     "total_contributions": 11
-  },
-  {
-    "user_name": "xdmiao",
-    "nick_name": "xdmiao",
-    "starred_repos": [
-      "cann/cann-learning-hub",
-      "cann/infrastructure"
-    ],
-    "user_type": "contributor",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 61
   },
   {
     "user_name": "Alpha123_",
@@ -58424,8 +58622,8 @@
     "starred_repos": [
       "cann/ge",
       "cann/ops-cv",
-      "cann/runtime",
       "cann/cann-samples",
+      "cann/runtime",
       "cann/metadef"
     ],
     "user_type": "contributor",
@@ -58577,7 +58775,7 @@
       "cann/metadef",
       "cann/hccl"
     ],
-    "user_type": "developer",
+    "user_type": "contributor",
     "fans_count": 0,
     "original_repo_count": 0,
     "total_contributions": 680
@@ -58877,6 +59075,17 @@
     "total_contributions": 533
   },
   {
+    "user_name": "frean",
+    "nick_name": "frean",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
     "user_name": "wyn6661",
     "nick_name": "wyn6661",
     "starred_repos": [
@@ -59051,17 +59260,6 @@
     "fans_count": 0,
     "original_repo_count": 0,
     "total_contributions": 90
-  },
-  {
-    "user_name": "IceShip423",
-    "nick_name": "IceShip423",
-    "starred_repos": [
-      "cann/asc-devkit"
-    ],
-    "user_type": "developer",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 114
   },
   {
     "user_name": "yhf0922",
@@ -62729,6 +62927,580 @@
     "total_contributions": 0
   },
   {
+    "user_name": "zhaoshuguang",
+    "nick_name": "zhaoshuguang",
+    "starred_repos": [
+      "cann/cann-samples"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "pangenci",
+    "nick_name": "pangenci",
+    "starred_repos": [
+      "cann/cann-samples"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "HertzHan",
+    "nick_name": "HertzHan",
+    "starred_repos": [
+      "cann/cann-samples"
+    ],
+    "user_type": "contributor",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 265
+  },
+  {
+    "user_name": "lyt_claire",
+    "nick_name": "lyt_claire",
+    "starred_repos": [
+      "cann/cann-samples"
+    ],
+    "user_type": "contributor",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 1249
+  },
+  {
+    "user_name": "inspirations",
+    "nick_name": "inspirations",
+    "starred_repos": [
+      "cann/cann-samples"
+    ],
+    "user_type": "contributor",
+    "fans_count": 0,
+    "original_repo_count": 1,
+    "total_contributions": 1185
+  },
+  {
+    "user_name": "Davon14272",
+    "nick_name": "Davon",
+    "starred_repos": [
+      "cann/cann-samples"
+    ],
+    "user_type": "contributor",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 984
+  },
+  {
+    "user_name": "qq_52036182",
+    "nick_name": "饱胀男孩_fullboy",
+    "starred_repos": [
+      "cann/cann-samples"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "lisiting6",
+    "nick_name": "lisiting6",
+    "starred_repos": [
+      "cann/cann-samples"
+    ],
+    "user_type": "contributor",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 94
+  },
+  {
+    "user_name": "2500_94447092",
+    "nick_name": "李慧487",
+    "starred_repos": [
+      "cann/cann-samples"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 185
+  },
+  {
+    "user_name": "xuliang_hw",
+    "nick_name": "xuliang_hw",
+    "starred_repos": [
+      "cann/cann-samples"
+    ],
+    "user_type": "developer",
+    "fans_count": 1,
+    "original_repo_count": 1,
+    "total_contributions": 563
+  },
+  {
+    "user_name": "Yuanfeng_HW",
+    "nick_name": "Yuanfeng_HW",
+    "starred_repos": [
+      "cann/cann-samples"
+    ],
+    "user_type": "contributor",
+    "fans_count": 1,
+    "original_repo_count": 3,
+    "total_contributions": 1539
+  },
+  {
+    "user_name": "Twoliges",
+    "nick_name": "Riki",
+    "starred_repos": [
+      "cann/cann-samples",
+      "cann/ops-blas"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "soundflow",
+    "nick_name": "抄💯遍",
+    "starred_repos": [
+      "cann/cann-samples"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "xulei8",
+    "nick_name": "xule8",
+    "starred_repos": [
+      "cann/cann-samples"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 5,
+    "total_contributions": 132
+  },
+  {
+    "user_name": "jzb000",
+    "nick_name": "jzb000",
+    "starred_repos": [
+      "cann/cann-samples"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "calm18",
+    "nick_name": "平仔",
+    "starred_repos": [
+      "cann/cann-samples"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 1,
+    "total_contributions": 37
+  },
+  {
+    "user_name": "htyhty233",
+    "nick_name": "htyhty233",
+    "starred_repos": [
+      "cann/cann-samples"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "2301_81586198",
+    "nick_name": "2301_81586198",
+    "starred_repos": [
+      "cann/cann-samples"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "jerry_uestc123",
+    "nick_name": "谢建东",
+    "starred_repos": [
+      "cann/cann-samples"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "qingss0",
+    "nick_name": "flowers_unamed",
+    "starred_repos": [
+      "cann/cann-samples"
+    ],
+    "user_type": "developer",
+    "fans_count": 1,
+    "original_repo_count": 20,
+    "total_contributions": 2671
+  },
+  {
+    "user_name": "KlineC",
+    "nick_name": "KlineC",
+    "starred_repos": [
+      "cann/cann-samples"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "qq_51867290",
+    "nick_name": "qq_51867290",
+    "starred_repos": [
+      "cann/cann-samples"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "m0_73390923",
+    "nick_name": "yy",
+    "starred_repos": [
+      "cann/cann-samples"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 4
+  },
+  {
+    "user_name": "MulderWang",
+    "nick_name": "Mulder Wang",
+    "starred_repos": [
+      "cann/cann-samples"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "shunshiranqi",
+    "nick_name": "shunshiranqi",
+    "starred_repos": [
+      "cann/cann-samples",
+      "cann/oam-tools"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 776
+  },
+  {
+    "user_name": "lzy12355",
+    "nick_name": "lzy12355",
+    "starred_repos": [
+      "cann/cann-samples"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "llltttgggg",
+    "nick_name": "llltttgggg",
+    "starred_repos": [
+      "cann/cann-samples"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "manchill",
+    "nick_name": "泽野千里(ω",
+    "starred_repos": [
+      "cann/cann-samples"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 1,
+    "total_contributions": 1
+  },
+  {
+    "user_name": "gcw_6ABQ8PxX",
+    "nick_name": "gcw_6ABQ8PxX",
+    "starred_repos": [
+      "cann/cann-samples"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "gcw_66SkXfhL",
+    "nick_name": "gcw_66SkXfhL",
+    "starred_repos": [
+      "cann/cann-samples"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "HHRtaotao",
+    "nick_name": "文文报社",
+    "starred_repos": [
+      "cann/cann-samples"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "hahaha334",
+    "nick_name": "hahaha334",
+    "starred_repos": [
+      "cann/cann-samples"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "xiefangming",
+    "nick_name": "xiefangming",
+    "starred_repos": [
+      "cann/cann-samples"
+    ],
+    "user_type": "contributor",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 934
+  },
+  {
+    "user_name": "m0_62750368",
+    "nick_name": "m0_62750368",
+    "starred_repos": [
+      "cann/cann-samples"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "guoxu7",
+    "nick_name": "guoxu7",
+    "starred_repos": [
+      "cann/cann-samples"
+    ],
+    "user_type": "contributor",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 404
+  },
+  {
+    "user_name": "wangpengbo26",
+    "nick_name": "rk",
+    "starred_repos": [
+      "cann/cann-samples"
+    ],
+    "user_type": "contributor",
+    "fans_count": 0,
+    "original_repo_count": 1,
+    "total_contributions": 410
+  },
+  {
+    "user_name": "qq_44519100",
+    "nick_name": "qq_44519100",
+    "starred_repos": [
+      "cann/cann-samples"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "William_Xuxy",
+    "nick_name": "William_Xuxy",
+    "starred_repos": [
+      "cann/cann-samples"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "seeyourcell",
+    "nick_name": "seeyourcell",
+    "starred_repos": [
+      "cann/cann-samples"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "underfitc",
+    "nick_name": "underfitc",
+    "starred_repos": [
+      "cann/cann-samples"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 76
+  },
+  {
+    "user_name": "gcw_VaNcaxtI",
+    "nick_name": "gcw_VaNcaxtI",
+    "starred_repos": [
+      "cann/cann-samples"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "lixin433",
+    "nick_name": "李鑫",
+    "starred_repos": [
+      "cann/cann-samples"
+    ],
+    "user_type": "contributor",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 934
+  },
+  {
+    "user_name": "mayafei",
+    "nick_name": "mayafei",
+    "starred_repos": [
+      "cann/cann-samples"
+    ],
+    "user_type": "contributor",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 682
+  },
+  {
+    "user_name": "kingfo207",
+    "nick_name": "kingfo207",
+    "starred_repos": [
+      "cann/cann-samples"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 1
+  },
+  {
+    "user_name": "yuechenyao_huawei",
+    "nick_name": "yuechenyao_huawei",
+    "starred_repos": [
+      "cann/cann-samples"
+    ],
+    "user_type": "contributor",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 349
+  },
+  {
+    "user_name": "star00111",
+    "nick_name": "star00111",
+    "starred_repos": [
+      "cann/cann-samples"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "luo-yong-qing",
+    "nick_name": "luo-yong-qing",
+    "starred_repos": [
+      "cann/cann-samples"
+    ],
+    "user_type": "contributor",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 418
+  },
+  {
+    "user_name": "ruan-cj",
+    "nick_name": "ruan-cj",
+    "starred_repos": [
+      "cann/cann-samples"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 101
+  },
+  {
+    "user_name": "conv2d_ci",
+    "nick_name": "conv2d_ci",
+    "starred_repos": [
+      "cann/cann-samples"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 1783
+  },
+  {
+    "user_name": "caorp",
+    "nick_name": "caorp",
+    "starred_repos": [
+      "cann/cann-samples"
+    ],
+    "user_type": "contributor",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 164
+  },
+  {
+    "user_name": "zl_hw",
+    "nick_name": "zl_hw",
+    "starred_repos": [
+      "cann/cann-samples"
+    ],
+    "user_type": "contributor",
+    "fans_count": 0,
+    "original_repo_count": 1,
+    "total_contributions": 2037
+  },
+  {
+    "user_name": "jia0liang",
+    "nick_name": "陈佳良",
+    "starred_repos": [
+      "cann/cann-samples"
+    ],
+    "user_type": "contributor",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 1303
+  },
+  {
     "user_name": "h50064710",
     "nick_name": "h50064710",
     "starred_repos": [
@@ -63082,7 +63854,7 @@
   },
   {
     "user_name": "dongpeng18",
-    "nick_name": "dongpeng",
+    "nick_name": "董peng",
     "starred_repos": [
       "cann/runtime",
       "cann/hccl",
@@ -63785,447 +64557,6 @@
     "fans_count": 0,
     "original_repo_count": 0,
     "total_contributions": 990
-  },
-  {
-    "user_name": "soundflow",
-    "nick_name": "抄💯遍",
-    "starred_repos": [
-      "cann/cann-samples"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "xulei8",
-    "nick_name": "xule8",
-    "starred_repos": [
-      "cann/cann-samples"
-    ],
-    "user_type": "developer",
-    "fans_count": 0,
-    "original_repo_count": 5,
-    "total_contributions": 132
-  },
-  {
-    "user_name": "jzb000",
-    "nick_name": "jzb000",
-    "starred_repos": [
-      "cann/cann-samples"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "calm18",
-    "nick_name": "平仔",
-    "starred_repos": [
-      "cann/cann-samples"
-    ],
-    "user_type": "developer",
-    "fans_count": 0,
-    "original_repo_count": 1,
-    "total_contributions": 37
-  },
-  {
-    "user_name": "htyhty233",
-    "nick_name": "htyhty233",
-    "starred_repos": [
-      "cann/cann-samples"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "2301_81586198",
-    "nick_name": "2301_81586198",
-    "starred_repos": [
-      "cann/cann-samples"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "jerry_uestc123",
-    "nick_name": "谢建东",
-    "starred_repos": [
-      "cann/cann-samples"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "qingss0",
-    "nick_name": "flowers_unamed",
-    "starred_repos": [
-      "cann/cann-samples"
-    ],
-    "user_type": "developer",
-    "fans_count": 1,
-    "original_repo_count": 20,
-    "total_contributions": 2671
-  },
-  {
-    "user_name": "KlineC",
-    "nick_name": "KlineC",
-    "starred_repos": [
-      "cann/cann-samples"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "qq_51867290",
-    "nick_name": "qq_51867290",
-    "starred_repos": [
-      "cann/cann-samples"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "m0_73390923",
-    "nick_name": "yy",
-    "starred_repos": [
-      "cann/cann-samples"
-    ],
-    "user_type": "developer",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 4
-  },
-  {
-    "user_name": "MulderWang",
-    "nick_name": "Mulder Wang",
-    "starred_repos": [
-      "cann/cann-samples"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "shunshiranqi",
-    "nick_name": "shunshiranqi",
-    "starred_repos": [
-      "cann/cann-samples",
-      "cann/oam-tools"
-    ],
-    "user_type": "developer",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 776
-  },
-  {
-    "user_name": "lzy12355",
-    "nick_name": "lzy12355",
-    "starred_repos": [
-      "cann/cann-samples"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "llltttgggg",
-    "nick_name": "llltttgggg",
-    "starred_repos": [
-      "cann/cann-samples"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "manchill",
-    "nick_name": "泽野千里(ω",
-    "starred_repos": [
-      "cann/cann-samples"
-    ],
-    "user_type": "developer",
-    "fans_count": 0,
-    "original_repo_count": 1,
-    "total_contributions": 1
-  },
-  {
-    "user_name": "gcw_6ABQ8PxX",
-    "nick_name": "gcw_6ABQ8PxX",
-    "starred_repos": [
-      "cann/cann-samples"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "gcw_66SkXfhL",
-    "nick_name": "gcw_66SkXfhL",
-    "starred_repos": [
-      "cann/cann-samples"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "HHRtaotao",
-    "nick_name": "文文报社",
-    "starred_repos": [
-      "cann/cann-samples"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "hahaha334",
-    "nick_name": "hahaha334",
-    "starred_repos": [
-      "cann/cann-samples"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "xiefangming",
-    "nick_name": "xiefangming",
-    "starred_repos": [
-      "cann/cann-samples"
-    ],
-    "user_type": "contributor",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 934
-  },
-  {
-    "user_name": "m0_62750368",
-    "nick_name": "m0_62750368",
-    "starred_repos": [
-      "cann/cann-samples"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "guoxu7",
-    "nick_name": "guoxu7",
-    "starred_repos": [
-      "cann/cann-samples"
-    ],
-    "user_type": "contributor",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 404
-  },
-  {
-    "user_name": "wangpengbo26",
-    "nick_name": "rk",
-    "starred_repos": [
-      "cann/cann-samples"
-    ],
-    "user_type": "contributor",
-    "fans_count": 0,
-    "original_repo_count": 1,
-    "total_contributions": 410
-  },
-  {
-    "user_name": "qq_44519100",
-    "nick_name": "qq_44519100",
-    "starred_repos": [
-      "cann/cann-samples"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "William_Xuxy",
-    "nick_name": "William_Xuxy",
-    "starred_repos": [
-      "cann/cann-samples"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "seeyourcell",
-    "nick_name": "seeyourcell",
-    "starred_repos": [
-      "cann/cann-samples"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "underfitc",
-    "nick_name": "underfitc",
-    "starred_repos": [
-      "cann/cann-samples"
-    ],
-    "user_type": "developer",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 76
-  },
-  {
-    "user_name": "gcw_VaNcaxtI",
-    "nick_name": "gcw_VaNcaxtI",
-    "starred_repos": [
-      "cann/cann-samples"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "lixin433",
-    "nick_name": "李鑫",
-    "starred_repos": [
-      "cann/cann-samples"
-    ],
-    "user_type": "contributor",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 934
-  },
-  {
-    "user_name": "mayafei",
-    "nick_name": "mayafei",
-    "starred_repos": [
-      "cann/cann-samples"
-    ],
-    "user_type": "contributor",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 682
-  },
-  {
-    "user_name": "kingfo207",
-    "nick_name": "kingfo207",
-    "starred_repos": [
-      "cann/cann-samples"
-    ],
-    "user_type": "developer",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 1
-  },
-  {
-    "user_name": "yuechenyao_huawei",
-    "nick_name": "yuechenyao_huawei",
-    "starred_repos": [
-      "cann/cann-samples"
-    ],
-    "user_type": "contributor",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 349
-  },
-  {
-    "user_name": "star00111",
-    "nick_name": "star00111",
-    "starred_repos": [
-      "cann/cann-samples"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "luo-yong-qing",
-    "nick_name": "luo-yong-qing",
-    "starred_repos": [
-      "cann/cann-samples"
-    ],
-    "user_type": "contributor",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 418
-  },
-  {
-    "user_name": "ruan-cj",
-    "nick_name": "ruan-cj",
-    "starred_repos": [
-      "cann/cann-samples"
-    ],
-    "user_type": "developer",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 101
-  },
-  {
-    "user_name": "conv2d_ci",
-    "nick_name": "conv2d_ci",
-    "starred_repos": [
-      "cann/cann-samples"
-    ],
-    "user_type": "developer",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 1783
-  },
-  {
-    "user_name": "caorp",
-    "nick_name": "caorp",
-    "starred_repos": [
-      "cann/cann-samples"
-    ],
-    "user_type": "contributor",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 164
-  },
-  {
-    "user_name": "zl_hw",
-    "nick_name": "zl_hw",
-    "starred_repos": [
-      "cann/cann-samples"
-    ],
-    "user_type": "contributor",
-    "fans_count": 0,
-    "original_repo_count": 1,
-    "total_contributions": 2037
-  },
-  {
-    "user_name": "jia0liang",
-    "nick_name": "陈佳良",
-    "starred_repos": [
-      "cann/cann-samples"
-    ],
-    "user_type": "contributor",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 1303
   },
   {
     "user_name": "qq_56316042",
@@ -65293,6 +65624,28 @@
     "fans_count": 0,
     "original_repo_count": 0,
     "total_contributions": 649
+  },
+  {
+    "user_name": "HWTCherry",
+    "nick_name": "ChangTian",
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ],
+    "user_type": "contributor",
+    "fans_count": 0,
+    "original_repo_count": 1,
+    "total_contributions": 213
+  },
+  {
+    "user_name": "tichang",
+    "nick_name": "tichang",
+    "starred_repos": [
+      "cann/torchtitan-npu"
+    ],
+    "user_type": "developer",
+    "fans_count": 1,
+    "original_repo_count": 6,
+    "total_contributions": 982
   },
   {
     "user_name": "elementfox02",
@@ -67885,6 +68238,18 @@
     "total_contributions": 0
   },
   {
+    "user_name": "Taganyer",
+    "nick_name": "Taganyer",
+    "starred_repos": [
+      "cann/hccl",
+      "cann/hcomm"
+    ],
+    "user_type": "star_enthusiast",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
     "user_name": "2401_87715493",
     "nick_name": "Fun--",
     "starred_repos": [
@@ -68822,6 +69187,17 @@
     "total_contributions": 473
   },
   {
+    "user_name": "weixin_45079912",
+    "nick_name": "不考北大不改网名",
+    "starred_repos": [
+      "cann/hcomm"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
     "user_name": "zzm_721",
     "nick_name": "zzm_721",
     "starred_repos": [
@@ -69199,15 +69575,15 @@
     "total_contributions": 0
   },
   {
-    "user_name": "yaoyao_git",
-    "nick_name": "黄文妃",
+    "user_name": "huangwenfei2",
+    "nick_name": "huangwenfei",
     "starred_repos": [
       "cann/pto-isa"
     ],
-    "user_type": "die_hard_fan",
+    "user_type": "developer",
     "fans_count": 0,
     "original_repo_count": 0,
-    "total_contributions": 0
+    "total_contributions": 11
   },
   {
     "user_name": "zhangqisheng2",
@@ -69517,17 +69893,6 @@
     "fans_count": 0,
     "original_repo_count": 0,
     "total_contributions": 137
-  },
-  {
-    "user_name": "candylee",
-    "nick_name": "candylee",
-    "starred_repos": [
-      "cann/pto-isa"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
   },
   {
     "user_name": "chenben09",
@@ -72493,6 +72858,17 @@
     "total_contributions": 289
   },
   {
+    "user_name": "CS2_DN",
+    "nick_name": "Maker Studio_LQ",
+    "starred_repos": [
+      "cann/cann-bench"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 1,
+    "total_contributions": 60
+  },
+  {
     "user_name": "cjh_jinduoxia",
     "nick_name": "chenjingheng",
     "starred_repos": [
@@ -72592,17 +72968,6 @@
     "total_contributions": 161
   },
   {
-    "user_name": "2301_78862378",
-    "nick_name": "luotianhang",
-    "starred_repos": [
-      "cann/ops-blas"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
     "user_name": "leomus",
     "nick_name": "诸葛非卿",
     "starred_repos": [
@@ -72627,17 +72992,6 @@
   {
     "user_name": "pangshidong",
     "nick_name": "pangshidong",
-    "starred_repos": [
-      "cann/ops-blas"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "Twoliges",
-    "nick_name": "Riki",
     "starred_repos": [
       "cann/ops-blas"
     ],
@@ -73147,7 +73501,7 @@
     "starred_repos": [
       "cann/ops-sparse"
     ],
-    "user_type": "contributor",
+    "user_type": "developer",
     "fans_count": 0,
     "original_repo_count": 0,
     "total_contributions": 1
@@ -73307,28 +73661,6 @@
     "total_contributions": 91
   },
   {
-    "user_name": "gcw_vnvQMMXg",
-    "nick_name": "gcw_vnvQMMXg",
-    "starred_repos": [
-      "cann/xla-npu"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
-    "user_name": "weixin_65791683",
-    "nick_name": "y＝f(x)",
-    "starred_repos": [
-      "cann/xla-npu"
-    ],
-    "user_type": "die_hard_fan",
-    "fans_count": 0,
-    "original_repo_count": 0,
-    "total_contributions": 0
-  },
-  {
     "user_name": "dongya",
     "nick_name": "孑遗",
     "starred_repos": [
@@ -73349,6 +73681,28 @@
     "fans_count": 0,
     "original_repo_count": 8,
     "total_contributions": 133
+  },
+  {
+    "user_name": "gcw_vnvQMMXg",
+    "nick_name": "gcw_vnvQMMXg",
+    "starred_repos": [
+      "cann/xla-npu"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
+  },
+  {
+    "user_name": "weixin_65791683",
+    "nick_name": "y＝f(x)",
+    "starred_repos": [
+      "cann/xla-npu"
+    ],
+    "user_type": "die_hard_fan",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 0
   },
   {
     "user_name": "ChoephelDorjee",
@@ -73382,6 +73736,17 @@
     "fans_count": 0,
     "original_repo_count": 2,
     "total_contributions": 0
+  },
+  {
+    "user_name": "gcw_GjuoZSth",
+    "nick_name": "gcw_GjuoZSth",
+    "starred_repos": [
+      "cann/ops-collections"
+    ],
+    "user_type": "developer",
+    "fans_count": 0,
+    "original_repo_count": 0,
+    "total_contributions": 3
   },
   {
     "user_name": "behapppyhahaha",
