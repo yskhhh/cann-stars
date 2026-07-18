@@ -125,7 +125,7 @@
     {
       "name": "ops-transformer",
       "path": "cann/ops-transformer",
-      "total": 8883,
+      "total": 8898,
       "data": [
         0,
         0,
@@ -246,13 +246,13 @@
         536,
         501,
         365,
-        261
+        276
       ]
     },
     {
       "name": "ops-nn",
       "path": "cann/ops-nn",
-      "total": 7655,
+      "total": 7667,
       "data": [
         0,
         0,
@@ -373,13 +373,13 @@
         393,
         349,
         377,
-        236
+        248
       ]
     },
     {
       "name": "pypto",
       "path": "cann/pypto",
-      "total": 4939,
+      "total": 4948,
       "data": [
         0,
         0,
@@ -500,13 +500,13 @@
         234,
         254,
         187,
-        107
+        116
       ]
     },
     {
       "name": "asc-devkit",
       "path": "cann/asc-devkit",
-      "total": 4446,
+      "total": 4454,
       "data": [
         0,
         0,
@@ -627,13 +627,13 @@
         314,
         300,
         273,
-        167
+        175
       ]
     },
     {
       "name": "ops-math",
       "path": "cann/ops-math",
-      "total": 4135,
+      "total": 4139,
       "data": [
         0,
         0,
@@ -754,13 +754,13 @@
         159,
         195,
         202,
-        128
+        132
       ]
     },
     {
       "name": "ge",
       "path": "cann/ge",
-      "total": 4045,
+      "total": 4059,
       "data": [
         0,
         0,
@@ -881,13 +881,13 @@
         136,
         117,
         100,
-        81
+        95
       ]
     },
     {
       "name": "hcomm",
       "path": "cann/hcomm",
-      "total": 3836,
+      "total": 3853,
       "data": [
         0,
         0,
@@ -1008,13 +1008,13 @@
         252,
         238,
         267,
-        160
+        177
       ]
     },
     {
       "name": "runtime",
       "path": "cann/runtime",
-      "total": 3714,
+      "total": 3717,
       "data": [
         0,
         0,
@@ -1135,7 +1135,7 @@
         245,
         199,
         188,
-        111
+        114
       ]
     },
     {
@@ -1268,7 +1268,7 @@
     {
       "name": "hccl",
       "path": "cann/hccl",
-      "total": 2060,
+      "total": 2065,
       "data": [
         0,
         0,
@@ -1389,13 +1389,13 @@
         177,
         156,
         171,
-        112
+        117
       ]
     },
     {
       "name": "pto-isa",
       "path": "cann/pto-isa",
-      "total": 1347,
+      "total": 1351,
       "data": [
         0,
         0,
@@ -1516,13 +1516,13 @@
         50,
         43,
         58,
-        47
+        51
       ]
     },
     {
       "name": "graph-autofusion",
       "path": "cann/graph-autofusion",
-      "total": 1319,
+      "total": 1338,
       "data": [
         0,
         0,
@@ -1643,7 +1643,7 @@
         148,
         83,
         59,
-        60
+        79
       ]
     },
     {
@@ -1776,7 +1776,7 @@
     {
       "name": "cann-outreach",
       "path": "cann/cann-outreach",
-      "total": 1090,
+      "total": 1111,
       "data": [
         0,
         0,
@@ -1897,13 +1897,13 @@
         39,
         6,
         357,
-        124
+        145
       ]
     },
     {
       "name": "catlass",
       "path": "cann/catlass",
-      "total": 895,
+      "total": 902,
       "data": [
         0,
         0,
@@ -2024,13 +2024,13 @@
         31,
         46,
         42,
-        44
+        51
       ]
     },
     {
       "name": "hixl",
       "path": "cann/hixl",
-      "total": 778,
+      "total": 780,
       "data": [
         0,
         0,
@@ -2151,7 +2151,7 @@
         37,
         40,
         32,
-        13
+        15
       ]
     },
     {
@@ -2411,7 +2411,7 @@
     {
       "name": "opbase",
       "path": "cann/opbase",
-      "total": 652,
+      "total": 654,
       "data": [
         0,
         0,
@@ -2532,13 +2532,13 @@
         36,
         33,
         29,
-        17
+        19
       ]
     },
     {
       "name": "cannbot-skills",
       "path": "cann/cannbot-skills",
-      "total": 630,
+      "total": 635,
       "data": [
         0,
         0,
@@ -2659,13 +2659,13 @@
         53,
         54,
         53,
-        40
+        45
       ]
     },
     {
       "name": "cann-ops-competitions",
       "path": "cann/cann-ops-competitions",
-      "total": 626,
+      "total": 630,
       "data": [
         0,
         0,
@@ -2786,7 +2786,7 @@
         6,
         23,
         51,
-        47
+        51
       ]
     },
     {
@@ -2919,7 +2919,7 @@
     {
       "name": "torchtitan-npu",
       "path": "cann/torchtitan-npu",
-      "total": 441,
+      "total": 442,
       "data": [
         0,
         0,
@@ -3040,13 +3040,13 @@
         18,
         16,
         22,
-        20
+        21
       ]
     },
     {
       "name": "oam-tools",
       "path": "cann/oam-tools",
-      "total": 434,
+      "total": 436,
       "data": [
         0,
         0,
@@ -3167,7 +3167,7 @@
         46,
         21,
         25,
-        15
+        17
       ]
     },
     {
@@ -3554,7 +3554,7 @@
     {
       "name": "cann-learning-hub",
       "path": "cann/cann-learning-hub",
-      "total": 359,
+      "total": 360,
       "data": [
         0,
         0,
@@ -3675,7 +3675,7 @@
         78,
         46,
         37,
-        38
+        39
       ]
     },
     {
@@ -4062,7 +4062,7 @@
     {
       "name": "ops-blas",
       "path": "cann/ops-blas",
-      "total": 293,
+      "total": 294,
       "data": [
         0,
         0,
@@ -4183,13 +4183,13 @@
         30,
         36,
         21,
-        18
+        19
       ]
     },
     {
       "name": "cmake",
       "path": "cann/cmake",
-      "total": 229,
+      "total": 233,
       "data": [
         0,
         0,
@@ -4310,7 +4310,7 @@
         9,
         5,
         8,
-        22
+        26
       ]
     },
     {
@@ -4443,7 +4443,7 @@
     {
       "name": "cann-bench",
       "path": "cann/cann-bench",
-      "total": 211,
+      "total": 212,
       "data": [
         0,
         0,
@@ -4564,7 +4564,7 @@
         26,
         9,
         4,
-        19
+        20
       ]
     },
     {
@@ -4697,7 +4697,7 @@
     {
       "name": "ops-tensor",
       "path": "cann/ops-tensor",
-      "total": 155,
+      "total": 156,
       "data": [
         0,
         0,
@@ -4818,7 +4818,7 @@
         8,
         24,
         16,
-        18
+        19
       ]
     },
     {
@@ -5459,7 +5459,7 @@
     {
       "name": "infrastructure",
       "path": "cann/infrastructure",
-      "total": 100,
+      "total": 102,
       "data": [
         0,
         0,
@@ -5580,7 +5580,7 @@
         3,
         2,
         2,
-        3
+        5
       ]
     },
     {
@@ -5840,7 +5840,7 @@
     {
       "name": "ops-sparse",
       "path": "cann/ops-sparse",
-      "total": 61,
+      "total": 62,
       "data": [
         0,
         0,
@@ -5961,7 +5961,7 @@
         3,
         20,
         8,
-        12
+        13
       ]
     },
     {
@@ -8886,5 +8886,5 @@
       ]
     }
   ],
-  "generated_at": "2026-07-17"
+  "generated_at": "2026-07-18"
 }
