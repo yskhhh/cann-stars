@@ -1,17 +1,25 @@
 [
   {
-    "iid": 53,
+    "iid": 54,
     "state": "opened",
-    "created_at": "2026-09-04",
+    "created_at": "2026-09-07",
     "merged_at": "",
+    "closed_at": "",
+    "author": "wangyunxiang1"
+  },
+  {
+    "iid": 53,
+    "state": "merged",
+    "created_at": "2026-09-04",
+    "merged_at": "2026-09-07",
     "closed_at": "",
     "author": "flyswa"
   },
   {
     "iid": 52,
-    "state": "opened",
+    "state": "merged",
     "created_at": "2026-09-04",
-    "merged_at": "",
+    "merged_at": "2026-09-07",
     "closed_at": "",
     "author": "flyswa"
   },
@@ -420,7 +428,7 @@
     "state": "closed",
     "created_at": "2026-04-09",
     "merged_at": "",
-    "closed_at": "2026-09-04",
+    "closed_at": "2026-09-07",
     "author": "likun104"
   }
 ]
