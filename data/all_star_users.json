@@ -1,5 +1,136 @@
 [
   {
+    "user_name": "lc5gyj",
+    "nick_name": "Chase_AI",
+    "user_id": 11395091,
+    "avatar": "https://cdn-img.gitcode.com/fe/ce/695734fec4010e84266290e28900a4b084ad53cdae970f017e99eda9de7944c4.jpg",
+    "starred_repos": [
+      "cann/cannbot-skills",
+      "cann/cann-learning-hub",
+      "cann/cann-samples",
+      "cann/cann-ops-competitions"
+    ]
+  },
+  {
+    "user_name": "wileyoung",
+    "nick_name": "Wilem",
+    "user_id": 1458702,
+    "avatar": "https://cdn-img.gitcode.com/dd/bd/9192dd35b1dedee4969b9532a2eda6171a6076735939e18e2e5fd3673ff481af.jpg",
+    "starred_repos": [
+      "cann/cannbot-skills",
+      "cann/ops-transformer",
+      "cann/cann-recipes-infer",
+      "cann/hixl",
+      "cann/ascend-transformer-boost"
+    ]
+  },
+  {
+    "user_name": "yangtuo17",
+    "nick_name": "yangtuo",
+    "user_id": 12476605,
+    "avatar": "",
+    "starred_repos": [
+      "cann/cannbot-skills",
+      "cann/cann-learning-hub",
+      "cann/asc-devkit",
+      "cann/cann-samples",
+      "cann/cann-recipes-train"
+    ]
+  },
+  {
+    "user_name": "lsong000",
+    "nick_name": "lsong000",
+    "user_id": 416381,
+    "avatar": "https://cdn-img.gitcode.com/da/ca/5d013a09ca3a510c5734af25b2b68cc31b17fd08219e37f6e5407219eef386ea.jpg",
+    "starred_repos": [
+      "cann/cannbot-skills"
+    ]
+  },
+  {
+    "user_name": "KuaaMU",
+    "nick_name": "KuaaMU",
+    "user_id": 1514663,
+    "avatar": "https://cdn-img.gitcode.com/ac/cd/6912ac0cd8644b2afcf6ee9efb9711f14c78310e7d54ee9e1275df9ba0a6eaaf.png?time=1786691042063",
+    "starred_repos": [
+      "cann/cannbot-skills",
+      "cann/ops-nn"
+    ]
+  },
+  {
+    "user_name": "michong",
+    "nick_name": "Mi_Chong",
+    "user_id": 4075599,
+    "avatar": "https://cdn-img.gitcode.com/ff/db/4f82f8d675b82485b3ab64bd1680c37d53cc5e6405dd022bfb2d0b0c0a3cd753.png",
+    "starred_repos": [
+      "cann/cannbot-skills"
+    ]
+  },
+  {
+    "user_name": "ztcno0ne1",
+    "nick_name": "ztcno0ne1",
+    "user_id": 12516518,
+    "avatar": null,
+    "starred_repos": [
+      "cann/cannbot-skills",
+      "cann/ops-transformer",
+      "cann/cann-learning-hub",
+      "cann/ops-nn",
+      "cann/asc-devkit",
+      "cann/ge",
+      "cann/runtime",
+      "cann/ops-cv",
+      "cann/catlass",
+      "cann/torchtitan-npu",
+      "cann/hccl",
+      "cann/hcomm",
+      "cann/pto-isa",
+      "cann/ascend-transformer-boost",
+      "cann/shmem",
+      "cann/ops-test-kit",
+      "cann/ops-blas",
+      "cann/ops-tensor",
+      "cann/ops-sparse",
+      "cann/cmake",
+      "cann/ops-gnn"
+    ]
+  },
+  {
+    "user_name": "gcw_bx5PbmKX",
+    "nick_name": "Z",
+    "user_id": 12590932,
+    "avatar": "https://cdn-img.gitcode.com/fc/fc/f508c26f4c027b745a271ed78dc30b4c3a6326099202ad4b62c844cb02eea480.jpeg",
+    "starred_repos": [
+      "cann/cannbot-skills",
+      "cann/ops-transformer"
+    ]
+  },
+  {
+    "user_name": "gcw_vOHJfYky",
+    "nick_name": "齐刘海",
+    "user_id": 12590934,
+    "avatar": "https://cdn-img.gitcode.com/bb/aa/b540b25726a41918a332246fc7706012b1b49e0d6a1eb6ad96376658cd7fec9f.jpg",
+    "starred_repos": [
+      "cann/cannbot-skills",
+      "cann/ops-math",
+      "cann/ops-transformer",
+      "cann/cann-learning-hub"
+    ]
+  },
+  {
+    "user_name": "gcw_w0gp3bd8",
+    "nick_name": "Jayveon",
+    "user_id": 12590923,
+    "avatar": "https://cdn-img.gitcode.com/bc/ce/85112b001cc8516e8e18ac680293335661048d296dd61c14e030f31bbb73bc4f.jpeg",
+    "starred_repos": [
+      "cann/cannbot-skills",
+      "cann/ops-math",
+      "cann/ops-transformer",
+      "cann/cann-learning-hub",
+      "cann/ops-nn",
+      "cann/cann-samples"
+    ]
+  },
+  {
     "user_name": "tangkaidi",
     "nick_name": "tangkaidi",
     "user_id": 7422635,
@@ -151,10 +282,12 @@
     "avatar": null,
     "starred_repos": [
       "cann/cannbot-skills",
+      "cann/ops-math",
       "cann/ops-transformer",
       "cann/cann-learning-hub",
       "cann/pypto",
       "cann/ops-nn",
+      "cann/hixl",
       "cann/asc-devkit",
       "cann/ge",
       "cann/opbase",
@@ -162,14 +295,24 @@
       "cann/runtime",
       "cann/catlass",
       "cann/torchtitan-npu",
+      "cann/hccl",
       "cann/hcomm",
       "cann/amct",
+      "cann/oam-tools",
+      "cann/triton-inference-server-ge-backend",
       "cann/pypto-gym",
       "cann/asc-tools",
+      "cann/infrastructure",
       "cann/cann-outreach",
       "cann/ops-test-kit",
       "cann/ops-tensor",
-      "cann/ops-gnn"
+      "cann/ops-sparse",
+      "cann/tensorflow",
+      "cann/.gitcode",
+      "cann/asc-comm",
+      "cann/ops-gnn",
+      "cann/ops-ras",
+      "cann/cannbot-sentry"
     ]
   },
   {
@@ -242,8 +385,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/pypto-gym",
@@ -395,8 +538,8 @@
       "cann/hccl",
       "cann/hcomm",
       "cann/pto-isa",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/cann-recipes-embodied-ai",
@@ -423,8 +566,8 @@
       "cann/ops-rand",
       "cann/manifest",
       "cann/docs",
-      "cann/its-stable-llm",
       "cann/its-trip",
+      "cann/its-stable-llm",
       "cann/cannbot"
     ]
   },
@@ -533,13 +676,13 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/sip",
       "cann/infrastructure",
       "cann/shmem",
@@ -584,13 +727,19 @@
       "cann/catlass",
       "cann/torchtitan-npu",
       "cann/hccl",
+      "cann/metadef",
       "cann/hcomm",
       "cann/ascend-transformer-boost",
+      "cann/asnumpy",
       "cann/oam-tools",
+      "cann/cann-recipes-embodied-ai",
       "cann/driver",
+      "cann/triton-inference-server-ge-backend",
       "cann/pypto-gym",
       "cann/asc-tools",
       "cann/infrastructure",
+      "cann/cann-recipes-harmony-infer",
+      "cann/cann-recipes-spatial-intelligence",
       "cann/ascend-boost-comm",
       "cann/shmem",
       "cann/cann-ops-competitions",
@@ -602,11 +751,19 @@
       "cann/ops-collections",
       "cann/ops-fft",
       "cann/.gitcode",
+      "cann/ops-multimodal-fusion",
+      "cann/ops-rand",
+      "cann/asnumpy-docs",
       "cann/cann-spack-package",
       "cann/manifest",
+      "cann/docs",
       "cann/asc-comm",
+      "cann/gauss-splat",
       "cann/ops-gnn",
-      "cann/ops-ras"
+      "cann/its-trip",
+      "cann/its-stable-llm",
+      "cann/ops-ras",
+      "cann/cannbot-sentry"
     ]
   },
   {
@@ -661,8 +818,8 @@
       "cann/metadef",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -708,10 +865,10 @@
       "cann/asc-comm",
       "cann/gauss-splat",
       "cann/ops-gnn",
-      "cann/its-stable-llm",
       "cann/its-trip",
-      "cann/its-matrix-computation",
+      "cann/its-stable-llm",
       "cann/ops-ras",
+      "cann/its-matrix-computation",
       "cann/cannbot"
     ]
   },
@@ -745,14 +902,14 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -792,10 +949,10 @@
       "cann/asc-comm",
       "cann/gauss-splat",
       "cann/ops-gnn",
-      "cann/its-stable-llm",
       "cann/its-trip",
-      "cann/its-matrix-computation",
+      "cann/its-stable-llm",
       "cann/ops-ras",
+      "cann/its-matrix-computation",
       "cann/cannbot"
     ]
   },
@@ -861,15 +1018,15 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -909,10 +1066,10 @@
       "cann/asc-comm",
       "cann/gauss-splat",
       "cann/ops-gnn",
-      "cann/its-stable-llm",
       "cann/its-trip",
-      "cann/its-matrix-computation",
+      "cann/its-stable-llm",
       "cann/ops-ras",
+      "cann/its-matrix-computation",
       "cann/cannbot"
     ]
   },
@@ -936,17 +1093,21 @@
       "cann/graph-autofusion",
       "cann/runtime",
       "cann/ops-cv",
+      "cann/cann-recipes-train",
       "cann/catlass",
       "cann/torchtitan-npu",
       "cann/hccl",
       "cann/metadef",
       "cann/hcomm",
       "cann/pto-isa",
+      "cann/ascend-transformer-boost",
       "cann/amct",
       "cann/oam-tools",
       "cann/cann-recipes-embodied-ai",
+      "cann/driver",
       "cann/pypto-gym",
       "cann/asc-tools",
+      "cann/sip",
       "cann/shmem",
       "cann/cann-ops-competitions",
       "cann/cann-outreach",
@@ -956,7 +1117,9 @@
       "cann/catccos",
       "cann/tensorflow",
       "cann/cannbot-dsl",
+      "cann/ops-solver",
       "cann/ops-collections",
+      "cann/its-trip",
       "cann/cannbot"
     ]
   },
@@ -990,15 +1153,15 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -1038,10 +1201,10 @@
       "cann/asc-comm",
       "cann/gauss-splat",
       "cann/ops-gnn",
-      "cann/its-stable-llm",
       "cann/its-trip",
-      "cann/its-matrix-computation",
+      "cann/its-stable-llm",
       "cann/ops-ras",
+      "cann/its-matrix-computation",
       "cann/cannbot"
     ]
   },
@@ -1071,8 +1234,8 @@
       "cann/runtime",
       "cann/cann-recipes-train",
       "cann/metadef",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/oam-tools",
       "cann/driver"
     ]
@@ -1107,15 +1270,15 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -1155,10 +1318,10 @@
       "cann/asc-comm",
       "cann/gauss-splat",
       "cann/ops-gnn",
-      "cann/its-stable-llm",
       "cann/its-trip",
-      "cann/its-matrix-computation",
+      "cann/its-stable-llm",
       "cann/ops-ras",
+      "cann/its-matrix-computation",
       "cann/cannbot"
     ]
   },
@@ -1192,15 +1355,15 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -1239,10 +1402,10 @@
       "cann/asc-comm",
       "cann/gauss-splat",
       "cann/ops-gnn",
-      "cann/its-stable-llm",
       "cann/its-trip",
-      "cann/its-matrix-computation",
+      "cann/its-stable-llm",
       "cann/ops-ras",
+      "cann/its-matrix-computation",
       "cann/cannbot"
     ]
   },
@@ -1366,15 +1529,15 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -1414,10 +1577,10 @@
       "cann/asc-comm",
       "cann/gauss-splat",
       "cann/ops-gnn",
-      "cann/its-stable-llm",
       "cann/its-trip",
-      "cann/its-matrix-computation",
+      "cann/its-stable-llm",
       "cann/ops-ras",
+      "cann/its-matrix-computation",
       "cann/cannbot"
     ]
   },
@@ -1451,7 +1614,8 @@
     "starred_repos": [
       "cann/cannbot-skills",
       "cann/ops-math",
-      "cann/cann-bench"
+      "cann/cann-bench",
+      "cann/cannbot"
     ]
   },
   {
@@ -1546,15 +1710,15 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -1594,10 +1758,10 @@
       "cann/asc-comm",
       "cann/gauss-splat",
       "cann/ops-gnn",
-      "cann/its-stable-llm",
       "cann/its-trip",
-      "cann/its-matrix-computation",
+      "cann/its-stable-llm",
       "cann/ops-ras",
+      "cann/its-matrix-computation",
       "cann/cannbot"
     ]
   },
@@ -1670,15 +1834,15 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -1718,10 +1882,10 @@
       "cann/asc-comm",
       "cann/gauss-splat",
       "cann/ops-gnn",
-      "cann/its-stable-llm",
       "cann/its-trip",
-      "cann/its-matrix-computation",
+      "cann/its-stable-llm",
       "cann/ops-ras",
+      "cann/its-matrix-computation",
       "cann/cannbot"
     ]
   },
@@ -1755,15 +1919,15 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -1803,10 +1967,10 @@
       "cann/asc-comm",
       "cann/gauss-splat",
       "cann/ops-gnn",
-      "cann/its-stable-llm",
       "cann/its-trip",
-      "cann/its-matrix-computation",
+      "cann/its-stable-llm",
       "cann/ops-ras",
+      "cann/its-matrix-computation",
       "cann/cannbot"
     ]
   },
@@ -1952,15 +2116,15 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -1999,10 +2163,10 @@
       "cann/asc-comm",
       "cann/gauss-splat",
       "cann/ops-gnn",
-      "cann/its-stable-llm",
       "cann/its-trip",
-      "cann/its-matrix-computation",
-      "cann/ops-ras"
+      "cann/its-stable-llm",
+      "cann/ops-ras",
+      "cann/its-matrix-computation"
     ]
   },
   {
@@ -2055,15 +2219,15 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -2103,10 +2267,10 @@
       "cann/asc-comm",
       "cann/gauss-splat",
       "cann/ops-gnn",
-      "cann/its-stable-llm",
       "cann/its-trip",
-      "cann/its-matrix-computation",
-      "cann/ops-ras"
+      "cann/its-stable-llm",
+      "cann/ops-ras",
+      "cann/its-matrix-computation"
     ]
   },
   {
@@ -2159,15 +2323,15 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -2207,10 +2371,10 @@
       "cann/asc-comm",
       "cann/gauss-splat",
       "cann/ops-gnn",
-      "cann/its-stable-llm",
       "cann/its-trip",
-      "cann/its-matrix-computation",
+      "cann/its-stable-llm",
       "cann/ops-ras",
+      "cann/its-matrix-computation",
       "cann/cannbot"
     ]
   },
@@ -2262,15 +2426,15 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -2310,10 +2474,10 @@
       "cann/asc-comm",
       "cann/gauss-splat",
       "cann/ops-gnn",
-      "cann/its-stable-llm",
       "cann/its-trip",
-      "cann/its-matrix-computation",
-      "cann/ops-ras"
+      "cann/its-stable-llm",
+      "cann/ops-ras",
+      "cann/its-matrix-computation"
     ]
   },
   {
@@ -2497,15 +2661,15 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -2545,10 +2709,10 @@
       "cann/asc-comm",
       "cann/gauss-splat",
       "cann/ops-gnn",
-      "cann/its-stable-llm",
       "cann/its-trip",
-      "cann/its-matrix-computation",
-      "cann/ops-ras"
+      "cann/its-stable-llm",
+      "cann/ops-ras",
+      "cann/its-matrix-computation"
     ]
   },
   {
@@ -2581,15 +2745,15 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -2630,10 +2794,10 @@
       "cann/asc-comm",
       "cann/gauss-splat",
       "cann/ops-gnn",
-      "cann/its-stable-llm",
       "cann/its-trip",
-      "cann/its-matrix-computation",
-      "cann/ops-ras"
+      "cann/its-stable-llm",
+      "cann/ops-ras",
+      "cann/its-matrix-computation"
     ]
   },
   {
@@ -2676,15 +2840,15 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -2724,10 +2888,10 @@
       "cann/asc-comm",
       "cann/gauss-splat",
       "cann/ops-gnn",
-      "cann/its-stable-llm",
       "cann/its-trip",
-      "cann/its-matrix-computation",
-      "cann/ops-ras"
+      "cann/its-stable-llm",
+      "cann/ops-ras",
+      "cann/its-matrix-computation"
     ]
   },
   {
@@ -2760,15 +2924,15 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -2808,10 +2972,10 @@
       "cann/asc-comm",
       "cann/gauss-splat",
       "cann/ops-gnn",
-      "cann/its-stable-llm",
       "cann/its-trip",
-      "cann/its-matrix-computation",
-      "cann/ops-ras"
+      "cann/its-stable-llm",
+      "cann/ops-ras",
+      "cann/its-matrix-computation"
     ]
   },
   {
@@ -2844,15 +3008,15 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -2892,10 +3056,10 @@
       "cann/asc-comm",
       "cann/gauss-splat",
       "cann/ops-gnn",
-      "cann/its-stable-llm",
       "cann/its-trip",
-      "cann/its-matrix-computation",
-      "cann/ops-ras"
+      "cann/its-stable-llm",
+      "cann/ops-ras",
+      "cann/its-matrix-computation"
     ]
   },
   {
@@ -2928,15 +3092,15 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -2976,10 +3140,10 @@
       "cann/asc-comm",
       "cann/gauss-splat",
       "cann/ops-gnn",
-      "cann/its-stable-llm",
       "cann/its-trip",
-      "cann/its-matrix-computation",
-      "cann/ops-ras"
+      "cann/its-stable-llm",
+      "cann/ops-ras",
+      "cann/its-matrix-computation"
     ]
   },
   {
@@ -3044,15 +3208,15 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -3141,15 +3305,15 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -3189,10 +3353,10 @@
       "cann/asc-comm",
       "cann/gauss-splat",
       "cann/ops-gnn",
-      "cann/its-stable-llm",
       "cann/its-trip",
-      "cann/its-matrix-computation",
-      "cann/ops-ras"
+      "cann/its-stable-llm",
+      "cann/ops-ras",
+      "cann/its-matrix-computation"
     ]
   },
   {
@@ -3234,15 +3398,15 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -3281,10 +3445,10 @@
       "cann/asc-comm",
       "cann/gauss-splat",
       "cann/ops-gnn",
-      "cann/its-stable-llm",
       "cann/its-trip",
-      "cann/its-matrix-computation",
-      "cann/ops-ras"
+      "cann/its-stable-llm",
+      "cann/ops-ras",
+      "cann/its-matrix-computation"
     ]
   },
   {
@@ -3331,8 +3495,8 @@
       "cann/metadef",
       "cann/hcomm",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/driver",
       "cann/infrastructure",
       "cann/cann-ops-competitions",
@@ -3386,15 +3550,15 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -3433,10 +3597,10 @@
       "cann/docs",
       "cann/gauss-splat",
       "cann/ops-gnn",
-      "cann/its-stable-llm",
       "cann/its-trip",
-      "cann/its-matrix-computation",
-      "cann/ops-ras"
+      "cann/its-stable-llm",
+      "cann/ops-ras",
+      "cann/its-matrix-computation"
     ]
   },
   {
@@ -3578,6 +3742,7 @@
       "cann/oam-tools",
       "cann/pypto-gym",
       "cann/ascend-boost-comm",
+      "cann/shmem",
       "cann/cann-ops-competitions",
       "cann/cann-outreach",
       "cann/cann-bench",
@@ -3700,15 +3865,15 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -3748,10 +3913,10 @@
       "cann/asc-comm",
       "cann/gauss-splat",
       "cann/ops-gnn",
-      "cann/its-stable-llm",
       "cann/its-trip",
-      "cann/its-matrix-computation",
-      "cann/ops-ras"
+      "cann/its-stable-llm",
+      "cann/ops-ras",
+      "cann/its-matrix-computation"
     ]
   },
   {
@@ -3846,15 +4011,15 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -3894,10 +4059,10 @@
       "cann/asc-comm",
       "cann/gauss-splat",
       "cann/ops-gnn",
-      "cann/its-stable-llm",
       "cann/its-trip",
-      "cann/its-matrix-computation",
-      "cann/ops-ras"
+      "cann/its-stable-llm",
+      "cann/ops-ras",
+      "cann/its-matrix-computation"
     ]
   },
   {
@@ -3961,15 +4126,15 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -4009,10 +4174,10 @@
       "cann/asc-comm",
       "cann/gauss-splat",
       "cann/ops-gnn",
-      "cann/its-stable-llm",
       "cann/its-trip",
-      "cann/its-matrix-computation",
-      "cann/ops-ras"
+      "cann/its-stable-llm",
+      "cann/ops-ras",
+      "cann/its-matrix-computation"
     ]
   },
   {
@@ -4045,15 +4210,15 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -4089,14 +4254,13 @@
       "cann/cann-spack-package",
       "cann/elec-ops-simulation",
       "cann/manifest",
-      "cann/docs",
       "cann/asc-comm",
       "cann/gauss-splat",
       "cann/ops-gnn",
-      "cann/its-stable-llm",
       "cann/its-trip",
-      "cann/its-matrix-computation",
-      "cann/ops-ras"
+      "cann/its-stable-llm",
+      "cann/ops-ras",
+      "cann/its-matrix-computation"
     ]
   },
   {
@@ -4129,15 +4293,15 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -4177,10 +4341,10 @@
       "cann/asc-comm",
       "cann/gauss-splat",
       "cann/ops-gnn",
-      "cann/its-stable-llm",
       "cann/its-trip",
-      "cann/its-matrix-computation",
-      "cann/ops-ras"
+      "cann/its-stable-llm",
+      "cann/ops-ras",
+      "cann/its-matrix-computation"
     ]
   },
   {
@@ -4241,14 +4405,14 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -4286,10 +4450,10 @@
       "cann/asc-comm",
       "cann/gauss-splat",
       "cann/ops-gnn",
-      "cann/its-stable-llm",
       "cann/its-trip",
-      "cann/its-matrix-computation",
-      "cann/ops-ras"
+      "cann/its-stable-llm",
+      "cann/ops-ras",
+      "cann/its-matrix-computation"
     ]
   },
   {
@@ -4322,15 +4486,15 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -4370,10 +4534,10 @@
       "cann/asc-comm",
       "cann/gauss-splat",
       "cann/ops-gnn",
-      "cann/its-stable-llm",
       "cann/its-trip",
-      "cann/its-matrix-computation",
-      "cann/ops-ras"
+      "cann/its-stable-llm",
+      "cann/ops-ras",
+      "cann/its-matrix-computation"
     ]
   },
   {
@@ -4507,15 +4671,15 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -4555,10 +4719,10 @@
       "cann/asc-comm",
       "cann/gauss-splat",
       "cann/ops-gnn",
-      "cann/its-stable-llm",
       "cann/its-trip",
-      "cann/its-matrix-computation",
-      "cann/ops-ras"
+      "cann/its-stable-llm",
+      "cann/ops-ras",
+      "cann/its-matrix-computation"
     ]
   },
   {
@@ -4624,7 +4788,8 @@
       "cann/cannbot-skills",
       "cann/ops-transformer",
       "cann/cann-learning-hub",
-      "cann/asc-devkit"
+      "cann/asc-devkit",
+      "cann/cannbot"
     ]
   },
   {
@@ -4786,15 +4951,15 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -4834,10 +4999,10 @@
       "cann/asc-comm",
       "cann/gauss-splat",
       "cann/ops-gnn",
-      "cann/its-stable-llm",
       "cann/its-trip",
-      "cann/its-matrix-computation",
-      "cann/ops-ras"
+      "cann/its-stable-llm",
+      "cann/ops-ras",
+      "cann/its-matrix-computation"
     ]
   },
   {
@@ -4866,8 +5031,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/driver",
       "cann/pypto-gym",
       "cann/asc-tools",
@@ -5004,15 +5169,15 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -5052,10 +5217,10 @@
       "cann/asc-comm",
       "cann/gauss-splat",
       "cann/ops-gnn",
-      "cann/its-stable-llm",
       "cann/its-trip",
-      "cann/its-matrix-computation",
-      "cann/ops-ras"
+      "cann/its-stable-llm",
+      "cann/ops-ras",
+      "cann/its-matrix-computation"
     ]
   },
   {
@@ -5516,8 +5681,8 @@
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -5556,8 +5721,8 @@
       "cann/asc-comm",
       "cann/gauss-splat",
       "cann/ops-gnn",
-      "cann/its-stable-llm",
       "cann/its-trip",
+      "cann/its-stable-llm",
       "cann/its-matrix-computation"
     ]
   },
@@ -5614,15 +5779,15 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -5663,8 +5828,8 @@
       "cann/asc-comm",
       "cann/gauss-splat",
       "cann/ops-gnn",
-      "cann/its-stable-llm",
       "cann/its-trip",
+      "cann/its-stable-llm",
       "cann/its-matrix-computation"
     ]
   },
@@ -5872,6 +6037,7 @@
       "cann/ops-nn",
       "cann/cann-recipes-infer",
       "cann/asc-devkit",
+      "cann/ge",
       "cann/graph-autofusion",
       "cann/cann-samples",
       "cann/runtime",
@@ -5881,8 +6047,8 @@
       "cann/hccl",
       "cann/metadef",
       "cann/hcomm",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -6039,15 +6205,15 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -6167,15 +6333,15 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -6268,15 +6434,15 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -6316,10 +6482,10 @@
       "cann/asc-comm",
       "cann/gauss-splat",
       "cann/ops-gnn",
-      "cann/its-stable-llm",
       "cann/its-trip",
-      "cann/its-matrix-computation",
-      "cann/ops-ras"
+      "cann/its-stable-llm",
+      "cann/ops-ras",
+      "cann/its-matrix-computation"
     ]
   },
   {
@@ -6516,15 +6682,15 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -6656,15 +6822,15 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -6704,8 +6870,8 @@
       "cann/asc-comm",
       "cann/gauss-splat",
       "cann/ops-gnn",
-      "cann/its-stable-llm",
       "cann/its-trip",
+      "cann/its-stable-llm",
       "cann/its-matrix-computation",
       "cann/cannbot"
     ]
@@ -6932,6 +7098,7 @@
       "cann/cannbot-skills",
       "cann/cann-learning-hub",
       "cann/pypto",
+      "cann/cann-recipes-infer",
       "cann/pto-isa"
     ]
   },
@@ -7122,6 +7289,7 @@
       "cann/asc-tools",
       "cann/cann-ops-competitions",
       "cann/cann-bench",
+      "cann/ops-test-kit",
       "cann/ops-blas",
       "cann/ops-sparse",
       "cann/ops-fft",
@@ -7347,15 +7515,15 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -7512,8 +7680,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -7601,15 +7769,15 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -7677,15 +7845,15 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -7725,10 +7893,10 @@
       "cann/asc-comm",
       "cann/gauss-splat",
       "cann/ops-gnn",
-      "cann/its-stable-llm",
       "cann/its-trip",
-      "cann/its-matrix-computation",
+      "cann/its-stable-llm",
       "cann/ops-ras",
+      "cann/its-matrix-computation",
       "cann/cannbot"
     ]
   },
@@ -7770,15 +7938,15 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -7843,14 +8011,14 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -7907,8 +8075,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -8023,15 +8191,15 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -8103,15 +8271,15 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -8179,15 +8347,15 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -8494,8 +8662,8 @@
       "cann/catlass",
       "cann/hccl",
       "cann/hcomm",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
       "cann/sip",
@@ -8650,8 +8818,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -8851,8 +9019,8 @@
       "cann/cann-recipes-train",
       "cann/torchtitan-npu",
       "cann/metadef",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/oam-tools"
     ]
   },
@@ -9582,15 +9750,15 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -9653,8 +9821,8 @@
       "cann/metadef",
       "cann/hcomm",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/oam-tools",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
@@ -9846,14 +10014,14 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -10017,8 +10185,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -10079,8 +10247,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -10158,15 +10326,15 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -10347,15 +10515,15 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -10590,15 +10758,15 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -10666,15 +10834,15 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -10968,8 +11136,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -11055,8 +11223,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/oam-tools",
       "cann/cann-recipes-embodied-ai",
       "cann/sip",
@@ -11377,8 +11545,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -11451,8 +11619,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -11525,15 +11693,15 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -11573,10 +11741,10 @@
       "cann/asc-comm",
       "cann/gauss-splat",
       "cann/ops-gnn",
-      "cann/its-stable-llm",
       "cann/its-trip",
-      "cann/its-matrix-computation",
+      "cann/its-stable-llm",
       "cann/ops-ras",
+      "cann/its-matrix-computation",
       "cann/cannbot"
     ]
   },
@@ -11711,7 +11879,7 @@
   },
   {
     "user_name": "gcw_P1kmlEeI",
-    "nick_name": "gcw_P1kmlEeI",
+    "nick_name": "njuyuan",
     "user_id": 5695874,
     "avatar": "",
     "starred_repos": [
@@ -11844,8 +12012,8 @@
       "cann/catlass",
       "cann/hccl",
       "cann/pto-isa",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/atvoss",
       "cann/asc-tools",
@@ -11970,8 +12138,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -12068,8 +12236,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -12170,8 +12338,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -12269,8 +12437,8 @@
       "cann/oam-tools",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/sip",
       "cann/shmem",
       "cann/cann-ops-competitions",
@@ -12284,6 +12452,7 @@
       "cann/tensorflow",
       "cann/cannbot-dsl",
       "cann/xla-npu",
+      "cann/ops-collections",
       "cann/docs",
       "cann/gauss-splat"
     ]
@@ -12410,8 +12579,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -12593,15 +12762,15 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -12679,8 +12848,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -12747,8 +12916,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
@@ -12802,13 +12971,13 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/oam-tools",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -12924,8 +13093,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -13009,15 +13178,15 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -13155,15 +13324,15 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -13578,8 +13747,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -13648,8 +13817,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -16198,8 +16367,8 @@
       "cann/metadef",
       "cann/hcomm",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -17385,8 +17554,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -17469,15 +17638,15 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -18396,8 +18565,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -18491,8 +18660,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -18657,7 +18826,8 @@
       "cann/pypto-gym",
       "cann/infrastructure",
       "cann/cann-outreach",
-      "cann/cann-bench"
+      "cann/cann-bench",
+      "cann/cannbot"
     ]
   },
   {
@@ -18742,8 +18912,8 @@
       "cann/hccl",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
@@ -18928,6 +19098,7 @@
     "starred_repos": [
       "cann/cannbot-skills",
       "cann/ops-transformer",
+      "cann/cann-learning-hub",
       "cann/pypto",
       "cann/community",
       "cann/amct",
@@ -19085,15 +19256,15 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -19161,8 +19332,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -19528,15 +19699,15 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -19576,10 +19747,10 @@
       "cann/asc-comm",
       "cann/gauss-splat",
       "cann/ops-gnn",
-      "cann/its-stable-llm",
       "cann/its-trip",
-      "cann/its-matrix-computation",
-      "cann/ops-ras"
+      "cann/its-stable-llm",
+      "cann/ops-ras",
+      "cann/its-matrix-computation"
     ]
   },
   {
@@ -19745,8 +19916,8 @@
       "cann/torchtitan-npu",
       "cann/hccl",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
@@ -19840,14 +20011,14 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -19936,8 +20107,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -20003,8 +20174,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -20065,8 +20236,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -20113,8 +20284,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -20149,8 +20320,8 @@
       "cann/cann-recipes-train",
       "cann/torchtitan-npu",
       "cann/metadef",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/oam-tools",
       "cann/shmem"
     ]
@@ -20305,8 +20476,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -20351,8 +20522,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -20399,8 +20570,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -20491,8 +20662,8 @@
       "cann/catlass",
       "cann/torchtitan-npu",
       "cann/metadef",
-      "cann/amct",
-      "cann/pyasc"
+      "cann/pyasc",
+      "cann/amct"
     ]
   },
   {
@@ -20538,8 +20709,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -20624,8 +20795,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -20735,8 +20906,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -20790,8 +20961,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -20893,8 +21064,8 @@
       "cann/catlass",
       "cann/torchtitan-npu",
       "cann/metadef",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/oam-tools"
     ]
   },
@@ -20994,8 +21165,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -21037,7 +21208,10 @@
     "avatar": "",
     "starred_repos": [
       "cann/cannbot-skills",
+      "cann/ops-math",
+      "cann/ops-nn",
       "cann/cann-recipes-infer",
+      "cann/asc-devkit",
       "cann/catlass"
     ]
   },
@@ -21258,8 +21432,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -21437,8 +21611,8 @@
       "cann/runtime",
       "cann/cann-recipes-train",
       "cann/metadef",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/oam-tools"
     ]
   },
@@ -21470,8 +21644,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -21571,8 +21745,8 @@
       "cann/torchtitan-npu",
       "cann/metadef",
       "cann/hcomm",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/oam-tools"
     ]
   },
@@ -21633,8 +21807,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -22012,8 +22186,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -23147,8 +23321,8 @@
       "cann/metadef",
       "cann/hcomm",
       "cann/pto-isa",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -23290,7 +23464,7 @@
     ]
   },
   {
-    "user_name": "2301_76992698",
+    "user_name": "qindu",
     "nick_name": "qindu",
     "user_id": 5277501,
     "avatar": "https://cdn-img.gitcode.com/ea/af/ea5a93f79ef9ac8876e2b45a1743b02a399ad3c193ee244dfe990383aed983ba.png",
@@ -23884,8 +24058,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -23922,8 +24096,8 @@
       "cann/cann-recipes-train",
       "cann/torchtitan-npu",
       "cann/metadef",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/oam-tools",
       "cann/triton-inference-server-ge-backend"
     ]
@@ -24023,8 +24197,8 @@
       "cann/runtime",
       "cann/cann-recipes-train",
       "cann/metadef",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/oam-tools"
     ]
   },
@@ -24139,8 +24313,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -24187,8 +24361,8 @@
       "cann/cann-recipes-train",
       "cann/torchtitan-npu",
       "cann/metadef",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/oam-tools"
     ]
   },
@@ -24373,8 +24547,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -24601,15 +24775,15 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -24747,8 +24921,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -24976,14 +25150,14 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -25557,8 +25731,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -25666,6 +25840,58 @@
     ]
   },
   {
+    "user_name": "gcw_8nURUwGN",
+    "nick_name": "gcw_8nURUwGN",
+    "user_id": 12594877,
+    "avatar": "",
+    "starred_repos": [
+      "cann/ops-math",
+      "cann/ops-transformer"
+    ]
+  },
+  {
+    "user_name": "JasonZhang88",
+    "nick_name": "JasonZhang88",
+    "user_id": 9098031,
+    "avatar": null,
+    "starred_repos": [
+      "cann/ops-math",
+      "cann/cann-learning-hub"
+    ]
+  },
+  {
+    "user_name": "ChipCamp",
+    "nick_name": "ChipCamp",
+    "user_id": 5972130,
+    "avatar": "https://cdn-img.gitcode.com/bc/dc/b0c74280778d4cfae90d279d8d770561e60e3fcecf6a9e048d66447807ab8527.png?time=1750769939438",
+    "starred_repos": [
+      "cann/ops-math",
+      "cann/ops-transformer",
+      "cann/ops-nn"
+    ]
+  },
+  {
+    "user_name": "M0nteCarl0",
+    "nick_name": "Alex ",
+    "user_id": 12588793,
+    "avatar": "https://cdn-img.gitcode.com/fe/ba/7f33eb83afe8f335a1fed869196b6c070d3662ef93d9da22b1ec876010898770.png",
+    "starred_repos": [
+      "cann/ops-math",
+      "cann/hixl",
+      "cann/asc-devkit",
+      "cann/ops-cv",
+      "cann/pto-isa",
+      "cann/asnumpy",
+      "cann/driver",
+      "cann/ops-blas",
+      "cann/ops-sparse",
+      "cann/ops-collections",
+      "cann/ops-fft",
+      "cann/ops-rand",
+      "cann/asnumpy-docs"
+    ]
+  },
+  {
     "user_name": "vcRRT_xiaobai",
     "nick_name": "vcRRT_xiaobai",
     "user_id": 3763630,
@@ -25708,17 +25934,6 @@
       "cann/infrastructure",
       "cann/ops-blas",
       "cann/asc-comm"
-    ]
-  },
-  {
-    "user_name": "ChipCamp",
-    "nick_name": "ChipCamp",
-    "user_id": 5972130,
-    "avatar": "https://cdn-img.gitcode.com/bc/dc/b0c74280778d4cfae90d279d8d770561e60e3fcecf6a9e048d66447807ab8527.png?time=1750769939438",
-    "starred_repos": [
-      "cann/ops-math",
-      "cann/ops-transformer",
-      "cann/ops-nn"
     ]
   },
   {
@@ -26263,8 +26478,8 @@
       "cann/manifest",
       "cann/gauss-splat",
       "cann/its-stable-llm",
-      "cann/its-matrix-computation",
-      "cann/ops-ras"
+      "cann/ops-ras",
+      "cann/its-matrix-computation"
     ]
   },
   {
@@ -27774,8 +27989,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -28100,8 +28315,8 @@
       "cann/catlass",
       "cann/hccl",
       "cann/pto-isa",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/driver",
@@ -28781,8 +28996,8 @@
       "cann/cann-recipes-train",
       "cann/torchtitan-npu",
       "cann/metadef",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/oam-tools",
       "cann/asc-tools"
     ]
@@ -29146,8 +29361,8 @@
       "cann/cann-recipes-train",
       "cann/metadef",
       "cann/hcomm",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/oam-tools",
       "cann/release-management"
     ]
@@ -29536,8 +29751,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -29580,8 +29795,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -29639,8 +29854,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -29685,8 +29900,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -29730,8 +29945,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -29775,8 +29990,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -29817,8 +30032,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
@@ -29862,8 +30077,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -29909,8 +30124,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -29954,8 +30169,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -30002,8 +30217,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -30046,8 +30261,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -30090,8 +30305,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -30133,8 +30348,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -30204,8 +30419,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -30267,8 +30482,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -30308,8 +30523,8 @@
       "cann/metadef",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
@@ -30350,8 +30565,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -30396,8 +30611,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -30440,8 +30655,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -30530,8 +30745,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -30573,8 +30788,8 @@
       "cann/metadef",
       "cann/hcomm",
       "cann/pto-isa",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -30617,8 +30832,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -30662,8 +30877,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -30703,8 +30918,8 @@
       "cann/hccl",
       "cann/metadef",
       "cann/hcomm",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -30748,8 +30963,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -30793,8 +31008,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -30838,8 +31053,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -30883,8 +31098,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -30928,8 +31143,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -30972,8 +31187,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -31017,8 +31232,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -31061,8 +31276,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -31106,8 +31321,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -31149,8 +31364,8 @@
       "cann/metadef",
       "cann/hcomm",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -31195,8 +31410,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -31239,8 +31454,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -31284,8 +31499,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -31329,8 +31544,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -31412,8 +31627,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -31457,8 +31672,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -31503,8 +31718,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -31547,8 +31762,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -31592,8 +31807,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -31635,8 +31850,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -31704,8 +31919,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -31747,8 +31962,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -31791,8 +32006,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -31857,8 +32072,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -31902,8 +32117,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -31980,8 +32195,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -32025,8 +32240,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -32069,8 +32284,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -32115,8 +32330,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -32160,8 +32375,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -32205,8 +32420,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -32252,8 +32467,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -32298,8 +32513,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -32342,8 +32557,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -32386,8 +32601,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -32459,8 +32674,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -32504,8 +32719,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -32549,8 +32764,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -32593,8 +32808,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -32633,8 +32848,8 @@
       "cann/hccl",
       "cann/hcomm",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -32676,8 +32891,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -32722,8 +32937,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -32767,8 +32982,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -32812,8 +33027,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -32856,8 +33071,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -32899,15 +33114,15 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -32945,8 +33160,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -32989,8 +33204,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -33035,8 +33250,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -33080,8 +33295,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -33125,8 +33340,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -33169,8 +33384,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -33214,15 +33429,15 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/driver",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/asc-tools",
       "cann/sip",
       "cann/infrastructure",
@@ -33259,8 +33474,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -33302,8 +33517,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -33348,8 +33563,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -33421,8 +33636,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -33466,8 +33681,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -33510,8 +33725,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -33551,8 +33766,8 @@
       "cann/hccl",
       "cann/metadef",
       "cann/hcomm",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -33602,8 +33817,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -33682,8 +33897,8 @@
       "cann/hccl",
       "cann/hcomm",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -34014,8 +34229,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -34159,8 +34374,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -34627,8 +34842,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -34688,8 +34903,8 @@
       "cann/torchtitan-npu",
       "cann/metadef",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/ascend-boost-comm"
@@ -34743,8 +34958,8 @@
       "cann/catlass",
       "cann/metadef",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/infrastructure",
@@ -34797,8 +35012,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -35959,8 +36174,8 @@
       "cann/cann-recipes-train",
       "cann/torchtitan-npu",
       "cann/metadef",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/oam-tools",
       "cann/tensorflow"
     ]
@@ -35992,8 +36207,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -36075,8 +36290,8 @@
       "cann/cann-recipes-train",
       "cann/torchtitan-npu",
       "cann/metadef",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/oam-tools"
     ]
   },
@@ -36098,8 +36313,8 @@
       "cann/ops-cv",
       "cann/cann-recipes-train",
       "cann/metadef",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/oam-tools",
       "cann/tensorflow"
     ]
@@ -36143,8 +36358,8 @@
       "cann/ops-cv",
       "cann/cann-recipes-train",
       "cann/metadef",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/oam-tools"
     ]
   },
@@ -36237,8 +36452,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/driver",
@@ -36289,8 +36504,8 @@
       "cann/opbase",
       "cann/runtime",
       "cann/hccl",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/asc-tools"
     ]
@@ -36369,8 +36584,8 @@
       "cann/runtime",
       "cann/cann-recipes-train",
       "cann/metadef",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/oam-tools"
     ]
   },
@@ -36400,8 +36615,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -36445,8 +36660,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -36663,8 +36878,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -36847,8 +37062,8 @@
       "cann/graph-autofusion",
       "cann/cann-samples",
       "cann/metadef",
-      "cann/pypto-gym",
       "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
       "cann/ops-tensor"
     ]
   },
@@ -38041,8 +38256,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -38659,8 +38874,8 @@
       "cann/metadef",
       "cann/hcomm",
       "cann/pto-isa",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -38791,8 +39006,8 @@
       "cann/cann-recipes-train",
       "cann/torchtitan-npu",
       "cann/metadef",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/oam-tools",
       "cann/triton-inference-server-ge-backend",
       "cann/release-management"
@@ -38929,8 +39144,8 @@
       "cann/cann-recipes-train",
       "cann/torchtitan-npu",
       "cann/metadef",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/oam-tools",
       "cann/cann-outreach"
     ]
@@ -39378,6 +39593,43 @@
       "cann/ops-math",
       "cann/ops-transformer",
       "cann/catlass"
+    ]
+  },
+  {
+    "user_name": "xinghe_1",
+    "nick_name": "xh",
+    "user_id": 5296481,
+    "avatar": null,
+    "starred_repos": [
+      "cann/ops-transformer",
+      "cann/pypto",
+      "cann/ops-nn",
+      "cann/asc-devkit",
+      "cann/ge",
+      "cann/opbase",
+      "cann/cann-samples",
+      "cann/cann-recipes-train",
+      "cann/hcomm",
+      "cann/ops-sparse"
+    ]
+  },
+  {
+    "user_name": "gcw_9c1Bm2T2",
+    "nick_name": "A从容一生",
+    "user_id": 12590939,
+    "avatar": "",
+    "starred_repos": [
+      "cann/ops-transformer"
+    ]
+  },
+  {
+    "user_name": "qq_30560529",
+    "nick_name": "qq_30560529",
+    "user_id": 1344966,
+    "avatar": "https://cdn-img.gitcode.com/de/fe/75de8feb6343d3d7bd06cfccc33f049c34371787a1b74682e50173b39359321e.png",
+    "starred_repos": [
+      "cann/ops-transformer",
+      "cann/cmake"
     ]
   },
   {
@@ -39907,8 +40159,8 @@
       "cann/docs",
       "cann/asc-comm",
       "cann/ops-gnn",
-      "cann/its-stable-llm",
       "cann/its-trip",
+      "cann/its-stable-llm",
       "cann/its-matrix-computation",
       "cann/cannbot"
     ]
@@ -40369,7 +40621,8 @@
     "avatar": "",
     "starred_repos": [
       "cann/ops-transformer",
-      "cann/cann-recipes-infer"
+      "cann/cann-recipes-infer",
+      "cann/asc-devkit"
     ]
   },
   {
@@ -41593,8 +41846,8 @@
       "cann/runtime",
       "cann/cann-recipes-train",
       "cann/metadef",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/oam-tools"
     ]
   },
@@ -41670,8 +41923,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -41714,8 +41967,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -42318,8 +42571,8 @@
       "cann/runtime",
       "cann/cann-recipes-train",
       "cann/metadef",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/oam-tools"
     ]
   },
@@ -43397,18 +43650,6 @@
     ]
   },
   {
-    "user_name": "wileyoung",
-    "nick_name": "Wilem",
-    "user_id": 1458702,
-    "avatar": "https://cdn-img.gitcode.com/dd/bd/9192dd35b1dedee4969b9532a2eda6171a6076735939e18e2e5fd3673ff481af.jpg",
-    "starred_repos": [
-      "cann/ops-transformer",
-      "cann/cann-recipes-infer",
-      "cann/hixl",
-      "cann/ascend-transformer-boost"
-    ]
-  },
-  {
     "user_name": "wangsong96",
     "nick_name": "wangsong96",
     "user_id": 5578602,
@@ -43590,6 +43831,115 @@
     ]
   },
   {
+    "user_name": "DemonsCode",
+    "nick_name": "Wandejun",
+    "user_id": 673515,
+    "avatar": "https://cdn-img.gitcode.com/bc/ea/bce2a8f9358b89c2c17a7f0d4ad9af4dae67a42a353cecad733c568d6dd62f67.png",
+    "starred_repos": [
+      "cann/cann-learning-hub"
+    ]
+  },
+  {
+    "user_name": "2501_92707725",
+    "nick_name": "sumurai0721",
+    "user_id": 9815315,
+    "avatar": "https://cdn-img.gitcode.com/be/dd/bed4db78d1fb00be160039a3b0bdca87f4242908023a7bfdbe2a669f48efff7d.png",
+    "starred_repos": [
+      "cann/cann-learning-hub"
+    ]
+  },
+  {
+    "user_name": "gcw_4yXahMMZ",
+    "nick_name": "gcw_4yXahMMZ",
+    "user_id": 10933322,
+    "avatar": "",
+    "starred_repos": [
+      "cann/cann-learning-hub",
+      "cann/cann-outreach"
+    ]
+  },
+  {
+    "user_name": "Hua_XiangYang",
+    "nick_name": "花向阳",
+    "user_id": 10890085,
+    "avatar": "https://cdn-img.gitcode.com/ff/ae/47399f200fae99da0edf1d029ae570cd0da018c8ef31f0e89d4183b63054eb53.jpg",
+    "starred_repos": [
+      "cann/cann-learning-hub"
+    ]
+  },
+  {
+    "user_name": "weixin_43890188",
+    "nick_name": "nio006",
+    "user_id": 2587740,
+    "avatar": "https://cdn-img.gitcode.com/be/dc/b3edc5babe9913cacfcc332063657f4298995c84f940e3528159eff46741142a.jpg",
+    "starred_repos": [
+      "cann/cann-learning-hub"
+    ]
+  },
+  {
+    "user_name": "weixin_73749601",
+    "nick_name": "Cola_Coder",
+    "user_id": 693370,
+    "avatar": "https://cdn-img.gitcode.com/de/ce/75d3e2557819300c4ed5a2bb55bb780a93376847216a7efd9e58a11ed26d34c9.png",
+    "starred_repos": [
+      "cann/cann-learning-hub"
+    ]
+  },
+  {
+    "user_name": "littleyou30",
+    "nick_name": "littleyou30",
+    "user_id": 11904049,
+    "avatar": "https://cdn-img.gitcode.com/ca/af/7c48a10a3610ff31fb8c78c2920cc3aeb05012227989dbf6f3b8a7a2f534d1c8.png",
+    "starred_repos": [
+      "cann/cann-learning-hub"
+    ]
+  },
+  {
+    "user_name": "2403_87327251",
+    "nick_name": "2403_87327251",
+    "user_id": 5142663,
+    "avatar": "https://cdn-img.gitcode.com/af/fa/a16288ff72a173751482dab96b13b73e657dd4bcbb346f3169903005b13d54a2.png",
+    "starred_repos": [
+      "cann/cann-learning-hub"
+    ]
+  },
+  {
+    "user_name": "microft_homes",
+    "nick_name": "christopher_Wu",
+    "user_id": 1177511,
+    "avatar": "https://cdn-img.gitcode.com/dc/ae/4d1caeb1962e496531fda2b750597f8f815c1fdb7bc4b9d70ddf7ab998f02a4d.png",
+    "starred_repos": [
+      "cann/cann-learning-hub"
+    ]
+  },
+  {
+    "user_name": "m0_74050012",
+    "nick_name": "lllllssssan",
+    "user_id": 3428182,
+    "avatar": "https://cdn-img.gitcode.com/ed/cd/61e6d705684cd781d5c7760dd2f4414aa63251b9a1060a48e2f5d77aa2f2daa0.png",
+    "starred_repos": [
+      "cann/cann-learning-hub"
+    ]
+  },
+  {
+    "user_name": "thompson-whl",
+    "nick_name": "thompson-whl",
+    "user_id": 5134584,
+    "avatar": "https://cdn-img.gitcode.com/ca/ef/c4a479efed911d94670342e72e29b76103cea0eabebb8e126210b2cca286644f.png",
+    "starred_repos": [
+      "cann/cann-learning-hub"
+    ]
+  },
+  {
+    "user_name": "jiang-tianyi666",
+    "nick_name": "jiang-tianyi666",
+    "user_id": 12589132,
+    "avatar": "https://cdn-img.gitcode.com/de/ce/9d6e3ce24770eb78ee1a90dca8abc96ca3a8e116501ed61a5f175a067c29835a.png",
+    "starred_repos": [
+      "cann/cann-learning-hub"
+    ]
+  },
+  {
     "user_name": "maxiu666",
     "nick_name": "马修",
     "user_id": 5434879,
@@ -43603,15 +43953,6 @@
     "nick_name": "Linvance",
     "user_id": 12056182,
     "avatar": "",
-    "starred_repos": [
-      "cann/cann-learning-hub"
-    ]
-  },
-  {
-    "user_name": "JasonZhang88",
-    "nick_name": "JasonZhang88",
-    "user_id": 9098031,
-    "avatar": null,
     "starred_repos": [
       "cann/cann-learning-hub"
     ]
@@ -44005,7 +44346,7 @@
     ]
   },
   {
-    "user_name": "gcw_rJYjHqMD",
+    "user_name": "ayXRay",
     "nick_name": "Ray_",
     "user_id": 12510054,
     "avatar": "https://cdn-img.gitcode.com/cf/ca/cf4ca3b8e9f1363233b005b8e46757ff92534f6498e0eb60c30a03e3caa5e561.jpeg",
@@ -44674,7 +45015,8 @@
     "user_id": 10571827,
     "avatar": "https://cdn-img.gitcode.com/fa/da/fa8d3a2e5db9221f24a8c5dabee9b3644da577a3171dc44904a55a1e774c3179.png?time=1787907637975",
     "starred_repos": [
-      "cann/cann-learning-hub"
+      "cann/cann-learning-hub",
+      "cann/asc-devkit"
     ]
   },
   {
@@ -45141,7 +45483,8 @@
     "user_id": 7224520,
     "avatar": "https://cdn-img.gitcode.com/ad/be/adbec26d0e52bb644832c360b3cef483886298545a9c702e92761d566324c8cc.png",
     "starred_repos": [
-      "cann/cann-learning-hub"
+      "cann/cann-learning-hub",
+      "cann/catlass"
     ]
   },
   {
@@ -46645,17 +46988,6 @@
     ]
   },
   {
-    "user_name": "lc5gyj",
-    "nick_name": "Chase_AI",
-    "user_id": 11395091,
-    "avatar": "https://cdn-img.gitcode.com/fe/ce/695734fec4010e84266290e28900a4b084ad53cdae970f017e99eda9de7944c4.jpg",
-    "starred_repos": [
-      "cann/cann-learning-hub",
-      "cann/cann-samples",
-      "cann/cann-ops-competitions"
-    ]
-  },
-  {
     "user_name": "xujiashuai",
     "nick_name": "徐艺兴",
     "user_id": 7076337,
@@ -46663,8 +46995,8 @@
     "starred_repos": [
       "cann/cann-learning-hub",
       "cann/pypto",
-      "cann/amct",
-      "cann/pyasc"
+      "cann/pyasc",
+      "cann/amct"
     ]
   },
   {
@@ -48082,8 +48414,8 @@
       "cann/cann-recipes-train",
       "cann/torchtitan-npu",
       "cann/metadef",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/oam-tools",
       "cann/infrastructure",
       "cann/tensorflow"
@@ -49564,6 +49896,42 @@
     ]
   },
   {
+    "user_name": "gcw_Rbr1717M",
+    "nick_name": "gcw_Rbr1717M",
+    "user_id": 12590963,
+    "avatar": "",
+    "starred_repos": [
+      "cann/pypto"
+    ]
+  },
+  {
+    "user_name": "gcw_cMvhtTAT",
+    "nick_name": "zzzzz",
+    "user_id": 12590937,
+    "avatar": "https://cdn-img.gitcode.com/cd/cb/2cd2776c1b180a96bb37208a63129cb8e3a14125780227c26f84c94e2268e14d.jpg",
+    "starred_repos": [
+      "cann/pypto"
+    ]
+  },
+  {
+    "user_name": "gcw_NncKI07r",
+    "nick_name": "Jyy",
+    "user_id": 12590926,
+    "avatar": "https://cdn-img.gitcode.com/fe/ea/12fe5ea378af9f58b1198d46039c09f4cdcfce78c83ad56319bc8fe94978c9f7.jpeg",
+    "starred_repos": [
+      "cann/pypto"
+    ]
+  },
+  {
+    "user_name": "gcw_wh5Md0rR",
+    "nick_name": "李毓",
+    "user_id": 12590946,
+    "avatar": "",
+    "starred_repos": [
+      "cann/pypto"
+    ]
+  },
+  {
     "user_name": "Q23010301",
     "nick_name": "Q23010301",
     "user_id": 12502020,
@@ -50960,23 +51328,6 @@
     ]
   },
   {
-    "user_name": "xinghe_1",
-    "nick_name": "xh",
-    "user_id": 5296481,
-    "avatar": null,
-    "starred_repos": [
-      "cann/pypto",
-      "cann/ops-nn",
-      "cann/asc-devkit",
-      "cann/ge",
-      "cann/opbase",
-      "cann/cann-samples",
-      "cann/cann-recipes-train",
-      "cann/hcomm",
-      "cann/ops-sparse"
-    ]
-  },
-  {
     "user_name": "qinchuanyu",
     "nick_name": "qinchuanyu",
     "user_id": 6862901,
@@ -51398,8 +51749,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/ascend-transformer-boost",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/asnumpy",
       "cann/oam-tools",
       "cann/atvoss",
@@ -53572,6 +53923,26 @@
     ]
   },
   {
+    "user_name": "ztt11111",
+    "nick_name": "ztt11111",
+    "user_id": 7713613,
+    "avatar": null,
+    "starred_repos": [
+      "cann/ops-nn"
+    ]
+  },
+  {
+    "user_name": "WentaoXu03",
+    "nick_name": "WentaoXu03",
+    "user_id": 12594072,
+    "avatar": null,
+    "starred_repos": [
+      "cann/ops-nn",
+      "cann/cann-outreach",
+      "cann/ops-sparse"
+    ]
+  },
+  {
     "user_name": "a120240127",
     "nick_name": "a120240127",
     "user_id": 11101490,
@@ -53673,15 +54044,6 @@
     "nick_name": "OliverFang",
     "user_id": 3645620,
     "avatar": "https://cdn-img.gitcode.com/bb/df/6bb5381df43813241d24cc4983c61ef88a1459044afbeb63aff1b517234396bf.png",
-    "starred_repos": [
-      "cann/ops-nn"
-    ]
-  },
-  {
-    "user_name": "KuaaMU",
-    "nick_name": "KuaaMU",
-    "user_id": 1514663,
-    "avatar": "https://cdn-img.gitcode.com/ac/cd/6912ac0cd8644b2afcf6ee9efb9711f14c78310e7d54ee9e1275df9ba0a6eaaf.png?time=1786691042063",
     "starred_repos": [
       "cann/ops-nn"
     ]
@@ -54536,8 +54898,8 @@
       "cann/cann-recipes-train",
       "cann/catlass",
       "cann/metadef",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/oam-tools"
     ]
   },
@@ -54685,7 +55047,7 @@
     ]
   },
   {
-    "user_name": "gcw_p2T1gRRO",
+    "user_name": "wangke9245",
     "nick_name": "gcw_p2T1gRRO",
     "user_id": 9566165,
     "avatar": "",
@@ -55172,6 +55534,33 @@
     "avatar": "https://cdn-img.gitcode.com/eb/ed/941785e4be6689721721d2eb7dbb89ba25e980e3496a26f4dcbd3bd00d2622f9.jpg",
     "starred_repos": [
       "cann/ops-nn"
+    ]
+  },
+  {
+    "user_name": "2301_77168269",
+    "nick_name": "chengy",
+    "user_id": 1275232,
+    "avatar": "https://cdn-img.gitcode.com/bb/cf/479b9b134cf8d314949b52a555577a0a9b7262e4f9fc7fb93e6ca8e7b4b7b1aa.jpg",
+    "starred_repos": [
+      "cann/cann-recipes-infer"
+    ]
+  },
+  {
+    "user_name": "tbw5201",
+    "nick_name": "tbw5201",
+    "user_id": 6021024,
+    "avatar": "https://cdn-img.gitcode.com/fe/bd/feb3d00a698020aa6b2c8c9d2d56d9ee8f6204b2c82798b999ade72690ed8864.jpg",
+    "starred_repos": [
+      "cann/cann-recipes-infer"
+    ]
+  },
+  {
+    "user_name": "jasperSun526",
+    "nick_name": "gcw_HNwKmZ44",
+    "user_id": 11786718,
+    "avatar": "",
+    "starred_repos": [
+      "cann/cann-recipes-infer"
     ]
   },
   {
@@ -56726,8 +57115,8 @@
       "cann/runtime",
       "cann/cann-recipes-train",
       "cann/metadef",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/oam-tools"
     ]
   },
@@ -56747,8 +57136,8 @@
       "cann/cann-recipes-train",
       "cann/torchtitan-npu",
       "cann/metadef",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/oam-tools",
       "cann/cann-ops-competitions"
     ]
@@ -56768,8 +57157,8 @@
       "cann/cann-recipes-train",
       "cann/hccl",
       "cann/metadef",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/oam-tools"
     ]
   },
@@ -56787,8 +57176,8 @@
       "cann/runtime",
       "cann/cann-recipes-train",
       "cann/metadef",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/oam-tools"
     ]
   },
@@ -56807,8 +57196,8 @@
       "cann/runtime",
       "cann/cann-recipes-train",
       "cann/metadef",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/oam-tools"
     ]
   },
@@ -56890,8 +57279,8 @@
       "cann/cann-recipes-train",
       "cann/torchtitan-npu",
       "cann/metadef",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/oam-tools"
     ]
   },
@@ -56910,8 +57299,8 @@
       "cann/cann-recipes-train",
       "cann/torchtitan-npu",
       "cann/metadef",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/oam-tools"
     ]
   },
@@ -56929,8 +57318,8 @@
       "cann/runtime",
       "cann/cann-recipes-train",
       "cann/metadef",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/oam-tools"
     ]
   },
@@ -56948,8 +57337,8 @@
       "cann/runtime",
       "cann/cann-recipes-train",
       "cann/metadef",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/oam-tools"
     ]
   },
@@ -56967,8 +57356,8 @@
       "cann/runtime",
       "cann/cann-recipes-train",
       "cann/metadef",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/oam-tools"
     ]
   },
@@ -56986,8 +57375,8 @@
       "cann/runtime",
       "cann/cann-recipes-train",
       "cann/metadef",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/oam-tools"
     ]
   },
@@ -57021,8 +57410,8 @@
       "cann/cann-recipes-train",
       "cann/torchtitan-npu",
       "cann/metadef",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/oam-tools"
     ]
   },
@@ -57043,8 +57432,8 @@
       "cann/ops-cv",
       "cann/cann-recipes-train",
       "cann/metadef",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/oam-tools"
     ]
   },
@@ -57063,8 +57452,8 @@
       "cann/cann-recipes-train",
       "cann/torchtitan-npu",
       "cann/metadef",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend"
@@ -57085,8 +57474,8 @@
       "cann/runtime",
       "cann/cann-recipes-train",
       "cann/metadef",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/oam-tools"
     ]
   },
@@ -57104,8 +57493,8 @@
       "cann/runtime",
       "cann/cann-recipes-train",
       "cann/metadef",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/oam-tools"
     ]
   },
@@ -57123,8 +57512,8 @@
       "cann/runtime",
       "cann/cann-recipes-train",
       "cann/metadef",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/oam-tools"
     ]
   },
@@ -57142,8 +57531,8 @@
       "cann/runtime",
       "cann/cann-recipes-train",
       "cann/metadef",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/oam-tools"
     ]
   },
@@ -57521,8 +57910,8 @@
       "cann/cann-recipes-train",
       "cann/torchtitan-npu",
       "cann/metadef",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/oam-tools"
     ]
   },
@@ -57540,8 +57929,8 @@
       "cann/runtime",
       "cann/cann-recipes-train",
       "cann/metadef",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/oam-tools"
     ]
   },
@@ -57560,8 +57949,8 @@
       "cann/cann-recipes-train",
       "cann/torchtitan-npu",
       "cann/metadef",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/oam-tools"
     ]
   },
@@ -57580,8 +57969,8 @@
       "cann/cann-recipes-train",
       "cann/catlass",
       "cann/torchtitan-npu",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/oam-tools"
     ]
   },
@@ -57599,8 +57988,8 @@
       "cann/runtime",
       "cann/cann-recipes-train",
       "cann/metadef",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/oam-tools"
     ]
   },
@@ -57618,8 +58007,8 @@
       "cann/runtime",
       "cann/cann-recipes-train",
       "cann/metadef",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/oam-tools"
     ]
   },
@@ -57651,8 +58040,8 @@
       "cann/runtime",
       "cann/cann-recipes-train",
       "cann/metadef",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/oam-tools",
       "cann/infrastructure"
     ]
@@ -57673,8 +58062,8 @@
       "cann/cann-recipes-train",
       "cann/torchtitan-npu",
       "cann/metadef",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/oam-tools"
     ]
   },
@@ -57952,8 +58341,8 @@
       "cann/runtime",
       "cann/cann-recipes-train",
       "cann/metadef",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/oam-tools"
     ]
   },
@@ -58093,8 +58482,8 @@
       "cann/cann-recipes-train",
       "cann/torchtitan-npu",
       "cann/metadef",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/oam-tools"
     ]
   },
@@ -61674,10 +62063,11 @@
       "cann/asc-comm",
       "cann/gauss-splat",
       "cann/ops-gnn",
-      "cann/its-stable-llm",
       "cann/its-trip",
+      "cann/its-stable-llm",
+      "cann/ops-ras",
       "cann/its-matrix-computation",
-      "cann/ops-ras"
+      "cann/cannbot"
     ]
   },
   {
@@ -64179,8 +64569,8 @@
       "cann/asc-devkit",
       "cann/opbase",
       "cann/runtime",
-      "cann/amct",
       "cann/pyasc",
+      "cann/amct",
       "cann/oam-tools",
       "cann/asc-tools"
     ]
@@ -67708,13 +68098,13 @@
     ]
   },
   {
-    "user_name": "yangtuo17",
-    "nick_name": "yangtuo",
-    "user_id": 12476605,
-    "avatar": "",
+    "user_name": "2401_82975186",
+    "nick_name": "Makabaka",
+    "user_id": 1809068,
+    "avatar": "https://cdn-img.gitcode.com/ba/bc/ba4b61ce076da5d1e8b74a567a6a5edf9b35fbc925c7244094071e7a92df0ee0.png",
     "starred_repos": [
       "cann/cann-samples",
-      "cann/cann-recipes-train"
+      "cann/catlass"
     ]
   },
   {
@@ -69661,6 +70051,15 @@
     "avatar": "",
     "starred_repos": [
       "cann/ops-cv"
+    ]
+  },
+  {
+    "user_name": "qq_51142828",
+    "nick_name": "小滕的兵",
+    "user_id": 3628581,
+    "avatar": "https://cdn-img.gitcode.com/ef/fc/effc646005ae8d5eb30612b7fae640f2727e61797e831d543770c558e9653652.jpg",
+    "starred_repos": [
+      "cann/cann-recipes-train"
     ]
   },
   {
@@ -75153,6 +75552,90 @@
     ]
   },
   {
+    "user_name": "sdsfdsfds",
+    "nick_name": "sdsfdsfds",
+    "user_id": 2968153,
+    "avatar": null,
+    "starred_repos": [
+      "cann/pyasc"
+    ]
+  },
+  {
+    "user_name": "gcw_aiHILzBY",
+    "nick_name": "照辉",
+    "user_id": 12566689,
+    "avatar": "",
+    "starred_repos": [
+      "cann/pyasc"
+    ]
+  },
+  {
+    "user_name": "Jackyang2",
+    "nick_name": "游戏专用",
+    "user_id": 11787603,
+    "avatar": "https://cdn-img.gitcode.com/de/fe/526de347fe5d00935afdc806dc010a1c4e368cee2e32ac67f83c5564a899e843.jpg",
+    "starred_repos": [
+      "cann/pyasc"
+    ]
+  },
+  {
+    "user_name": "gcw_7niwt0pB",
+    "nick_name": "ChenTengyun",
+    "user_id": 11437788,
+    "avatar": "",
+    "starred_repos": [
+      "cann/pyasc"
+    ]
+  },
+  {
+    "user_name": "dauto",
+    "nick_name": "kuntai",
+    "user_id": 4107853,
+    "avatar": null,
+    "starred_repos": [
+      "cann/pyasc"
+    ]
+  },
+  {
+    "user_name": "xiaoxiaowenqiang",
+    "nick_name": "EwenWanW",
+    "user_id": 4173657,
+    "avatar": "https://cdn-img.gitcode.com/eb/ca/ebc08a0870ebdeb43d69be59e9c86eee50d0b22ac981ff57cd57391906ffb27a.png",
+    "starred_repos": [
+      "cann/pyasc",
+      "cann/ops-tensor"
+    ]
+  },
+  {
+    "user_name": "Josh137",
+    "nick_name": "Zhaoshouyun",
+    "user_id": 9566138,
+    "avatar": null,
+    "starred_repos": [
+      "cann/pyasc"
+    ]
+  },
+  {
+    "user_name": "JWJWJWJWW",
+    "nick_name": "xwq",
+    "user_id": 131644,
+    "avatar": null,
+    "starred_repos": [
+      "cann/pyasc",
+      "cann/asnumpy",
+      "cann/asnumpy-docs"
+    ]
+  },
+  {
+    "user_name": "Sea--1024",
+    "nick_name": "zhouhang",
+    "user_id": 6806955,
+    "avatar": "https://cdn-img.gitcode.com/dd/fd/5d16df376d4d855a587bace2a667ed6d315cfee58fb84cf2b9f417833953088e.png?time=1755654544925",
+    "starred_repos": [
+      "cann/pyasc"
+    ]
+  },
+  {
     "user_name": "zhengpeiyang",
     "nick_name": "zhengpeiyang",
     "user_id": 12081959,
@@ -75313,81 +75796,6 @@
     "avatar": "",
     "starred_repos": [
       "cann/amct"
-    ]
-  },
-  {
-    "user_name": "gcw_aiHILzBY",
-    "nick_name": "照辉",
-    "user_id": 12566689,
-    "avatar": "",
-    "starred_repos": [
-      "cann/pyasc"
-    ]
-  },
-  {
-    "user_name": "Jackyang2",
-    "nick_name": "游戏专用",
-    "user_id": 11787603,
-    "avatar": "https://cdn-img.gitcode.com/de/fe/526de347fe5d00935afdc806dc010a1c4e368cee2e32ac67f83c5564a899e843.jpg",
-    "starred_repos": [
-      "cann/pyasc"
-    ]
-  },
-  {
-    "user_name": "gcw_7niwt0pB",
-    "nick_name": "ChenTengyun",
-    "user_id": 11437788,
-    "avatar": "",
-    "starred_repos": [
-      "cann/pyasc"
-    ]
-  },
-  {
-    "user_name": "dauto",
-    "nick_name": "kuntai",
-    "user_id": 4107853,
-    "avatar": null,
-    "starred_repos": [
-      "cann/pyasc"
-    ]
-  },
-  {
-    "user_name": "xiaoxiaowenqiang",
-    "nick_name": "EwenWanW",
-    "user_id": 4173657,
-    "avatar": "https://cdn-img.gitcode.com/eb/ca/ebc08a0870ebdeb43d69be59e9c86eee50d0b22ac981ff57cd57391906ffb27a.png",
-    "starred_repos": [
-      "cann/pyasc",
-      "cann/ops-tensor"
-    ]
-  },
-  {
-    "user_name": "Josh137",
-    "nick_name": "Zhaoshouyun",
-    "user_id": 9566138,
-    "avatar": null,
-    "starred_repos": [
-      "cann/pyasc"
-    ]
-  },
-  {
-    "user_name": "JWJWJWJWW",
-    "nick_name": "xwq",
-    "user_id": 131644,
-    "avatar": null,
-    "starred_repos": [
-      "cann/pyasc",
-      "cann/asnumpy",
-      "cann/asnumpy-docs"
-    ]
-  },
-  {
-    "user_name": "Sea--1024",
-    "nick_name": "zhouhang",
-    "user_id": 6806955,
-    "avatar": "https://cdn-img.gitcode.com/dd/fd/5d16df376d4d855a587bace2a667ed6d315cfee58fb84cf2b9f417833953088e.png?time=1755654544925",
-    "starred_repos": [
-      "cann/pyasc"
     ]
   },
   {
@@ -76419,6 +76827,96 @@
     ]
   },
   {
+    "user_name": "guanmingde",
+    "nick_name": "ald",
+    "user_id": 1752332,
+    "avatar": "https://cdn-img.gitcode.com/de/ac/d89e6a53cf836975a2e50982873d290039d536de62bd1af75624cb9e9eec7838.png",
+    "starred_repos": [
+      "cann/triton-inference-server-ge-backend"
+    ]
+  },
+  {
+    "user_name": "qq_34194272",
+    "nick_name": "qq_34194272",
+    "user_id": 936426,
+    "avatar": "https://cdn-img.gitcode.com/ce/db/ced10bd7bf82f2df50372da2eb7886bd8bd21dd9fab42fb2f4f7577faa136fa6.png",
+    "starred_repos": [
+      "cann/triton-inference-server-ge-backend"
+    ]
+  },
+  {
+    "user_name": "chaoqunx",
+    "nick_name": "Chaoqun-Sun",
+    "user_id": 7115007,
+    "avatar": "https://cdn-img.gitcode.com/ce/ee/6ceee9b148ee232a3da249f133bdcf79fd01ee56e63acb34c32df30d563b8866.jpg",
+    "starred_repos": [
+      "cann/triton-inference-server-ge-backend"
+    ]
+  },
+  {
+    "user_name": "weixin_43918598",
+    "nick_name": "QT-_-TQ",
+    "user_id": 901536,
+    "avatar": "https://cdn-img.gitcode.com/ea/ef/83e70602a8ef8bd4985050d694277e8668cbfedbe7f828e0a7453fbe68a726f4.jpg",
+    "starred_repos": [
+      "cann/triton-inference-server-ge-backend"
+    ]
+  },
+  {
+    "user_name": "alwin114",
+    "nick_name": "默写原谅",
+    "user_id": 1329313,
+    "avatar": "https://cdn-img.gitcode.com/bb/ec/71530b89b50742843ecd14179c02b3375888c879c4f05b2cf0971e410a558ea2.png",
+    "starred_repos": [
+      "cann/triton-inference-server-ge-backend"
+    ]
+  },
+  {
+    "user_name": "SHLXXX",
+    "nick_name": "SHLXXX",
+    "user_id": 2936251,
+    "avatar": null,
+    "starred_repos": [
+      "cann/triton-inference-server-ge-backend"
+    ]
+  },
+  {
+    "user_name": "chadwweng",
+    "nick_name": "chadwweng",
+    "user_id": 6683138,
+    "avatar": null,
+    "starred_repos": [
+      "cann/triton-inference-server-ge-backend"
+    ]
+  },
+  {
+    "user_name": "yangxinglong",
+    "nick_name": "yangxinglong",
+    "user_id": 7774404,
+    "avatar": null,
+    "starred_repos": [
+      "cann/triton-inference-server-ge-backend"
+    ]
+  },
+  {
+    "user_name": "yhqyang2001",
+    "nick_name": "yhqyang2001",
+    "user_id": 9329358,
+    "avatar": null,
+    "starred_repos": [
+      "cann/triton-inference-server-ge-backend"
+    ]
+  },
+  {
+    "user_name": "h3613468",
+    "nick_name": "h3613468",
+    "user_id": 4153002,
+    "avatar": "https://cdn-img.gitcode.com/db/aa/db889aadd6a0c2ac45263b8453f6d5586cdd98c5f170c458a5a7414631a1df9f.png",
+    "starred_repos": [
+      "cann/triton-inference-server-ge-backend"
+    ]
+  },
+  {
     "user_name": "2202_75454589",
     "nick_name": "2202_75454589",
     "user_id": 512679,
@@ -76536,96 +77034,6 @@
     ]
   },
   {
-    "user_name": "guanmingde",
-    "nick_name": "ald",
-    "user_id": 1752332,
-    "avatar": "https://cdn-img.gitcode.com/de/ac/d89e6a53cf836975a2e50982873d290039d536de62bd1af75624cb9e9eec7838.png",
-    "starred_repos": [
-      "cann/triton-inference-server-ge-backend"
-    ]
-  },
-  {
-    "user_name": "qq_34194272",
-    "nick_name": "qq_34194272",
-    "user_id": 936426,
-    "avatar": "https://cdn-img.gitcode.com/ce/db/ced10bd7bf82f2df50372da2eb7886bd8bd21dd9fab42fb2f4f7577faa136fa6.png",
-    "starred_repos": [
-      "cann/triton-inference-server-ge-backend"
-    ]
-  },
-  {
-    "user_name": "chaoqunx",
-    "nick_name": "Chaoqun-Sun",
-    "user_id": 7115007,
-    "avatar": "https://cdn-img.gitcode.com/ce/ee/6ceee9b148ee232a3da249f133bdcf79fd01ee56e63acb34c32df30d563b8866.jpg",
-    "starred_repos": [
-      "cann/triton-inference-server-ge-backend"
-    ]
-  },
-  {
-    "user_name": "weixin_43918598",
-    "nick_name": "QT-_-TQ",
-    "user_id": 901536,
-    "avatar": "https://cdn-img.gitcode.com/ea/ef/83e70602a8ef8bd4985050d694277e8668cbfedbe7f828e0a7453fbe68a726f4.jpg",
-    "starred_repos": [
-      "cann/triton-inference-server-ge-backend"
-    ]
-  },
-  {
-    "user_name": "alwin114",
-    "nick_name": "默写原谅",
-    "user_id": 1329313,
-    "avatar": "https://cdn-img.gitcode.com/bb/ec/71530b89b50742843ecd14179c02b3375888c879c4f05b2cf0971e410a558ea2.png",
-    "starred_repos": [
-      "cann/triton-inference-server-ge-backend"
-    ]
-  },
-  {
-    "user_name": "SHLXXX",
-    "nick_name": "SHLXXX",
-    "user_id": 2936251,
-    "avatar": null,
-    "starred_repos": [
-      "cann/triton-inference-server-ge-backend"
-    ]
-  },
-  {
-    "user_name": "chadwweng",
-    "nick_name": "chadwweng",
-    "user_id": 6683138,
-    "avatar": null,
-    "starred_repos": [
-      "cann/triton-inference-server-ge-backend"
-    ]
-  },
-  {
-    "user_name": "yangxinglong",
-    "nick_name": "yangxinglong",
-    "user_id": 7774404,
-    "avatar": null,
-    "starred_repos": [
-      "cann/triton-inference-server-ge-backend"
-    ]
-  },
-  {
-    "user_name": "yhqyang2001",
-    "nick_name": "yhqyang2001",
-    "user_id": 9329358,
-    "avatar": null,
-    "starred_repos": [
-      "cann/triton-inference-server-ge-backend"
-    ]
-  },
-  {
-    "user_name": "h3613468",
-    "nick_name": "h3613468",
-    "user_id": 4153002,
-    "avatar": "https://cdn-img.gitcode.com/db/aa/db889aadd6a0c2ac45263b8453f6d5586cdd98c5f170c458a5a7414631a1df9f.png",
-    "starred_repos": [
-      "cann/triton-inference-server-ge-backend"
-    ]
-  },
-  {
     "user_name": "e2e4e6",
     "nick_name": "e2e4e6",
     "user_id": 7298320,
@@ -76641,6 +77049,26 @@
     "avatar": "https://cdn-img.gitcode.com/ae/cc/a6313ec6707cc29b1f0b44cd4cbe0c32b8d0ea82a54752ff62a55d5dcfab0fd3.png?time=1786898137460",
     "starred_repos": [
       "cann/asc-tools"
+    ]
+  },
+  {
+    "user_name": "tbs1736872",
+    "nick_name": "tbs1736872",
+    "user_id": 12593632,
+    "avatar": null,
+    "starred_repos": [
+      "cann/sip",
+      "cann/ops-solver",
+      "cann/ops-fft"
+    ]
+  },
+  {
+    "user_name": "2301_82146483",
+    "nick_name": "2301_82146483",
+    "user_id": 4523849,
+    "avatar": "https://cdn-img.gitcode.com/ea/ba/394ea1b8ab9ab8545ce22af69e7dce70b807a8a1edda890cb94be9331828d46b.png",
+    "starred_repos": [
+      "cann/sip"
     ]
   },
   {
@@ -77208,6 +77636,24 @@
     ]
   },
   {
+    "user_name": "gcw_Jd5CToJW",
+    "nick_name": "Chandler",
+    "user_id": 12596776,
+    "avatar": "",
+    "starred_repos": [
+      "cann/cann-ops-competitions"
+    ]
+  },
+  {
+    "user_name": "SolarRain",
+    "nick_name": "暄雨",
+    "user_id": 12589438,
+    "avatar": "https://cdn-img.gitcode.com/ee/cb/0eec3517b12330a743095e99fa4596da100e9cde82f0900fe6a1f1f431001145.jpg",
+    "starred_repos": [
+      "cann/cann-ops-competitions"
+    ]
+  },
+  {
     "user_name": "gcw_XdlmKQLn",
     "nick_name": "gcw_XdlmKQLn",
     "user_id": 4767695,
@@ -77649,6 +78095,24 @@
     "avatar": null,
     "starred_repos": [
       "cann/release-management"
+    ]
+  },
+  {
+    "user_name": "gcw_l6gqPgyE",
+    "nick_name": "立土黄天",
+    "user_id": 12436387,
+    "avatar": "",
+    "starred_repos": [
+      "cann/cann-outreach"
+    ]
+  },
+  {
+    "user_name": "Murasame_214",
+    "nick_name": "村雨雨雨",
+    "user_id": 11710780,
+    "avatar": "https://cdn-img.gitcode.com/dd/eb/2dd1eb9e293019b005284b4fbfb39b93c75f0db00afe01853549f51546442819.png?time=1784270321609",
+    "starred_repos": [
+      "cann/cann-outreach"
     ]
   },
   {
@@ -78788,15 +79252,6 @@
     "nick_name": "m0_71483989",
     "user_id": 1031550,
     "avatar": "https://cdn-img.gitcode.com/ac/ae/666aca00e1f0bf5d7b25e7e78a60f82b5b9fb27010263aa66f7ba65b56927b5f.png",
-    "starred_repos": [
-      "cann/cmake"
-    ]
-  },
-  {
-    "user_name": "qq_30560529",
-    "nick_name": "qq_30560529",
-    "user_id": 1344966,
-    "avatar": "https://cdn-img.gitcode.com/de/fe/75de8feb6343d3d7bd06cfccc33f049c34371787a1b74682e50173b39359321e.png",
     "starred_repos": [
       "cann/cmake"
     ]
