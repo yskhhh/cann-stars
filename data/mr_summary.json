@@ -3,30 +3,30 @@
     {
       "name": "ops-transformer",
       "path": "cann/ops-transformer",
-      "merged": 8152,
-      "open": 523,
-      "total": 8675
+      "merged": 8153,
+      "open": 524,
+      "total": 8677
     },
     {
       "name": "ops-nn",
       "path": "cann/ops-nn",
-      "merged": 7070,
-      "open": 331,
-      "total": 7401
+      "merged": 7071,
+      "open": 332,
+      "total": 7403
     },
     {
       "name": "asc-devkit",
       "path": "cann/asc-devkit",
       "merged": 4531,
-      "open": 225,
-      "total": 4756
+      "open": 227,
+      "total": 4758
     },
     {
       "name": "pypto",
       "path": "cann/pypto",
       "merged": 4338,
-      "open": 252,
-      "total": 4590
+      "open": 255,
+      "total": 4593
     },
     {
       "name": "ops-math",
@@ -39,14 +39,14 @@
       "name": "runtime",
       "path": "cann/runtime",
       "merged": 3561,
-      "open": 174,
-      "total": 3735
+      "open": 175,
+      "total": 3736
     },
     {
       "name": "hcomm",
       "path": "cann/hcomm",
-      "merged": 3157,
-      "open": 359,
+      "merged": 3158,
+      "open": 358,
       "total": 3516
     },
     {
@@ -60,8 +60,8 @@
       "name": "ge",
       "path": "cann/ge",
       "merged": 2815,
-      "open": 115,
-      "total": 2930
+      "open": 120,
+      "total": 2935
     },
     {
       "name": "hccl",
@@ -81,36 +81,36 @@
       "name": "cann-ops-competitions",
       "path": "cann/cann-ops-competitions",
       "merged": 1325,
-      "open": 178,
-      "total": 1503
+      "open": 187,
+      "total": 1512
     },
     {
       "name": "pto-isa",
       "path": "cann/pto-isa",
       "merged": 1359,
-      "open": 50,
-      "total": 1409
+      "open": 53,
+      "total": 1412
+    },
+    {
+      "name": "graph-autofusion",
+      "path": "cann/graph-autofusion",
+      "merged": 1171,
+      "open": 159,
+      "total": 1330
     },
     {
       "name": "ops-cv",
       "path": "cann/ops-cv",
       "merged": 1233,
-      "open": 114,
-      "total": 1347
-    },
-    {
-      "name": "graph-autofusion",
-      "path": "cann/graph-autofusion",
-      "merged": 1167,
-      "open": 143,
-      "total": 1310
+      "open": 82,
+      "total": 1315
     },
     {
       "name": "hixl",
       "path": "cann/hixl",
       "merged": 968,
-      "open": 122,
-      "total": 1090
+      "open": 116,
+      "total": 1084
     },
     {
       "name": "catlass",
@@ -123,29 +123,29 @@
       "name": "cann-learning-hub",
       "path": "cann/cann-learning-hub",
       "merged": 693,
-      "open": 175,
-      "total": 868
+      "open": 176,
+      "total": 869
     },
     {
       "name": "cannbot-skills",
       "path": "cann/cannbot-skills",
       "merged": 629,
-      "open": 177,
-      "total": 806
+      "open": 183,
+      "total": 812
     },
     {
       "name": "community",
       "path": "cann/community",
       "merged": 715,
-      "open": 24,
-      "total": 739
+      "open": 27,
+      "total": 742
     },
     {
       "name": "opbase",
       "path": "cann/opbase",
       "merged": 636,
-      "open": 84,
-      "total": 720
+      "open": 86,
+      "total": 722
     },
     {
       "name": "torchtitan-npu",
@@ -158,8 +158,8 @@
       "name": "shmem",
       "path": "cann/shmem",
       "merged": 638,
-      "open": 28,
-      "total": 666
+      "open": 33,
+      "total": 671
     },
     {
       "name": "cann-recipes-infer",
@@ -179,29 +179,29 @@
       "name": "oam-tools",
       "path": "cann/oam-tools",
       "merged": 491,
-      "open": 59,
-      "total": 550
+      "open": 63,
+      "total": 554
     },
     {
       "name": "cann-launch-camp",
       "path": "cann/cann-launch-camp",
       "merged": 306,
-      "open": 203,
-      "total": 509
+      "open": 205,
+      "total": 511
     },
     {
       "name": "asc-tools",
       "path": "cann/asc-tools",
-      "merged": 411,
-      "open": 70,
-      "total": 481
+      "merged": 412,
+      "open": 71,
+      "total": 483
     },
     {
       "name": "ops-blas",
       "path": "cann/ops-blas",
       "merged": 278,
-      "open": 130,
-      "total": 408
+      "open": 136,
+      "total": 414
     },
     {
       "name": "metadef",
@@ -221,50 +221,50 @@
       "name": "ops-tensor",
       "path": "cann/ops-tensor",
       "merged": 260,
-      "open": 45,
-      "total": 305
+      "open": 47,
+      "total": 307
     },
     {
       "name": "cann-bench",
       "path": "cann/cann-bench",
       "merged": 259,
-      "open": 29,
-      "total": 288
+      "open": 35,
+      "total": 294
     },
     {
       "name": "cmake",
       "path": "cann/cmake",
       "merged": 261,
-      "open": 26,
-      "total": 287
+      "open": 32,
+      "total": 293
     },
     {
       "name": "amct",
       "path": "cann/amct",
       "merged": 255,
-      "open": 16,
-      "total": 271
+      "open": 17,
+      "total": 272
     },
     {
       "name": "ascend-boost-comm",
       "path": "cann/ascend-boost-comm",
       "merged": 227,
-      "open": 14,
-      "total": 241
+      "open": 15,
+      "total": 242
     },
     {
       "name": "ops-test-kit",
       "path": "cann/ops-test-kit",
       "merged": 182,
-      "open": 51,
-      "total": 233
+      "open": 56,
+      "total": 238
     },
     {
       "name": "ops-sparse",
       "path": "cann/ops-sparse",
       "merged": 136,
-      "open": 68,
-      "total": 204
+      "open": 71,
+      "total": 207
     },
     {
       "name": "release-management",
@@ -277,15 +277,15 @@
       "name": "asc-comm",
       "path": "cann/asc-comm",
       "merged": 115,
-      "open": 65,
-      "total": 180
+      "open": 68,
+      "total": 183
     },
     {
       "name": "pyasc",
       "path": "cann/pyasc",
       "merged": 134,
-      "open": 15,
-      "total": 149
+      "open": 16,
+      "total": 150
     },
     {
       "name": "cann-recipes-train",
@@ -326,8 +326,8 @@
       "name": "cann-recipes-embodied-ai",
       "path": "cann/cann-recipes-embodied-ai",
       "merged": 97,
-      "open": 16,
-      "total": 113
+      "open": 17,
+      "total": 114
     },
     {
       "name": "docs",
@@ -340,22 +340,22 @@
       "name": "driver",
       "path": "cann/driver",
       "merged": 99,
-      "open": 11,
-      "total": 110
+      "open": 12,
+      "total": 111
     },
     {
       "name": "infrastructure",
       "path": "cann/infrastructure",
       "merged": 99,
-      "open": 9,
-      "total": 108
+      "open": 12,
+      "total": 111
     },
     {
       "name": "ops-ras",
       "path": "cann/ops-ras",
       "merged": 86,
-      "open": 5,
-      "total": 91
+      "open": 7,
+      "total": 93
     },
     {
       "name": "cannbot-dsl",
@@ -375,57 +375,57 @@
       "name": "ops-multimodal-fusion",
       "path": "cann/ops-multimodal-fusion",
       "merged": 48,
-      "open": 7,
-      "total": 55
-    },
-    {
-      "name": "mat-chem-sim-pred",
-      "path": "cann/mat-chem-sim-pred",
-      "merged": 45,
       "open": 8,
-      "total": 53
+      "total": 56
     },
     {
       "name": "cann-recipes-harmony-infer",
       "path": "cann/cann-recipes-harmony-infer",
       "merged": 50,
-      "open": 2,
-      "total": 52
+      "open": 4,
+      "total": 54
+    },
+    {
+      "name": "mat-chem-sim-pred",
+      "path": "cann/mat-chem-sim-pred",
+      "merged": 45,
+      "open": 9,
+      "total": 54
     },
     {
       "name": "cannbot",
       "path": "cann/cannbot",
       "merged": 40,
-      "open": 12,
-      "total": 52
+      "open": 13,
+      "total": 53
     },
     {
       "name": "cannbot-knowledge",
       "path": "cann/cannbot-knowledge",
       "merged": 43,
-      "open": 6,
-      "total": 49
+      "open": 7,
+      "total": 50
     },
     {
       "name": "atvoss",
       "path": "cann/atvoss",
       "merged": 37,
-      "open": 11,
-      "total": 48
+      "open": 12,
+      "total": 49
     },
     {
       "name": "ops-solver",
       "path": "cann/ops-solver",
       "merged": 37,
-      "open": 8,
-      "total": 45
+      "open": 9,
+      "total": 46
     },
     {
       "name": "ops-fft",
       "path": "cann/ops-fft",
       "merged": 41,
-      "open": 3,
-      "total": 44
+      "open": 4,
+      "total": 45
     },
     {
       "name": "ops-gnn",
@@ -445,8 +445,15 @@
       "name": "cannbot-sentry",
       "path": "cann/cannbot-sentry",
       "merged": 37,
-      "open": 3,
-      "total": 40
+      "open": 4,
+      "total": 41
+    },
+    {
+      "name": "cann-recipes-spatial-intelligence",
+      "path": "cann/cann-recipes-spatial-intelligence",
+      "merged": 34,
+      "open": 5,
+      "total": 39
     },
     {
       "name": "ops-rand",
@@ -456,11 +463,11 @@
       "total": 37
     },
     {
-      "name": "cann-recipes-spatial-intelligence",
-      "path": "cann/cann-recipes-spatial-intelligence",
-      "merged": 34,
-      "open": 2,
-      "total": 36
+      "name": "atvc",
+      "path": "cann/atvc",
+      "merged": 27,
+      "open": 8,
+      "total": 35
     },
     {
       "name": "elec-ops-inspection",
@@ -470,18 +477,11 @@
       "total": 35
     },
     {
-      "name": "atvc",
-      "path": "cann/atvc",
-      "merged": 27,
-      "open": 7,
-      "total": 34
-    },
-    {
       "name": "crypto",
       "path": "cann/crypto",
       "merged": 28,
-      "open": 3,
-      "total": 31
+      "open": 4,
+      "total": 32
     },
     {
       "name": "xla-npu",
@@ -494,8 +494,8 @@
       "name": "cann-spack-package",
       "path": "cann/cann-spack-package",
       "merged": 14,
-      "open": 5,
-      "total": 19
+      "open": 9,
+      "total": 23
     },
     {
       "name": "gauss-splat",
@@ -529,15 +529,15 @@
       "name": "oil-gas-ops-prospect",
       "path": "cann/oil-gas-ops-prospect",
       "merged": 12,
-      "open": 3,
-      "total": 15
+      "open": 4,
+      "total": 16
     },
     {
       "name": "elec-ops-prediction",
       "path": "cann/elec-ops-prediction",
       "merged": 7,
-      "open": 6,
-      "total": 13
+      "open": 7,
+      "total": 14
     },
     {
       "name": "elec-ops-simulation",
@@ -550,15 +550,15 @@
       "name": "its-matrix-computation",
       "path": "cann/its-matrix-computation",
       "merged": 4,
-      "open": 1,
-      "total": 5
+      "open": 3,
+      "total": 7
     },
     {
       "name": "its-stable-llm",
       "path": "cann/its-stable-llm",
       "merged": 3,
-      "open": 2,
-      "total": 5
+      "open": 3,
+      "total": 6
     },
     {
       "name": "its-trip",
@@ -568,6 +568,6 @@
       "total": 5
     }
   ],
-  "unique_authors": 6369,
-  "generated_at": "2026-09-25"
+  "unique_authors": 6377,
+  "generated_at": "2026-09-26"
 }
