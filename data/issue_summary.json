@@ -5,28 +5,35 @@
       "path": "cann/cannbot",
       "avg_days": 0.9,
       "closed": 8,
-      "opened": 9
+      "opened": 15
     },
     {
       "name": "cannbot-sentry",
       "path": "cann/cannbot-sentry",
       "avg_days": 2.2,
       "closed": 12,
-      "opened": 7
+      "opened": 9
+    },
+    {
+      "name": "cannbot-knowledge",
+      "path": "cann/cannbot-knowledge",
+      "avg_days": 3.0,
+      "closed": 6,
+      "opened": 11
     },
     {
       "name": "cann-outreach",
       "path": "cann/cann-outreach",
       "avg_days": 3.6,
       "closed": 707,
-      "opened": 150
+      "opened": 157
     },
     {
       "name": "ops-cv",
       "path": "cann/ops-cv",
       "avg_days": 4.1,
-      "closed": 1017,
-      "opened": 44
+      "closed": 1036,
+      "opened": 32
     },
     {
       "name": "ops-rand",
@@ -38,86 +45,93 @@
     {
       "name": "ops-collections",
       "path": "cann/ops-collections",
-      "avg_days": 5.0,
-      "closed": 35,
-      "opened": 11
+      "avg_days": 5.3,
+      "closed": 39,
+      "opened": 7
     },
     {
       "name": "opbase",
       "path": "cann/opbase",
       "avg_days": 5.9,
-      "closed": 417,
-      "opened": 30
-    },
-    {
-      "name": "ops-transformer",
-      "path": "cann/ops-transformer",
-      "avg_days": 6.0,
-      "closed": 5378,
-      "opened": 158
+      "closed": 418,
+      "opened": 39
     },
     {
       "name": "ops-ras",
       "path": "cann/ops-ras",
       "avg_days": 6.1,
       "closed": 38,
-      "opened": 11
+      "opened": 13
     },
     {
-      "name": "ops-gnn",
-      "path": "cann/ops-gnn",
-      "avg_days": 6.8,
-      "closed": 32,
-      "opened": 13
+      "name": "ops-transformer",
+      "path": "cann/ops-transformer",
+      "avg_days": 6.1,
+      "closed": 5438,
+      "opened": 131
+    },
+    {
+      "name": "mat-chem-sim-pred",
+      "path": "cann/mat-chem-sim-pred",
+      "avg_days": 6.4,
+      "closed": 12,
+      "opened": 2
     },
     {
       "name": "ops-nn",
       "path": "cann/ops-nn",
-      "avg_days": 6.8,
-      "closed": 5841,
-      "opened": 194
+      "avg_days": 7.0,
+      "closed": 5918,
+      "opened": 163
     },
     {
       "name": "catccos",
       "path": "cann/catccos",
       "avg_days": 7.1,
       "closed": 72,
-      "opened": 1
+      "opened": 6
+    },
+    {
+      "name": "ops-gnn",
+      "path": "cann/ops-gnn",
+      "avg_days": 7.2,
+      "closed": 34,
+      "opened": 13
     },
     {
       "name": "sip",
       "path": "cann/sip",
       "avg_days": 7.3,
       "closed": 187,
-      "opened": 22
+      "opened": 23
     },
     {
       "name": "graph-autofusion",
       "path": "cann/graph-autofusion",
       "avg_days": 7.4,
-      "closed": 274,
-      "opened": 64
+      "closed": 276,
+      "opened": 63
     },
     {
       "name": "ops-fft",
       "path": "cann/ops-fft",
       "avg_days": 7.8,
       "closed": 122,
-      "opened": 12
+      "opened": 13
     },
     {
       "name": "runtime",
       "path": "cann/runtime",
       "avg_days": 7.8,
-      "closed": 940,
-      "opened": 14
+      "closed": 951,
+      "opened": 11
     },
     {
       "name": "pto-isa",
       "path": "cann/pto-isa",
       "avg_days": 7.9,
-      "closed": 580,
-      "opened": 9
+      "closed": 584,
+      "opened": 12
     },
     {
       "name": "xla-npu",
@@ -127,81 +141,81 @@
       "opened": 21
     },
     {
-      "name": "oam-tools",
-      "path": "cann/oam-tools",
-      "avg_days": 8.2,
-      "closed": 193,
-      "opened": 43
-    },
-    {
-      "name": "mat-chem-sim-pred",
-      "path": "cann/mat-chem-sim-pred",
-      "avg_days": 8.5,
-      "closed": 8,
-      "opened": 4
+      "name": "amct",
+      "path": "cann/amct",
+      "avg_days": 9.3,
+      "closed": 201,
+      "opened": 9
     },
     {
       "name": "ops-sparse",
       "path": "cann/ops-sparse",
       "avg_days": 9.3,
       "closed": 201,
-      "opened": 52
-    },
-    {
-      "name": "amct",
-      "path": "cann/amct",
-      "avg_days": 9.4,
-      "closed": 200,
-      "opened": 5
+      "opened": 63
     },
     {
       "name": "cann-samples",
       "path": "cann/cann-samples",
       "avg_days": 9.4,
       "closed": 281,
-      "opened": 12
+      "opened": 16
     },
     {
       "name": "catlass",
       "path": "cann/catlass",
-      "avg_days": 9.5,
-      "closed": 569,
-      "opened": 79
-    },
-    {
-      "name": "ops-tensor",
-      "path": "cann/ops-tensor",
-      "avg_days": 9.5,
-      "closed": 223,
-      "opened": 31
+      "avg_days": 9.4,
+      "closed": 577,
+      "opened": 78
     },
     {
       "name": "ops-blas",
       "path": "cann/ops-blas",
       "avg_days": 9.6,
-      "closed": 351,
-      "opened": 100
+      "closed": 354,
+      "opened": 107
+    },
+    {
+      "name": "oam-tools",
+      "path": "cann/oam-tools",
+      "avg_days": 9.7,
+      "closed": 199,
+      "opened": 45
     },
     {
       "name": "ops-math",
       "path": "cann/ops-math",
       "avg_days": 9.7,
-      "closed": 3161,
-      "opened": 55
+      "closed": 3193,
+      "opened": 53
     },
     {
       "name": "asc-devkit",
       "path": "cann/asc-devkit",
       "avg_days": 9.8,
-      "closed": 1657,
-      "opened": 74
+      "closed": 1671,
+      "opened": 66
     },
     {
       "name": "hccl",
       "path": "cann/hccl",
       "avg_days": 9.9,
-      "closed": 672,
-      "opened": 61
+      "closed": 685,
+      "opened": 58
+    },
+    {
+      "name": "hixl",
+      "path": "cann/hixl",
+      "avg_days": 10.0,
+      "closed": 674,
+      "opened": 109
+    },
+    {
+      "name": "ops-tensor",
+      "path": "cann/ops-tensor",
+      "avg_days": 10.0,
+      "closed": 236,
+      "opened": 22
     },
     {
       "name": "tensorflow",
@@ -211,32 +225,25 @@
       "opened": 4
     },
     {
-      "name": "hixl",
-      "path": "cann/hixl",
+      "name": "asc-comm",
+      "path": "cann/asc-comm",
       "avg_days": 10.2,
-      "closed": 657,
-      "opened": 121
+      "closed": 14,
+      "opened": 38
     },
     {
       "name": "atvc",
       "path": "cann/atvc",
       "avg_days": 10.6,
       "closed": 15,
-      "opened": 4
+      "opened": 6
     },
     {
       "name": "cann-bench",
       "path": "cann/cann-bench",
       "avg_days": 10.6,
       "closed": 145,
-      "opened": 80
-    },
-    {
-      "name": "metadef",
-      "path": "cann/metadef",
-      "avg_days": 10.6,
-      "closed": 95,
-      "opened": 6
+      "opened": 88
     },
     {
       "name": "ops-multimodal-fusion",
@@ -249,71 +256,71 @@
       "name": "asc-tools",
       "path": "cann/asc-tools",
       "avg_days": 10.8,
-      "closed": 69,
-      "opened": 32
+      "closed": 70,
+      "opened": 35
+    },
+    {
+      "name": "ops-solver",
+      "path": "cann/ops-solver",
+      "avg_days": 11.0,
+      "closed": 166,
+      "opened": 9
     },
     {
       "name": "ascend-transformer-boost",
       "path": "cann/ascend-transformer-boost",
       "avg_days": 11.1,
       "closed": 360,
-      "opened": 32
+      "opened": 36
     },
     {
       "name": "cannbot-skills",
       "path": "cann/cannbot-skills",
       "avg_days": 11.1,
-      "closed": 536,
-      "opened": 147
+      "closed": 541,
+      "opened": 150
     },
     {
-      "name": "asc-comm",
-      "path": "cann/asc-comm",
-      "avg_days": 11.2,
-      "closed": 12,
-      "opened": 32
-    },
-    {
-      "name": "ops-solver",
-      "path": "cann/ops-solver",
-      "avg_days": 11.4,
-      "closed": 156,
-      "opened": 16
+      "name": "metadef",
+      "path": "cann/metadef",
+      "avg_days": 11.1,
+      "closed": 97,
+      "opened": 7
     },
     {
       "name": "ops-test-kit",
       "path": "cann/ops-test-kit",
       "avg_days": 11.8,
       "closed": 152,
-      "opened": 71
+      "opened": 73
     },
     {
       "name": "pypto-gym",
       "path": "cann/pypto-gym",
-      "avg_days": 12.0,
-      "closed": 168,
-      "opened": 19
+      "avg_days": 11.8,
+      "closed": 173,
+      "opened": 16
     },
     {
       "name": "driver",
       "path": "cann/driver",
-      "avg_days": 12.3,
-      "closed": 136,
-      "opened": 10
+      "avg_days": 12.2,
+      "closed": 137,
+      "opened": 16
     },
     {
       "name": "cannbot-dsl",
       "path": "cann/cannbot-dsl",
       "avg_days": 12.6,
       "closed": 7,
-      "opened": 9
+      "opened": 14
     },
     {
       "name": "pyasc",
       "path": "cann/pyasc",
       "avg_days": 13.3,
       "closed": 46,
-      "opened": 13
+      "opened": 16
     },
     {
       "name": "release-management",
@@ -325,51 +332,51 @@
     {
       "name": "ge",
       "path": "cann/ge",
-      "avg_days": 13.6,
-      "closed": 513,
-      "opened": 35
+      "avg_days": 13.7,
+      "closed": 515,
+      "opened": 49
     },
     {
       "name": "hcomm",
       "path": "cann/hcomm",
-      "avg_days": 13.6,
-      "closed": 815,
-      "opened": 92
+      "avg_days": 13.7,
+      "closed": 820,
+      "opened": 94
     },
     {
       "name": "shmem",
       "path": "cann/shmem",
       "avg_days": 13.7,
       "closed": 570,
-      "opened": 38
-    },
-    {
-      "name": "pypto",
-      "path": "cann/pypto",
-      "avg_days": 14.4,
-      "closed": 3268,
-      "opened": 74
+      "opened": 42
     },
     {
       "name": "cann-recipes-harmony-infer",
       "path": "cann/cann-recipes-harmony-infer",
-      "avg_days": 14.6,
-      "closed": 34,
-      "opened": 17
+      "avg_days": 14.5,
+      "closed": 38,
+      "opened": 13
+    },
+    {
+      "name": "pypto",
+      "path": "cann/pypto",
+      "avg_days": 14.5,
+      "closed": 3287,
+      "opened": 64
     },
     {
       "name": "cann-learning-hub",
       "path": "cann/cann-learning-hub",
       "avg_days": 14.9,
       "closed": 526,
-      "opened": 220
+      "opened": 222
     },
     {
       "name": "cann-ops-competitions",
       "path": "cann/cann-ops-competitions",
       "avg_days": 16.3,
       "closed": 18,
-      "opened": 76
+      "opened": 77
     },
     {
       "name": "torchtitan-npu",
@@ -383,21 +390,21 @@
       "path": "cann/triton-inference-server-ge-backend",
       "avg_days": 18.9,
       "closed": 33,
-      "opened": 13
+      "opened": 15
     },
     {
       "name": "community",
       "path": "cann/community",
-      "avg_days": 19.5,
-      "closed": 210,
-      "opened": 26
+      "avg_days": 19.1,
+      "closed": 222,
+      "opened": 14
     },
     {
       "name": "cann-recipes-embodied-ai",
       "path": "cann/cann-recipes-embodied-ai",
-      "avg_days": 21.9,
-      "closed": 62,
-      "opened": 13
+      "avg_days": 20.8,
+      "closed": 66,
+      "opened": 9
     },
     {
       "name": "cann-agreements",
@@ -411,48 +418,48 @@
       "path": "cann/cmake",
       "avg_days": 23.1,
       "closed": 7,
-      "opened": 40
+      "opened": 47
+    },
+    {
+      "name": "cann-recipes-spatial-intelligence",
+      "path": "cann/cann-recipes-spatial-intelligence",
+      "avg_days": 23.5,
+      "closed": 25,
+      "opened": 6
     },
     {
       "name": "ascend-boost-comm",
       "path": "cann/ascend-boost-comm",
       "avg_days": 23.8,
       "closed": 50,
-      "opened": 17
-    },
-    {
-      "name": "cann-recipes-spatial-intelligence",
-      "path": "cann/cann-recipes-spatial-intelligence",
-      "avg_days": 24.0,
-      "closed": 24,
-      "opened": 6
+      "opened": 21
     },
     {
       "name": "atvoss",
       "path": "cann/atvoss",
       "avg_days": 25.7,
       "closed": 31,
-      "opened": 14
+      "opened": 17
     },
     {
       "name": "asnumpy",
       "path": "cann/asnumpy",
       "avg_days": 27.8,
       "closed": 28,
-      "opened": 36
+      "opened": 41
     },
     {
       "name": "cann-recipes-infer",
       "path": "cann/cann-recipes-infer",
-      "avg_days": 28.9,
-      "closed": 292,
-      "opened": 38
+      "avg_days": 28.8,
+      "closed": 293,
+      "opened": 37
     },
     {
       "name": "infrastructure",
       "path": "cann/infrastructure",
-      "avg_days": 29.5,
-      "closed": 259,
+      "avg_days": 29.4,
+      "closed": 261,
       "opened": 76
     },
     {
@@ -467,8 +474,8 @@
       "path": "cann/cann-recipes-train",
       "avg_days": 36.9,
       "closed": 81,
-      "opened": 11
+      "opened": 12
     }
   ],
-  "generated_at": "2026-09-26"
+  "generated_at": "2026-09-28"
 }
