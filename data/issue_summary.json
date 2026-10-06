@@ -5,14 +5,14 @@
       "path": "cann/cannbot",
       "avg_days": 0.9,
       "closed": 8,
-      "opened": 37
+      "opened": 39
     },
     {
       "name": "cannbot-sentry",
       "path": "cann/cannbot-sentry",
       "avg_days": 1.9,
       "closed": 14,
-      "opened": 38
+      "opened": 43
     },
     {
       "name": "cannbot-knowledge",
@@ -68,7 +68,7 @@
       "path": "cann/ops-transformer",
       "avg_days": 6.1,
       "closed": 5520,
-      "opened": 135
+      "opened": 138
     },
     {
       "name": "mat-chem-sim-pred",
@@ -82,7 +82,7 @@
       "path": "cann/ops-nn",
       "avg_days": 6.9,
       "closed": 5992,
-      "opened": 179
+      "opened": 188
     },
     {
       "name": "ops-gnn",
@@ -124,7 +124,7 @@
       "path": "cann/runtime",
       "avg_days": 7.8,
       "closed": 952,
-      "opened": 32
+      "opened": 35
     },
     {
       "name": "pto-isa",
@@ -152,14 +152,14 @@
       "path": "cann/cann-samples",
       "avg_days": 9.4,
       "closed": 283,
-      "opened": 23
+      "opened": 27
     },
     {
       "name": "amct",
       "path": "cann/amct",
       "avg_days": 9.6,
       "closed": 204,
-      "opened": 37
+      "opened": 38
     },
     {
       "name": "asc-comm",
@@ -173,14 +173,14 @@
       "path": "cann/ops-blas",
       "avg_days": 9.7,
       "closed": 360,
-      "opened": 128
+      "opened": 130
     },
     {
       "name": "ops-math",
       "path": "cann/ops-math",
       "avg_days": 9.7,
       "closed": 3216,
-      "opened": 89
+      "opened": 94
     },
     {
       "name": "asc-devkit",
@@ -201,14 +201,14 @@
       "path": "cann/catlass",
       "avg_days": 9.9,
       "closed": 615,
-      "opened": 65
+      "opened": 69
     },
     {
       "name": "hixl",
       "path": "cann/hixl",
       "avg_days": 10.0,
       "closed": 693,
-      "opened": 105
+      "opened": 108
     },
     {
       "name": "oam-tools",
@@ -222,7 +222,7 @@
       "path": "cann/ops-tensor",
       "avg_days": 10.0,
       "closed": 239,
-      "opened": 37
+      "opened": 41
     },
     {
       "name": "hccl",
@@ -257,7 +257,7 @@
       "path": "cann/asc-tools",
       "avg_days": 10.8,
       "closed": 70,
-      "opened": 55
+      "opened": 57
     },
     {
       "name": "cannbot-skills",
@@ -270,8 +270,8 @@
       "name": "ascend-transformer-boost",
       "path": "cann/ascend-transformer-boost",
       "avg_days": 11.1,
-      "closed": 359,
-      "opened": 63
+      "closed": 360,
+      "opened": 66
     },
     {
       "name": "metadef",
@@ -285,7 +285,7 @@
       "path": "cann/ops-test-kit",
       "avg_days": 11.1,
       "closed": 164,
-      "opened": 106
+      "opened": 109
     },
     {
       "name": "cann-bench",
@@ -298,8 +298,8 @@
       "name": "pypto-gym",
       "path": "cann/pypto-gym",
       "avg_days": 11.6,
-      "closed": 176,
-      "opened": 35
+      "closed": 177,
+      "opened": 37
     },
     {
       "name": "driver",
@@ -348,7 +348,7 @@
       "path": "cann/pypto",
       "avg_days": 14.5,
       "closed": 3299,
-      "opened": 89
+      "opened": 94
     },
     {
       "name": "release-management",
@@ -362,7 +362,7 @@
       "path": "cann/cann-ops-competitions",
       "avg_days": 16.3,
       "closed": 18,
-      "opened": 90
+      "opened": 92
     },
     {
       "name": "torchtitan-npu",
@@ -432,7 +432,7 @@
       "path": "cann/cmake",
       "avg_days": 23.1,
       "closed": 7,
-      "opened": 61
+      "opened": 66
     },
     {
       "name": "ascend-boost-comm",
@@ -453,21 +453,21 @@
       "path": "cann/asnumpy",
       "avg_days": 27.8,
       "closed": 28,
-      "opened": 63
+      "opened": 67
     },
     {
       "name": "cann-recipes-infer",
       "path": "cann/cann-recipes-infer",
       "avg_days": 28.7,
       "closed": 295,
-      "opened": 65
+      "opened": 70
     },
     {
       "name": "infrastructure",
       "path": "cann/infrastructure",
-      "avg_days": 29.1,
-      "closed": 284,
-      "opened": 72
+      "avg_days": 29.6,
+      "closed": 289,
+      "opened": 70
     },
     {
       "name": "cann-recipes-train",
@@ -477,5 +477,5 @@
       "opened": 35
     }
   ],
-  "generated_at": "2026-10-05"
+  "generated_at": "2026-10-06"
 }
