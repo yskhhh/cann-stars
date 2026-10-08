@@ -1,25 +1,41 @@
 [
   {
-    "iid": 64,
+    "iid": 66,
     "state": "opened",
-    "created_at": "2026-10-02",
+    "created_at": "2026-10-08",
     "merged_at": "",
+    "closed_at": "",
+    "author": "wsnidie1"
+  },
+  {
+    "iid": 65,
+    "state": "opened",
+    "created_at": "2026-10-08",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "wsnidie1"
+  },
+  {
+    "iid": 64,
+    "state": "merged",
+    "created_at": "2026-10-02",
+    "merged_at": "2026-10-08",
     "closed_at": "",
     "author": "Ethan_Zou"
   },
   {
     "iid": 63,
-    "state": "opened",
+    "state": "merged",
     "created_at": "2026-10-02",
-    "merged_at": "",
+    "merged_at": "2026-10-08",
     "closed_at": "",
     "author": "Ethan_Zou"
   },
   {
     "iid": 62,
-    "state": "opened",
+    "state": "merged",
     "created_at": "2026-10-01",
-    "merged_at": "",
+    "merged_at": "2026-10-08",
     "closed_at": "",
     "author": "KaranocaVe"
   },
@@ -41,9 +57,9 @@
   },
   {
     "iid": 59,
-    "state": "opened",
+    "state": "merged",
     "created_at": "2026-09-28",
-    "merged_at": "",
+    "merged_at": "2026-10-08",
     "closed_at": "",
     "author": "WSCII"
   },
