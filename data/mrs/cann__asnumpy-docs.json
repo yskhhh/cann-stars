@@ -1,17 +1,33 @@
 [
   {
-    "iid": 44,
+    "iid": 46,
     "state": "opened",
-    "created_at": "2026-10-10",
+    "created_at": "2026-10-12",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "wsnidie1"
+  },
+  {
+    "iid": 45,
+    "state": "opened",
+    "created_at": "2026-10-12",
     "merged_at": "",
     "closed_at": "",
     "author": "Ethan_Zou"
   },
   {
+    "iid": 44,
+    "state": "merged",
+    "created_at": "2026-10-10",
+    "merged_at": "2026-10-11",
+    "closed_at": "",
+    "author": "Ethan_Zou"
+  },
+  {
     "iid": 43,
-    "state": "opened",
+    "state": "merged",
     "created_at": "2026-10-09",
-    "merged_at": "",
+    "merged_at": "2026-10-11",
     "closed_at": "",
     "author": "JWJWJWJWW"
   },
@@ -241,10 +257,10 @@
   },
   {
     "iid": 14,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-09-25",
     "merged_at": "",
-    "closed_at": "",
+    "closed_at": "2026-10-11",
     "author": "KaranocaVe"
   },
   {
