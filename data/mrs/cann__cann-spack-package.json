@@ -1,5 +1,21 @@
 [
   {
+    "iid": 42,
+    "state": "opened",
+    "created_at": "2026-10-19",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "songchangxia"
+  },
+  {
+    "iid": 41,
+    "state": "opened",
+    "created_at": "2026-10-19",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "moudi123"
+  },
+  {
     "iid": 40,
     "state": "opened",
     "created_at": "2026-10-08",
@@ -25,17 +41,17 @@
   },
   {
     "iid": 37,
-    "state": "opened",
+    "state": "merged",
     "created_at": "2026-10-05",
-    "merged_at": "",
+    "merged_at": "2026-10-19",
     "closed_at": "",
     "author": "KaranocaVe"
   },
   {
     "iid": 36,
-    "state": "opened",
+    "state": "merged",
     "created_at": "2026-10-05",
-    "merged_at": "",
+    "merged_at": "2026-10-19",
     "closed_at": "",
     "author": "KaranocaVe"
   },
@@ -49,33 +65,33 @@
   },
   {
     "iid": 34,
-    "state": "opened",
+    "state": "merged",
     "created_at": "2026-10-01",
-    "merged_at": "",
+    "merged_at": "2026-10-19",
     "closed_at": "",
     "author": "Ethan_Zou"
   },
   {
     "iid": 33,
-    "state": "opened",
+    "state": "merged",
     "created_at": "2026-10-01",
-    "merged_at": "",
+    "merged_at": "2026-10-19",
     "closed_at": "",
     "author": "Ethan_Zou"
   },
   {
     "iid": 32,
-    "state": "opened",
+    "state": "merged",
     "created_at": "2026-09-30",
-    "merged_at": "",
+    "merged_at": "2026-10-19",
     "closed_at": "",
     "author": "KaranocaVe"
   },
   {
     "iid": 31,
-    "state": "opened",
+    "state": "merged",
     "created_at": "2026-09-28",
-    "merged_at": "",
+    "merged_at": "2026-10-19",
     "closed_at": "",
     "author": "KaranocaVe"
   },
@@ -113,9 +129,9 @@
   },
   {
     "iid": 26,
-    "state": "opened",
+    "state": "merged",
     "created_at": "2026-09-26",
-    "merged_at": "",
+    "merged_at": "2026-10-19",
     "closed_at": "",
     "author": "KaranocaVe"
   },
@@ -153,10 +169,10 @@
   },
   {
     "iid": 21,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-07-07",
     "merged_at": "",
-    "closed_at": "",
+    "closed_at": "2026-10-19",
     "author": "kpge90"
   },
   {
