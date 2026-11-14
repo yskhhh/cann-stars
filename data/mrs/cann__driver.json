@@ -1,10 +1,18 @@
 [
   {
-    "iid": 221,
+    "iid": 222,
     "state": "opened",
-    "created_at": "2026-11-12",
+    "created_at": "2026-11-13",
     "merged_at": "",
     "closed_at": "",
+    "author": "lishengvictor"
+  },
+  {
+    "iid": 221,
+    "state": "closed",
+    "created_at": "2026-11-12",
+    "merged_at": "",
+    "closed_at": "2026-11-13",
     "author": "lishengvictor"
   },
   {
@@ -57,9 +65,9 @@
   },
   {
     "iid": 214,
-    "state": "opened",
+    "state": "merged",
     "created_at": "2026-11-02",
-    "merged_at": "",
+    "merged_at": "2026-11-13",
     "closed_at": "",
     "author": "iMichael0"
   },
