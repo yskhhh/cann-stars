@@ -1,5 +1,21 @@
 [
   {
+    "iid": 321,
+    "state": "opened",
+    "created_at": "2026-11-17",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "weijie11"
+  },
+  {
+    "iid": 320,
+    "state": "closed",
+    "created_at": "2026-11-17",
+    "merged_at": "",
+    "closed_at": "2026-11-17",
+    "author": "weijie11"
+  },
+  {
     "iid": 319,
     "state": "opened",
     "created_at": "2026-11-16",
@@ -9,9 +25,9 @@
   },
   {
     "iid": 318,
-    "state": "opened",
+    "state": "merged",
     "created_at": "2026-11-15",
-    "merged_at": "",
+    "merged_at": "2026-11-17",
     "closed_at": "",
     "author": "shynode0908"
   },
@@ -545,10 +561,10 @@
   },
   {
     "iid": 251,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-10-06",
     "merged_at": "",
-    "closed_at": "",
+    "closed_at": "2026-11-17",
     "author": "NUAA_wqy"
   },
   {
