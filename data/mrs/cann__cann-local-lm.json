@@ -1,10 +1,18 @@
 [
   {
-    "iid": 88,
+    "iid": 89,
     "state": "opened",
-    "created_at": "2026-11-19",
+    "created_at": "2026-11-20",
     "merged_at": "",
     "closed_at": "",
+    "author": "yelongjian"
+  },
+  {
+    "iid": 88,
+    "state": "closed",
+    "created_at": "2026-11-19",
+    "merged_at": "",
+    "closed_at": "2026-11-20",
     "author": "yelongjian"
   },
   {
@@ -65,18 +73,18 @@
   },
   {
     "iid": 80,
-    "state": "opened",
+    "state": "merged",
     "created_at": "2026-11-18",
-    "merged_at": "",
+    "merged_at": "2026-11-20",
     "closed_at": "",
     "author": "chenge1"
   },
   {
     "iid": 79,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-11-18",
     "merged_at": "",
-    "closed_at": "",
+    "closed_at": "2026-11-20",
     "author": "lihecen"
   },
   {
@@ -89,9 +97,9 @@
   },
   {
     "iid": 77,
-    "state": "opened",
+    "state": "merged",
     "created_at": "2026-11-17",
-    "merged_at": "",
+    "merged_at": "2026-11-20",
     "closed_at": "",
     "author": "hw_0086_hrf"
   },
