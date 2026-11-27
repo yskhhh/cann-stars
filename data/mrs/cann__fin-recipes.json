@@ -1,9 +1,25 @@
 [
   {
-    "iid": 23,
+    "iid": 25,
     "state": "opened",
     "created_at": "2026-11-26",
     "merged_at": "",
+    "closed_at": "",
+    "author": "dongzihaotajiu"
+  },
+  {
+    "iid": 24,
+    "state": "merged",
+    "created_at": "2026-11-26",
+    "merged_at": "2026-11-26",
+    "closed_at": "",
+    "author": "MingLi-SACT"
+  },
+  {
+    "iid": 23,
+    "state": "merged",
+    "created_at": "2026-11-26",
+    "merged_at": "2026-11-26",
     "closed_at": "",
     "author": "dongzihaotajiu"
   },
@@ -25,9 +41,9 @@
   },
   {
     "iid": 20,
-    "state": "opened",
+    "state": "merged",
     "created_at": "2026-11-25",
-    "merged_at": "",
+    "merged_at": "2026-11-26",
     "closed_at": "",
     "author": "MingLi-SACT"
   },
